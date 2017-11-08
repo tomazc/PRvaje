@@ -1,0 +1,3422 @@
+('Kocevje', 'Piran/Pirano') 539.0 
+('Piran/Pirano', 'Kocevje') 539.0 
+('Pesnica', 'Tolmin') 621.0 
+('Tolmin', 'Pesnica') 621.0 
+('Sevnica', 'Lenart') 668.0 
+('Lenart', 'Sevnica') 668.0 
+('Slovenj Gradec', 'Slovenske Konjice') 699.0 
+('Slovenske Konjice', 'Slovenj Gradec') 699.0 
+('Metlika', 'Dravograd') 720.0 
+('Dravograd', 'Metlika') 720.0 
+('Crnomelj', 'Tolmin') 754.0 
+('Tolmin', 'Crnomelj') 754.0 
+('Vrhnika', 'Slovenske Konjice') 778.0 
+('Slovenske Konjice', 'Vrhnika') 778.0 
+('Idrija', 'Radlje ob Dravi') 787.0 
+('Radlje ob Dravi', 'Idrija') 787.0 
+('Kocevje', 'Crnomelj') 809.0 
+('Crnomelj', 'Kocevje') 809.0 
+('Mozirje', 'Cerknica') 812.0 
+('Cerknica', 'Mozirje') 812.0 
+('Trzic', 'Ruse') 859.0 
+('Ruse', 'Trzic') 859.0 
+('Crnomelj', 'Pesnica') 869.0 
+('Pesnica', 'Crnomelj') 869.0 
+('Logatec', 'Ribnica') 931.0 
+('Ribnica', 'Logatec') 931.0 
+('Radlje ob Dravi', 'Zagorje ob Savi') 934.0 
+('Zagorje ob Savi', 'Radlje ob Dravi') 934.0 
+('Zagorje ob Savi', 'Lenart') 948.0 
+('Lenart', 'Zagorje ob Savi') 948.0 
+('Tolmin', 'Piran/Pirano') 952.0 
+('Piran/Pirano', 'Tolmin') 952.0 
+('Lendava/Lendva', 'Brezice') 955.0 
+('Brezice', 'Lendava/Lendva') 955.0 
+('Crnomelj', 'Piran/Pirano') 959.0 
+('Piran/Pirano', 'Crnomelj') 959.0 
+('Lasko', 'Lenart') 960.0 
+('Lenart', 'Lasko') 960.0 
+('Sentjur pri Celju', 'Pesnica') 977.0 
+('Pesnica', 'Sentjur pri Celju') 977.0 
+('Gornja Radgona', 'Trbovlje') 981.0 
+('Trbovlje', 'Gornja Radgona') 981.0 
+('Slovenj Gradec', 'Vrhnika') 988.0 
+('Vrhnika', 'Slovenj Gradec') 988.0 
+('Radlje ob Dravi', 'Ormoz') 989.0 
+('Ormoz', 'Radlje ob Dravi') 989.0 
+('Sevnica', 'Sentjur pri Celju') 995.0 
+('Sentjur pri Celju', 'Sevnica') 995.0 
+('Ajdovscina', 'Slovenske Konjice') 1014.0 
+('Slovenske Konjice', 'Ajdovscina') 1014.0 
+('Crnomelj', 'Litija') 1023.0 
+('Litija', 'Crnomelj') 1023.0 
+('Zagorje ob Savi', 'Ormoz') 1028.0 
+('Ormoz', 'Zagorje ob Savi') 1028.0 
+('Ormoz', 'Lenart') 1108.0 
+('Lenart', 'Ormoz') 1108.0 
+('Trzic', 'Ilirska Bistrica') 1110.0 
+('Ilirska Bistrica', 'Trzic') 1110.0 
+('Gornja Radgona', 'Vrhnika') 1112.0 
+('Vrhnika', 'Gornja Radgona') 1112.0 
+('Litija', 'Pesnica') 1113.0 
+('Pesnica', 'Litija') 1113.0 
+('Kamnik', 'Smarje pri Jelsah') 1124.0 
+('Smarje pri Jelsah', 'Kamnik') 1124.0 
+('Kocevje', 'Tolmin') 1132.0 
+('Tolmin', 'Kocevje') 1132.0 
+('Lasko', 'Ljutomer') 1147.0 
+('Ljutomer', 'Lasko') 1147.0 
+('Slovenj Gradec', 'Ajdovscina') 1149.0 
+('Ajdovscina', 'Slovenj Gradec') 1149.0 
+('Trbovlje', 'Tolmin') 1174.0 
+('Tolmin', 'Trbovlje') 1174.0 
+('Lasko', 'Sevnica') 1183.0 
+('Sevnica', 'Lasko') 1183.0 
+('Sentjur pri Celju', 'Lasko') 1195.0 
+('Lasko', 'Sentjur pri Celju') 1195.0 
+('Sevnica', 'Pesnica') 1223.0 
+('Pesnica', 'Sevnica') 1223.0 
+('Sevnica', 'Crnomelj') 1238.0 
+('Crnomelj', 'Sevnica') 1238.0 
+('Sentjur pri Celju', 'Tolmin') 1254.0 
+('Tolmin', 'Sentjur pri Celju') 1254.0 
+('Piran/Pirano', 'Trbovlje') 1263.0 
+('Trbovlje', 'Piran/Pirano') 1263.0 
+('Litija', 'Tolmin') 1294.0 
+('Tolmin', 'Litija') 1294.0 
+('Pesnica', 'Piran/Pirano') 1299.0 
+('Piran/Pirano', 'Pesnica') 1299.0 
+('Lenart', 'Radlje ob Dravi') 1319.0 
+('Radlje ob Dravi', 'Lenart') 1319.0 
+('Mozirje', 'Ruse') 1345.0 
+('Ruse', 'Mozirje') 1345.0 
+('Lenart', 'Izola/Isola') 1354.0 
+('Izola/Isola', 'Lenart') 1354.0 
+('Zagorje ob Savi', 'Izola/Isola') 1382.0 
+('Izola/Isola', 'Zagorje ob Savi') 1382.0 
+('Sevnica', 'Kocevje') 1388.0 
+('Kocevje', 'Sevnica') 1388.0 
+('Mozirje', 'Trzic') 1389.0 
+('Trzic', 'Mozirje') 1389.0 
+('Zagorje ob Savi', 'Sevnica') 1390.0 
+('Sevnica', 'Zagorje ob Savi') 1390.0 
+('Idrija', 'Mozirje') 1397.0 
+('Mozirje', 'Idrija') 1397.0 
+('Piran/Pirano', 'Sevnica') 1406.0 
+('Sevnica', 'Piran/Pirano') 1406.0 
+('Sevnica', 'Tolmin') 1415.0 
+('Tolmin', 'Sevnica') 1415.0 
+('Trbovlje', 'Crnomelj') 1422.0 
+('Crnomelj', 'Trbovlje') 1422.0 
+('Pesnica', 'Trbovlje') 1425.0 
+('Trbovlje', 'Pesnica') 1425.0 
+('Slovenj Gradec', 'Postojna') 1428.0 
+('Postojna', 'Slovenj Gradec') 1428.0 
+('Sentjur pri Celju', 'Trbovlje') 1444.0 
+('Trbovlje', 'Sentjur pri Celju') 1444.0 
+('Kocevje', 'Pesnica') 1466.0 
+('Pesnica', 'Kocevje') 1466.0 
+('Radlje ob Dravi', 'Ljutomer') 1496.0 
+('Ljutomer', 'Radlje ob Dravi') 1496.0 
+('Trebnje', 'Crnomelj') 1504.0 
+('Crnomelj', 'Trebnje') 1504.0 
+('Kocevje', 'Trbovlje') 1529.0 
+('Trbovlje', 'Kocevje') 1529.0 
+('Sentjur pri Celju', 'Crnomelj') 1534.0 
+('Crnomelj', 'Sentjur pri Celju') 1534.0 
+('Vrhnika', 'Postojna') 1539.0 
+('Postojna', 'Vrhnika') 1539.0 
+('Litija', 'Gornja Radgona') 1541.0 
+('Gornja Radgona', 'Litija') 1541.0 
+('Sentjur pri Celju', 'Piran/Pirano') 1563.0 
+('Piran/Pirano', 'Sentjur pri Celju') 1563.0 
+('Vrhnika', 'Litija') 1573.0 
+('Litija', 'Vrhnika') 1573.0 
+('Postojna', 'Ajdovscina') 1577.0 
+('Ajdovscina', 'Postojna') 1577.0 
+('Ormoz', 'Idrija') 1584.0 
+('Idrija', 'Ormoz') 1584.0 
+('Izola/Isola', 'Radlje ob Dravi') 1602.0 
+('Radlje ob Dravi', 'Izola/Isola') 1602.0 
+('Logatec', 'Hrastnik') 1604.0 
+('Hrastnik', 'Logatec') 1604.0 
+('Lenart', 'Sentjur pri Celju') 1620.0 
+('Sentjur pri Celju', 'Lenart') 1620.0 
+('Lasko', 'Ormoz') 1632.0 
+('Ormoz', 'Lasko') 1632.0 
+('Sevnica', 'Izola/Isola') 1664.0 
+('Izola/Isola', 'Sevnica') 1664.0 
+('Gornja Radgona', 'Crnomelj') 1673.0 
+('Crnomelj', 'Gornja Radgona') 1673.0 
+('Cerknica', 'Idrija') 1726.0 
+('Idrija', 'Cerknica') 1726.0 
+('Gornja Radgona', 'Postojna') 1735.0 
+('Postojna', 'Gornja Radgona') 1735.0 
+('Zagorje ob Savi', 'Cerknica') 1740.0 
+('Cerknica', 'Zagorje ob Savi') 1740.0 
+('Ormoz', 'Sevnica') 1741.0 
+('Sevnica', 'Ormoz') 1741.0 
+('Lasko', 'Zagorje ob Savi') 1744.0 
+('Zagorje ob Savi', 'Lasko') 1744.0 
+('Slovenska Bistrica', 'Skofja Loka') 1753.0 
+('Skofja Loka', 'Slovenska Bistrica') 1753.0 
+('Sentjur pri Celju', 'Kocevje') 1762.0 
+('Kocevje', 'Sentjur pri Celju') 1762.0 
+('Litija', 'Trebnje') 1763.0 
+('Trebnje', 'Litija') 1763.0 
+('Sevnica', 'Radlje ob Dravi') 1776.0 
+('Radlje ob Dravi', 'Sevnica') 1776.0 
+('Ilirska Bistrica', 'Ruse') 1792.0 
+('Ruse', 'Ilirska Bistrica') 1792.0 
+('Mozirje', 'Ilirska Bistrica') 1808.0 
+('Ilirska Bistrica', 'Mozirje') 1808.0 
+('Cerknica', 'Radlje ob Dravi') 1815.0 
+('Radlje ob Dravi', 'Cerknica') 1815.0 
+('Ravne na Koroskem', 'Krsko') 1826.0 
+('Krsko', 'Ravne na Koroskem') 1826.0 
+('Lenart', 'Ljutomer') 1854.0 
+('Ljutomer', 'Lenart') 1854.0 
+('Ormoz', 'Cerknica') 1858.0 
+('Cerknica', 'Ormoz') 1858.0 
+('Vrhnika', 'Ajdovscina') 1861.0 
+('Ajdovscina', 'Vrhnika') 1861.0 
+('Radovljica', 'Jesenice') 1901.0 
+('Jesenice', 'Radovljica') 1901.0 
+('Kocevje', 'Litija') 1906.0 
+('Litija', 'Kocevje') 1906.0 
+('Trzic', 'Cerknica') 1933.0 
+('Cerknica', 'Trzic') 1933.0 
+('Mozirje', 'Ormoz') 1942.0 
+('Ormoz', 'Mozirje') 1942.0 
+('Lasko', 'Radlje ob Dravi') 1968.0 
+('Radlje ob Dravi', 'Lasko') 1968.0 
+('Idrija', 'Ljutomer') 1970.0 
+('Ljutomer', 'Idrija') 1970.0 
+('Trbovlje', 'Litija') 1972.0 
+('Litija', 'Trbovlje') 1972.0 
+('Sevnica', 'Trebnje') 1982.0 
+('Trebnje', 'Sevnica') 1982.0 
+('Zagorje ob Savi', 'Idrija') 1993.0 
+('Idrija', 'Zagorje ob Savi') 1993.0 
+('Slovenske Konjice', 'Postojna') 1994.0 
+('Postojna', 'Slovenske Konjice') 1994.0 
+('Postojna', 'Litija') 2020.0 
+('Litija', 'Postojna') 2020.0 
+('Hrastnik', 'Ribnica') 2027.0 
+('Ribnica', 'Hrastnik') 2027.0 
+('Pesnica', 'Gornja Radgona') 2041.0 
+('Gornja Radgona', 'Pesnica') 2041.0 
+('Piran/Pirano', 'Litija') 2053.0 
+('Litija', 'Piran/Pirano') 2053.0 
+('Izola/Isola', 'Cerknica') 2066.0 
+('Cerknica', 'Izola/Isola') 2066.0 
+('Ruse', 'Cerknica') 2067.0 
+('Cerknica', 'Ruse') 2067.0 
+('Velenje', 'Koper/Capodistria') 2080.0 
+('Koper/Capodistria', 'Velenje') 2080.0 
+('Sevnica', 'Litija') 2117.0 
+('Litija', 'Sevnica') 2117.0 
+('Izola/Isola', 'Idrija') 2132.0 
+('Idrija', 'Izola/Isola') 2132.0 
+('Litija', 'Sentjur pri Celju') 2136.0 
+('Sentjur pri Celju', 'Litija') 2136.0 
+('Gornja Radgona', 'Tolmin') 2137.0 
+('Tolmin', 'Gornja Radgona') 2137.0 
+('Kocevje', 'Izola/Isola') 2150.0 
+('Izola/Isola', 'Kocevje') 2150.0 
+('Ormoz', 'Ruse') 2152.0 
+('Ruse', 'Ormoz') 2152.0 
+('Kocevje', 'Lenart') 2172.0 
+('Lenart', 'Kocevje') 2172.0 
+('Mozirje', 'Radlje ob Dravi') 2177.0 
+('Radlje ob Dravi', 'Mozirje') 2177.0 
+('Trebnje', 'Tolmin') 2178.0 
+('Tolmin', 'Trebnje') 2178.0 
+('Sentjur pri Celju', 'Ljutomer') 2188.0 
+('Ljutomer', 'Sentjur pri Celju') 2188.0 
+('Gornja Radgona', 'Slovenske Konjice') 2202.0 
+('Slovenske Konjice', 'Gornja Radgona') 2202.0 
+('Trbovlje', 'Vrhnika') 2221.0 
+('Vrhnika', 'Trbovlje') 2221.0 
+('Trebnje', 'Kocevje') 2234.0 
+('Kocevje', 'Trebnje') 2234.0 
+('Gornja Radgona', 'Slovenj Gradec') 2240.0 
+('Slovenj Gradec', 'Gornja Radgona') 2240.0 
+('Izola/Isola', 'Lasko') 2242.0 
+('Lasko', 'Izola/Isola') 2242.0 
+('Ilirska Bistrica', 'Cerknica') 2245.0 
+('Cerknica', 'Ilirska Bistrica') 2245.0 
+('Crnomelj', 'Lenart') 2253.0 
+('Lenart', 'Crnomelj') 2253.0 
+('Slovenska Bistrica', 'Jesenice') 2273.0 
+('Jesenice', 'Slovenska Bistrica') 2273.0 
+('Cerknica', 'Lenart') 2286.0 
+('Lenart', 'Cerknica') 2286.0 
+('Lasko', 'Pesnica') 2292.0 
+('Pesnica', 'Lasko') 2292.0 
+('Mozirje', 'Zagorje ob Savi') 2302.0 
+('Zagorje ob Savi', 'Mozirje') 2302.0 
+('Kocevje', 'Gornja Radgona') 2309.0 
+('Gornja Radgona', 'Kocevje') 2309.0 
+('Lendava/Lendva', 'Sezana') 2314.0 
+('Sezana', 'Lendava/Lendva') 2314.0 
+('Piran/Pirano', 'Lenart') 2315.0 
+('Lenart', 'Piran/Pirano') 2315.0 
+('Ruse', 'Idrija') 2321.0 
+('Idrija', 'Ruse') 2321.0 
+('Ljutomer', 'Ormoz') 2351.0 
+('Ormoz', 'Ljutomer') 2351.0 
+('Izola/Isola', 'Ljutomer') 2353.0 
+('Ljutomer', 'Izola/Isola') 2353.0 
+('Lenart', 'Pesnica') 2355.0 
+('Pesnica', 'Lenart') 2355.0 
+('Ljutomer', 'Zagorje ob Savi') 2373.0 
+('Zagorje ob Savi', 'Ljutomer') 2373.0 
+('Sevnica', 'Ljutomer') 2379.0 
+('Ljutomer', 'Sevnica') 2379.0 
+('Izola/Isola', 'Ormoz') 2406.0 
+('Ormoz', 'Izola/Isola') 2406.0 
+('Trbovlje', 'Sevnica') 2419.0 
+('Sevnica', 'Trbovlje') 2419.0 
+('Izola/Isola', 'Trebnje') 2469.0 
+('Trebnje', 'Izola/Isola') 2469.0 
+('Krsko', 'Smarje pri Jelsah') 2472.0 
+('Smarje pri Jelsah', 'Krsko') 2472.0 
+('Trzic', 'Idrija') 2507.0 
+('Idrija', 'Trzic') 2507.0 
+('Pesnica', 'Trebnje') 2511.0 
+('Trebnje', 'Pesnica') 2511.0 
+('Lenart', 'Trebnje') 2533.0 
+('Trebnje', 'Lenart') 2533.0 
+('Gornja Radgona', 'Piran/Pirano') 2560.0 
+('Piran/Pirano', 'Gornja Radgona') 2560.0 
+('Sentjur pri Celju', 'Izola/Isola') 2569.0 
+('Izola/Isola', 'Sentjur pri Celju') 2569.0 
+('Crnomelj', 'Vrhnika') 2572.0 
+('Vrhnika', 'Crnomelj') 2572.0 
+('Piran/Pirano', 'Izola/Isola') 2578.0 
+('Izola/Isola', 'Piran/Pirano') 2578.0 
+('Lenart', 'Idrija') 2649.0 
+('Idrija', 'Lenart') 2649.0 
+('Slovenske Konjice', 'Litija') 2676.0 
+('Litija', 'Slovenske Konjice') 2676.0 
+('Crnomelj', 'Lasko') 2697.0 
+('Lasko', 'Crnomelj') 2697.0 
+('Ruse', 'Radlje ob Dravi') 2715.0 
+('Radlje ob Dravi', 'Ruse') 2715.0 
+('Postojna', 'Crnomelj') 2731.0 
+('Crnomelj', 'Postojna') 2731.0 
+('Lasko', 'Piran/Pirano') 2757.0 
+('Piran/Pirano', 'Lasko') 2757.0 
+('Crnomelj', 'Izola/Isola') 2793.0 
+('Izola/Isola', 'Crnomelj') 2793.0 
+('Lenart', 'Tolmin') 2799.0 
+('Tolmin', 'Lenart') 2799.0 
+('Sezana', 'Brezice') 2841.0 
+('Brezice', 'Sezana') 2841.0 
+('Lenart', 'Mozirje') 2849.0 
+('Mozirje', 'Lenart') 2849.0 
+('Zagorje ob Savi', 'Trebnje') 2864.0 
+('Trebnje', 'Zagorje ob Savi') 2864.0 
+('Kocevje', 'Lasko') 2875.0 
+('Lasko', 'Kocevje') 2875.0 
+('Trebnje', 'Piran/Pirano') 2876.0 
+('Piran/Pirano', 'Trebnje') 2876.0 
+('Lasko', 'Trbovlje') 2897.0 
+('Trbovlje', 'Lasko') 2897.0 
+('Sentjur pri Celju', 'Gornja Radgona') 2904.0 
+('Gornja Radgona', 'Sentjur pri Celju') 2904.0 
+('Ribnica', 'Ilirska Bistrica') 2957.0 
+('Ilirska Bistrica', 'Ribnica') 2957.0 
+('Litija', 'Slovenj Gradec') 2969.0 
+('Slovenj Gradec', 'Litija') 2969.0 
+('Cerknica', 'Sevnica') 3003.0 
+('Sevnica', 'Cerknica') 3003.0 
+('Ilirska Bistrica', 'Idrija') 3018.0 
+('Idrija', 'Ilirska Bistrica') 3018.0 
+('Postojna', 'Trbovlje') 3037.0 
+('Trbovlje', 'Postojna') 3037.0 
+('Vrhnika', 'Pesnica') 3044.0 
+('Pesnica', 'Vrhnika') 3044.0 
+('Grosuplje', 'Slovenska Bistrica') 3063.0 
+('Slovenska Bistrica', 'Grosuplje') 3063.0 
+('Vrhnika', 'Tolmin') 3072.0 
+('Tolmin', 'Vrhnika') 3072.0 
+('Idrija', 'Sevnica') 3096.0 
+('Sevnica', 'Idrija') 3096.0 
+('Trbovlje', 'Slovenske Konjice') 3111.0 
+('Slovenske Konjice', 'Trbovlje') 3111.0 
+('Tolmin', 'Izola/Isola') 3121.0 
+('Izola/Isola', 'Tolmin') 3121.0 
+('Lasko', 'Tolmin') 3123.0 
+('Tolmin', 'Lasko') 3123.0 
+('Slovenska Bistrica', 'Radovljica') 3130.0 
+('Radovljica', 'Slovenska Bistrica') 3130.0 
+('Izola/Isola', 'Mozirje') 3135.0 
+('Mozirje', 'Izola/Isola') 3135.0 
+('Postojna', 'Trebnje') 3142.0 
+('Trebnje', 'Postojna') 3142.0 
+('Ruse', 'Zagorje ob Savi') 3155.0 
+('Zagorje ob Savi', 'Ruse') 3155.0 
+('Pesnica', 'Izola/Isola') 3165.0 
+('Izola/Isola', 'Pesnica') 3165.0 
+('Trbovlje', 'Slovenj Gradec') 3173.0 
+('Slovenj Gradec', 'Trbovlje') 3173.0 
+('Lenart', 'Litija') 3180.0 
+('Litija', 'Lenart') 3180.0 
+('Ravne na Koroskem', 'Smarje pri Jelsah') 3195.0 
+('Smarje pri Jelsah', 'Ravne na Koroskem') 3195.0 
+('Trzic', 'Ormoz') 3200.0 
+('Ormoz', 'Trzic') 3200.0 
+('Logatec', 'Dravograd') 3244.0 
+('Dravograd', 'Logatec') 3244.0 
+('Kocevje', 'Postojna') 3258.0 
+('Postojna', 'Kocevje') 3258.0 
+('Sentjur pri Celju', 'Radlje ob Dravi') 3284.0 
+('Radlje ob Dravi', 'Sentjur pri Celju') 3284.0 
+('Lenart', 'Ruse') 3286.0 
+('Ruse', 'Lenart') 3286.0 
+('Zagorje ob Savi', 'Sentjur pri Celju') 3312.0 
+('Sentjur pri Celju', 'Zagorje ob Savi') 3312.0 
+('Ljutomer', 'Pesnica') 3334.0 
+('Pesnica', 'Ljutomer') 3334.0 
+('Idrija', 'Lasko') 3355.0 
+('Lasko', 'Idrija') 3355.0 
+('Zagorje ob Savi', 'Crnomelj') 3370.0 
+('Crnomelj', 'Zagorje ob Savi') 3370.0 
+('Sentjur pri Celju', 'Ormoz') 3375.0 
+('Ormoz', 'Sentjur pri Celju') 3375.0 
+('Kamnik', 'Grosuplje') 3380.0 
+('Grosuplje', 'Kamnik') 3380.0 
+('Ljutomer', 'Piran/Pirano') 3381.0 
+('Piran/Pirano', 'Ljutomer') 3381.0 
+('Trebnje', 'Cerknica') 3381.0 
+('Cerknica', 'Trebnje') 3381.0 
+('Trebnje', 'Sentjur pri Celju') 3447.0 
+('Sentjur pri Celju', 'Trebnje') 3447.0 
+('Trbovlje', 'Ljutomer') 3467.0 
+('Ljutomer', 'Trbovlje') 3467.0 
+('Kocevje', 'Ljutomer') 3475.0 
+('Ljutomer', 'Kocevje') 3475.0 
+('Vrhnika', 'Kocevje') 3479.0 
+('Kocevje', 'Vrhnika') 3479.0 
+('Ribnica', 'Cerknica') 3479.0 
+('Cerknica', 'Ribnica') 3479.0 
+('Litija', 'Lasko') 3516.0 
+('Lasko', 'Litija') 3516.0 
+('Vrhnika', 'Trebnje') 3530.0 
+('Trebnje', 'Vrhnika') 3530.0 
+('Trbovlje', 'Lenart') 3575.0 
+('Lenart', 'Trbovlje') 3575.0 
+('Ravne na Koroskem', 'Lendava/Lendva') 3592.0 
+('Lendava/Lendva', 'Ravne na Koroskem') 3592.0 
+('Postojna', 'Pesnica') 3607.0 
+('Pesnica', 'Postojna') 3607.0 
+('Trzic', 'Radlje ob Dravi') 3614.0 
+('Radlje ob Dravi', 'Trzic') 3614.0 
+('Mozirje', 'Sevnica') 3616.0 
+('Sevnica', 'Mozirje') 3616.0 
+('Jesenice', 'Skofja Loka') 3646.0 
+('Skofja Loka', 'Jesenice') 3646.0 
+('Vrhnika', 'Piran/Pirano') 3652.0 
+('Piran/Pirano', 'Vrhnika') 3652.0 
+('Zagorje ob Savi', 'Kocevje') 3657.0 
+('Kocevje', 'Zagorje ob Savi') 3657.0 
+('Zagorje ob Savi', 'Trzic') 3665.0 
+('Trzic', 'Zagorje ob Savi') 3665.0 
+('Postojna', 'Tolmin') 3670.0 
+('Tolmin', 'Postojna') 3670.0 
+('Sevnica', 'Gornja Radgona') 3676.0 
+('Gornja Radgona', 'Sevnica') 3676.0 
+('Trebnje', 'Radlje ob Dravi') 3682.0 
+('Radlje ob Dravi', 'Trebnje') 3682.0 
+('Slovenske Konjice', 'Crnomelj') 3686.0 
+('Kamnik', 'Radovljica') 3686.0 
+('Crnomelj', 'Slovenske Konjice') 3686.0 
+('Radovljica', 'Kamnik') 3686.0 
+('Crnomelj', 'Radlje ob Dravi') 3718.0 
+('Radlje ob Dravi', 'Crnomelj') 3718.0 
+('Crnomelj', 'Ljutomer') 3771.0 
+('Ljutomer', 'Crnomelj') 3771.0 
+('Brezice', 'Ajdovscina') 3786.0 
+('Ajdovscina', 'Brezice') 3786.0 
+('Postojna', 'Piran/Pirano') 3820.0 
+('Piran/Pirano', 'Postojna') 3820.0 
+('Grosuplje', 'Smarje pri Jelsah') 3868.0 
+('Smarje pri Jelsah', 'Grosuplje') 3868.0 
+('Trebnje', 'Gornja Radgona') 3893.0 
+('Gornja Radgona', 'Trebnje') 3893.0 
+('Ptuj', 'Kranj') 3900.0 
+('Kranj', 'Ptuj') 3900.0 
+('Slovenj Gradec', 'Crnomelj') 3916.0 
+('Crnomelj', 'Slovenj Gradec') 3916.0 
+('Skofja Loka', 'Grosuplje') 3917.0 
+('Grosuplje', 'Skofja Loka') 3917.0 
+('Ormoz', 'Ilirska Bistrica') 3948.0 
+('Ilirska Bistrica', 'Ormoz') 3948.0 
+('Logatec', 'Metlika') 3964.0 
+('Metlika', 'Logatec') 3964.0 
+('Ljutomer', 'Tolmin') 3981.0 
+('Tolmin', 'Ljutomer') 3981.0 
+('Radlje ob Dravi', 'Kocevje') 3987.0 
+('Kocevje', 'Radlje ob Dravi') 3987.0 
+('Ormoz', 'Trebnje') 3990.0 
+('Trebnje', 'Ormoz') 3990.0 
+('Izola/Isola', 'Litija') 4043.0 
+('Litija', 'Izola/Isola') 4043.0 
+('Mozirje', 'Trebnje') 4047.0 
+('Pesnica', 'Slovenske Konjice') 4047.0 
+('Trebnje', 'Mozirje') 4047.0 
+('Slovenske Konjice', 'Pesnica') 4047.0 
+('Zagorje ob Savi', 'Pesnica') 4052.0 
+('Pesnica', 'Zagorje ob Savi') 4052.0 
+('Pesnica', 'Radlje ob Dravi') 4064.0 
+('Radlje ob Dravi', 'Pesnica') 4064.0 
+('Lasko', 'Trebnje') 4074.0 
+('Trebnje', 'Lasko') 4074.0 
+('Slovenske Konjice', 'Tolmin') 4083.0 
+('Tolmin', 'Slovenske Konjice') 4083.0 
+('Piran/Pirano', 'Zagorje ob Savi') 4140.0 
+('Zagorje ob Savi', 'Piran/Pirano') 4140.0 
+('Radlje ob Dravi', 'Piran/Pirano') 4156.0 
+('Piran/Pirano', 'Radlje ob Dravi') 4156.0 
+('Ruse', 'Sevnica') 4186.0 
+('Sevnica', 'Ruse') 4186.0 
+('Sentjur pri Celju', 'Vrhnika') 4191.0 
+('Vrhnika', 'Sentjur pri Celju') 4191.0 
+('Krsko', 'Kamnik') 4194.0 
+('Kamnik', 'Krsko') 4194.0 
+('Ajdovscina', 'Litija') 4224.0 
+('Litija', 'Ajdovscina') 4224.0 
+('Trzic', 'Lenart') 4228.0 
+('Lenart', 'Trzic') 4228.0 
+('Ajdovscina', 'Gornja Radgona') 4236.0 
+('Cerknica', 'Lasko') 4236.0 
+('Lasko', 'Cerknica') 4236.0 
+('Gornja Radgona', 'Ajdovscina') 4236.0 
+('Jesenice', 'Kamnik') 4251.0 
+('Kamnik', 'Jesenice') 4251.0 
+('Ormoz', 'Pesnica') 4255.0 
+('Pesnica', 'Ormoz') 4255.0 
+('Pesnica', 'Slovenj Gradec') 4257.0 
+('Slovenj Gradec', 'Pesnica') 4257.0 
+('Crnomelj', 'Ormoz') 4269.0 
+('Ormoz', 'Crnomelj') 4269.0 
+('Idrija', 'Trebnje') 4272.0 
+('Trebnje', 'Idrija') 4272.0 
+('Slovenj Gradec', 'Tolmin') 4273.0 
+('Tolmin', 'Slovenj Gradec') 4273.0 
+('Nova Gorica', 'Murska Sobota') 4277.0 
+('Murska Sobota', 'Nova Gorica') 4277.0 
+('Lasko', 'Gornja Radgona') 4320.0 
+('Gornja Radgona', 'Lasko') 4320.0 
+('Ilirska Bistrica', 'Radlje ob Dravi') 4350.0 
+('Radlje ob Dravi', 'Ilirska Bistrica') 4350.0 
+('Zagorje ob Savi', 'Ilirska Bistrica') 4363.0 
+('Ilirska Bistrica', 'Zagorje ob Savi') 4363.0 
+('Skofja Loka', 'Radovljica') 4382.0 
+('Radovljica', 'Skofja Loka') 4382.0 
+('Trbovlje', 'Trebnje') 4403.0 
+('Trebnje', 'Trbovlje') 4403.0 
+('Krsko', 'Lendava/Lendva') 4408.0 
+('Lendava/Lendva', 'Krsko') 4408.0 
+('Trbovlje', 'Izola/Isola') 4429.0 
+('Izola/Isola', 'Trbovlje') 4429.0 
+('Trebnje', 'Slovenske Konjice') 4442.0 
+('Slovenske Konjice', 'Trebnje') 4442.0 
+('Radovljica', 'Smarje pri Jelsah') 4471.0 
+('Smarje pri Jelsah', 'Radovljica') 4471.0 
+('Mozirje', 'Ribnica') 4527.0 
+('Ribnica', 'Mozirje') 4527.0 
+('Ljutomer', 'Litija') 4538.0 
+('Litija', 'Ljutomer') 4538.0 
+('Ravne na Koroskem', 'Kamnik') 4550.0 
+('Kamnik', 'Ravne na Koroskem') 4550.0 
+('Kocevje', 'Slovenske Konjice') 4558.0 
+('Slovenske Konjice', 'Kocevje') 4558.0 
+('Ravne na Koroskem', 'Sezana') 4559.0 
+('Sezana', 'Ravne na Koroskem') 4559.0 
+('Tolmin', 'Radlje ob Dravi') 4577.0 
+('Radlje ob Dravi', 'Tolmin') 4577.0 
+('Zagorje ob Savi', 'Tolmin') 4587.0 
+('Tolmin', 'Zagorje ob Savi') 4587.0 
+('Mozirje', 'Lasko') 4633.0 
+('Lasko', 'Mozirje') 4633.0 
+('Trzic', 'Ribnica') 4648.0 
+('Ribnica', 'Trzic') 4648.0 
+('Slovenske Konjice', 'Brezice') 4660.0 
+('Brezice', 'Slovenske Konjice') 4660.0 
+('Ruse', 'Izola/Isola') 4671.0 
+('Izola/Isola', 'Ruse') 4671.0 
+('Krsko', 'Sezana') 4725.0 
+('Sezana', 'Krsko') 4725.0 
+('Sezana', 'Ajdovscina') 4741.0 
+('Ajdovscina', 'Sezana') 4741.0 
+('Slovenske Konjice', 'Piran/Pirano') 4750.0 
+('Piran/Pirano', 'Slovenske Konjice') 4750.0 
+('Trzic', 'Izola/Isola') 4762.0 
+('Kocevje', 'Slovenj Gradec') 4762.0 
+('Izola/Isola', 'Trzic') 4762.0 
+('Slovenj Gradec', 'Kocevje') 4762.0 
+('Slovenj Gradec', 'Trebnje') 4763.0 
+('Trebnje', 'Slovenj Gradec') 4763.0 
+('Kocevje', 'Ormoz') 4777.0 
+('Ormoz', 'Kocevje') 4777.0 
+('Trebnje', 'Ajdovscina') 4793.0 
+('Ajdovscina', 'Trebnje') 4793.0 
+('Radlje ob Dravi', 'Litija') 4824.0 
+('Litija', 'Radlje ob Dravi') 4824.0 
+('Jesenice', 'Grosuplje') 4828.0 
+('Grosuplje', 'Jesenice') 4828.0 
+('Litija', 'Zagorje ob Savi') 4845.0 
+('Zagorje ob Savi', 'Litija') 4845.0 
+('Sentjur pri Celju', 'Slovenske Konjice') 4854.0 
+('Slovenske Konjice', 'Sentjur pri Celju') 4854.0 
+('Ruse', 'Lasko') 4892.0 
+('Lasko', 'Ruse') 4892.0 
+('Ljutomer', 'Gornja Radgona') 4929.0 
+('Gornja Radgona', 'Ljutomer') 4929.0 
+('Lenart', 'Ilirska Bistrica') 4951.0 
+('Ilirska Bistrica', 'Lenart') 4951.0 
+('Sevnica', 'Vrhnika') 4959.0 
+('Vrhnika', 'Sevnica') 4959.0 
+('Sentjur pri Celju', 'Idrija') 4965.0 
+('Idrija', 'Sentjur pri Celju') 4965.0 
+('Piran/Pirano', 'Slovenj Gradec') 4970.0 
+('Slovenj Gradec', 'Piran/Pirano') 4970.0 
+('Cerknica', 'Ljutomer') 4972.0 
+('Ljutomer', 'Cerknica') 4972.0 
+('Ormoz', 'Litija') 5009.0 
+('Litija', 'Ormoz') 5009.0 
+('Sevnica', 'Trzic') 5019.0 
+('Trzic', 'Sevnica') 5019.0 
+('Smarje pri Jelsah', 'Jesenice') 5053.0 
+('Jesenice', 'Smarje pri Jelsah') 5053.0 
+('Lenart', 'Gornja Radgona') 5059.0 
+('Gornja Radgona', 'Lenart') 5059.0 
+('Ormoz', 'Piran/Pirano') 5063.0 
+('Piran/Pirano', 'Ormoz') 5063.0 
+('Brezice', 'Slovenj Gradec') 5067.0 
+('Slovenj Gradec', 'Brezice') 5067.0 
+('Sentjur pri Celju', 'Postojna') 5080.0 
+('Postojna', 'Sentjur pri Celju') 5080.0 
+('Sezana', 'Slovenske Konjice') 5081.0 
+('Slovenske Konjice', 'Sezana') 5081.0 
+('Izola/Isola', 'Ilirska Bistrica') 5146.0 
+('Ilirska Bistrica', 'Izola/Isola') 5146.0 
+('Sentjur pri Celju', 'Slovenj Gradec') 5159.0 
+('Slovenj Gradec', 'Sentjur pri Celju') 5159.0 
+('Ljutomer', 'Mozirje') 5162.0 
+('Mozirje', 'Ljutomer') 5162.0 
+('Hrastnik', 'Dravograd') 5163.0 
+('Dravograd', 'Hrastnik') 5163.0 
+('Sevnica', 'Postojna') 5295.0 
+('Postojna', 'Sevnica') 5295.0 
+('Tolmin', 'Ormoz') 5359.0 
+('Ormoz', 'Tolmin') 5359.0 
+('Crnomelj', 'Idrija') 5407.0 
+('Idrija', 'Crnomelj') 5407.0 
+('Trebnje', 'Ljutomer') 5414.0 
+('Ljutomer', 'Trebnje') 5414.0 
+('Crnomelj', 'Cerknica') 5441.0 
+('Cerknica', 'Crnomelj') 5441.0 
+('Ajdovscina', 'Crnomelj') 5459.0 
+('Crnomelj', 'Ajdovscina') 5459.0 
+('Cerknica', 'Hrastnik') 5460.0 
+('Hrastnik', 'Cerknica') 5460.0 
+('Radlje ob Dravi', 'Trbovlje') 5503.0 
+('Trbovlje', 'Radlje ob Dravi') 5503.0 
+('Brezice', 'Ravne na Koroskem') 5532.0 
+('Ravne na Koroskem', 'Brezice') 5532.0 
+('Kocevje', 'Idrija') 5536.0 
+('Grosuplje', 'Krsko') 5536.0 
+('Ruse', 'Ljutomer') 5536.0 
+('Ljutomer', 'Ruse') 5536.0 
+('Krsko', 'Grosuplje') 5536.0 
+('Idrija', 'Kocevje') 5536.0 
+('Logatec', 'Cerknica') 5553.0 
+('Cerknica', 'Logatec') 5553.0 
+('Kamnik', 'Slovenska Bistrica') 5555.0 
+('Slovenska Bistrica', 'Kamnik') 5555.0 
+('Trebnje', 'Trzic') 5595.0 
+('Trzic', 'Trebnje') 5595.0 
+('Ajdovscina', 'Trbovlje') 5603.0 
+('Trbovlje', 'Ajdovscina') 5603.0 
+('Trbovlje', 'Zagorje ob Savi') 5609.0 
+('Zagorje ob Savi', 'Trbovlje') 5609.0 
+('Ruse', 'Trebnje') 5613.0 
+('Trebnje', 'Ruse') 5613.0 
+('Vrhnika', 'Brezice') 5648.0 
+('Brezice', 'Vrhnika') 5648.0 
+('Radovljica', 'Grosuplje') 5649.0 
+('Grosuplje', 'Radovljica') 5649.0 
+('Cerknica', 'Kocevje') 5677.0 
+('Kocevje', 'Cerknica') 5677.0 
+('Hrastnik', 'Metlika') 5682.0 
+('Metlika', 'Hrastnik') 5682.0 
+('Dravograd', 'Ribnica') 5732.0 
+('Ribnica', 'Dravograd') 5732.0 
+('Slovenske Konjice', 'Sevnica') 5757.0 
+('Sevnica', 'Slovenske Konjice') 5757.0 
+('Ilirska Bistrica', 'Sevnica') 5758.0 
+('Sevnica', 'Ilirska Bistrica') 5758.0 
+('Slovenj Gradec', 'Sezana') 5761.0 
+('Sezana', 'Slovenj Gradec') 5761.0 
+('Novo mesto', 'Murska Sobota') 5774.0 
+('Murska Sobota', 'Novo mesto') 5774.0 
+('Trzic', 'Lasko') 5775.0 
+('Lasko', 'Trzic') 5775.0 
+('Idrija', 'Pesnica') 5816.0 
+('Pesnica', 'Idrija') 5816.0 
+('Ilirska Bistrica', 'Hrastnik') 5820.0 
+('Hrastnik', 'Ilirska Bistrica') 5820.0 
+('Izola/Isola', 'Gornja Radgona') 5849.0 
+('Gornja Radgona', 'Izola/Isola') 5849.0 
+('Smarje pri Jelsah', 'Slovenska Bistrica') 5856.0 
+('Slovenska Bistrica', 'Smarje pri Jelsah') 5856.0 
+('Trbovlje', 'Ormoz') 5874.0 
+('Ormoz', 'Trbovlje') 5874.0 
+('Lendava/Lendva', 'Ajdovscina') 5916.0 
+('Ajdovscina', 'Lendava/Lendva') 5916.0 
+('Idrija', 'Piran/Pirano') 5952.0 
+('Piran/Pirano', 'Idrija') 5952.0 
+('Trebnje', 'Ilirska Bistrica') 5965.0 
+('Ilirska Bistrica', 'Trebnje') 5965.0 
+('Lasko', 'Vrhnika') 5969.0 
+('Vrhnika', 'Lasko') 5969.0 
+('Sentjur pri Celju', 'Cerknica') 5986.0 
+('Cerknica', 'Sentjur pri Celju') 5986.0 
+('Ilirska Bistrica', 'Logatec') 6006.0 
+('Logatec', 'Ilirska Bistrica') 6006.0 
+('Slovenj Gradec', 'Sevnica') 6094.0 
+('Sevnica', 'Slovenj Gradec') 6094.0 
+('Ajdovscina', 'Kocevje') 6108.0 
+('Kocevje', 'Ajdovscina') 6108.0 
+('Ruse', 'Ribnica') 6146.0 
+('Ribnica', 'Ruse') 6146.0 
+('Brezice', 'Krsko') 6198.0 
+('Krsko', 'Brezice') 6198.0 
+('Brezice', 'Postojna') 6208.0 
+('Postojna', 'Brezice') 6208.0 
+('Pesnica', 'Ajdovscina') 6212.0 
+('Ajdovscina', 'Pesnica') 6212.0 
+('Ajdovscina', 'Tolmin') 6255.0 
+('Tolmin', 'Ajdovscina') 6255.0 
+('Idrija', 'Tolmin') 6275.0 
+('Tolmin', 'Idrija') 6275.0 
+('Crnomelj', 'Mozirje') 6335.0 
+('Mozirje', 'Crnomelj') 6335.0 
+('Cerknica', 'Piran/Pirano') 6361.0 
+('Piran/Pirano', 'Cerknica') 6361.0 
+('Lasko', 'Slovenske Konjice') 6416.0 
+('Slovenske Konjice', 'Lasko') 6416.0 
+('Ljutomer', 'Trzic') 6437.0 
+('Trzic', 'Ljutomer') 6437.0 
+('Ljutomer', 'Vrhnika') 6449.0 
+('Vrhnika', 'Ljutomer') 6449.0 
+('Cerknica', 'Pesnica') 6452.0 
+('Pesnica', 'Cerknica') 6452.0 
+('Lenart', 'Vrhnika') 6510.0 
+('Vrhnika', 'Lenart') 6510.0 
+('Lasko', 'Ilirska Bistrica') 6530.0 
+('Ilirska Bistrica', 'Lasko') 6530.0 
+('Ajdovscina', 'Piran/Pirano') 6595.0 
+('Piran/Pirano', 'Ajdovscina') 6595.0 
+('Metlika', 'Ribnica') 6620.0 
+('Ribnica', 'Metlika') 6620.0 
+('Sentjur pri Celju', 'Mozirje') 6645.0 
+('Mozirje', 'Sentjur pri Celju') 6645.0 
+('Idrija', 'Litija') 6686.0 
+('Litija', 'Idrija') 6686.0 
+('Kocevje', 'Mozirje') 6688.0 
+('Mozirje', 'Kocevje') 6688.0 
+('Lasko', 'Slovenj Gradec') 6768.0 
+('Slovenj Gradec', 'Lasko') 6768.0 
+('Tolmin', 'Cerknica') 6787.0 
+('Cerknica', 'Tolmin') 6787.0 
+('Novo mesto', 'Nova Gorica') 6793.0 
+('Nova Gorica', 'Novo mesto') 6793.0 
+('Ravne na Koroskem', 'Grosuplje') 6810.0 
+('Grosuplje', 'Ravne na Koroskem') 6810.0 
+('Velenje', 'Domzale') 6827.0 
+('Domzale', 'Velenje') 6827.0 
+('Hrastnik', 'Mozirje') 6849.0 
+('Mozirje', 'Hrastnik') 6849.0 
+('Postojna', 'Lasko') 6856.0 
+('Lasko', 'Postojna') 6856.0 
+('Lendava/Lendva', 'Slovenske Konjice') 6904.0 
+('Slovenske Konjice', 'Lendava/Lendva') 6904.0 
+('Celje', 'Nova Gorica') 6923.0 
+('Nova Gorica', 'Celje') 6923.0 
+('Postojna', 'Lenart') 6927.0 
+('Lenart', 'Postojna') 6927.0 
+('Radlje ob Dravi', 'Gornja Radgona') 6952.0 
+('Gornja Radgona', 'Radlje ob Dravi') 6952.0 
+('Trbovlje', 'Idrija') 7008.0 
+('Idrija', 'Trbovlje') 7008.0 
+('Litija', 'Cerknica') 7019.0 
+('Cerknica', 'Litija') 7019.0 
+('Zagorje ob Savi', 'Gornja Radgona') 7032.0 
+('Gornja Radgona', 'Zagorje ob Savi') 7032.0 
+('Celje', 'Novo mesto') 7038.0 
+('Novo mesto', 'Celje') 7038.0 
+('Ruse', 'Sentjur pri Celju') 7047.0 
+('Sentjur pri Celju', 'Ruse') 7047.0 
+('Slovenske Konjice', 'Ljutomer') 7047.0 
+('Ljutomer', 'Slovenske Konjice') 7047.0 
+('Slovenske Konjice', 'Lenart') 7090.0 
+('Lenart', 'Slovenske Konjice') 7090.0 
+('Ilirska Bistrica', 'Ljutomer') 7093.0 
+('Ljutomer', 'Ilirska Bistrica') 7093.0 
+('Sezana', 'Postojna') 7104.0 
+('Postojna', 'Sezana') 7104.0 
+('Mozirje', 'Pesnica') 7128.0 
+('Pesnica', 'Mozirje') 7128.0 
+('Celje', 'Murska Sobota') 7155.0 
+('Murska Sobota', 'Celje') 7155.0 
+('Slovenj Gradec', 'Lendava/Lendva') 7174.0 
+('Lendava/Lendva', 'Slovenj Gradec') 7174.0 
+('Lendava/Lendva', 'Smarje pri Jelsah') 7184.0 
+('Smarje pri Jelsah', 'Lendava/Lendva') 7184.0 
+('Ptuj', 'Celje') 7188.0 
+('Celje', 'Ptuj') 7188.0 
+('Izola/Isola', 'Vrhnika') 7216.0 
+('Vrhnika', 'Izola/Isola') 7216.0 
+('Slovenj Gradec', 'Ljutomer') 7289.0 
+('Ljutomer', 'Slovenj Gradec') 7289.0 
+('Crnomelj', 'Ruse') 7298.0 
+('Ruse', 'Crnomelj') 7298.0 
+('Mozirje', 'Logatec') 7345.0 
+('Logatec', 'Mozirje') 7345.0 
+('Hrastnik', 'Trzic') 7382.0 
+('Trzic', 'Hrastnik') 7382.0 
+('Sezana', 'Vrhnika') 7394.0 
+('Vrhnika', 'Sezana') 7394.0 
+('Postojna', 'Izola/Isola') 7415.0 
+('Izola/Isola', 'Postojna') 7415.0 
+('Ormoz', 'Gornja Radgona') 7421.0 
+('Gornja Radgona', 'Ormoz') 7421.0 
+('Sentjur pri Celju', 'Ajdovscina') 7432.0 
+('Ajdovscina', 'Sentjur pri Celju') 7432.0 
+('Slovenj Gradec', 'Lenart') 7445.0 
+('Lenart', 'Slovenj Gradec') 7445.0 
+('Piran/Pirano', 'Mozirje') 7478.0 
+('Mozirje', 'Piran/Pirano') 7478.0 
+('Idrija', 'Ribnica') 7501.0 
+('Ribnica', 'Idrija') 7501.0 
+('Ljutomer', 'Postojna') 7560.0 
+('Postojna', 'Ljutomer') 7560.0 
+('Pesnica', 'Ruse') 7611.0 
+('Ruse', 'Pesnica') 7611.0 
+('Lendava/Lendva', 'Vrhnika') 7696.0 
+('Vrhnika', 'Lendava/Lendva') 7696.0 
+('Kocevje', 'Ruse') 7777.0 
+('Ruse', 'Kocevje') 7777.0 
+('Kamnik', 'Skofja Loka') 7794.0 
+('Skofja Loka', 'Kamnik') 7794.0 
+('Mozirje', 'Litija') 7812.0 
+('Litija', 'Mozirje') 7812.0 
+('Logatec', 'Trzic') 7883.0 
+('Trzic', 'Logatec') 7883.0 
+('Tolmin', 'Mozirje') 7897.0 
+('Mozirje', 'Tolmin') 7897.0 
+('Smarje pri Jelsah', 'Sezana') 7919.0 
+('Sezana', 'Smarje pri Jelsah') 7919.0 
+('Sentjur pri Celju', 'Trzic') 7924.0 
+('Trzic', 'Sentjur pri Celju') 7924.0 
+('Izola/Isola', 'Slovenske Konjice') 7930.0 
+('Slovenske Konjice', 'Izola/Isola') 7930.0 
+('Trzic', 'Crnomelj') 7937.0 
+('Crnomelj', 'Trzic') 7937.0 
+('Piran/Pirano', 'Ruse') 8104.0 
+('Ruse', 'Piran/Pirano') 8104.0 
+('Smarje pri Jelsah', 'Skofja Loka') 8158.0 
+('Skofja Loka', 'Smarje pri Jelsah') 8158.0 
+('Sevnica', 'Ajdovscina') 8199.0 
+('Ajdovscina', 'Sevnica') 8199.0 
+('Lendava/Lendva', 'Postojna') 8221.0 
+('Postojna', 'Lendava/Lendva') 8221.0 
+('Ruse', 'Litija') 8294.0 
+('Litija', 'Ruse') 8294.0 
+('Trzic', 'Kocevje') 8298.0 
+('Kocevje', 'Trzic') 8298.0 
+('Izola/Isola', 'Slovenj Gradec') 8307.0 
+('Slovenj Gradec', 'Izola/Isola') 8307.0 
+('Skofja Loka', 'Zalec') 8343.0 
+('Zalec', 'Skofja Loka') 8343.0 
+('Domzale', 'Zalec') 8429.0 
+('Zalec', 'Domzale') 8429.0 
+('Tolmin', 'Ruse') 8486.0 
+('Ruse', 'Tolmin') 8486.0 
+('Gornja Radgona', 'Idrija') 8520.0 
+('Idrija', 'Gornja Radgona') 8520.0 
+('Trzic', 'Pesnica') 8560.0 
+('Pesnica', 'Trzic') 8560.0 
+('Izola/Isola', 'Ribnica') 8572.0 
+('Ribnica', 'Izola/Isola') 8572.0 
+('Ilirska Bistrica', 'Crnomelj') 8651.0 
+('Crnomelj', 'Ilirska Bistrica') 8651.0 
+('Vrhnika', 'Radlje ob Dravi') 8661.0 
+('Radlje ob Dravi', 'Vrhnika') 8661.0 
+('Sentjur pri Celju', 'Ilirska Bistrica') 8670.0 
+('Ilirska Bistrica', 'Sentjur pri Celju') 8670.0 
+('Vrhnika', 'Zagorje ob Savi') 8745.0 
+('Zagorje ob Savi', 'Vrhnika') 8745.0 
+('Zagorje ob Savi', 'Ribnica') 8764.0 
+('Ribnica', 'Zagorje ob Savi') 8764.0 
+('Postojna', 'Radlje ob Dravi') 8826.0 
+('Radlje ob Dravi', 'Postojna') 8826.0 
+('Ribnica', 'Trebnje') 8882.0 
+('Trebnje', 'Ribnica') 8882.0 
+('Smarje pri Jelsah', 'Brezice') 8964.0 
+('Brezice', 'Smarje pri Jelsah') 8964.0 
+('Zagorje ob Savi', 'Postojna') 8974.0 
+('Postojna', 'Zagorje ob Savi') 8974.0 
+('Vrhnika', 'Ormoz') 9013.0 
+('Ormoz', 'Vrhnika') 9013.0 
+('Ilirska Bistrica', 'Kocevje') 9021.0 
+('Kocevje', 'Ilirska Bistrica') 9021.0 
+('Piran/Pirano', 'Trzic') 9047.0 
+('Trzic', 'Piran/Pirano') 9047.0 
+('Hrastnik', 'Ruse') 9073.0 
+('Ruse', 'Hrastnik') 9073.0 
+('Brezice', 'Gornja Radgona') 9076.0 
+('Gornja Radgona', 'Brezice') 9076.0 
+('Slovenske Konjice', 'Radlje ob Dravi') 9080.0 
+('Radlje ob Dravi', 'Slovenske Konjice') 9080.0 
+('Slovenske Konjice', 'Zagorje ob Savi') 9130.0 
+('Zagorje ob Savi', 'Slovenske Konjice') 9130.0 
+('Koper/Capodistria', 'Novo mesto') 9237.0 
+('Novo mesto', 'Koper/Capodistria') 9237.0 
+('Koper/Capodistria', 'Domzale') 9256.0 
+('Domzale', 'Koper/Capodistria') 9256.0 
+('Ilirska Bistrica', 'Pesnica') 9268.0 
+('Pesnica', 'Ilirska Bistrica') 9268.0 
+('Trzic', 'Litija') 9269.0 
+('Litija', 'Trzic') 9269.0 
+('Cerknica', 'Trbovlje') 9283.0 
+('Trbovlje', 'Cerknica') 9283.0 
+('Ormoz', 'Slovenske Konjice') 9368.0 
+('Slovenske Konjice', 'Ormoz') 9368.0 
+('Radlje ob Dravi', 'Ribnica') 9431.0 
+('Ribnica', 'Radlje ob Dravi') 9431.0 
+('Ajdovscina', 'Lasko') 9452.0 
+('Lasko', 'Ajdovscina') 9452.0 
+('Gornja Radgona', 'Sezana') 9453.0 
+('Sezana', 'Gornja Radgona') 9453.0 
+('Trzic', 'Tolmin') 9469.0 
+('Tolmin', 'Trzic') 9469.0 
+('Slovenj Gradec', 'Radlje ob Dravi') 9579.0 
+('Radlje ob Dravi', 'Slovenj Gradec') 9579.0 
+('Lendava/Lendva', 'Kamnik') 9613.0 
+('Ribnica', 'Ormoz') 9613.0 
+('Ormoz', 'Ribnica') 9613.0 
+('Kamnik', 'Lendava/Lendva') 9613.0 
+('Krsko', 'Ajdovscina') 9630.0 
+('Ajdovscina', 'Krsko') 9630.0 
+('Postojna', 'Ormoz') 9654.0 
+('Ormoz', 'Postojna') 9654.0 
+('Slovenj Gradec', 'Zagorje ob Savi') 9678.0 
+('Zagorje ob Savi', 'Slovenj Gradec') 9678.0 
+('Ajdovscina', 'Lenart') 9709.0 
+('Lenart', 'Ajdovscina') 9709.0 
+('Piran/Pirano', 'Ilirska Bistrica') 9730.0 
+('Ilirska Bistrica', 'Piran/Pirano') 9730.0 
+('Krsko', 'Jesenice') 9795.0 
+('Jesenice', 'Krsko') 9795.0 
+('Trbovlje', 'Mozirje') 9801.0 
+('Mozirje', 'Trbovlje') 9801.0 
+('Logatec', 'Ruse') 9844.0 
+('Ruse', 'Logatec') 9844.0 
+('Jesenice', 'Ravne na Koroskem') 9851.0 
+('Ravne na Koroskem', 'Jesenice') 9851.0 
+('Sezana', 'Litija') 9978.0 
+('Litija', 'Sezana') 9978.0 
+('Trbovlje', 'Ruse') 9987.0 
+('Ruse', 'Trbovlje') 9987.0 
+('Ilirska Bistrica', 'Litija') 10013.0 
+('Litija', 'Ilirska Bistrica') 10013.0 
+('Slovenj Gradec', 'Ormoz') 10016.0 
+('Ormoz', 'Slovenj Gradec') 10016.0 
+('Ravne na Koroskem', 'Ajdovscina') 10024.0 
+('Ajdovscina', 'Ravne na Koroskem') 10024.0 
+('Lenart', 'Ribnica') 10105.0 
+('Ribnica', 'Lenart') 10105.0 
+('Ilirska Bistrica', 'Tolmin') 10128.0 
+('Tolmin', 'Ilirska Bistrica') 10128.0 
+('Ajdovscina', 'Izola/Isola') 10131.0 
+('Izola/Isola', 'Ajdovscina') 10131.0 
+('Idrija', 'Vrhnika') 10213.0 
+('Vrhnika', 'Idrija') 10213.0 
+('Slovenske Konjice', 'Krsko') 10270.0 
+('Krsko', 'Slovenske Konjice') 10270.0 
+('Sezana', 'Kamnik') 10286.0 
+('Kamnik', 'Sezana') 10286.0 
+('Brezice', 'Trbovlje') 10415.0 
+('Trbovlje', 'Brezice') 10415.0 
+('Ajdovscina', 'Ljutomer') 10419.0 
+('Ljutomer', 'Ajdovscina') 10419.0 
+('Radovljica', 'Krsko') 10420.0 
+('Krsko', 'Radovljica') 10420.0 
+('Idrija', 'Hrastnik') 10474.0 
+('Hrastnik', 'Idrija') 10474.0 
+('Idrija', 'Slovenske Konjice') 10556.0 
+('Slovenske Konjice', 'Idrija') 10556.0 
+('Cerknica', 'Gornja Radgona') 10594.0 
+('Gornja Radgona', 'Cerknica') 10594.0 
+('Radovljica', 'Ravne na Koroskem') 10632.0 
+('Ravne na Koroskem', 'Radovljica') 10632.0 
+('Postojna', 'Idrija') 10667.0 
+('Idrija', 'Postojna') 10667.0 
+('Slovenj Gradec', 'Krsko') 10714.0 
+('Krsko', 'Slovenj Gradec') 10714.0 
+('Grosuplje', 'Lendava/Lendva') 10752.0 
+('Lendava/Lendva', 'Grosuplje') 10752.0 
+('Idrija', 'Logatec') 10778.0 
+('Logatec', 'Idrija') 10778.0 
+('Trzic', 'Trbovlje') 10796.0 
+('Trbovlje', 'Trzic') 10796.0 
+('Sezana', 'Trbovlje') 10847.0 
+('Trbovlje', 'Sezana') 10847.0 
+('Sezana', 'Trebnje') 10868.0 
+('Trebnje', 'Sezana') 10868.0 
+('Gornja Radgona', 'Lendava/Lendva') 10910.0 
+('Lendava/Lendva', 'Gornja Radgona') 10910.0 
+('Slovenj Gradec', 'Idrija') 10983.0 
+('Idrija', 'Slovenj Gradec') 10983.0 
+('Grosuplje', 'Sezana') 11009.0 
+('Sezana', 'Grosuplje') 11009.0 
+('Trebnje', 'Hrastnik') 11023.0 
+('Hrastnik', 'Trebnje') 11023.0 
+('Litija', 'Brezice') 11067.0 
+('Brezice', 'Litija') 11067.0 
+('Gornja Radgona', 'Mozirje') 11087.0 
+('Mozirje', 'Gornja Radgona') 11087.0 
+('Sevnica', 'Ribnica') 11093.0 
+('Ribnica', 'Sevnica') 11093.0 
+('Sezana', 'Crnomelj') 11147.0 
+('Crnomelj', 'Sezana') 11147.0 
+('Krsko', 'Slovenska Bistrica') 11184.0 
+('Slovenska Bistrica', 'Krsko') 11184.0 
+('Izola/Isola', 'Hrastnik') 11257.0 
+('Hrastnik', 'Izola/Isola') 11257.0 
+('Ravne na Koroskem', 'Slovenske Konjice') 11304.0 
+('Vrhnika', 'Krsko') 11304.0 
+('Slovenske Konjice', 'Ravne na Koroskem') 11304.0 
+('Krsko', 'Vrhnika') 11304.0 
+('Gornja Radgona', 'Ruse') 11326.0 
+('Ruse', 'Gornja Radgona') 11326.0 
+('Slovenska Bistrica', 'Ravne na Koroskem') 11413.0 
+('Ravne na Koroskem', 'Slovenska Bistrica') 11413.0 
+('Ilirska Bistrica', 'Trbovlje') 11450.0 
+('Trbovlje', 'Ilirska Bistrica') 11450.0 
+('Slovenj Gradec', 'Ravne na Koroskem') 11466.0 
+('Ravne na Koroskem', 'Slovenj Gradec') 11466.0 
+('Kamnik', 'Brezice') 11488.0 
+('Brezice', 'Kamnik') 11488.0 
+('Logatec', 'Trebnje') 11500.0 
+('Trebnje', 'Logatec') 11500.0 
+('Logatec', 'Izola/Isola') 11561.0 
+('Izola/Isola', 'Logatec') 11561.0 
+('Hrastnik', 'Zagorje ob Savi') 11655.0 
+('Zagorje ob Savi', 'Hrastnik') 11655.0 
+('Cerknica', 'Postojna') 11693.0 
+('Postojna', 'Cerknica') 11693.0 
+('Ajdovscina', 'Radlje ob Dravi') 11709.0 
+('Radlje ob Dravi', 'Ajdovscina') 11709.0 
+('Kocevje', 'Sezana') 11781.0 
+('Sezana', 'Kocevje') 11781.0 
+('Tolmin', 'Brezice') 11843.0 
+('Brezice', 'Tolmin') 11843.0 
+('Ajdovscina', 'Zagorje ob Savi') 11849.0 
+('Zagorje ob Savi', 'Ajdovscina') 11849.0 
+('Sezana', 'Tolmin') 11880.0 
+('Tolmin', 'Sezana') 11880.0 
+('Sezana', 'Pesnica') 11925.0 
+('Pesnica', 'Sezana') 11925.0 
+('Krsko', 'Postojna') 11960.0 
+('Postojna', 'Krsko') 11960.0 
+('Crnomelj', 'Brezice') 12004.0 
+('Brezice', 'Crnomelj') 12004.0 
+('Vrhnika', 'Ravne na Koroskem') 12107.0 
+('Ravne na Koroskem', 'Vrhnika') 12107.0 
+('Brezice', 'Kocevje') 12129.0 
+('Kocevje', 'Brezice') 12129.0 
+('Trzic', 'Gornja Radgona') 12149.0 
+('Gornja Radgona', 'Trzic') 12149.0 
+('Ormoz', 'Ajdovscina') 12197.0 
+('Ajdovscina', 'Ormoz') 12197.0 
+('Logatec', 'Zagorje ob Savi') 12200.0 
+('Zagorje ob Savi', 'Logatec') 12200.0 
+('Piran/Pirano', 'Sezana') 12280.0 
+('Sezana', 'Piran/Pirano') 12280.0 
+('Piran/Pirano', 'Brezice') 12302.0 
+('Brezice', 'Piran/Pirano') 12302.0 
+('Trbovlje', 'Lendava/Lendva') 12313.0 
+('Lendava/Lendva', 'Trbovlje') 12313.0 
+('Postojna', 'Ravne na Koroskem') 12321.0 
+('Ravne na Koroskem', 'Postojna') 12321.0 
+('Velenje', 'Novo mesto') 12478.0 
+('Novo mesto', 'Velenje') 12478.0 
+('Hrastnik', 'Ormoz') 12533.0 
+('Ormoz', 'Hrastnik') 12533.0 
+('Vrhnika', 'Cerknica') 12536.0 
+('Cerknica', 'Vrhnika') 12536.0 
+('Brezice', 'Grosuplje') 12631.0 
+('Grosuplje', 'Brezice') 12631.0 
+('Hrastnik', 'Radlje ob Dravi') 12648.0 
+('Radlje ob Dravi', 'Hrastnik') 12648.0 
+('Postojna', 'Mozirje') 12652.0 
+('Mozirje', 'Postojna') 12652.0 
+('Gornja Radgona', 'Ilirska Bistrica') 12801.0 
+('Ilirska Bistrica', 'Gornja Radgona') 12801.0 
+('Brezice', 'Pesnica') 12833.0 
+('Pesnica', 'Brezice') 12833.0 
+('Slovenske Konjice', 'Cerknica') 12940.0 
+('Cerknica', 'Slovenske Konjice') 12940.0 
+('Sentjur pri Celju', 'Sezana') 13065.0 
+('Sezana', 'Sentjur pri Celju') 13065.0 
+('Celje', 'Kranj') 13132.0 
+('Kranj', 'Celje') 13132.0 
+('Lendava/Lendva', 'Litija') 13161.0 
+('Litija', 'Lendava/Lendva') 13161.0 
+('Mozirje', 'Vrhnika') 13198.0 
+('Vrhnika', 'Mozirje') 13198.0 
+('Ruse', 'Postojna') 13206.0 
+('Postojna', 'Ruse') 13206.0 
+('Dravograd', 'Cerknica') 13355.0 
+('Cerknica', 'Dravograd') 13355.0 
+('Radlje ob Dravi', 'Logatec') 13395.0 
+('Logatec', 'Radlje ob Dravi') 13395.0 
+('Idrija', 'Ajdovscina') 13398.0 
+('Ajdovscina', 'Idrija') 13398.0 
+('Hrastnik', 'Lenart') 13434.0 
+('Lenart', 'Hrastnik') 13434.0 
+('Mozirje', 'Slovenske Konjice') 13441.0 
+('Slovenske Konjice', 'Mozirje') 13441.0 
+('Koper/Capodistria', 'Murska Sobota') 13450.0 
+('Murska Sobota', 'Koper/Capodistria') 13450.0 
+('Vrhnika', 'Ruse') 13537.0 
+('Ruse', 'Vrhnika') 13537.0 
+('Lendava/Lendva', 'Tolmin') 13597.0 
+('Tolmin', 'Lendava/Lendva') 13597.0 
+('Slovenske Konjice', 'Ruse') 13615.0 
+('Ruse', 'Slovenske Konjice') 13615.0 
+('Ajdovscina', 'Smarje pri Jelsah') 13683.0 
+('Smarje pri Jelsah', 'Ajdovscina') 13683.0 
+('Slovenj Gradec', 'Cerknica') 13753.0 
+('Cerknica', 'Slovenj Gradec') 13753.0 
+('Sezana', 'Sevnica') 13880.0 
+('Sevnica', 'Sezana') 13880.0 
+('Kocevje', 'Ribnica') 13946.0 
+('Ribnica', 'Kocevje') 13946.0 
+('Cerknica', 'Metlika') 13953.0 
+('Metlika', 'Cerknica') 13953.0 
+('Ribnica', 'Crnomelj') 13965.0 
+('Crnomelj', 'Ribnica') 13965.0 
+('Krsko', 'Skofja Loka') 14014.0 
+('Skofja Loka', 'Krsko') 14014.0 
+('Lendava/Lendva', 'Crnomelj') 14060.0 
+('Crnomelj', 'Lendava/Lendva') 14060.0 
+('Zalec', 'Velenje') 14064.0 
+('Velenje', 'Zalec') 14064.0 
+('Lasko', 'Ribnica') 14070.0 
+('Ribnica', 'Lasko') 14070.0 
+('Lenart', 'Logatec') 14082.0 
+('Logatec', 'Lenart') 14082.0 
+('Kocevje', 'Lendava/Lendva') 14107.0 
+('Lendava/Lendva', 'Kocevje') 14107.0 
+('Piran/Pirano', 'Lendava/Lendva') 14108.0 
+('Lendava/Lendva', 'Piran/Pirano') 14108.0 
+('Logatec', 'Ormoz') 14117.0 
+('Ormoz', 'Logatec') 14117.0 
+('Skofja Loka', 'Ravne na Koroskem') 14134.0 
+('Ravne na Koroskem', 'Skofja Loka') 14134.0 
+('Mozirje', 'Slovenj Gradec') 14138.0 
+('Slovenj Gradec', 'Mozirje') 14138.0 
+('Sentjur pri Celju', 'Brezice') 14183.0 
+('Brezice', 'Sentjur pri Celju') 14183.0 
+('Trzic', 'Postojna') 14195.0 
+('Postojna', 'Trzic') 14195.0 
+('Dravograd', 'Ilirska Bistrica') 14328.0 
+('Ilirska Bistrica', 'Dravograd') 14328.0 
+('Slovenj Gradec', 'Ruse') 14341.0 
+('Ruse', 'Slovenj Gradec') 14341.0 
+('Vrhnika', 'Trzic') 14372.0 
+('Trzic', 'Vrhnika') 14372.0 
+('Zalec', 'Slovenska Bistrica') 14377.0 
+('Slovenska Bistrica', 'Zalec') 14377.0 
+('Hrastnik', 'Sevnica') 14383.0 
+('Sevnica', 'Hrastnik') 14383.0 
+('Slovenske Konjice', 'Trzic') 14401.0 
+('Trzic', 'Slovenske Konjice') 14401.0 
+('Trebnje', 'Brezice') 14463.0 
+('Brezice', 'Trebnje') 14463.0 
+('Ilirska Bistrica', 'Metlika') 14535.0 
+('Metlika', 'Ilirska Bistrica') 14535.0 
+('Krsko', 'Gornja Radgona') 14558.0 
+('Gornja Radgona', 'Krsko') 14558.0 
+('Ptuj', 'Murska Sobota') 14672.0 
+('Murska Sobota', 'Ptuj') 14672.0 
+('Ribnica', 'Ljutomer') 14715.0 
+('Ljutomer', 'Ribnica') 14715.0 
+('Pesnica', 'Lendava/Lendva') 14730.0 
+('Lendava/Lendva', 'Pesnica') 14730.0 
+('Ptuj', 'Nova Gorica') 14746.0 
+('Nova Gorica', 'Ptuj') 14746.0 
+('Postojna', 'Ilirska Bistrica') 14833.0 
+('Ilirska Bistrica', 'Postojna') 14833.0 
+('Ajdovscina', 'Cerknica') 14841.0 
+('Cerknica', 'Ajdovscina') 14841.0 
+('Dravograd', 'Mozirje') 14948.0 
+('Mozirje', 'Dravograd') 14948.0 
+('Novo mesto', 'Ptuj') 14957.0 
+('Ptuj', 'Novo mesto') 14957.0 
+('Vrhnika', 'Ilirska Bistrica') 14986.0 
+('Ilirska Bistrica', 'Vrhnika') 14986.0 
+('Slovenj Gradec', 'Trzic') 15028.0 
+('Trzic', 'Slovenj Gradec') 15028.0 
+('Slovenske Konjice', 'Ilirska Bistrica') 15043.0 
+('Ilirska Bistrica', 'Slovenske Konjice') 15043.0 
+('Sezana', 'Lasko') 15080.0 
+('Lasko', 'Sezana') 15080.0 
+('Sevnica', 'Logatec') 15088.0 
+('Logatec', 'Sevnica') 15088.0 
+('Trzic', 'Dravograd') 15123.0 
+('Dravograd', 'Trzic') 15123.0 
+('Mozirje', 'Metlika') 15155.0 
+('Metlika', 'Mozirje') 15155.0 
+('Metlika', 'Trzic') 15330.0 
+('Trzic', 'Metlika') 15330.0 
+('Koper/Capodistria', 'Nova Gorica') 15367.0 
+('Nova Gorica', 'Koper/Capodistria') 15367.0 
+('Ravne na Koroskem', 'Gornja Radgona') 15389.0 
+('Gornja Radgona', 'Ravne na Koroskem') 15389.0 
+('Lasko', 'Hrastnik') 15466.0 
+('Hrastnik', 'Lasko') 15466.0 
+('Smarje pri Jelsah', 'Slovenske Konjice') 15560.0 
+('Slovenske Konjice', 'Smarje pri Jelsah') 15560.0 
+('Dravograd', 'Ruse') 15606.0 
+('Ruse', 'Dravograd') 15606.0 
+('Lenart', 'Sezana') 15616.0 
+('Sezana', 'Lenart') 15616.0 
+('Ribnica', 'Piran/Pirano') 15642.0 
+('Piran/Pirano', 'Ribnica') 15642.0 
+('Ilirska Bistrica', 'Slovenj Gradec') 15711.0 
+('Slovenj Gradec', 'Ilirska Bistrica') 15711.0 
+('Ajdovscina', 'Mozirje') 15723.0 
+('Mozirje', 'Ajdovscina') 15723.0 
+('Zalec', 'Jesenice') 15729.0 
+('Jesenice', 'Zalec') 15729.0 
+('Ljutomer', 'Sezana') 15744.0 
+('Sezana', 'Ljutomer') 15744.0 
+('Metlika', 'Ruse') 15813.0 
+('Ruse', 'Metlika') 15813.0 
+('Krsko', 'Trbovlje') 15843.0 
+('Trbovlje', 'Krsko') 15843.0 
+('Slovenj Gradec', 'Smarje pri Jelsah') 15917.0 
+('Smarje pri Jelsah', 'Slovenj Gradec') 15917.0 
+('Ribnica', 'Sentjur pri Celju') 15979.0 
+('Sentjur pri Celju', 'Ribnica') 15979.0 
+('Sentjur pri Celju', 'Lendava/Lendva') 16019.0 
+('Lendava/Lendva', 'Sentjur pri Celju') 16019.0 
+('Pesnica', 'Ribnica') 16030.0 
+('Ribnica', 'Pesnica') 16030.0 
+('Smarje pri Jelsah', 'Vrhnika') 16037.0 
+('Vrhnika', 'Smarje pri Jelsah') 16037.0 
+('Izola/Isola', 'Sezana') 16092.0 
+('Sezana', 'Izola/Isola') 16092.0 
+('Zalec', 'Radovljica') 16101.0 
+('Radovljica', 'Zalec') 16101.0 
+('Ljutomer', 'Hrastnik') 16111.0 
+('Hrastnik', 'Ljutomer') 16111.0 
+('Tolmin', 'Ribnica') 16165.0 
+('Ribnica', 'Tolmin') 16165.0 
+('Jesenice', 'Lendava/Lendva') 16177.0 
+('Lendava/Lendva', 'Jesenice') 16177.0 
+('Litija', 'Ribnica') 16222.0 
+('Ribnica', 'Litija') 16222.0 
+('Ruse', 'Ajdovscina') 16257.0 
+('Ajdovscina', 'Ruse') 16257.0 
+('Kamnik', 'Ajdovscina') 16262.0 
+('Ajdovscina', 'Kamnik') 16262.0 
+('Smarje pri Jelsah', 'Postojna') 16301.0 
+('Postojna', 'Smarje pri Jelsah') 16301.0 
+('Krsko', 'Litija') 16566.0 
+('Litija', 'Krsko') 16566.0 
+('Grosuplje', 'Ajdovscina') 16593.0 
+('Ajdovscina', 'Grosuplje') 16593.0 
+('Ljutomer', 'Brezice') 16718.0 
+('Brezice', 'Ljutomer') 16718.0 
+('Trebnje', 'Lendava/Lendva') 16731.0 
+('Lendava/Lendva', 'Trebnje') 16731.0 
+('Sevnica', 'Brezice') 16732.0 
+('Brezice', 'Sevnica') 16732.0 
+('Ravne na Koroskem', 'Trbovlje') 17014.0 
+('Trbovlje', 'Ravne na Koroskem') 17014.0 
+('Sezana', 'Jesenice') 17046.0 
+('Jesenice', 'Sezana') 17046.0 
+('Trzic', 'Ajdovscina') 17111.0 
+('Ajdovscina', 'Trzic') 17111.0 
+('Radovljica', 'Lendava/Lendva') 17113.0 
+('Lendava/Lendva', 'Radovljica') 17113.0 
+('Grosuplje', 'Slovenske Konjice') 17147.0 
+('Slovenske Konjice', 'Grosuplje') 17147.0 
+('Kocevje', 'Hrastnik') 17170.0 
+('Hrastnik', 'Kocevje') 17170.0 
+('Hrastnik', 'Crnomelj') 17246.0 
+('Crnomelj', 'Hrastnik') 17246.0 
+('Krsko', 'Tolmin') 17259.0 
+('Tolmin', 'Krsko') 17259.0 
+('Logatec', 'Lasko') 17294.0 
+('Lasko', 'Logatec') 17294.0 
+('Krsko', 'Crnomelj') 17346.0 
+('Crnomelj', 'Krsko') 17346.0 
+('Lasko', 'Brezice') 17363.0 
+('Brezice', 'Lasko') 17363.0 
+('Slovenske Konjice', 'Kamnik') 17444.0 
+('Kamnik', 'Slovenske Konjice') 17444.0 
+('Grosuplje', 'Slovenj Gradec') 17445.0 
+('Slovenj Gradec', 'Grosuplje') 17445.0 
+('Domzale', 'Novo mesto') 17498.0 
+('Novo mesto', 'Domzale') 17498.0 
+('Slovenska Bistrica', 'Lendava/Lendva') 17527.0 
+('Lendava/Lendva', 'Slovenska Bistrica') 17527.0 
+('Krsko', 'Kocevje') 17605.0 
+('Kocevje', 'Krsko') 17605.0 
+('Litija', 'Ravne na Koroskem') 17633.0 
+('Ravne na Koroskem', 'Litija') 17633.0 
+('Logatec', 'Kocevje') 17640.0 
+('Kocevje', 'Logatec') 17640.0 
+('Krsko', 'Piran/Pirano') 17678.0 
+('Piran/Pirano', 'Krsko') 17678.0 
+('Sentjur pri Celju', 'Hrastnik') 17698.0 
+('Hrastnik', 'Sentjur pri Celju') 17698.0 
+('Radlje ob Dravi', 'Sezana') 17709.0 
+('Sezana', 'Radlje ob Dravi') 17709.0 
+('Sezana', 'Zagorje ob Savi') 17815.0 
+('Zagorje ob Savi', 'Sezana') 17815.0 
+('Logatec', 'Crnomelj') 17820.0 
+('Crnomelj', 'Logatec') 17820.0 
+('Slovenj Gradec', 'Kamnik') 17844.0 
+('Kamnik', 'Slovenj Gradec') 17844.0 
+('Jesenice', 'Brezice') 17850.0 
+('Brezice', 'Jesenice') 17850.0 
+('Ajdovscina', 'Ilirska Bistrica') 17862.0 
+('Ilirska Bistrica', 'Ajdovscina') 17862.0 
+('Logatec', 'Ljutomer') 17939.0 
+('Ljutomer', 'Logatec') 17939.0 
+('Tolmin', 'Ravne na Koroskem') 18105.0 
+('Ravne na Koroskem', 'Tolmin') 18105.0 
+('Kamnik', 'Vrhnika') 18114.0 
+('Vrhnika', 'Kamnik') 18114.0 
+('Ormoz', 'Sezana') 18120.0 
+('Sezana', 'Ormoz') 18120.0 
+('Lendava/Lendva', 'Ljutomer') 18152.0 
+('Ljutomer', 'Lendava/Lendva') 18152.0 
+('Radovljica', 'Sezana') 18173.0 
+('Sezana', 'Radovljica') 18173.0 
+('Krsko', 'Pesnica') 18295.0 
+('Pesnica', 'Krsko') 18295.0 
+('Slovenska Bistrica', 'Sezana') 18391.0 
+('Sezana', 'Slovenska Bistrica') 18391.0 
+('Hrastnik', 'Pesnica') 18400.0 
+('Pesnica', 'Hrastnik') 18400.0 
+('Piran/Pirano', 'Ravne na Koroskem') 18427.0 
+('Ravne na Koroskem', 'Piran/Pirano') 18427.0 
+('Vrhnika', 'Grosuplje') 18459.0 
+('Grosuplje', 'Vrhnika') 18459.0 
+('Kamnik', 'Postojna') 18565.0 
+('Postojna', 'Kamnik') 18565.0 
+('Ormoz', 'Dravograd') 18620.0 
+('Dravograd', 'Ormoz') 18620.0 
+('Ravne na Koroskem', 'Kocevje') 18668.0 
+('Kocevje', 'Ravne na Koroskem') 18668.0 
+('Grosuplje', 'Postojna') 18716.0 
+('Postojna', 'Grosuplje') 18716.0 
+('Izola/Isola', 'Brezice') 18785.0 
+('Brezice', 'Izola/Isola') 18785.0 
+('Lendava/Lendva', 'Lasko') 18797.0 
+('Lasko', 'Lendava/Lendva') 18797.0 
+('Idrija', 'Dravograd') 18799.0 
+('Dravograd', 'Idrija') 18799.0 
+('Metlika', 'Ormoz') 18827.0 
+('Ormoz', 'Metlika') 18827.0 
+('Sevnica', 'Lendava/Lendva') 18874.0 
+('Lendava/Lendva', 'Sevnica') 18874.0 
+('Trbovlje', 'Ribnica') 18890.0 
+('Ribnica', 'Trbovlje') 18890.0 
+('Ravne na Koroskem', 'Crnomelj') 18924.0 
+('Crnomelj', 'Ravne na Koroskem') 18924.0 
+('Brezice', 'Lenart') 18926.0 
+('Lenart', 'Brezice') 18926.0 
+('Dravograd', 'Zagorje ob Savi') 18952.0 
+('Zagorje ob Savi', 'Dravograd') 18952.0 
+('Brezice', 'Radovljica') 18967.0 
+('Radovljica', 'Brezice') 18967.0 
+('Hrastnik', 'Litija') 19001.0 
+('Litija', 'Hrastnik') 19001.0 
+('Metlika', 'Idrija') 19006.0 
+('Idrija', 'Metlika') 19006.0 
+('Radlje ob Dravi', 'Dravograd') 19099.0 
+('Dravograd', 'Radlje ob Dravi') 19099.0 
+('Dravograd', 'Trebnje') 19113.0 
+('Trebnje', 'Dravograd') 19113.0 
+('Zagorje ob Savi', 'Metlika') 19159.0 
+('Metlika', 'Zagorje ob Savi') 19159.0 
+('Brezice', 'Slovenska Bistrica') 19186.0 
+('Slovenska Bistrica', 'Brezice') 19186.0 
+('Sezana', 'Idrija') 19276.0 
+('Idrija', 'Sezana') 19276.0 
+('Radlje ob Dravi', 'Metlika') 19306.0 
+('Metlika', 'Radlje ob Dravi') 19306.0 
+('Hrastnik', 'Piran/Pirano') 19306.0 
+('Piran/Pirano', 'Hrastnik') 19306.0 
+('Trebnje', 'Metlika') 19320.0 
+('Metlika', 'Trebnje') 19320.0 
+('Krsko', 'Sentjur pri Celju') 19375.0 
+('Sentjur pri Celju', 'Krsko') 19375.0 
+('Ravne na Koroskem', 'Pesnica') 19524.0 
+('Pesnica', 'Ravne na Koroskem') 19524.0 
+('Logatec', 'Sentjur pri Celju') 19526.0 
+('Sentjur pri Celju', 'Logatec') 19526.0 
+('Grosuplje', 'Zalec') 19634.0 
+('Zalec', 'Grosuplje') 19634.0 
+('Nova Gorica', 'Velenje') 19725.0 
+('Velenje', 'Nova Gorica') 19725.0 
+('Krsko', 'Trebnje') 19749.0 
+('Trebnje', 'Krsko') 19749.0 
+('Dravograd', 'Izola/Isola') 19757.0 
+('Izola/Isola', 'Dravograd') 19757.0 
+('Tolmin', 'Hrastnik') 19805.0 
+('Hrastnik', 'Tolmin') 19805.0 
+('Radlje ob Dravi', 'Brezice') 19817.0 
+('Brezice', 'Radlje ob Dravi') 19817.0 
+('Zagorje ob Savi', 'Brezice') 19964.0 
+('Brezice', 'Zagorje ob Savi') 19964.0 
+('Izola/Isola', 'Metlika') 19964.0 
+('Metlika', 'Izola/Isola') 19964.0 
+('Lenart', 'Dravograd') 19990.0 
+('Dravograd', 'Lenart') 19990.0 
+('Piran/Pirano', 'Logatec') 19998.0 
+('Logatec', 'Piran/Pirano') 19998.0 
+('Idrija', 'Brezice') 20117.0 
+('Brezice', 'Idrija') 20117.0 
+('Lenart', 'Metlika') 20197.0 
+('Metlika', 'Lenart') 20197.0 
+('Smarje pri Jelsah', 'Gornja Radgona') 20203.0 
+('Gornja Radgona', 'Smarje pri Jelsah') 20203.0 
+('Pesnica', 'Logatec') 20228.0 
+('Logatec', 'Pesnica') 20228.0 
+('Hrastnik', 'Trbovlje') 20286.0 
+('Trbovlje', 'Hrastnik') 20286.0 
+('Brezice', 'Ormoz') 20296.0 
+('Ormoz', 'Brezice') 20296.0 
+('Gornja Radgona', 'Ribnica') 20299.0 
+('Ribnica', 'Gornja Radgona') 20299.0 
+('Lenart', 'Lendava/Lendva') 20360.0 
+('Lendava/Lendva', 'Lenart') 20360.0 
+('Lendava/Lendva', 'Skofja Loka') 20400.0 
+('Skofja Loka', 'Lendava/Lendva') 20400.0 
+('Sentjur pri Celju', 'Ravne na Koroskem') 20496.0 
+('Ravne na Koroskem', 'Sentjur pri Celju') 20496.0 
+('Velenje', 'Murska Sobota') 20550.0 
+('Murska Sobota', 'Velenje') 20550.0 
+('Koper/Capodistria', 'Zalec') 20585.0 
+('Zalec', 'Koper/Capodistria') 20585.0 
+('Lendava/Lendva', 'Izola/Isola') 20593.0 
+('Izola/Isola', 'Lendava/Lendva') 20593.0 
+('Tolmin', 'Logatec') 20625.0 
+('Logatec', 'Tolmin') 20625.0 
+('Litija', 'Logatec') 20829.0 
+('Logatec', 'Litija') 20829.0 
+('Dravograd', 'Sevnica') 20910.0 
+('Sevnica', 'Dravograd') 20910.0 
+('Nova Gorica', 'Kranj') 21093.0 
+('Kranj', 'Nova Gorica') 21093.0 
+('Sevnica', 'Metlika') 21117.0 
+('Metlika', 'Sevnica') 21117.0 
+('Radlje ob Dravi', 'Lendava/Lendva') 21251.0 
+('Lendava/Lendva', 'Radlje ob Dravi') 21251.0 
+('Sezana', 'Skofja Loka') 21390.0 
+('Skofja Loka', 'Sezana') 21390.0 
+('Lendava/Lendva', 'Zagorje ob Savi') 21398.0 
+('Zagorje ob Savi', 'Lendava/Lendva') 21398.0 
+('Sezana', 'Cerknica') 21531.0 
+('Cerknica', 'Sezana') 21531.0 
+('Idrija', 'Lendava/Lendva') 21551.0 
+('Lendava/Lendva', 'Idrija') 21551.0 
+('Dravograd', 'Lasko') 21553.0 
+('Lasko', 'Dravograd') 21553.0 
+('Grosuplje', 'Gornja Radgona') 21572.0 
+('Gornja Radgona', 'Grosuplje') 21572.0 
+('Celje', 'Koper/Capodistria') 21654.0 
+('Koper/Capodistria', 'Celje') 21654.0 
+('Gornja Radgona', 'Hrastnik') 21695.0 
+('Hrastnik', 'Gornja Radgona') 21695.0 
+('Sevnica', 'Krsko') 21710.0 
+('Krsko', 'Sevnica') 21710.0 
+('Lendava/Lendva', 'Ormoz') 21730.0 
+('Ormoz', 'Lendava/Lendva') 21730.0 
+('Metlika', 'Lasko') 21760.0 
+('Lasko', 'Metlika') 21760.0 
+('Trbovlje', 'Smarje pri Jelsah') 21922.0 
+('Smarje pri Jelsah', 'Trbovlje') 21922.0 
+('Postojna', 'Ribnica') 22027.0 
+('Ribnica', 'Postojna') 22027.0 
+('Gornja Radgona', 'Kamnik') 22044.0 
+('Kamnik', 'Gornja Radgona') 22044.0 
+('Ravne na Koroskem', 'Trebnje') 22064.0 
+('Trebnje', 'Ravne na Koroskem') 22064.0 
+('Ljutomer', 'Krsko') 22072.0 
+('Krsko', 'Ljutomer') 22072.0 
+('Ljutomer', 'Ravne na Koroskem') 22083.0 
+('Ravne na Koroskem', 'Ljutomer') 22083.0 
+('Logatec', 'Trbovlje') 22114.0 
+('Trbovlje', 'Logatec') 22114.0 
+('Skofja Loka', 'Brezice') 22152.0 
+('Brezice', 'Skofja Loka') 22152.0 
+('Dravograd', 'Ljutomer') 22198.0 
+('Ljutomer', 'Dravograd') 22198.0 
+('Sezana', 'Mozirje') 22266.0 
+('Mozirje', 'Sezana') 22266.0 
+('Smarje pri Jelsah', 'Tolmin') 22403.0 
+('Tolmin', 'Smarje pri Jelsah') 22403.0 
+('Ljutomer', 'Metlika') 22405.0 
+('Metlika', 'Ljutomer') 22405.0 
+('Ribnica', 'Slovenske Konjice') 22440.0 
+('Slovenske Konjice', 'Ribnica') 22440.0 
+('Ruse', 'Sezana') 22632.0 
+('Sezana', 'Ruse') 22632.0 
+('Vrhnika', 'Ribnica') 22687.0 
+('Ribnica', 'Vrhnika') 22687.0 
+('Skofja Loka', 'Domzale') 22715.0 
+('Domzale', 'Skofja Loka') 22715.0 
+('Lasko', 'Krsko') 22717.0 
+('Krsko', 'Lasko') 22717.0 
+('Lasko', 'Ravne na Koroskem') 22728.0 
+('Ravne na Koroskem', 'Lasko') 22728.0 
+('Trbovlje', 'Grosuplje') 22823.0 
+('Grosuplje', 'Trbovlje') 22823.0 
+('Smarje pri Jelsah', 'Piran/Pirano') 22833.0 
+('Piran/Pirano', 'Smarje pri Jelsah') 22833.0 
+('Ribnica', 'Slovenj Gradec') 22948.0 
+('Slovenj Gradec', 'Ribnica') 22948.0 
+('Kranj', 'Murska Sobota') 23114.0 
+('Murska Sobota', 'Kranj') 23114.0 
+('Smarje pri Jelsah', 'Litija') 23207.0 
+('Litija', 'Smarje pri Jelsah') 23207.0 
+('Brezice', 'Ruse') 23310.0 
+('Ruse', 'Brezice') 23310.0 
+('Sevnica', 'Ravne na Koroskem') 23371.0 
+('Ravne na Koroskem', 'Sevnica') 23371.0 
+('Litija', 'Grosuplje') 23398.0 
+('Grosuplje', 'Litija') 23398.0 
+('Sezana', 'Trzic') 23470.0 
+('Trzic', 'Sezana') 23470.0 
+('Gornja Radgona', 'Logatec') 23523.0 
+('Logatec', 'Gornja Radgona') 23523.0 
+('Kocevje', 'Smarje pri Jelsah') 23642.0 
+('Smarje pri Jelsah', 'Kocevje') 23642.0 
+('Dravograd', 'Sentjur pri Celju') 23785.0 
+('Sentjur pri Celju', 'Dravograd') 23785.0 
+('Trzic', 'Brezice') 23793.0 
+('Brezice', 'Trzic') 23793.0 
+('Smarje pri Jelsah', 'Pesnica') 23808.0 
+('Pesnica', 'Smarje pri Jelsah') 23808.0 
+('Slovenske Konjice', 'Hrastnik') 23836.0 
+('Hrastnik', 'Slovenske Konjice') 23836.0 
+('Kamnik', 'Trbovlje') 23853.0 
+('Trbovlje', 'Kamnik') 23853.0 
+('Krsko', 'Izola/Isola') 23867.0 
+('Izola/Isola', 'Krsko') 23867.0 
+('Brezice', 'Mozirje') 23968.0 
+('Mozirje', 'Brezice') 23968.0 
+('Metlika', 'Sentjur pri Celju') 23992.0 
+('Sentjur pri Celju', 'Metlika') 23992.0 
+('Kamnik', 'Zalec') 24077.0 
+('Zalec', 'Kamnik') 24077.0 
+('Vrhnika', 'Hrastnik') 24083.0 
+('Crnomelj', 'Smarje pri Jelsah') 24083.0 
+('Hrastnik', 'Vrhnika') 24083.0 
+('Smarje pri Jelsah', 'Crnomelj') 24083.0 
+('Ilirska Bistrica', 'Sezana') 24106.0 
+('Sezana', 'Ilirska Bistrica') 24106.0 
+('Dravograd', 'Crnomelj') 24212.0 
+('Crnomelj', 'Dravograd') 24212.0 
+('Lenart', 'Krsko') 24280.0 
+('Krsko', 'Lenart') 24280.0 
+('Grosuplje', 'Tolmin') 24283.0 
+('Tolmin', 'Grosuplje') 24283.0 
+('Ravne na Koroskem', 'Lenart') 24291.0 
+('Lenart', 'Ravne na Koroskem') 24291.0 
+('Crnomelj', 'Grosuplje') 24334.0 
+('Grosuplje', 'Crnomelj') 24334.0 
+('Hrastnik', 'Slovenj Gradec') 24344.0 
+('Slovenj Gradec', 'Hrastnik') 24344.0 
+('Velenje', 'Skofja Loka') 24354.0 
+('Skofja Loka', 'Velenje') 24354.0 
+('Litija', 'Kamnik') 24391.0 
+('Kamnik', 'Litija') 24391.0 
+('Metlika', 'Crnomelj') 24419.0 
+('Crnomelj', 'Metlika') 24419.0 
+('Pesnica', 'Dravograd') 24487.0 
+('Dravograd', 'Pesnica') 24487.0 
+('Sentjur pri Celju', 'Smarje pri Jelsah') 24510.0 
+('Smarje pri Jelsah', 'Sentjur pri Celju') 24510.0 
+('Ravne na Koroskem', 'Izola/Isola') 24524.0 
+('Izola/Isola', 'Ravne na Koroskem') 24524.0 
+('Postojna', 'Hrastnik') 24552.0 
+('Hrastnik', 'Postojna') 24552.0 
+('Grosuplje', 'Kocevje') 24564.0 
+('Kocevje', 'Grosuplje') 24564.0 
+('Ilirska Bistrica', 'Brezice') 24588.0 
+('Brezice', 'Ilirska Bistrica') 24588.0 
+('Jesenice', 'Ajdovscina') 24630.0 
+('Ajdovscina', 'Jesenice') 24630.0 
+('Kocevje', 'Dravograd') 24653.0 
+('Dravograd', 'Kocevje') 24653.0 
+('Metlika', 'Pesnica') 24694.0 
+('Pesnica', 'Metlika') 24694.0 
+('Grosuplje', 'Piran/Pirano') 24723.0 
+('Piran/Pirano', 'Grosuplje') 24723.0 
+('Ruse', 'Lendava/Lendva') 24744.0 
+('Lendava/Lendva', 'Ruse') 24744.0 
+('Kocevje', 'Metlika') 24860.0 
+('Metlika', 'Kocevje') 24860.0 
+('Tolmin', 'Kamnik') 24990.0 
+('Kamnik', 'Tolmin') 24990.0 
+('Novo mesto', 'Kranj') 25003.0 
+('Kranj', 'Novo mesto') 25003.0 
+('Dravograd', 'Litija') 25088.0 
+('Litija', 'Dravograd') 25088.0 
+('Piran/Pirano', 'Kamnik') 25114.0 
+('Kamnik', 'Piran/Pirano') 25114.0 
+('Cerknica', 'Brezice') 25170.0 
+('Brezice', 'Cerknica') 25170.0 
+('Radlje ob Dravi', 'Krsko') 25171.0 
+('Krsko', 'Radlje ob Dravi') 25171.0 
+('Radlje ob Dravi', 'Ravne na Koroskem') 25182.0 
+('Ravne na Koroskem', 'Radlje ob Dravi') 25182.0 
+('Radovljica', 'Ajdovscina') 25202.0 
+('Ajdovscina', 'Radovljica') 25202.0 
+('Trzic', 'Lendava/Lendva') 25227.0 
+('Lendava/Lendva', 'Trzic') 25227.0 
+('Metlika', 'Litija') 25295.0 
+('Litija', 'Metlika') 25295.0 
+('Krsko', 'Zagorje ob Savi') 25318.0 
+('Zagorje ob Savi', 'Krsko') 25318.0 
+('Zagorje ob Savi', 'Ravne na Koroskem') 25329.0 
+('Ravne na Koroskem', 'Zagorje ob Savi') 25329.0 
+('Pesnica', 'Grosuplje') 25335.0 
+('Grosuplje', 'Pesnica') 25335.0 
+('Mozirje', 'Lendava/Lendva') 25402.0 
+('Lendava/Lendva', 'Mozirje') 25402.0 
+('Kamnik', 'Kocevje') 25416.0 
+('Kocevje', 'Kamnik') 25416.0 
+('Piran/Pirano', 'Dravograd') 25462.0 
+('Dravograd', 'Piran/Pirano') 25462.0 
+('Idrija', 'Krsko') 25471.0 
+('Krsko', 'Idrija') 25471.0 
+('Ravne na Koroskem', 'Idrija') 25482.0 
+('Idrija', 'Ravne na Koroskem') 25482.0 
+('Krsko', 'Ormoz') 25650.0 
+('Ormoz', 'Krsko') 25650.0 
+('Ormoz', 'Ravne na Koroskem') 25661.0 
+('Ravne na Koroskem', 'Ormoz') 25661.0 
+('Slovenske Konjice', 'Logatec') 25664.0 
+('Logatec', 'Slovenske Konjice') 25664.0 
+('Piran/Pirano', 'Metlika') 25669.0 
+('Metlika', 'Piran/Pirano') 25669.0 
+('Ajdovscina', 'Ribnica') 25712.0 
+('Ribnica', 'Ajdovscina') 25712.0 
+('Crnomelj', 'Kamnik') 25836.0 
+('Kamnik', 'Crnomelj') 25836.0 
+('Ajdovscina', 'Slovenska Bistrica') 25844.0 
+('Slovenska Bistrica', 'Ajdovscina') 25844.0 
+('Tolmin', 'Dravograd') 25892.0 
+('Dravograd', 'Tolmin') 25892.0 
+('Logatec', 'Vrhnika') 25911.0 
+('Vrhnika', 'Logatec') 25911.0 
+('Ilirska Bistrica', 'Lendava/Lendva') 26022.0 
+('Lendava/Lendva', 'Ilirska Bistrica') 26022.0 
+('Ljutomer', 'Smarje pri Jelsah') 26097.0 
+('Smarje pri Jelsah', 'Ljutomer') 26097.0 
+('Metlika', 'Tolmin') 26099.0 
+('Tolmin', 'Metlika') 26099.0 
+('Slovenj Gradec', 'Logatec') 26172.0 
+('Logatec', 'Slovenj Gradec') 26172.0 
+('Sentjur pri Celju', 'Grosuplje') 26366.0 
+('Grosuplje', 'Sentjur pri Celju') 26366.0 
+('Dravograd', 'Trbovlje') 26373.0 
+('Trbovlje', 'Dravograd') 26373.0 
+('Logatec', 'Postojna') 26380.0 
+('Postojna', 'Logatec') 26380.0 
+('Kamnik', 'Pesnica') 26395.0 
+('Pesnica', 'Kamnik') 26395.0 
+('Domzale', 'Murska Sobota') 26540.0 
+('Murska Sobota', 'Domzale') 26540.0 
+('Metlika', 'Trbovlje') 26580.0 
+('Trbovlje', 'Metlika') 26580.0 
+('Lendava/Lendva', 'Cerknica') 26604.0 
+('Cerknica', 'Lendava/Lendva') 26604.0 
+('Grosuplje', 'Trebnje') 26736.0 
+('Trebnje', 'Grosuplje') 26736.0 
+('Lasko', 'Smarje pri Jelsah') 26742.0 
+('Smarje pri Jelsah', 'Lasko') 26742.0 
+('Sentjur pri Celju', 'Kamnik') 27097.0 
+('Kamnik', 'Sentjur pri Celju') 27097.0 
+('Ajdovscina', 'Hrastnik') 27306.0 
+('Hrastnik', 'Ajdovscina') 27306.0 
+('Postojna', 'Jesenice') 27384.0 
+('Jesenice', 'Postojna') 27384.0 
+('Sevnica', 'Smarje pri Jelsah') 27385.0 
+('Smarje pri Jelsah', 'Sevnica') 27385.0 
+('Smarje pri Jelsah', 'Zalec') 27432.0 
+('Zalec', 'Smarje pri Jelsah') 27432.0 
+('Slovenj Gradec', 'Jesenice') 27592.0 
+('Jesenice', 'Slovenj Gradec') 27592.0 
+('Gornja Radgona', 'Dravograd') 27782.0 
+('Dravograd', 'Gornja Radgona') 27782.0 
+('Jesenice', 'Vrhnika') 27853.0 
+('Vrhnika', 'Jesenice') 27853.0 
+('Postojna', 'Radovljica') 27956.0 
+('Radovljica', 'Postojna') 27956.0 
+('Metlika', 'Gornja Radgona') 27989.0 
+('Gornja Radgona', 'Metlika') 27989.0 
+('Trebnje', 'Smarje pri Jelsah') 28021.0 
+('Smarje pri Jelsah', 'Trebnje') 28021.0 
+('Nova Gorica', 'Domzale') 28045.0 
+('Domzale', 'Nova Gorica') 28045.0 
+('Slovenske Konjice', 'Jesenice') 28100.0 
+('Jesenice', 'Slovenske Konjice') 28100.0 
+('Slovenj Gradec', 'Radovljica') 28164.0 
+('Radovljica', 'Slovenj Gradec') 28164.0 
+('Smarje pri Jelsah', 'Lenart') 28305.0 
+('Lenart', 'Smarje pri Jelsah') 28305.0 
+('Vrhnika', 'Radovljica') 28425.0 
+('Radovljica', 'Vrhnika') 28425.0 
+('Smarje pri Jelsah', 'Izola/Isola') 28538.0 
+('Izola/Isola', 'Smarje pri Jelsah') 28538.0 
+('Skofja Loka', 'Ajdovscina') 28577.0 
+('Ajdovscina', 'Skofja Loka') 28577.0 
+('Postojna', 'Slovenska Bistrica') 28598.0 
+('Slovenska Bistrica', 'Postojna') 28598.0 
+('Ruse', 'Krsko') 28664.0 
+('Krsko', 'Ruse') 28664.0 
+('Radovljica', 'Slovenske Konjice') 28672.0 
+('Slovenske Konjice', 'Radovljica') 28672.0 
+('Ravne na Koroskem', 'Ruse') 28675.0 
+('Ruse', 'Ravne na Koroskem') 28675.0 
+('Ljutomer', 'Kamnik') 28684.0 
+('Kamnik', 'Ljutomer') 28684.0 
+('Grosuplje', 'Sevnica') 28691.0 
+('Sevnica', 'Grosuplje') 28691.0 
+('Slovenj Gradec', 'Slovenska Bistrica') 28806.0 
+('Slovenska Bistrica', 'Slovenj Gradec') 28806.0 
+('Trebnje', 'Kamnik') 28987.0 
+('Kamnik', 'Trebnje') 28987.0 
+('Ljutomer', 'Grosuplje') 29006.0 
+('Grosuplje', 'Ljutomer') 29006.0 
+('Slovenska Bistrica', 'Vrhnika') 29067.0 
+('Vrhnika', 'Slovenska Bistrica') 29067.0 
+('Logatec', 'Ajdovscina') 29134.0 
+('Ajdovscina', 'Logatec') 29134.0 
+('Krsko', 'Trzic') 29147.0 
+('Trzic', 'Krsko') 29147.0 
+('Trzic', 'Ravne na Koroskem') 29158.0 
+('Ravne na Koroskem', 'Trzic') 29158.0 
+('Smarje pri Jelsah', 'Radlje ob Dravi') 29196.0 
+('Radlje ob Dravi', 'Smarje pri Jelsah') 29196.0 
+('Slovenska Bistrica', 'Slovenske Konjice') 29314.0 
+('Slovenske Konjice', 'Slovenska Bistrica') 29314.0 
+('Krsko', 'Mozirje') 29322.0 
+('Mozirje', 'Krsko') 29322.0 
+('Lasko', 'Kamnik') 29329.0 
+('Kamnik', 'Lasko') 29329.0 
+('Ravne na Koroskem', 'Mozirje') 29333.0 
+('Mozirje', 'Ravne na Koroskem') 29333.0 
+('Smarje pri Jelsah', 'Zagorje ob Savi') 29343.0 
+('Zagorje ob Savi', 'Smarje pri Jelsah') 29343.0 
+('Idrija', 'Smarje pri Jelsah') 29496.0 
+('Smarje pri Jelsah', 'Idrija') 29496.0 
+('Lasko', 'Grosuplje') 29670.0 
+('Grosuplje', 'Lasko') 29670.0 
+('Ormoz', 'Smarje pri Jelsah') 29675.0 
+('Smarje pri Jelsah', 'Ormoz') 29675.0 
+('Slovenske Konjice', 'Dravograd') 29923.0 
+('Dravograd', 'Slovenske Konjice') 29923.0 
+('Ilirska Bistrica', 'Krsko') 29942.0 
+('Krsko', 'Ilirska Bistrica') 29942.0 
+('Ilirska Bistrica', 'Ravne na Koroskem') 29953.0 
+('Ravne na Koroskem', 'Ilirska Bistrica') 29953.0 
+('Sevnica', 'Kamnik') 29972.0 
+('Kamnik', 'Sevnica') 29972.0 
+('Slovenske Konjice', 'Metlika') 30130.0 
+('Metlika', 'Slovenske Konjice') 30130.0 
+('Vrhnika', 'Dravograd') 30170.0 
+('Dravograd', 'Vrhnika') 30170.0 
+('Gornja Radgona', 'Jesenice') 30241.0 
+('Jesenice', 'Gornja Radgona') 30241.0 
+('Koper/Capodistria', 'Ptuj') 30275.0 
+('Ptuj', 'Koper/Capodistria') 30275.0 
+('Celje', 'Velenje') 30279.0 
+('Velenje', 'Celje') 30279.0 
+('Vrhnika', 'Metlika') 30377.0 
+('Metlika', 'Vrhnika') 30377.0 
+('Slovenj Gradec', 'Dravograd') 30431.0 
+('Dravograd', 'Slovenj Gradec') 30431.0 
+('Krsko', 'Cerknica') 30524.0 
+('Cerknica', 'Krsko') 30524.0 
+('Cerknica', 'Ravne na Koroskem') 30535.0 
+('Ravne na Koroskem', 'Cerknica') 30535.0 
+('Novo mesto', 'Zalec') 30620.0 
+('Zalec', 'Novo mesto') 30620.0 
+('Slovenj Gradec', 'Metlika') 30638.0 
+('Metlika', 'Slovenj Gradec') 30638.0 
+('Postojna', 'Dravograd') 30639.0 
+('Dravograd', 'Postojna') 30639.0 
+('Slovenska Bistrica', 'Domzale') 30693.0 
+('Domzale', 'Slovenska Bistrica') 30693.0 
+('Gornja Radgona', 'Radovljica') 30813.0 
+('Radovljica', 'Gornja Radgona') 30813.0 
+('Izola/Isola', 'Grosuplje') 30842.0 
+('Grosuplje', 'Izola/Isola') 30842.0 
+('Metlika', 'Postojna') 30846.0 
+('Postojna', 'Metlika') 30846.0 
+('Lenart', 'Kamnik') 30892.0 
+('Kamnik', 'Lenart') 30892.0 
+('Slovenska Bistrica', 'Velenje') 31052.0 
+('Velenje', 'Slovenska Bistrica') 31052.0 
+('Kamnik', 'Izola/Isola') 31125.0 
+('Izola/Isola', 'Kamnik') 31125.0 
+('Lenart', 'Grosuplje') 31233.0 
+('Grosuplje', 'Lenart') 31233.0 
+('Postojna', 'Skofja Loka') 31331.0 
+('Skofja Loka', 'Postojna') 31331.0 
+('Radovljica', 'Domzale') 31335.0 
+('Domzale', 'Radovljica') 31335.0 
+('Ribnica', 'Brezice') 31433.0 
+('Brezice', 'Ribnica') 31433.0 
+('Gornja Radgona', 'Slovenska Bistrica') 31455.0 
+('Slovenska Bistrica', 'Gornja Radgona') 31455.0 
+('Zalec', 'Ravne na Koroskem') 31474.0 
+('Ravne na Koroskem', 'Zalec') 31474.0 
+('Zalec', 'Krsko') 31485.0 
+('Krsko', 'Zalec') 31485.0 
+('Skofja Loka', 'Slovenj Gradec') 31539.0 
+('Slovenj Gradec', 'Skofja Loka') 31539.0 
+('Jesenice', 'Trbovlje') 31650.0 
+('Trbovlje', 'Jesenice') 31650.0 
+('Kamnik', 'Radlje ob Dravi') 31783.0 
+('Radlje ob Dravi', 'Kamnik') 31783.0 
+('Skofja Loka', 'Vrhnika') 31800.0 
+('Vrhnika', 'Skofja Loka') 31800.0 
+('Jesenice', 'Domzale') 31873.0 
+('Domzale', 'Jesenice') 31873.0 
+('Sezana', 'Ribnica') 31909.0 
+('Ribnica', 'Sezana') 31909.0 
+('Zagorje ob Savi', 'Kamnik') 31930.0 
+('Kamnik', 'Zagorje ob Savi') 31930.0 
+('Slovenske Konjice', 'Skofja Loka') 32047.0 
+('Skofja Loka', 'Slovenske Konjice') 32047.0 
+('Kamnik', 'Idrija') 32083.0 
+('Idrija', 'Kamnik') 32083.0 
+('Radlje ob Dravi', 'Grosuplje') 32124.0 
+('Grosuplje', 'Radlje ob Dravi') 32124.0 
+('Jesenice', 'Tolmin') 32131.0 
+('Tolmin', 'Jesenice') 32131.0 
+('Trbovlje', 'Radovljica') 32222.0 
+('Radovljica', 'Trbovlje') 32222.0 
+('Kamnik', 'Ormoz') 32262.0 
+('Ormoz', 'Kamnik') 32262.0 
+('Grosuplje', 'Zagorje ob Savi') 32271.0 
+('Zagorje ob Savi', 'Grosuplje') 32271.0 
+('Velenje', 'Jesenice') 32366.0 
+('Jesenice', 'Velenje') 32366.0 
+('Idrija', 'Grosuplje') 32424.0 
+('Grosuplje', 'Idrija') 32424.0 
+('Piran/Pirano', 'Jesenice') 32561.0 
+('Jesenice', 'Piran/Pirano') 32561.0 
+('Ormoz', 'Grosuplje') 32603.0 
+('Grosuplje', 'Ormoz') 32603.0 
+('Ruse', 'Smarje pri Jelsah') 32689.0 
+('Smarje pri Jelsah', 'Ruse') 32689.0 
+('Tolmin', 'Radovljica') 32703.0 
+('Radovljica', 'Tolmin') 32703.0 
+('Brezice', 'Hrastnik') 32829.0 
+('Hrastnik', 'Brezice') 32829.0 
+('Slovenska Bistrica', 'Trbovlje') 32864.0 
+('Trbovlje', 'Slovenska Bistrica') 32864.0 
+('Ribnica', 'Lendava/Lendva') 32867.0 
+('Lendava/Lendva', 'Ribnica') 32867.0 
+('Jesenice', 'Litija') 32935.0 
+('Litija', 'Jesenice') 32935.0 
+('Radovljica', 'Velenje') 33050.0 
+('Velenje', 'Radovljica') 33050.0 
+('Piran/Pirano', 'Radovljica') 33133.0 
+('Radovljica', 'Piran/Pirano') 33133.0 
+('Smarje pri Jelsah', 'Trzic') 33172.0 
+('Trzic', 'Smarje pri Jelsah') 33172.0 
+('Sezana', 'Hrastnik') 33305.0 
+('Hrastnik', 'Sezana') 33305.0 
+('Tolmin', 'Slovenska Bistrica') 33345.0 
+('Slovenska Bistrica', 'Tolmin') 33345.0 
+('Smarje pri Jelsah', 'Mozirje') 33347.0 
+('Mozirje', 'Smarje pri Jelsah') 33347.0 
+('Jesenice', 'Kocevje') 33370.0 
+('Kocevje', 'Jesenice') 33370.0 
+('Dravograd', 'Ajdovscina') 33393.0 
+('Ajdovscina', 'Dravograd') 33393.0 
+('Litija', 'Radovljica') 33507.0 
+('Radovljica', 'Litija') 33507.0 
+('Jesenice', 'Pesnica') 33536.0 
+('Pesnica', 'Jesenice') 33536.0 
+('Metlika', 'Ajdovscina') 33600.0 
+('Ajdovscina', 'Metlika') 33600.0 
+('Piran/Pirano', 'Slovenska Bistrica') 33775.0 
+('Slovenska Bistrica', 'Piran/Pirano') 33775.0 
+('Crnomelj', 'Jesenice') 33811.0 
+('Jesenice', 'Crnomelj') 33811.0 
+('Radovljica', 'Kocevje') 33942.0 
+('Kocevje', 'Radovljica') 33942.0 
+('Smarje pri Jelsah', 'Ilirska Bistrica') 33967.0 
+('Ilirska Bistrica', 'Smarje pri Jelsah') 33967.0 
+('Pesnica', 'Radovljica') 34108.0 
+('Radovljica', 'Pesnica') 34108.0 
+('Litija', 'Slovenska Bistrica') 34149.0 
+('Slovenska Bistrica', 'Litija') 34149.0 
+('Skofja Loka', 'Gornja Radgona') 34188.0 
+('Gornja Radgona', 'Skofja Loka') 34188.0 
+('Sentjur pri Celju', 'Jesenice') 34238.0 
+('Jesenice', 'Sentjur pri Celju') 34238.0 
+('Hrastnik', 'Lendava/Lendva') 34263.0 
+('Lendava/Lendva', 'Hrastnik') 34263.0 
+('Radovljica', 'Crnomelj') 34383.0 
+('Crnomelj', 'Radovljica') 34383.0 
+('Skofja Loka', 'Koper/Capodistria') 34522.0 
+('Koper/Capodistria', 'Skofja Loka') 34522.0 
+('Cerknica', 'Smarje pri Jelsah') 34549.0 
+('Smarje pri Jelsah', 'Cerknica') 34549.0 
+('Kocevje', 'Slovenska Bistrica') 34584.0 
+('Slovenska Bistrica', 'Kocevje') 34584.0 
+('Logatec', 'Brezice') 34657.0 
+('Brezice', 'Logatec') 34657.0 
+('Pesnica', 'Slovenska Bistrica') 34750.0 
+('Slovenska Bistrica', 'Pesnica') 34750.0 
+('Radovljica', 'Sentjur pri Celju') 34810.0 
+('Sentjur pri Celju', 'Radovljica') 34810.0 
+('Slovenska Bistrica', 'Crnomelj') 35025.0 
+('Crnomelj', 'Slovenska Bistrica') 35025.0 
+('Sezana', 'Logatec') 35133.0 
+('Logatec', 'Sezana') 35133.0 
+('Ruse', 'Kamnik') 35276.0 
+('Kamnik', 'Ruse') 35276.0 
+('Lendava/Lendva', 'Zalec') 35405.0 
+('Zalec', 'Lendava/Lendva') 35405.0 
+('Slovenska Bistrica', 'Sentjur pri Celju') 35452.0 
+('Sentjur pri Celju', 'Slovenska Bistrica') 35452.0 
+('Velenje', 'Grosuplje') 35557.0 
+('Grosuplje', 'Velenje') 35557.0 
+('Trbovlje', 'Skofja Loka') 35597.0 
+('Skofja Loka', 'Trbovlje') 35597.0 
+('Grosuplje', 'Ruse') 35617.0 
+('Ruse', 'Grosuplje') 35617.0 
+('Trzic', 'Kamnik') 35759.0 
+('Kamnik', 'Trzic') 35759.0 
+('Ljutomer', 'Jesenice') 35825.0 
+('Jesenice', 'Ljutomer') 35825.0 
+('Kamnik', 'Mozirje') 35934.0 
+('Mozirje', 'Kamnik') 35934.0 
+('Skofja Loka', 'Tolmin') 36078.0 
+('Tolmin', 'Skofja Loka') 36078.0 
+('Logatec', 'Lendava/Lendva') 36091.0 
+('Lendava/Lendva', 'Logatec') 36091.0 
+('Grosuplje', 'Trzic') 36100.0 
+('Trzic', 'Grosuplje') 36100.0 
+('Grosuplje', 'Mozirje') 36275.0 
+('Mozirje', 'Grosuplje') 36275.0 
+('Zalec', 'Sezana') 36363.0 
+('Sezana', 'Zalec') 36363.0 
+('Ljutomer', 'Radovljica') 36397.0 
+('Radovljica', 'Ljutomer') 36397.0 
+('Jesenice', 'Lasko') 36470.0 
+('Lasko', 'Jesenice') 36470.0 
+('Skofja Loka', 'Piran/Pirano') 36508.0 
+('Piran/Pirano', 'Skofja Loka') 36508.0 
+('Ilirska Bistrica', 'Kamnik') 36554.0 
+('Kamnik', 'Ilirska Bistrica') 36554.0 
+('Krsko', 'Ribnica') 36787.0 
+('Ribnica', 'Krsko') 36787.0 
+('Ribnica', 'Ravne na Koroskem') 36798.0 
+('Ravne na Koroskem', 'Ribnica') 36798.0 
+('Zalec', 'Brezice') 36839.0 
+('Brezice', 'Zalec') 36839.0 
+('Skofja Loka', 'Litija') 36882.0 
+('Litija', 'Skofja Loka') 36882.0 
+('Grosuplje', 'Ilirska Bistrica') 36895.0 
+('Ilirska Bistrica', 'Grosuplje') 36895.0 
+('Ljutomer', 'Slovenska Bistrica') 37039.0 
+('Slovenska Bistrica', 'Ljutomer') 37039.0 
+('Lasko', 'Radovljica') 37042.0 
+('Radovljica', 'Lasko') 37042.0 
+('Sevnica', 'Jesenice') 37113.0 
+('Jesenice', 'Sevnica') 37113.0 
+('Cerknica', 'Kamnik') 37136.0 
+('Kamnik', 'Cerknica') 37136.0 
+('Kocevje', 'Skofja Loka') 37317.0 
+('Skofja Loka', 'Kocevje') 37317.0 
+('Cerknica', 'Grosuplje') 37477.0 
+('Grosuplje', 'Cerknica') 37477.0 
+('Pesnica', 'Skofja Loka') 37483.0 
+('Skofja Loka', 'Pesnica') 37483.0 
+('Lasko', 'Slovenska Bistrica') 37684.0 
+('Slovenska Bistrica', 'Lasko') 37684.0 
+('Sevnica', 'Radovljica') 37685.0 
+('Radovljica', 'Sevnica') 37685.0 
+('Crnomelj', 'Skofja Loka') 37758.0 
+('Skofja Loka', 'Crnomelj') 37758.0 
+('Jesenice', 'Lenart') 38033.0 
+('Lenart', 'Jesenice') 38033.0 
+('Krsko', 'Hrastnik') 38183.0 
+('Hrastnik', 'Krsko') 38183.0 
+('Skofja Loka', 'Sentjur pri Celju') 38185.0 
+('Sentjur pri Celju', 'Skofja Loka') 38185.0 
+('Hrastnik', 'Ravne na Koroskem') 38194.0 
+('Ravne na Koroskem', 'Hrastnik') 38194.0 
+('Grosuplje', 'Domzale') 38239.0 
+('Domzale', 'Grosuplje') 38239.0 
+('Jesenice', 'Izola/Isola') 38266.0 
+('Izola/Isola', 'Jesenice') 38266.0 
+('Sevnica', 'Slovenska Bistrica') 38327.0 
+('Slovenska Bistrica', 'Sevnica') 38327.0 
+('Celje', 'Domzale') 38428.0 
+('Domzale', 'Celje') 38428.0 
+('Lenart', 'Radovljica') 38605.0 
+('Radovljica', 'Lenart') 38605.0 
+('Radovljica', 'Izola/Isola') 38838.0 
+('Izola/Isola', 'Radovljica') 38838.0 
+('Jesenice', 'Trebnje') 38910.0 
+('Trebnje', 'Jesenice') 38910.0 
+('Brezice', 'Dravograd') 38916.0 
+('Dravograd', 'Brezice') 38916.0 
+('Jesenice', 'Radlje ob Dravi') 38924.0 
+('Radlje ob Dravi', 'Jesenice') 38924.0 
+('Domzale', 'Kamnik') 39048.0 
+('Kamnik', 'Domzale') 39048.0 
+('Jesenice', 'Zagorje ob Savi') 39071.0 
+('Zagorje ob Savi', 'Jesenice') 39071.0 
+('Brezice', 'Metlika') 39123.0 
+('Metlika', 'Brezice') 39123.0 
+('Idrija', 'Jesenice') 39224.0 
+('Jesenice', 'Idrija') 39224.0 
+('Slovenska Bistrica', 'Lenart') 39247.0 
+('Lenart', 'Slovenska Bistrica') 39247.0 
+('Sezana', 'Dravograd') 39392.0 
+('Dravograd', 'Sezana') 39392.0 
+('Jesenice', 'Ormoz') 39403.0 
+('Ormoz', 'Jesenice') 39403.0 
+('Izola/Isola', 'Slovenska Bistrica') 39480.0 
+('Slovenska Bistrica', 'Izola/Isola') 39480.0 
+('Radovljica', 'Trebnje') 39482.0 
+('Trebnje', 'Radovljica') 39482.0 
+('Radovljica', 'Radlje ob Dravi') 39496.0 
+('Radlje ob Dravi', 'Radovljica') 39496.0 
+('Metlika', 'Sezana') 39599.0 
+('Sezana', 'Metlika') 39599.0 
+('Radovljica', 'Zagorje ob Savi') 39643.0 
+('Zagorje ob Savi', 'Radovljica') 39643.0 
+('Skofja Loka', 'Ljutomer') 39772.0 
+('Ljutomer', 'Skofja Loka') 39772.0 
+('Idrija', 'Radovljica') 39796.0 
+('Radovljica', 'Idrija') 39796.0 
+('Radovljica', 'Ormoz') 39975.0 
+('Ormoz', 'Radovljica') 39975.0 
+('Logatec', 'Krsko') 40011.0 
+('Krsko', 'Logatec') 40011.0 
+('Ravne na Koroskem', 'Logatec') 40022.0 
+('Velenje', 'Ptuj') 40022.0 
+('Logatec', 'Ravne na Koroskem') 40022.0 
+('Ptuj', 'Velenje') 40022.0 
+('Slovenska Bistrica', 'Trebnje') 40124.0 
+('Trebnje', 'Slovenska Bistrica') 40124.0 
+('Slovenska Bistrica', 'Radlje ob Dravi') 40138.0 
+('Radlje ob Dravi', 'Slovenska Bistrica') 40138.0 
+('Slovenska Bistrica', 'Zagorje ob Savi') 40285.0 
+('Zagorje ob Savi', 'Slovenska Bistrica') 40285.0 
+('Lendava/Lendva', 'Dravograd') 40350.0 
+('Dravograd', 'Lendava/Lendva') 40350.0 
+('Lasko', 'Skofja Loka') 40417.0 
+('Skofja Loka', 'Lasko') 40417.0 
+('Idrija', 'Slovenska Bistrica') 40438.0 
+('Slovenska Bistrica', 'Idrija') 40438.0 
+('Velenje', 'Kamnik') 40495.0 
+('Kamnik', 'Velenje') 40495.0 
+('Lendava/Lendva', 'Metlika') 40557.0 
+('Metlika', 'Lendava/Lendva') 40557.0 
+('Ormoz', 'Slovenska Bistrica') 40617.0 
+('Slovenska Bistrica', 'Ormoz') 40617.0 
+('Smarje pri Jelsah', 'Ribnica') 40812.0 
+('Ribnica', 'Smarje pri Jelsah') 40812.0 
+('Sevnica', 'Skofja Loka') 41060.0 
+('Skofja Loka', 'Sevnica') 41060.0 
+('Smarje pri Jelsah', 'Domzale') 41635.0 
+('Domzale', 'Smarje pri Jelsah') 41635.0 
+('Zalec', 'Nova Gorica') 41912.0 
+('Nova Gorica', 'Zalec') 41912.0 
+('Kranj', 'Koper/Capodistria') 41944.0 
+('Koper/Capodistria', 'Kranj') 41944.0 
+('Skofja Loka', 'Lenart') 41980.0 
+('Lenart', 'Skofja Loka') 41980.0 
+('Smarje pri Jelsah', 'Hrastnik') 42208.0 
+('Hrastnik', 'Smarje pri Jelsah') 42208.0 
+('Izola/Isola', 'Skofja Loka') 42213.0 
+('Skofja Loka', 'Izola/Isola') 42213.0 
+('Ajdovscina', 'Zalec') 42362.0 
+('Zalec', 'Ajdovscina') 42362.0 
+('Ruse', 'Jesenice') 42417.0 
+('Jesenice', 'Ruse') 42417.0 
+('Koper/Capodistria', 'Slovenska Bistrica') 42478.0 
+('Slovenska Bistrica', 'Koper/Capodistria') 42478.0 
+('Trebnje', 'Skofja Loka') 42857.0 
+('Skofja Loka', 'Trebnje') 42857.0 
+('Radlje ob Dravi', 'Skofja Loka') 42871.0 
+('Skofja Loka', 'Radlje ob Dravi') 42871.0 
+('Trzic', 'Jesenice') 42900.0 
+('Jesenice', 'Trzic') 42900.0 
+('Smarje pri Jelsah', 'Velenje') 42910.0 
+('Velenje', 'Smarje pri Jelsah') 42910.0 
+('Radovljica', 'Ruse') 42989.0 
+('Ruse', 'Radovljica') 42989.0 
+('Skofja Loka', 'Zagorje ob Savi') 43018.0 
+('Zagorje ob Savi', 'Skofja Loka') 43018.0 
+('Jesenice', 'Mozirje') 43075.0 
+('Mozirje', 'Jesenice') 43075.0 
+('Idrija', 'Skofja Loka') 43171.0 
+('Skofja Loka', 'Idrija') 43171.0 
+('Ormoz', 'Skofja Loka') 43350.0 
+('Skofja Loka', 'Ormoz') 43350.0 
+('Ribnica', 'Kamnik') 43399.0 
+('Kamnik', 'Ribnica') 43399.0 
+('Trzic', 'Radovljica') 43472.0 
+('Radovljica', 'Trzic') 43472.0 
+('Slovenska Bistrica', 'Ruse') 43631.0 
+('Ruse', 'Slovenska Bistrica') 43631.0 
+('Mozirje', 'Radovljica') 43647.0 
+('Radovljica', 'Mozirje') 43647.0 
+('Ilirska Bistrica', 'Jesenice') 43695.0 
+('Jesenice', 'Ilirska Bistrica') 43695.0 
+('Ribnica', 'Grosuplje') 43740.0 
+('Grosuplje', 'Ribnica') 43740.0 
+('Koper/Capodistria', 'Jesenice') 43834.0 
+('Jesenice', 'Koper/Capodistria') 43834.0 
+('Smarje pri Jelsah', 'Logatec') 44036.0 
+('Logatec', 'Smarje pri Jelsah') 44036.0 
+('Trzic', 'Slovenska Bistrica') 44114.0 
+('Slovenska Bistrica', 'Trzic') 44114.0 
+('Ilirska Bistrica', 'Radovljica') 44267.0 
+('Radovljica', 'Ilirska Bistrica') 44267.0 
+('Krsko', 'Dravograd') 44270.0 
+('Dravograd', 'Krsko') 44270.0 
+('Jesenice', 'Cerknica') 44277.0 
+('Cerknica', 'Jesenice') 44277.0 
+('Dravograd', 'Ravne na Koroskem') 44281.0 
+('Ravne na Koroskem', 'Dravograd') 44281.0 
+('Mozirje', 'Slovenska Bistrica') 44289.0 
+('Slovenska Bistrica', 'Mozirje') 44289.0 
+('Murska Sobota', 'Zalec') 44458.0 
+('Zalec', 'Murska Sobota') 44458.0 
+('Metlika', 'Krsko') 44477.0 
+('Krsko', 'Metlika') 44477.0 
+('Metlika', 'Ravne na Koroskem') 44488.0 
+('Ravne na Koroskem', 'Metlika') 44488.0 
+('Radovljica', 'Koper/Capodistria') 44556.0 
+('Koper/Capodistria', 'Radovljica') 44556.0 
+('Hrastnik', 'Kamnik') 44795.0 
+('Kamnik', 'Hrastnik') 44795.0 
+('Cerknica', 'Radovljica') 44849.0 
+('Radovljica', 'Cerknica') 44849.0 
+('Ilirska Bistrica', 'Slovenska Bistrica') 44909.0 
+('Slovenska Bistrica', 'Ilirska Bistrica') 44909.0 
+('Postojna', 'Zalec') 45116.0 
+('Zalec', 'Postojna') 45116.0 
+('Grosuplje', 'Hrastnik') 45136.0 
+('Hrastnik', 'Grosuplje') 45136.0 
+('Slovenj Gradec', 'Zalec') 45324.0 
+('Zalec', 'Slovenj Gradec') 45324.0 
+('Slovenska Bistrica', 'Cerknica') 45491.0 
+('Cerknica', 'Slovenska Bistrica') 45491.0 
+('Vrhnika', 'Zalec') 45585.0 
+('Zalec', 'Vrhnika') 45585.0 
+('Domzale', 'Ravne na Koroskem') 45649.0 
+('Ravne na Koroskem', 'Domzale') 45649.0 
+('Krsko', 'Domzale') 45660.0 
+('Domzale', 'Krsko') 45660.0 
+('Slovenske Konjice', 'Zalec') 45832.0 
+('Zalec', 'Slovenske Konjice') 45832.0 
+('Skofja Loka', 'Ruse') 46364.0 
+('Ruse', 'Skofja Loka') 46364.0 
+('Kamnik', 'Logatec') 46623.0 
+('Logatec', 'Kamnik') 46623.0 
+('Ptuj', 'Domzale') 46819.0 
+('Domzale', 'Ptuj') 46819.0 
+('Trzic', 'Skofja Loka') 46847.0 
+('Skofja Loka', 'Trzic') 46847.0 
+('Grosuplje', 'Logatec') 46964.0 
+('Logatec', 'Grosuplje') 46964.0 
+('Skofja Loka', 'Mozirje') 47022.0 
+('Mozirje', 'Skofja Loka') 47022.0 
+('Ilirska Bistrica', 'Skofja Loka') 47642.0 
+('Skofja Loka', 'Ilirska Bistrica') 47642.0 
+('Gornja Radgona', 'Zalec') 47973.0 
+('Zalec', 'Gornja Radgona') 47973.0 
+('Cerknica', 'Skofja Loka') 48224.0 
+('Skofja Loka', 'Cerknica') 48224.0 
+('Dravograd', 'Smarje pri Jelsah') 48295.0 
+('Smarje pri Jelsah', 'Dravograd') 48295.0 
+('Smarje pri Jelsah', 'Metlika') 48502.0 
+('Metlika', 'Smarje pri Jelsah') 48502.0 
+('Grosuplje', 'Koper/Capodistria') 48986.0 
+('Koper/Capodistria', 'Grosuplje') 48986.0 
+('Velenje', 'Ravne na Koroskem') 49034.0 
+('Ravne na Koroskem', 'Velenje') 49034.0 
+('Krsko', 'Velenje') 49045.0 
+('Velenje', 'Krsko') 49045.0 
+('Trbovlje', 'Zalec') 49382.0 
+('Zalec', 'Trbovlje') 49382.0 
+('Novo mesto', 'Skofja Loka') 49458.0 
+('Skofja Loka', 'Novo mesto') 49458.0 
+('Domzale', 'Lendava/Lendva') 49580.0 
+('Lendava/Lendva', 'Domzale') 49580.0 
+('Zalec', 'Tolmin') 49863.0 
+('Tolmin', 'Zalec') 49863.0 
+('Piran/Pirano', 'Zalec') 50293.0 
+('Zalec', 'Piran/Pirano') 50293.0 
+('Domzale', 'Sezana') 50538.0 
+('Sezana', 'Domzale') 50538.0 
+('Ribnica', 'Jesenice') 50540.0 
+('Jesenice', 'Ribnica') 50540.0 
+('Zalec', 'Litija') 50667.0 
+('Litija', 'Zalec') 50667.0 
+('Dravograd', 'Kamnik') 50882.0 
+('Kamnik', 'Dravograd') 50882.0 
+('Domzale', 'Brezice') 51014.0 
+('Brezice', 'Domzale') 51014.0 
+('Kamnik', 'Metlika') 51089.0 
+('Metlika', 'Kamnik') 51089.0 
+('Zalec', 'Kocevje') 51102.0 
+('Kocevje', 'Zalec') 51102.0 
+('Ribnica', 'Radovljica') 51112.0 
+('Radovljica', 'Ribnica') 51112.0 
+('Dravograd', 'Grosuplje') 51223.0 
+('Grosuplje', 'Dravograd') 51223.0 
+('Pesnica', 'Zalec') 51268.0 
+('Zalec', 'Pesnica') 51268.0 
+('Grosuplje', 'Metlika') 51430.0 
+('Metlika', 'Grosuplje') 51430.0 
+('Zalec', 'Crnomelj') 51543.0 
+('Crnomelj', 'Zalec') 51543.0 
+('Ribnica', 'Slovenska Bistrica') 51754.0 
+('Slovenska Bistrica', 'Ribnica') 51754.0 
+('Jesenice', 'Hrastnik') 51936.0 
+('Hrastnik', 'Jesenice') 51936.0 
+('Zalec', 'Sentjur pri Celju') 51970.0 
+('Sentjur pri Celju', 'Zalec') 51970.0 
+('Radovljica', 'Hrastnik') 52508.0 
+('Hrastnik', 'Radovljica') 52508.0 
+('Zalec', 'Celje') 52603.0 
+('Celje', 'Zalec') 52603.0 
+('Koper/Capodistria', 'Kamnik') 52633.0 
+('Kamnik', 'Koper/Capodistria') 52633.0 
+('Lendava/Lendva', 'Velenje') 52965.0 
+('Velenje', 'Lendava/Lendva') 52965.0 
+('Slovenska Bistrica', 'Novo mesto') 53031.0 
+('Novo mesto', 'Slovenska Bistrica') 53031.0 
+('Hrastnik', 'Slovenska Bistrica') 53150.0 
+('Slovenska Bistrica', 'Hrastnik') 53150.0 
+('Velenje', 'Kranj') 53255.0 
+('Kranj', 'Velenje') 53255.0 
+('Zalec', 'Ljutomer') 53557.0 
+('Ljutomer', 'Zalec') 53557.0 
+('Radovljica', 'Novo mesto') 53673.0 
+('Novo mesto', 'Radovljica') 53673.0 
+('Logatec', 'Jesenice') 53764.0 
+('Jesenice', 'Logatec') 53764.0 
+('Velenje', 'Sezana') 53923.0 
+('Sezana', 'Velenje') 53923.0 
+('Lasko', 'Zalec') 54202.0 
+('Zalec', 'Lasko') 54202.0 
+('Jesenice', 'Novo mesto') 54245.0 
+('Novo mesto', 'Jesenice') 54245.0 
+('Radovljica', 'Logatec') 54336.0 
+('Logatec', 'Radovljica') 54336.0 
+('Velenje', 'Brezice') 54399.0 
+('Brezice', 'Velenje') 54399.0 
+('Skofja Loka', 'Ribnica') 54487.0 
+('Ribnica', 'Skofja Loka') 54487.0 
+('Sevnica', 'Zalec') 54845.0 
+('Zalec', 'Sevnica') 54845.0 
+('Slovenska Bistrica', 'Logatec') 54978.0 
+('Logatec', 'Slovenska Bistrica') 54978.0 
+('Smarje pri Jelsah', 'Koper/Capodistria') 55220.0 
+('Koper/Capodistria', 'Smarje pri Jelsah') 55220.0 
+('Zalec', 'Lenart') 55765.0 
+('Lenart', 'Zalec') 55765.0 
+('Hrastnik', 'Skofja Loka') 55883.0 
+('Skofja Loka', 'Hrastnik') 55883.0 
+('Zalec', 'Izola/Isola') 55998.0 
+('Izola/Isola', 'Zalec') 55998.0 
+('Domzale', 'Ajdovscina') 56537.0 
+('Ajdovscina', 'Domzale') 56537.0 
+('Kranj', 'Domzale') 56640.0 
+('Domzale', 'Kranj') 56640.0 
+('Zalec', 'Trebnje') 56642.0 
+('Trebnje', 'Zalec') 56642.0 
+('Zalec', 'Radlje ob Dravi') 56656.0 
+('Radlje ob Dravi', 'Zalec') 56656.0 
+('Zagorje ob Savi', 'Zalec') 56803.0 
+('Zalec', 'Zagorje ob Savi') 56803.0 
+('Idrija', 'Zalec') 56956.0 
+('Zalec', 'Idrija') 56956.0 
+('Ormoz', 'Zalec') 57135.0 
+('Zalec', 'Ormoz') 57135.0 
+('Skofja Loka', 'Logatec') 57711.0 
+('Logatec', 'Skofja Loka') 57711.0 
+('Dravograd', 'Jesenice') 58023.0 
+('Jesenice', 'Dravograd') 58023.0 
+('Jesenice', 'Metlika') 58230.0 
+('Metlika', 'Jesenice') 58230.0 
+('Skofja Loka', 'Murska Sobota') 58243.0 
+('Murska Sobota', 'Skofja Loka') 58243.0 
+('Radovljica', 'Dravograd') 58595.0 
+('Dravograd', 'Radovljica') 58595.0 
+('Metlika', 'Radovljica') 58802.0 
+('Radovljica', 'Metlika') 58802.0 
+('Koper/Capodistria', 'Ravne na Koroskem') 59234.0 
+('Ravne na Koroskem', 'Koper/Capodistria') 59234.0 
+('Dravograd', 'Slovenska Bistrica') 59237.0 
+('Slovenska Bistrica', 'Dravograd') 59237.0 
+('Krsko', 'Koper/Capodistria') 59245.0 
+('Koper/Capodistria', 'Krsko') 59245.0 
+('Postojna', 'Domzale') 59291.0 
+('Domzale', 'Postojna') 59291.0 
+('Metlika', 'Slovenska Bistrica') 59444.0 
+('Slovenska Bistrica', 'Metlika') 59444.0 
+('Slovenj Gradec', 'Domzale') 59499.0 
+('Domzale', 'Slovenj Gradec') 59499.0 
+('Vrhnika', 'Domzale') 59760.0 
+('Domzale', 'Vrhnika') 59760.0 
+('Velenje', 'Ajdovscina') 59922.0 
+('Ajdovscina', 'Velenje') 59922.0 
+('Domzale', 'Slovenske Konjice') 60007.0 
+('Slovenske Konjice', 'Domzale') 60007.0 
+('Zalec', 'Ruse') 60149.0 
+('Ruse', 'Zalec') 60149.0 
+('Trzic', 'Zalec') 60632.0 
+('Zalec', 'Trzic') 60632.0 
+('Zalec', 'Mozirje') 60807.0 
+('Mozirje', 'Zalec') 60807.0 
+('Murska Sobota', 'Slovenska Bistrica') 60976.0 
+('Slovenska Bistrica', 'Murska Sobota') 60976.0 
+('Ptuj', 'Zalec') 60994.0 
+('Zalec', 'Ptuj') 60994.0 
+('Novo mesto', 'Grosuplje') 61045.0 
+('Grosuplje', 'Novo mesto') 61045.0 
+('Novo mesto', 'Kamnik') 61386.0 
+('Kamnik', 'Novo mesto') 61386.0 
+('Zalec', 'Ilirska Bistrica') 61427.0 
+('Ilirska Bistrica', 'Zalec') 61427.0 
+('Skofja Loka', 'Nova Gorica') 61448.0 
+('Nova Gorica', 'Skofja Loka') 61448.0 
+('Radovljica', 'Murska Sobota') 61618.0 
+('Murska Sobota', 'Radovljica') 61618.0 
+('Skofja Loka', 'Dravograd') 61970.0 
+('Dravograd', 'Skofja Loka') 61970.0 
+('Cerknica', 'Zalec') 62009.0 
+('Zalec', 'Cerknica') 62009.0 
+('Domzale', 'Gornja Radgona') 62148.0 
+('Gornja Radgona', 'Domzale') 62148.0 
+('Metlika', 'Skofja Loka') 62177.0 
+('Skofja Loka', 'Metlika') 62177.0 
+('Murska Sobota', 'Jesenice') 62190.0 
+('Jesenice', 'Murska Sobota') 62190.0 
+('Velenje', 'Postojna') 62676.0 
+('Postojna', 'Velenje') 62676.0 
+('Slovenj Gradec', 'Velenje') 62884.0 
+('Velenje', 'Slovenj Gradec') 62884.0 
+('Velenje', 'Vrhnika') 63145.0 
+('Vrhnika', 'Velenje') 63145.0 
+('Koper/Capodistria', 'Lendava/Lendva') 63165.0 
+('Lendava/Lendva', 'Koper/Capodistria') 63165.0 
+('Slovenske Konjice', 'Velenje') 63392.0 
+('Velenje', 'Slovenske Konjice') 63392.0 
+('Domzale', 'Trbovlje') 63557.0 
+('Trbovlje', 'Domzale') 63557.0 
+('Novo mesto', 'Smarje pri Jelsah') 63973.0 
+('Smarje pri Jelsah', 'Novo mesto') 63973.0 
+('Domzale', 'Tolmin') 64038.0 
+('Tolmin', 'Domzale') 64038.0 
+('Koper/Capodistria', 'Sezana') 64123.0 
+('Sezana', 'Koper/Capodistria') 64123.0 
+('Nova Gorica', 'Slovenska Bistrica') 64181.0 
+('Slovenska Bistrica', 'Nova Gorica') 64181.0 
+('Piran/Pirano', 'Domzale') 64468.0 
+('Domzale', 'Piran/Pirano') 64468.0 
+('Koper/Capodistria', 'Brezice') 64599.0 
+('Brezice', 'Koper/Capodistria') 64599.0 
+('Radovljica', 'Nova Gorica') 64823.0 
+('Nova Gorica', 'Radovljica') 64823.0 
+('Domzale', 'Litija') 64842.0 
+('Litija', 'Domzale') 64842.0 
+('Kocevje', 'Domzale') 65277.0 
+('Domzale', 'Kocevje') 65277.0 
+('Jesenice', 'Nova Gorica') 65395.0 
+('Nova Gorica', 'Jesenice') 65395.0 
+('Domzale', 'Pesnica') 65443.0 
+('Pesnica', 'Domzale') 65443.0 
+('Velenje', 'Gornja Radgona') 65533.0 
+('Gornja Radgona', 'Velenje') 65533.0 
+('Domzale', 'Crnomelj') 65718.0 
+('Crnomelj', 'Domzale') 65718.0 
+('Domzale', 'Sentjur pri Celju') 66145.0 
+('Sentjur pri Celju', 'Domzale') 66145.0 
+('Celje', 'Skofja Loka') 66388.0 
+('Skofja Loka', 'Celje') 66388.0 
+('Velenje', 'Trbovlje') 66942.0 
+('Trbovlje', 'Velenje') 66942.0 
+('Tolmin', 'Velenje') 67423.0 
+('Velenje', 'Tolmin') 67423.0 
+('Ljutomer', 'Domzale') 67732.0 
+('Domzale', 'Ljutomer') 67732.0 
+('Piran/Pirano', 'Velenje') 67853.0 
+('Velenje', 'Piran/Pirano') 67853.0 
+('Novo mesto', 'Ravne na Koroskem') 67987.0 
+('Ravne na Koroskem', 'Novo mesto') 67987.0 
+('Krsko', 'Novo mesto') 67998.0 
+('Novo mesto', 'Krsko') 67998.0 
+('Velenje', 'Litija') 68227.0 
+('Litija', 'Velenje') 68227.0 
+('Zalec', 'Ribnica') 68272.0 
+('Ribnica', 'Zalec') 68272.0 
+('Domzale', 'Lasko') 68377.0 
+('Lasko', 'Domzale') 68377.0 
+('Velenje', 'Kocevje') 68662.0 
+('Kocevje', 'Velenje') 68662.0 
+('Pesnica', 'Velenje') 68828.0 
+('Velenje', 'Pesnica') 68828.0 
+('Murska Sobota', 'Grosuplje') 68990.0 
+('Grosuplje', 'Murska Sobota') 68990.0 
+('Sevnica', 'Domzale') 69020.0 
+('Domzale', 'Sevnica') 69020.0 
+('Velenje', 'Crnomelj') 69103.0 
+('Crnomelj', 'Velenje') 69103.0 
+('Slovenska Bistrica', 'Celje') 69121.0 
+('Celje', 'Slovenska Bistrica') 69121.0 
+('Murska Sobota', 'Kamnik') 69331.0 
+('Kamnik', 'Murska Sobota') 69331.0 
+('Velenje', 'Sentjur pri Celju') 69530.0 
+('Sentjur pri Celju', 'Velenje') 69530.0 
+('Zalec', 'Hrastnik') 69668.0 
+('Hrastnik', 'Zalec') 69668.0 
+('Radovljica', 'Celje') 69763.0 
+('Celje', 'Radovljica') 69763.0 
+('Domzale', 'Lenart') 69940.0 
+('Lenart', 'Domzale') 69940.0 
+('Ajdovscina', 'Koper/Capodistria') 70122.0 
+('Koper/Capodistria', 'Ajdovscina') 70122.0 
+('Izola/Isola', 'Domzale') 70173.0 
+('Domzale', 'Izola/Isola') 70173.0 
+('Celje', 'Jesenice') 70335.0 
+('Jesenice', 'Celje') 70335.0 
+('Kranj', 'Zalec') 70815.0 
+('Zalec', 'Kranj') 70815.0 
+('Trebnje', 'Domzale') 70817.0 
+('Domzale', 'Trebnje') 70817.0 
+('Domzale', 'Radlje ob Dravi') 70831.0 
+('Radlje ob Dravi', 'Domzale') 70831.0 
+('Zagorje ob Savi', 'Domzale') 70978.0 
+('Domzale', 'Zagorje ob Savi') 70978.0 
+('Velenje', 'Ljutomer') 71117.0 
+('Ljutomer', 'Velenje') 71117.0 
+('Domzale', 'Idrija') 71131.0 
+('Idrija', 'Domzale') 71131.0 
+('Domzale', 'Ormoz') 71310.0 
+('Ormoz', 'Domzale') 71310.0 
+('Logatec', 'Zalec') 71496.0 
+('Zalec', 'Logatec') 71496.0 
+('Lasko', 'Velenje') 71762.0 
+('Velenje', 'Lasko') 71762.0 
+('Murska Sobota', 'Smarje pri Jelsah') 71918.0 
+('Smarje pri Jelsah', 'Murska Sobota') 71918.0 
+('Novo mesto', 'Lendava/Lendva') 71918.0 
+('Lendava/Lendva', 'Novo mesto') 71918.0 
+('Grosuplje', 'Nova Gorica') 72195.0 
+('Nova Gorica', 'Grosuplje') 72195.0 
+('Sevnica', 'Velenje') 72405.0 
+('Velenje', 'Sevnica') 72405.0 
+('Kamnik', 'Nova Gorica') 72536.0 
+('Nova Gorica', 'Kamnik') 72536.0 
+('Koper/Capodistria', 'Postojna') 72876.0 
+('Postojna', 'Koper/Capodistria') 72876.0 
+('Sezana', 'Novo mesto') 72876.0 
+('Novo mesto', 'Sezana') 72876.0 
+('Slovenj Gradec', 'Koper/Capodistria') 73084.0 
+('Koper/Capodistria', 'Slovenj Gradec') 73084.0 
+('Lenart', 'Velenje') 73325.0 
+('Velenje', 'Lenart') 73325.0 
+('Koper/Capodistria', 'Vrhnika') 73345.0 
+('Vrhnika', 'Koper/Capodistria') 73345.0 
+('Brezice', 'Novo mesto') 73352.0 
+('Novo mesto', 'Brezice') 73352.0 
+('Izola/Isola', 'Velenje') 73558.0 
+('Velenje', 'Izola/Isola') 73558.0 
+('Koper/Capodistria', 'Slovenske Konjice') 73592.0 
+('Slovenske Konjice', 'Koper/Capodistria') 73592.0 
+('Trebnje', 'Velenje') 74202.0 
+('Velenje', 'Trebnje') 74202.0 
+('Radlje ob Dravi', 'Velenje') 74216.0 
+('Velenje', 'Radlje ob Dravi') 74216.0 
+('Domzale', 'Ruse') 74324.0 
+('Ruse', 'Domzale') 74324.0 
+('Velenje', 'Zagorje ob Savi') 74363.0 
+('Zagorje ob Savi', 'Velenje') 74363.0 
+('Velenje', 'Idrija') 74516.0 
+('Idrija', 'Velenje') 74516.0 
+('Ormoz', 'Velenje') 74695.0 
+('Velenje', 'Ormoz') 74695.0 
+('Skofja Loka', 'Ptuj') 74779.0 
+('Ptuj', 'Skofja Loka') 74779.0 
+('Domzale', 'Trzic') 74807.0 
+('Trzic', 'Domzale') 74807.0 
+('Domzale', 'Mozirje') 74982.0 
+('Mozirje', 'Domzale') 74982.0 
+('Nova Gorica', 'Smarje pri Jelsah') 75123.0 
+('Smarje pri Jelsah', 'Nova Gorica') 75123.0 
+('Domzale', 'Ilirska Bistrica') 75602.0 
+('Ilirska Bistrica', 'Domzale') 75602.0 
+('Koper/Capodistria', 'Gornja Radgona') 75733.0 
+('Gornja Radgona', 'Koper/Capodistria') 75733.0 
+('Zalec', 'Dravograd') 75755.0 
+('Dravograd', 'Zalec') 75755.0 
+('Murska Sobota', 'Ravne na Koroskem') 75932.0 
+('Ravne na Koroskem', 'Murska Sobota') 75932.0 
+('Krsko', 'Murska Sobota') 75943.0 
+('Murska Sobota', 'Krsko') 75943.0 
+('Metlika', 'Zalec') 75962.0 
+('Zalec', 'Metlika') 75962.0 
+('Domzale', 'Cerknica') 76184.0 
+('Cerknica', 'Domzale') 76184.0 
+('Grosuplje', 'Celje') 77135.0 
+('Celje', 'Grosuplje') 77135.0 
+('Trbovlje', 'Koper/Capodistria') 77142.0 
+('Koper/Capodistria', 'Trbovlje') 77142.0 
+('Celje', 'Kamnik') 77476.0 
+('Kamnik', 'Celje') 77476.0 
+('Ptuj', 'Slovenska Bistrica') 77512.0 
+('Slovenska Bistrica', 'Ptuj') 77512.0 
+('Koper/Capodistria', 'Tolmin') 77623.0 
+('Tolmin', 'Koper/Capodistria') 77623.0 
+('Ruse', 'Velenje') 77709.0 
+('Velenje', 'Ruse') 77709.0 
+('Piran/Pirano', 'Koper/Capodistria') 78053.0 
+('Koper/Capodistria', 'Piran/Pirano') 78053.0 
+('Radovljica', 'Ptuj') 78154.0 
+('Ptuj', 'Radovljica') 78154.0 
+('Velenje', 'Trzic') 78192.0 
+('Trzic', 'Velenje') 78192.0 
+('Velenje', 'Mozirje') 78367.0 
+('Mozirje', 'Velenje') 78367.0 
+('Litija', 'Koper/Capodistria') 78427.0 
+('Koper/Capodistria', 'Litija') 78427.0 
+('Jesenice', 'Ptuj') 78726.0 
+('Ptuj', 'Jesenice') 78726.0 
+('Kocevje', 'Koper/Capodistria') 78862.0 
+('Koper/Capodistria', 'Kocevje') 78862.0 
+('Ajdovscina', 'Novo mesto') 78875.0 
+('Novo mesto', 'Ajdovscina') 78875.0 
+('Velenje', 'Ilirska Bistrica') 78987.0 
+('Ilirska Bistrica', 'Velenje') 78987.0 
+('Pesnica', 'Koper/Capodistria') 79028.0 
+('Koper/Capodistria', 'Pesnica') 79028.0 
+('Nova Gorica', 'Ravne na Koroskem') 79137.0 
+('Ravne na Koroskem', 'Nova Gorica') 79137.0 
+('Krsko', 'Nova Gorica') 79148.0 
+('Nova Gorica', 'Krsko') 79148.0 
+('Koper/Capodistria', 'Crnomelj') 79303.0 
+('Crnomelj', 'Koper/Capodistria') 79303.0 
+('Cerknica', 'Velenje') 79569.0 
+('Velenje', 'Cerknica') 79569.0 
+('Koper/Capodistria', 'Sentjur pri Celju') 79730.0 
+('Sentjur pri Celju', 'Koper/Capodistria') 79730.0 
+('Murska Sobota', 'Lendava/Lendva') 79863.0 
+('Lendava/Lendva', 'Murska Sobota') 79863.0 
+('Celje', 'Smarje pri Jelsah') 80063.0 
+('Smarje pri Jelsah', 'Celje') 80063.0 
+('Murska Sobota', 'Sezana') 80821.0 
+('Sezana', 'Murska Sobota') 80821.0 
+('Murska Sobota', 'Brezice') 81297.0 
+('Brezice', 'Murska Sobota') 81297.0 
+('Koper/Capodistria', 'Ljutomer') 81317.0 
+('Ljutomer', 'Koper/Capodistria') 81317.0 
+('Novo mesto', 'Postojna') 81629.0 
+('Postojna', 'Novo mesto') 81629.0 
+('Novo mesto', 'Slovenj Gradec') 81837.0 
+('Slovenj Gradec', 'Novo mesto') 81837.0 
+('Lasko', 'Koper/Capodistria') 81962.0 
+('Koper/Capodistria', 'Lasko') 81962.0 
+('Vrhnika', 'Novo mesto') 82098.0 
+('Novo mesto', 'Vrhnika') 82098.0 
+('Slovenske Konjice', 'Novo mesto') 82345.0 
+('Novo mesto', 'Slovenske Konjice') 82345.0 
+('Ribnica', 'Domzale') 82447.0 
+('Domzale', 'Ribnica') 82447.0 
+('Koper/Capodistria', 'Sevnica') 82605.0 
+('Sevnica', 'Koper/Capodistria') 82605.0 
+('Nova Gorica', 'Lendava/Lendva') 83068.0 
+('Lendava/Lendva', 'Nova Gorica') 83068.0 
+('Lenart', 'Koper/Capodistria') 83525.0 
+('Koper/Capodistria', 'Lenart') 83525.0 
+('Koper/Capodistria', 'Izola/Isola') 83758.0 
+('Izola/Isola', 'Koper/Capodistria') 83758.0 
+('Domzale', 'Hrastnik') 83843.0 
+('Hrastnik', 'Domzale') 83843.0 
+('Nova Gorica', 'Sezana') 84026.0 
+('Sezana', 'Nova Gorica') 84026.0 
+('Celje', 'Ravne na Koroskem') 84077.0 
+('Ravne na Koroskem', 'Celje') 84077.0 
+('Celje', 'Krsko') 84088.0 
+('Krsko', 'Celje') 84088.0 
+('Koper/Capodistria', 'Trebnje') 84402.0 
+('Trebnje', 'Koper/Capodistria') 84402.0 
+('Koper/Capodistria', 'Radlje ob Dravi') 84416.0 
+('Radlje ob Dravi', 'Koper/Capodistria') 84416.0 
+('Gornja Radgona', 'Novo mesto') 84486.0 
+('Novo mesto', 'Gornja Radgona') 84486.0 
+('Brezice', 'Nova Gorica') 84502.0 
+('Nova Gorica', 'Brezice') 84502.0 
+('Koper/Capodistria', 'Zagorje ob Savi') 84563.0 
+('Zagorje ob Savi', 'Koper/Capodistria') 84563.0 
+('Kranj', 'Skofja Loka') 84600.0 
+('Skofja Loka', 'Kranj') 84600.0 
+('Idrija', 'Koper/Capodistria') 84716.0 
+('Koper/Capodistria', 'Idrija') 84716.0 
+('Koper/Capodistria', 'Ormoz') 84895.0 
+('Ormoz', 'Koper/Capodistria') 84895.0 
+('Ptuj', 'Grosuplje') 85526.0 
+('Grosuplje', 'Ptuj') 85526.0 
+('Logatec', 'Domzale') 85671.0 
+('Domzale', 'Logatec') 85671.0 
+('Ribnica', 'Velenje') 85832.0 
+('Velenje', 'Ribnica') 85832.0 
+('Kamnik', 'Ptuj') 85867.0 
+('Ptuj', 'Kamnik') 85867.0 
+('Novo mesto', 'Trbovlje') 85895.0 
+('Trbovlje', 'Novo mesto') 85895.0 
+('Tolmin', 'Novo mesto') 86376.0 
+('Novo mesto', 'Tolmin') 86376.0 
+('Piran/Pirano', 'Novo mesto') 86806.0 
+('Novo mesto', 'Piran/Pirano') 86806.0 
+('Ajdovscina', 'Murska Sobota') 86820.0 
+('Murska Sobota', 'Ajdovscina') 86820.0 
+('Novo mesto', 'Litija') 87180.0 
+('Litija', 'Novo mesto') 87180.0 
+('Velenje', 'Hrastnik') 87228.0 
+('Hrastnik', 'Velenje') 87228.0 
+('Kranj', 'Slovenska Bistrica') 87333.0 
+('Slovenska Bistrica', 'Kranj') 87333.0 
+('Novo mesto', 'Kocevje') 87615.0 
+('Kocevje', 'Novo mesto') 87615.0 
+('Novo mesto', 'Pesnica') 87781.0 
+('Pesnica', 'Novo mesto') 87781.0 
+('Koper/Capodistria', 'Ruse') 87909.0 
+('Ruse', 'Koper/Capodistria') 87909.0 
+('Radovljica', 'Kranj') 87975.0 
+('Kranj', 'Radovljica') 87975.0 
+('Lendava/Lendva', 'Celje') 88008.0 
+('Celje', 'Lendava/Lendva') 88008.0 
+('Novo mesto', 'Crnomelj') 88056.0 
+('Crnomelj', 'Novo mesto') 88056.0 
+('Trzic', 'Koper/Capodistria') 88392.0 
+('Koper/Capodistria', 'Trzic') 88392.0 
+('Ptuj', 'Smarje pri Jelsah') 88454.0 
+('Smarje pri Jelsah', 'Ptuj') 88454.0 
+('Novo mesto', 'Sentjur pri Celju') 88483.0 
+('Sentjur pri Celju', 'Novo mesto') 88483.0 
+('Kranj', 'Jesenice') 88547.0 
+('Jesenice', 'Kranj') 88547.0 
+('Koper/Capodistria', 'Mozirje') 88567.0 
+('Mozirje', 'Koper/Capodistria') 88567.0 
+('Sezana', 'Celje') 88966.0 
+('Celje', 'Sezana') 88966.0 
+('Logatec', 'Velenje') 89056.0 
+('Velenje', 'Logatec') 89056.0 
+('Ilirska Bistrica', 'Koper/Capodistria') 89187.0 
+('Koper/Capodistria', 'Ilirska Bistrica') 89187.0 
+('Celje', 'Brezice') 89442.0 
+('Brezice', 'Celje') 89442.0 
+('Murska Sobota', 'Postojna') 89574.0 
+('Postojna', 'Murska Sobota') 89574.0 
+('Cerknica', 'Koper/Capodistria') 89769.0 
+('Koper/Capodistria', 'Cerknica') 89769.0 
+('Slovenj Gradec', 'Murska Sobota') 89782.0 
+('Murska Sobota', 'Slovenj Gradec') 89782.0 
+('Domzale', 'Dravograd') 89930.0 
+('Dravograd', 'Domzale') 89930.0 
+('Ajdovscina', 'Nova Gorica') 90025.0 
+('Nova Gorica', 'Ajdovscina') 90025.0 
+('Murska Sobota', 'Vrhnika') 90043.0 
+('Vrhnika', 'Murska Sobota') 90043.0 
+('Ljutomer', 'Novo mesto') 90070.0 
+('Novo mesto', 'Ljutomer') 90070.0 
+('Metlika', 'Domzale') 90137.0 
+('Domzale', 'Metlika') 90137.0 
+('Slovenske Konjice', 'Murska Sobota') 90290.0 
+('Murska Sobota', 'Slovenske Konjice') 90290.0 
+('Lasko', 'Novo mesto') 90715.0 
+('Novo mesto', 'Lasko') 90715.0 
+('Novo mesto', 'Sevnica') 91358.0 
+('Sevnica', 'Novo mesto') 91358.0 
+('Lenart', 'Novo mesto') 92278.0 
+('Novo mesto', 'Lenart') 92278.0 
+('Gornja Radgona', 'Murska Sobota') 92431.0 
+('Murska Sobota', 'Gornja Radgona') 92431.0 
+('Ptuj', 'Ravne na Koroskem') 92468.0 
+('Ravne na Koroskem', 'Ptuj') 92468.0 
+('Ptuj', 'Krsko') 92479.0 
+('Krsko', 'Ptuj') 92479.0 
+('Novo mesto', 'Izola/Isola') 92511.0 
+('Izola/Isola', 'Novo mesto') 92511.0 
+('Nova Gorica', 'Postojna') 92779.0 
+('Postojna', 'Nova Gorica') 92779.0 
+('Nova Gorica', 'Slovenj Gradec') 92987.0 
+('Slovenj Gradec', 'Nova Gorica') 92987.0 
+('Trebnje', 'Novo mesto') 93155.0 
+('Novo mesto', 'Trebnje') 93155.0 
+('Novo mesto', 'Radlje ob Dravi') 93169.0 
+('Radlje ob Dravi', 'Novo mesto') 93169.0 
+('Vrhnika', 'Nova Gorica') 93248.0 
+('Nova Gorica', 'Vrhnika') 93248.0 
+('Velenje', 'Dravograd') 93315.0 
+('Dravograd', 'Velenje') 93315.0 
+('Zagorje ob Savi', 'Novo mesto') 93316.0 
+('Novo mesto', 'Zagorje ob Savi') 93316.0 
+('Novo mesto', 'Idrija') 93469.0 
+('Idrija', 'Novo mesto') 93469.0 
+('Nova Gorica', 'Slovenske Konjice') 93495.0 
+('Slovenske Konjice', 'Nova Gorica') 93495.0 
+('Metlika', 'Velenje') 93522.0 
+('Velenje', 'Metlika') 93522.0 
+('Ormoz', 'Novo mesto') 93648.0 
+('Novo mesto', 'Ormoz') 93648.0 
+('Murska Sobota', 'Trbovlje') 93840.0 
+('Trbovlje', 'Murska Sobota') 93840.0 
+('Tolmin', 'Murska Sobota') 94321.0 
+('Murska Sobota', 'Tolmin') 94321.0 
+('Murska Sobota', 'Piran/Pirano') 94751.0 
+('Piran/Pirano', 'Murska Sobota') 94751.0 
+('Celje', 'Ajdovscina') 94965.0 
+('Ajdovscina', 'Celje') 94965.0 
+('Murska Sobota', 'Litija') 95125.0 
+('Litija', 'Murska Sobota') 95125.0 
+('Grosuplje', 'Kranj') 95347.0 
+('Kranj', 'Grosuplje') 95347.0 
+('Murska Sobota', 'Kocevje') 95560.0 
+('Kocevje', 'Murska Sobota') 95560.0 
+('Nova Gorica', 'Gornja Radgona') 95636.0 
+('Gornja Radgona', 'Nova Gorica') 95636.0 
+('Kamnik', 'Kranj') 95688.0 
+('Kranj', 'Kamnik') 95688.0 
+('Murska Sobota', 'Pesnica') 95726.0 
+('Pesnica', 'Murska Sobota') 95726.0 
+('Murska Sobota', 'Crnomelj') 96001.0 
+('Crnomelj', 'Murska Sobota') 96001.0 
+('Ribnica', 'Koper/Capodistria') 96032.0 
+('Koper/Capodistria', 'Ribnica') 96032.0 
+('Lendava/Lendva', 'Ptuj') 96399.0 
+('Ptuj', 'Lendava/Lendva') 96399.0 
+('Sentjur pri Celju', 'Murska Sobota') 96428.0 
+('Murska Sobota', 'Sentjur pri Celju') 96428.0 
+('Ruse', 'Novo mesto') 96662.0 
+('Novo mesto', 'Ruse') 96662.0 
+('Nova Gorica', 'Trbovlje') 97045.0 
+('Trbovlje', 'Nova Gorica') 97045.0 
+('Novo mesto', 'Trzic') 97145.0 
+('Trzic', 'Novo mesto') 97145.0 
+('Mozirje', 'Novo mesto') 97320.0 
+('Novo mesto', 'Mozirje') 97320.0 
+('Ptuj', 'Sezana') 97357.0 
+('Sezana', 'Ptuj') 97357.0 
+('Hrastnik', 'Koper/Capodistria') 97428.0 
+('Koper/Capodistria', 'Hrastnik') 97428.0 
+('Tolmin', 'Nova Gorica') 97526.0 
+('Nova Gorica', 'Tolmin') 97526.0 
+('Celje', 'Postojna') 97719.0 
+('Postojna', 'Celje') 97719.0 
+('Brezice', 'Ptuj') 97833.0 
+('Ptuj', 'Brezice') 97833.0 
+('Celje', 'Slovenj Gradec') 97927.0 
+('Slovenj Gradec', 'Celje') 97927.0 
+('Ilirska Bistrica', 'Novo mesto') 97940.0 
+('Novo mesto', 'Ilirska Bistrica') 97940.0 
+('Nova Gorica', 'Piran/Pirano') 97956.0 
+('Piran/Pirano', 'Nova Gorica') 97956.0 
+('Murska Sobota', 'Ljutomer') 98015.0 
+('Ljutomer', 'Murska Sobota') 98015.0 
+('Vrhnika', 'Celje') 98188.0 
+('Celje', 'Vrhnika') 98188.0 
+('Kranj', 'Smarje pri Jelsah') 98275.0 
+('Smarje pri Jelsah', 'Kranj') 98275.0 
+('Litija', 'Nova Gorica') 98330.0 
+('Nova Gorica', 'Litija') 98330.0 
+('Slovenske Konjice', 'Celje') 98435.0 
+('Celje', 'Slovenske Konjice') 98435.0 
+('Cerknica', 'Novo mesto') 98522.0 
+('Novo mesto', 'Cerknica') 98522.0 
+('Lasko', 'Murska Sobota') 98660.0 
+('Murska Sobota', 'Lasko') 98660.0 
+('Kocevje', 'Nova Gorica') 98765.0 
+('Nova Gorica', 'Kocevje') 98765.0 
+('Nova Gorica', 'Pesnica') 98931.0 
+('Pesnica', 'Nova Gorica') 98931.0 
+('Nova Gorica', 'Crnomelj') 99206.0 
+('Crnomelj', 'Nova Gorica') 99206.0 
+('Koper/Capodistria', 'Logatec') 99256.0 
+('Logatec', 'Koper/Capodistria') 99256.0 
+('Sevnica', 'Murska Sobota') 99303.0 
+('Murska Sobota', 'Sevnica') 99303.0 
+('Sentjur pri Celju', 'Nova Gorica') 99633.0 
+('Nova Gorica', 'Sentjur pri Celju') 99633.0 
+('Murska Sobota', 'Lenart') 100223.0 
+('Lenart', 'Murska Sobota') 100223.0 
+('Izola/Isola', 'Murska Sobota') 100456.0 
+('Murska Sobota', 'Izola/Isola') 100456.0 
+('Celje', 'Gornja Radgona') 100576.0 
+('Gornja Radgona', 'Celje') 100576.0 
+('Murska Sobota', 'Trebnje') 101100.0 
+('Trebnje', 'Murska Sobota') 101100.0 
+('Radlje ob Dravi', 'Murska Sobota') 101114.0 
+('Murska Sobota', 'Radlje ob Dravi') 101114.0 
+('Nova Gorica', 'Ljutomer') 101220.0 
+('Ljutomer', 'Nova Gorica') 101220.0 
+('Zagorje ob Savi', 'Murska Sobota') 101261.0 
+('Murska Sobota', 'Zagorje ob Savi') 101261.0 
+('Idrija', 'Murska Sobota') 101414.0 
+('Murska Sobota', 'Idrija') 101414.0 
+('Murska Sobota', 'Ormoz') 101593.0 
+('Ormoz', 'Murska Sobota') 101593.0 
+('Nova Gorica', 'Lasko') 101865.0 
+('Lasko', 'Nova Gorica') 101865.0 
+('Celje', 'Trbovlje') 101985.0 
+('Trbovlje', 'Celje') 101985.0 
+('Ravne na Koroskem', 'Kranj') 102289.0 
+('Kranj', 'Ravne na Koroskem') 102289.0 
+('Krsko', 'Kranj') 102300.0 
+('Kranj', 'Krsko') 102300.0 
+('Celje', 'Tolmin') 102466.0 
+('Tolmin', 'Celje') 102466.0 
+('Nova Gorica', 'Sevnica') 102508.0 
+('Sevnica', 'Nova Gorica') 102508.0 
+('Celje', 'Piran/Pirano') 102896.0 
+('Piran/Pirano', 'Celje') 102896.0 
+('Celje', 'Litija') 103270.0 
+('Litija', 'Celje') 103270.0 
+('Ptuj', 'Ajdovscina') 103356.0 
+('Ajdovscina', 'Ptuj') 103356.0 
+('Nova Gorica', 'Lenart') 103428.0 
+('Lenart', 'Nova Gorica') 103428.0 
+('Koper/Capodistria', 'Dravograd') 103515.0 
+('Dravograd', 'Koper/Capodistria') 103515.0 
+('Izola/Isola', 'Nova Gorica') 103661.0 
+('Nova Gorica', 'Izola/Isola') 103661.0 
+('Celje', 'Kocevje') 103705.0 
+('Kocevje', 'Celje') 103705.0 
+('Koper/Capodistria', 'Metlika') 103722.0 
+('Metlika', 'Koper/Capodistria') 103722.0 
+('Celje', 'Pesnica') 103871.0 
+('Pesnica', 'Celje') 103871.0 
+('Celje', 'Crnomelj') 104146.0 
+('Crnomelj', 'Celje') 104146.0 
+('Trebnje', 'Nova Gorica') 104305.0 
+('Nova Gorica', 'Trebnje') 104305.0 
+('Nova Gorica', 'Radlje ob Dravi') 104319.0 
+('Radlje ob Dravi', 'Nova Gorica') 104319.0 
+('Zagorje ob Savi', 'Nova Gorica') 104466.0 
+('Nova Gorica', 'Zagorje ob Savi') 104466.0 
+('Sentjur pri Celju', 'Celje') 104573.0 
+('Celje', 'Sentjur pri Celju') 104573.0 
+('Murska Sobota', 'Ruse') 104607.0 
+('Ruse', 'Murska Sobota') 104607.0 
+('Nova Gorica', 'Idrija') 104619.0 
+('Idrija', 'Nova Gorica') 104619.0 
+('Novo mesto', 'Ribnica') 104785.0 
+('Ribnica', 'Novo mesto') 104785.0 
+('Nova Gorica', 'Ormoz') 104798.0 
+('Ormoz', 'Nova Gorica') 104798.0 
+('Trzic', 'Murska Sobota') 105090.0 
+('Murska Sobota', 'Trzic') 105090.0 
+('Murska Sobota', 'Mozirje') 105265.0 
+('Mozirje', 'Murska Sobota') 105265.0 
+('Ilirska Bistrica', 'Murska Sobota') 105885.0 
+('Murska Sobota', 'Ilirska Bistrica') 105885.0 
+('Postojna', 'Ptuj') 106110.0 
+('Ptuj', 'Postojna') 106110.0 
+('Celje', 'Ljutomer') 106160.0 
+('Ljutomer', 'Celje') 106160.0 
+('Hrastnik', 'Novo mesto') 106181.0 
+('Novo mesto', 'Hrastnik') 106181.0 
+('Kranj', 'Lendava/Lendva') 106220.0 
+('Lendava/Lendva', 'Kranj') 106220.0 
+('Ptuj', 'Slovenj Gradec') 106318.0 
+('Slovenj Gradec', 'Ptuj') 106318.0 
+('Cerknica', 'Murska Sobota') 106467.0 
+('Murska Sobota', 'Cerknica') 106467.0 
+('Ptuj', 'Vrhnika') 106579.0 
+('Vrhnika', 'Ptuj') 106579.0 
+('Celje', 'Lasko') 106805.0 
+('Lasko', 'Celje') 106805.0 
+('Ptuj', 'Slovenske Konjice') 106826.0 
+('Slovenske Konjice', 'Ptuj') 106826.0 
+('Kranj', 'Sezana') 107178.0 
+('Sezana', 'Kranj') 107178.0 
+('Celje', 'Sevnica') 107448.0 
+('Sevnica', 'Celje') 107448.0 
+('Kranj', 'Brezice') 107654.0 
+('Brezice', 'Kranj') 107654.0 
+('Ruse', 'Nova Gorica') 107812.0 
+('Nova Gorica', 'Ruse') 107812.0 
+('Logatec', 'Novo mesto') 108009.0 
+('Novo mesto', 'Logatec') 108009.0 
+('Nova Gorica', 'Trzic') 108295.0 
+('Trzic', 'Nova Gorica') 108295.0 
+('Celje', 'Lenart') 108368.0 
+('Lenart', 'Celje') 108368.0 
+('Nova Gorica', 'Mozirje') 108470.0 
+('Mozirje', 'Nova Gorica') 108470.0 
+('Izola/Isola', 'Celje') 108601.0 
+('Celje', 'Izola/Isola') 108601.0 
+('Ptuj', 'Gornja Radgona') 108967.0 
+('Gornja Radgona', 'Ptuj') 108967.0 
+('Nova Gorica', 'Ilirska Bistrica') 109090.0 
+('Ilirska Bistrica', 'Nova Gorica') 109090.0 
+('Celje', 'Trebnje') 109245.0 
+('Trebnje', 'Celje') 109245.0 
+('Radlje ob Dravi', 'Celje') 109259.0 
+('Celje', 'Radlje ob Dravi') 109259.0 
+('Zagorje ob Savi', 'Celje') 109406.0 
+('Celje', 'Zagorje ob Savi') 109406.0 
+('Celje', 'Idrija') 109559.0 
+('Idrija', 'Celje') 109559.0 
+('Cerknica', 'Nova Gorica') 109672.0 
+('Nova Gorica', 'Cerknica') 109672.0 
+('Celje', 'Ormoz') 109738.0 
+('Ormoz', 'Celje') 109738.0 
+('Trbovlje', 'Ptuj') 110376.0 
+('Ptuj', 'Trbovlje') 110376.0 
+('Tolmin', 'Ptuj') 110857.0 
+('Ptuj', 'Tolmin') 110857.0 
+('Ptuj', 'Piran/Pirano') 111287.0 
+('Piran/Pirano', 'Ptuj') 111287.0 
+('Litija', 'Ptuj') 111661.0 
+('Ptuj', 'Litija') 111661.0 
+('Ptuj', 'Kocevje') 112096.0 
+('Kocevje', 'Ptuj') 112096.0 
+('Ptuj', 'Pesnica') 112262.0 
+('Pesnica', 'Ptuj') 112262.0 
+('Novo mesto', 'Dravograd') 112268.0 
+('Dravograd', 'Novo mesto') 112268.0 
+('Novo mesto', 'Metlika') 112475.0 
+('Metlika', 'Novo mesto') 112475.0 
+('Ptuj', 'Crnomelj') 112537.0 
+('Crnomelj', 'Ptuj') 112537.0 
+('Ribnica', 'Murska Sobota') 112730.0 
+('Murska Sobota', 'Ribnica') 112730.0 
+('Celje', 'Ruse') 112752.0 
+('Ruse', 'Celje') 112752.0 
+('Ptuj', 'Sentjur pri Celju') 112964.0 
+('Sentjur pri Celju', 'Ptuj') 112964.0 
+('Ajdovscina', 'Kranj') 113177.0 
+('Kranj', 'Ajdovscina') 113177.0 
+('Trzic', 'Celje') 113235.0 
+('Celje', 'Trzic') 113235.0 
+('Celje', 'Mozirje') 113410.0 
+('Mozirje', 'Celje') 113410.0 
+('Ilirska Bistrica', 'Celje') 114030.0 
+('Celje', 'Ilirska Bistrica') 114030.0 
+('Murska Sobota', 'Hrastnik') 114126.0 
+('Hrastnik', 'Murska Sobota') 114126.0 
+('Ljutomer', 'Ptuj') 114551.0 
+('Ptuj', 'Ljutomer') 114551.0 
+('Cerknica', 'Celje') 114612.0 
+('Celje', 'Cerknica') 114612.0 
+('Lasko', 'Ptuj') 115196.0 
+('Ptuj', 'Lasko') 115196.0 
+('Ptuj', 'Sevnica') 115839.0 
+('Sevnica', 'Ptuj') 115839.0 
+('Kranj', 'Postojna') 115931.0 
+('Postojna', 'Kranj') 115931.0 
+('Nova Gorica', 'Ribnica') 115935.0 
+('Ribnica', 'Nova Gorica') 115935.0 
+('Murska Sobota', 'Logatec') 115954.0 
+('Logatec', 'Murska Sobota') 115954.0 
+('Kranj', 'Slovenj Gradec') 116139.0 
+('Slovenj Gradec', 'Kranj') 116139.0 
+('Vrhnika', 'Kranj') 116400.0 
+('Kranj', 'Vrhnika') 116400.0 
+('Slovenske Konjice', 'Kranj') 116647.0 
+('Kranj', 'Slovenske Konjice') 116647.0 
+('Lenart', 'Ptuj') 116759.0 
+('Ptuj', 'Lenart') 116759.0 
+('Izola/Isola', 'Ptuj') 116992.0 
+('Ptuj', 'Izola/Isola') 116992.0 
+('Hrastnik', 'Nova Gorica') 117331.0 
+('Nova Gorica', 'Hrastnik') 117331.0 
+('Ptuj', 'Trebnje') 117636.0 
+('Trebnje', 'Ptuj') 117636.0 
+('Radlje ob Dravi', 'Ptuj') 117650.0 
+('Ptuj', 'Radlje ob Dravi') 117650.0 
+('Zagorje ob Savi', 'Ptuj') 117797.0 
+('Ptuj', 'Zagorje ob Savi') 117797.0 
+('Idrija', 'Ptuj') 117950.0 
+('Ptuj', 'Idrija') 117950.0 
+('Ptuj', 'Ormoz') 118129.0 
+('Ormoz', 'Ptuj') 118129.0 
+('Gornja Radgona', 'Kranj') 118788.0 
+('Kranj', 'Gornja Radgona') 118788.0 
+('Nova Gorica', 'Logatec') 119159.0 
+('Logatec', 'Nova Gorica') 119159.0 
+('Kranj', 'Trbovlje') 120197.0 
+('Trbovlje', 'Kranj') 120197.0 
+('Murska Sobota', 'Dravograd') 120213.0 
+('Dravograd', 'Murska Sobota') 120213.0 
+('Murska Sobota', 'Metlika') 120420.0 
+('Metlika', 'Murska Sobota') 120420.0 
+('Tolmin', 'Kranj') 120678.0 
+('Kranj', 'Tolmin') 120678.0 
+('Ribnica', 'Celje') 120875.0 
+('Celje', 'Ribnica') 120875.0 
+('Kranj', 'Piran/Pirano') 121108.0 
+('Piran/Pirano', 'Kranj') 121108.0 
+('Ptuj', 'Ruse') 121143.0 
+('Ruse', 'Ptuj') 121143.0 
+('Kranj', 'Litija') 121482.0 
+('Litija', 'Kranj') 121482.0 
+('Ptuj', 'Trzic') 121626.0 
+('Trzic', 'Ptuj') 121626.0 
+('Mozirje', 'Ptuj') 121801.0 
+('Ptuj', 'Mozirje') 121801.0 
+('Kocevje', 'Kranj') 121917.0 
+('Kranj', 'Kocevje') 121917.0 
+('Pesnica', 'Kranj') 122083.0 
+('Kranj', 'Pesnica') 122083.0 
+('Hrastnik', 'Celje') 122271.0 
+('Celje', 'Hrastnik') 122271.0 
+('Crnomelj', 'Kranj') 122358.0 
+('Kranj', 'Crnomelj') 122358.0 
+('Ptuj', 'Ilirska Bistrica') 122421.0 
+('Ilirska Bistrica', 'Ptuj') 122421.0 
+('Kranj', 'Sentjur pri Celju') 122785.0 
+('Sentjur pri Celju', 'Kranj') 122785.0 
+('Cerknica', 'Ptuj') 123003.0 
+('Ptuj', 'Cerknica') 123003.0 
+('Nova Gorica', 'Dravograd') 123418.0 
+('Dravograd', 'Nova Gorica') 123418.0 
+('Nova Gorica', 'Metlika') 123625.0 
+('Metlika', 'Nova Gorica') 123625.0 
+('Celje', 'Logatec') 124099.0 
+('Logatec', 'Celje') 124099.0 
+('Kranj', 'Ljutomer') 124372.0 
+('Ljutomer', 'Kranj') 124372.0 
+('Kranj', 'Lasko') 125017.0 
+('Lasko', 'Kranj') 125017.0 
+('Kranj', 'Sevnica') 125660.0 
+('Sevnica', 'Kranj') 125660.0 
+('Kranj', 'Lenart') 126580.0 
+('Lenart', 'Kranj') 126580.0 
+('Izola/Isola', 'Kranj') 126813.0 
+('Kranj', 'Izola/Isola') 126813.0 
+('Kranj', 'Trebnje') 127457.0 
+('Trebnje', 'Kranj') 127457.0 
+('Kranj', 'Radlje ob Dravi') 127471.0 
+('Radlje ob Dravi', 'Kranj') 127471.0 
+('Zagorje ob Savi', 'Kranj') 127618.0 
+('Kranj', 'Zagorje ob Savi') 127618.0 
+('Kranj', 'Idrija') 127771.0 
+('Idrija', 'Kranj') 127771.0 
+('Kranj', 'Ormoz') 127950.0 
+('Ormoz', 'Kranj') 127950.0 
+('Celje', 'Dravograd') 128358.0 
+('Dravograd', 'Celje') 128358.0 
+('Celje', 'Metlika') 128565.0 
+('Metlika', 'Celje') 128565.0 
+('Ptuj', 'Ribnica') 129266.0 
+('Ribnica', 'Ptuj') 129266.0 
+('Ptuj', 'Hrastnik') 130662.0 
+('Hrastnik', 'Ptuj') 130662.0 
+('Ruse', 'Kranj') 130964.0 
+('Kranj', 'Ruse') 130964.0 
+('Trzic', 'Kranj') 131447.0 
+('Kranj', 'Trzic') 131447.0 
+('Mozirje', 'Kranj') 131622.0 
+('Kranj', 'Mozirje') 131622.0 
+('Ilirska Bistrica', 'Kranj') 132242.0 
+('Kranj', 'Ilirska Bistrica') 132242.0 
+('Logatec', 'Ptuj') 132490.0 
+('Ptuj', 'Logatec') 132490.0 
+('Cerknica', 'Kranj') 132824.0 
+('Kranj', 'Cerknica') 132824.0 
+('Ptuj', 'Dravograd') 136749.0 
+('Dravograd', 'Ptuj') 136749.0 
+('Metlika', 'Ptuj') 136956.0 
+('Ptuj', 'Metlika') 136956.0 
+('Ribnica', 'Kranj') 139087.0 
+('Kranj', 'Ribnica') 139087.0 
+('Hrastnik', 'Kranj') 140483.0 
+('Kranj', 'Hrastnik') 140483.0 
+('Logatec', 'Kranj') 142311.0 
+('Kranj', 'Logatec') 142311.0 
+('Dravograd', 'Kranj') 146570.0 
+('Kranj', 'Dravograd') 146570.0 
+('Kranj', 'Metlika') 146777.0 
+('Metlika', 'Kranj') 146777.0 
+('Kranj', 'Maribor') 196464.0 
+('Maribor', 'Kranj') 196464.0 
+('Ptuj', 'Maribor') 206285.0 
+('Maribor', 'Ptuj') 206285.0 
+('Maribor', 'Celje') 214676.0 
+('Celje', 'Maribor') 214676.0 
+('Maribor', 'Nova Gorica') 219616.0 
+('Nova Gorica', 'Maribor') 219616.0 
+('Maribor', 'Murska Sobota') 222821.0 
+('Murska Sobota', 'Maribor') 222821.0 
+('Novo mesto', 'Maribor') 230766.0 
+('Maribor', 'Novo mesto') 230766.0 
+('Maribor', 'Koper/Capodistria') 239519.0 
+('Koper/Capodistria', 'Maribor') 239519.0 
+('Velenje', 'Maribor') 249719.0 
+('Maribor', 'Velenje') 249719.0 
+('Domzale', 'Maribor') 253104.0 
+('Maribor', 'Domzale') 253104.0 
+('Zalec', 'Maribor') 267279.0 
+('Maribor', 'Zalec') 267279.0 
+('Maribor', 'Skofja Loka') 281064.0 
+('Skofja Loka', 'Maribor') 281064.0 
+('Maribor', 'Slovenska Bistrica') 283797.0 
+('Slovenska Bistrica', 'Maribor') 283797.0 
+('Radovljica', 'Maribor') 284439.0 
+('Maribor', 'Radovljica') 284439.0 
+('Jesenice', 'Maribor') 285011.0 
+('Maribor', 'Jesenice') 285011.0 
+('Maribor', 'Grosuplje') 291811.0 
+('Grosuplje', 'Maribor') 291811.0 
+('Kamnik', 'Maribor') 292152.0 
+('Maribor', 'Kamnik') 292152.0 
+('Maribor', 'Smarje pri Jelsah') 294739.0 
+('Smarje pri Jelsah', 'Maribor') 294739.0 
+('Ravne na Koroskem', 'Maribor') 298753.0 
+('Maribor', 'Ravne na Koroskem') 298753.0 
+('Maribor', 'Krsko') 298764.0 
+('Krsko', 'Maribor') 298764.0 
+('Maribor', 'Lendava/Lendva') 302684.0 
+('Lendava/Lendva', 'Maribor') 302684.0 
+('Maribor', 'Sezana') 303642.0 
+('Sezana', 'Maribor') 303642.0 
+('Maribor', 'Brezice') 304118.0 
+('Brezice', 'Maribor') 304118.0 
+('Maribor', 'Ajdovscina') 309641.0 
+('Ajdovscina', 'Maribor') 309641.0 
+('Postojna', 'Maribor') 312395.0 
+('Maribor', 'Postojna') 312395.0 
+('Slovenj Gradec', 'Maribor') 312603.0 
+('Maribor', 'Slovenj Gradec') 312603.0 
+('Maribor', 'Vrhnika') 312864.0 
+('Vrhnika', 'Maribor') 312864.0 
+('Maribor', 'Slovenske Konjice') 313111.0 
+('Slovenske Konjice', 'Maribor') 313111.0 
+('Maribor', 'Gornja Radgona') 315252.0 
+('Gornja Radgona', 'Maribor') 315252.0 
+('Maribor', 'Trbovlje') 316661.0 
+('Trbovlje', 'Maribor') 316661.0 
+('Maribor', 'Tolmin') 317142.0 
+('Tolmin', 'Maribor') 317142.0 
+('Maribor', 'Piran/Pirano') 317572.0 
+('Piran/Pirano', 'Maribor') 317572.0 
+('Maribor', 'Litija') 317946.0 
+('Litija', 'Maribor') 317946.0 
+('Kocevje', 'Maribor') 318381.0 
+('Maribor', 'Kocevje') 318381.0 
+('Pesnica', 'Maribor') 318547.0 
+('Maribor', 'Pesnica') 318547.0 
+('Crnomelj', 'Maribor') 318822.0 
+('Maribor', 'Crnomelj') 318822.0 
+('Maribor', 'Sentjur pri Celju') 319249.0 
+('Sentjur pri Celju', 'Maribor') 319249.0 
+('Ljutomer', 'Maribor') 320836.0 
+('Maribor', 'Ljutomer') 320836.0 
+('Maribor', 'Lasko') 321481.0 
+('Lasko', 'Maribor') 321481.0 
+('Sevnica', 'Maribor') 322124.0 
+('Maribor', 'Sevnica') 322124.0 
+('Lenart', 'Maribor') 323044.0 
+('Maribor', 'Lenart') 323044.0 
+('Izola/Isola', 'Maribor') 323277.0 
+('Maribor', 'Izola/Isola') 323277.0 
+('Trebnje', 'Maribor') 323921.0 
+('Maribor', 'Trebnje') 323921.0 
+('Maribor', 'Radlje ob Dravi') 323935.0 
+('Radlje ob Dravi', 'Maribor') 323935.0 
+('Zagorje ob Savi', 'Maribor') 324082.0 
+('Maribor', 'Zagorje ob Savi') 324082.0 
+('Idrija', 'Maribor') 324235.0 
+('Maribor', 'Idrija') 324235.0 
+('Ormoz', 'Maribor') 324414.0 
+('Maribor', 'Ormoz') 324414.0 
+('Ruse', 'Maribor') 327428.0 
+('Maribor', 'Ruse') 327428.0 
+('Trzic', 'Maribor') 327911.0 
+('Maribor', 'Trzic') 327911.0 
+('Mozirje', 'Maribor') 328086.0 
+('Maribor', 'Mozirje') 328086.0 
+('Maribor', 'Ilirska Bistrica') 328706.0 
+('Ilirska Bistrica', 'Maribor') 328706.0 
+('Cerknica', 'Maribor') 329288.0 
+('Maribor', 'Cerknica') 329288.0 
+('Maribor', 'Ribnica') 335551.0 
+('Ribnica', 'Maribor') 335551.0 
+('Hrastnik', 'Maribor') 336947.0 
+('Maribor', 'Hrastnik') 336947.0 
+('Maribor', 'Logatec') 338775.0 
+('Logatec', 'Maribor') 338775.0 
+('Dravograd', 'Maribor') 343034.0 
+('Maribor', 'Dravograd') 343034.0 
+('Maribor', 'Metlika') 343241.0 
+('Metlika', 'Maribor') 343241.0 
+('Ljubljana', 'Maribor') 416291.0 
+('Maribor', 'Ljubljana') 416291.0 
+('Ljubljana', 'Kranj') 612755.0 
+('Kranj', 'Ljubljana') 612755.0 
+('Ptuj', 'Ljubljana') 622576.0 
+('Ljubljana', 'Ptuj') 622576.0 
+('Celje', 'Ljubljana') 630967.0 
+('Ljubljana', 'Celje') 630967.0 
+('Nova Gorica', 'Ljubljana') 635907.0 
+('Ljubljana', 'Nova Gorica') 635907.0 
+('Ljubljana', 'Murska Sobota') 639112.0 
+('Murska Sobota', 'Ljubljana') 639112.0 
+('Novo mesto', 'Ljubljana') 647057.0 
+('Ljubljana', 'Novo mesto') 647057.0 
+('Koper/Capodistria', 'Ljubljana') 655810.0 
+('Ljubljana', 'Koper/Capodistria') 655810.0 
+('Velenje', 'Ljubljana') 666010.0 
+('Ljubljana', 'Velenje') 666010.0 
+('Domzale', 'Ljubljana') 669395.0 
+('Ljubljana', 'Domzale') 669395.0 
+('Zalec', 'Ljubljana') 683570.0 
+('Ljubljana', 'Zalec') 683570.0 
+('Ljubljana', 'Skofja Loka') 697355.0 
+('Skofja Loka', 'Ljubljana') 697355.0 
+('Slovenska Bistrica', 'Ljubljana') 700088.0 
+('Ljubljana', 'Slovenska Bistrica') 700088.0 
+('Ljubljana', 'Radovljica') 700730.0 
+('Radovljica', 'Ljubljana') 700730.0 
+('Ljubljana', 'Jesenice') 701302.0 
+('Jesenice', 'Ljubljana') 701302.0 
+('Ljubljana', 'Grosuplje') 708102.0 
+('Grosuplje', 'Ljubljana') 708102.0 
+('Kamnik', 'Ljubljana') 708443.0 
+('Ljubljana', 'Kamnik') 708443.0 
+('Smarje pri Jelsah', 'Ljubljana') 711030.0 
+('Ljubljana', 'Smarje pri Jelsah') 711030.0 
+('Ravne na Koroskem', 'Ljubljana') 715044.0 
+('Ljubljana', 'Ravne na Koroskem') 715044.0 
+('Ljubljana', 'Krsko') 715055.0 
+('Krsko', 'Ljubljana') 715055.0 
+('Lendava/Lendva', 'Ljubljana') 718975.0 
+('Ljubljana', 'Lendava/Lendva') 718975.0 
+('Sezana', 'Ljubljana') 719933.0 
+('Ljubljana', 'Sezana') 719933.0 
+('Brezice', 'Ljubljana') 720409.0 
+('Ljubljana', 'Brezice') 720409.0 
+('Ljubljana', 'Ajdovscina') 725932.0 
+('Ajdovscina', 'Ljubljana') 725932.0 
+('Postojna', 'Ljubljana') 728686.0 
+('Ljubljana', 'Postojna') 728686.0 
+('Slovenj Gradec', 'Ljubljana') 728894.0 
+('Ljubljana', 'Slovenj Gradec') 728894.0 
+('Ljubljana', 'Vrhnika') 729155.0 
+('Vrhnika', 'Ljubljana') 729155.0 
+('Slovenske Konjice', 'Ljubljana') 729402.0 
+('Ljubljana', 'Slovenske Konjice') 729402.0 
+('Gornja Radgona', 'Ljubljana') 731543.0 
+('Ljubljana', 'Gornja Radgona') 731543.0 
+('Ljubljana', 'Trbovlje') 732952.0 
+('Trbovlje', 'Ljubljana') 732952.0 
+('Ljubljana', 'Tolmin') 733433.0 
+('Tolmin', 'Ljubljana') 733433.0 
+('Ljubljana', 'Piran/Pirano') 733863.0 
+('Piran/Pirano', 'Ljubljana') 733863.0 
+('Litija', 'Ljubljana') 734237.0 
+('Ljubljana', 'Litija') 734237.0 
+('Kocevje', 'Ljubljana') 734672.0 
+('Ljubljana', 'Kocevje') 734672.0 
+('Pesnica', 'Ljubljana') 734838.0 
+('Ljubljana', 'Pesnica') 734838.0 
+('Crnomelj', 'Ljubljana') 735113.0 
+('Ljubljana', 'Crnomelj') 735113.0 
+('Sentjur pri Celju', 'Ljubljana') 735540.0 
+('Ljubljana', 'Sentjur pri Celju') 735540.0 
+('Ljutomer', 'Ljubljana') 737127.0 
+('Ljubljana', 'Ljutomer') 737127.0 
+('Ljubljana', 'Lasko') 737772.0 
+('Lasko', 'Ljubljana') 737772.0 
+('Ljubljana', 'Sevnica') 738415.0 
+('Sevnica', 'Ljubljana') 738415.0 
+('Lenart', 'Ljubljana') 739335.0 
+('Ljubljana', 'Lenart') 739335.0 
+('Ljubljana', 'Izola/Isola') 739568.0 
+('Izola/Isola', 'Ljubljana') 739568.0 
+('Trebnje', 'Ljubljana') 740212.0 
+('Ljubljana', 'Trebnje') 740212.0 
+('Radlje ob Dravi', 'Ljubljana') 740226.0 
+('Ljubljana', 'Radlje ob Dravi') 740226.0 
+('Zagorje ob Savi', 'Ljubljana') 740373.0 
+('Ljubljana', 'Zagorje ob Savi') 740373.0 
+('Ljubljana', 'Idrija') 740526.0 
+('Idrija', 'Ljubljana') 740526.0 
+('Ormoz', 'Ljubljana') 740705.0 
+('Ljubljana', 'Ormoz') 740705.0 
+('Ruse', 'Ljubljana') 743719.0 
+('Ljubljana', 'Ruse') 743719.0 
+('Ljubljana', 'Trzic') 744202.0 
+('Trzic', 'Ljubljana') 744202.0 
+('Mozirje', 'Ljubljana') 744377.0 
+('Ljubljana', 'Mozirje') 744377.0 
+('Ilirska Bistrica', 'Ljubljana') 744997.0 
+('Ljubljana', 'Ilirska Bistrica') 744997.0 
+('Cerknica', 'Ljubljana') 745579.0 
+('Ljubljana', 'Cerknica') 745579.0 
+('Ljubljana', 'Ribnica') 751842.0 
+('Ribnica', 'Ljubljana') 751842.0 
+('Ljubljana', 'Hrastnik') 753238.0 
+('Hrastnik', 'Ljubljana') 753238.0 
+('Ljubljana', 'Logatec') 755066.0 
+('Logatec', 'Ljubljana') 755066.0 
+('Ljubljana', 'Dravograd') 759325.0 
+('Dravograd', 'Ljubljana') 759325.0 
+('Ljubljana', 'Metlika') 759532.0 
+('Metlika', 'Ljubljana') 759532.0 
+('Ljubljana', 'SLOVENIJA') 3865766.0 
+('SLOVENIJA', 'Ljubljana') 3865766.0 
+('Maribor', 'SLOVENIJA') 4282057.0 
+('SLOVENIJA', 'Maribor') 4282057.0 
+('Kranj', 'SLOVENIJA') 4478521.0 
+('SLOVENIJA', 'Kranj') 4478521.0 
+('Ptuj', 'SLOVENIJA') 4488342.0 
+('SLOVENIJA', 'Ptuj') 4488342.0 
+('Celje', 'SLOVENIJA') 4496733.0 
+('SLOVENIJA', 'Celje') 4496733.0 
+('SLOVENIJA', 'Nova Gorica') 4501673.0 
+('Nova Gorica', 'SLOVENIJA') 4501673.0 
+('SLOVENIJA', 'Murska Sobota') 4504878.0 
+('Murska Sobota', 'SLOVENIJA') 4504878.0 
+('SLOVENIJA', 'Novo mesto') 4512823.0 
+('Novo mesto', 'SLOVENIJA') 4512823.0 
+('SLOVENIJA', 'Koper/Capodistria') 4521576.0 
+('Koper/Capodistria', 'SLOVENIJA') 4521576.0 
+('Velenje', 'SLOVENIJA') 4531776.0 
+('SLOVENIJA', 'Velenje') 4531776.0 
+('SLOVENIJA', 'Domzale') 4535161.0 
+('Domzale', 'SLOVENIJA') 4535161.0 
+('SLOVENIJA', 'Zalec') 4549336.0 
+('Zalec', 'SLOVENIJA') 4549336.0 
+('Skofja Loka', 'SLOVENIJA') 4563121.0 
+('SLOVENIJA', 'Skofja Loka') 4563121.0 
+('SLOVENIJA', 'Slovenska Bistrica') 4565854.0 
+('Slovenska Bistrica', 'SLOVENIJA') 4565854.0 
+('SLOVENIJA', 'Radovljica') 4566496.0 
+('Radovljica', 'SLOVENIJA') 4566496.0 
+('SLOVENIJA', 'Jesenice') 4567068.0 
+('Jesenice', 'SLOVENIJA') 4567068.0 
+('SLOVENIJA', 'Grosuplje') 4573868.0 
+('Grosuplje', 'SLOVENIJA') 4573868.0 
+('Kamnik', 'SLOVENIJA') 4574209.0 
+('SLOVENIJA', 'Kamnik') 4574209.0 
+('SLOVENIJA', 'Smarje pri Jelsah') 4576796.0 
+('Smarje pri Jelsah', 'SLOVENIJA') 4576796.0 
+('SLOVENIJA', 'Ravne na Koroskem') 4580810.0 
+('Ravne na Koroskem', 'SLOVENIJA') 4580810.0 
+('SLOVENIJA', 'Krsko') 4580821.0 
+('Krsko', 'SLOVENIJA') 4580821.0 
+('Lendava/Lendva', 'SLOVENIJA') 4584741.0 
+('SLOVENIJA', 'Lendava/Lendva') 4584741.0 
+('Sezana', 'SLOVENIJA') 4585699.0 
+('SLOVENIJA', 'Sezana') 4585699.0 
+('Brezice', 'SLOVENIJA') 4586175.0 
+('SLOVENIJA', 'Brezice') 4586175.0 
+('Ajdovscina', 'SLOVENIJA') 4591698.0 
+('SLOVENIJA', 'Ajdovscina') 4591698.0 
+('SLOVENIJA', 'Postojna') 4594452.0 
+('Postojna', 'SLOVENIJA') 4594452.0 
+('SLOVENIJA', 'Slovenj Gradec') 4594660.0 
+('Slovenj Gradec', 'SLOVENIJA') 4594660.0 
+('SLOVENIJA', 'Vrhnika') 4594921.0 
+('Vrhnika', 'SLOVENIJA') 4594921.0 
+('Slovenske Konjice', 'SLOVENIJA') 4595168.0 
+('SLOVENIJA', 'Slovenske Konjice') 4595168.0 
+('Gornja Radgona', 'SLOVENIJA') 4597309.0 
+('SLOVENIJA', 'Gornja Radgona') 4597309.0 
+('Trbovlje', 'SLOVENIJA') 4598718.0 
+('SLOVENIJA', 'Trbovlje') 4598718.0 
+('Tolmin', 'SLOVENIJA') 4599199.0 
+('SLOVENIJA', 'Tolmin') 4599199.0 
+('Piran/Pirano', 'SLOVENIJA') 4599629.0 
+('SLOVENIJA', 'Piran/Pirano') 4599629.0 
+('SLOVENIJA', 'Litija') 4600003.0 
+('Litija', 'SLOVENIJA') 4600003.0 
+('Kocevje', 'SLOVENIJA') 4600438.0 
+('SLOVENIJA', 'Kocevje') 4600438.0 
+('Pesnica', 'SLOVENIJA') 4600604.0 
+('SLOVENIJA', 'Pesnica') 4600604.0 
+('Crnomelj', 'SLOVENIJA') 4600879.0 
+('SLOVENIJA', 'Crnomelj') 4600879.0 
+('Sentjur pri Celju', 'SLOVENIJA') 4601306.0 
+('SLOVENIJA', 'Sentjur pri Celju') 4601306.0 
+('SLOVENIJA', 'Ljutomer') 4602893.0 
+('Ljutomer', 'SLOVENIJA') 4602893.0 
+('SLOVENIJA', 'Lasko') 4603538.0 
+('Lasko', 'SLOVENIJA') 4603538.0 
+('SLOVENIJA', 'Sevnica') 4604181.0 
+('Sevnica', 'SLOVENIJA') 4604181.0 
+('SLOVENIJA', 'Lenart') 4605101.0 
+('Lenart', 'SLOVENIJA') 4605101.0 
+('Izola/Isola', 'SLOVENIJA') 4605334.0 
+('SLOVENIJA', 'Izola/Isola') 4605334.0 
+('Trebnje', 'SLOVENIJA') 4605978.0 
+('SLOVENIJA', 'Trebnje') 4605978.0 
+('SLOVENIJA', 'Radlje ob Dravi') 4605992.0 
+('Radlje ob Dravi', 'SLOVENIJA') 4605992.0 
+('Zagorje ob Savi', 'SLOVENIJA') 4606139.0 
+('SLOVENIJA', 'Zagorje ob Savi') 4606139.0 
+('SLOVENIJA', 'Idrija') 4606292.0 
+('Idrija', 'SLOVENIJA') 4606292.0 
+('Ormoz', 'SLOVENIJA') 4606471.0 
+('SLOVENIJA', 'Ormoz') 4606471.0 
+('Ruse', 'SLOVENIJA') 4609485.0 
+('SLOVENIJA', 'Ruse') 4609485.0 
+('Trzic', 'SLOVENIJA') 4609968.0 
+('SLOVENIJA', 'Trzic') 4609968.0 
+('SLOVENIJA', 'Mozirje') 4610143.0 
+('Mozirje', 'SLOVENIJA') 4610143.0 
+('Ilirska Bistrica', 'SLOVENIJA') 4610763.0 
+('SLOVENIJA', 'Ilirska Bistrica') 4610763.0 
+('Cerknica', 'SLOVENIJA') 4611345.0 
+('SLOVENIJA', 'Cerknica') 4611345.0 
+('SLOVENIJA', 'Ribnica') 4617608.0 
+('Ribnica', 'SLOVENIJA') 4617608.0 
+('Hrastnik', 'SLOVENIJA') 4619004.0 
+('SLOVENIJA', 'Hrastnik') 4619004.0 
+('SLOVENIJA', 'Logatec') 4620832.0 
+('Logatec', 'SLOVENIJA') 4620832.0 
+('SLOVENIJA', 'Dravograd') 4625091.0 
+('Dravograd', 'SLOVENIJA') 4625091.0 
+('SLOVENIJA', 'Metlika') 4625298.0 
+('Metlika', 'SLOVENIJA') 4625298.0 

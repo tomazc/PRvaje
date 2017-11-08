@@ -1,0 +1,2479 @@
+age	birthdate	gender	height	name	weight	gold_medals	silver_medals	bronze_medals	total_medals	sport	country
+c	s	d	c	s	c	c	c	c	c	d	d
+
+17	1996-04-12	Male	1.72	Aaron Blunck	68	0	0	0	0	Freestyle Skiing	United States
+27	1986-05-14	Male	1.85	Aaron March	85	0	0	0	0	Snowboard	Italy
+21	1992-06-30	Male	1.78	Abzal Azhgaliyev	68	0	0	0	0	Short Track	Kazakhstan
+21	1992-07-30	Male	1.86	Adam Barwood	82	0	0	0	0	Alpine Skiing	New Zealand
+21	1992-12-18	Male	1.75	Adam Cieslar	57	0	0	0	0	Nordic Combined	Poland
+18	1995-04-22	Male	1.7	Adam Lamhamedi	76	0	0	0	0	Alpine Skiing	Morocco
+23	1990-09-13	Male	1.78	Adam Zampa	80	0	0	0	0	Alpine Skiing	Slovakia
+21	1992-09-28	Female	1.62	Adeline Baud	56	0	0	0	0	Alpine Skiing	France
+21	1992-11-22	Male	1.86	Adrian Krainer	75	0	0	0	0	Snowboard	Austria
+21	1992-08-07	Male	1.78	Adrien Backscheider	73	0	0	0	0	Cross-Country	France
+29	1984-09-18	Male	1.82	Adrien Theaux	80	0	0	0	0	Alpine Skiing	France
+19	1994-10-19	Female	1.73	Agne Sereikaite	65	0	0	0	0	Short Track	Lithuania
+39	1974-09-23	Female	1.71	Agnes Simon	66	0	0	0	0	Cross-Country	Hungary
+18	1996-02-07	Female	1.66	Agnese Aboltina	60	0	0	0	0	Alpine Skiing	Latvia
+29	1984-11-11	Female	1.73	Agnieszka Szymanczak	59	0	0	0	0	Cross-Country	Poland
+24	1990-01-05	Male	1.82	Ahti Toivanen	74	0	0	0	0	Biathlon	Finland
+19	1994-09-06	Male	1.88	Aidan Kelly	88	0	0	0	0	Luge	United States
+20	1993-05-20	Male	1.75	Aidar Bekzhanov	73	0	0	0	0	Short Track	Kazakhstan
+34	1979-12-09	Female	1.56	Aiko Uemura	51	0	0	0	0	Freestyle Skiing	Japan
+22	1991-07-21	Female	1.63	Aimee Fuller	61	0	0	0	0	Snowboard	Great Britain
+26	1987-07-28	Female	1.69	Aimee Watson	60	0	0	0	0	Cross-Country	Australia
+22	1991-08-16	Female	1.66	Aina Takeuchi	63	0	0	0	0	Ice Hockey	Japan
+35	1979-02-01	Female	1.66	Aino-kaisa Saarinen	58	0	1	0	1	Cross-Country	Finland
+19	1994-02-09	Female	1.63	Aita Gasparin	53	0	0	0	0	Biathlon	Switzerland
+31	1982-09-28	Male	1.94	Aivar Rehemaa	78	0	0	0	0	Cross-Country	Estonia
+18	1995-08-14	Female	1.64	Akane Konishi	62	0	0	0	0	Ice Hockey	Japan
+23	1990-08-11	Male	1.82	Akira Lenting	77	0	0	0	0	Cross-Country	Japan
+32	1981-09-26	Male	1.82	Akira Sasaki	88	0	0	0	0	Alpine Skiing	Japan
+25	1988-05-26	Male	1.73	Akito Watabe	61	0	1	0	1	Nordic Combined	Japan
+31	1982-12-26	Male	1.89	Aksel Lund Svindal	97	0	0	0	0	Alpine Skiing	Norway
+18	1995-08-22	Female	1.68	Alang Kim	53	1	0	0	1	Short Track	Korea
+42	1971-11-27	Male	1.85	Albert Demchenko	95	0	2	0	2	Luge	Russian Fed.
+24	1989-09-28	Male	2.02	Aleksandar Bundalo	106	0	0	0	0	Bobsleigh	Serbia
+25	1988-03-25	Male	1.78	Aleksander Aurdal	84	0	0	0	0	Freestyle Skiing	Norway
+18	1995-09-02	Male	1.9	Aleksander Barkov	91	0	0	0	0	Ice Hockey	Finland
+22	1992-02-02	Male	1.8	Aleksander Peretyagin	75	0	0	0	0	Luge	Russian Fed.
+27	1986-12-05	Male	1.85	Aleksandr Rumyantsev	80	0	0	0	0	Speed Skating	Russian Fed.
+27	1986-09-12	Male	1.8	Aleksandr Zhigin	74	0	0	0	0	Speed Skating	Kazakhstan
+27	1986-07-31	Female	1.65	Aleksandra Klus	65	0	0	0	0	Alpine Skiing	Poland
+23	1990-11-20	Female	1.72	Aleksandra Krol	53	0	0	0	0	Snowboard	Poland
+27	1986-11-04	Male	1.82	Aleksei Pushkarev	90	0	0	0	0	Bobsleigh	Russian Fed.
+18	1995-03-06	Male	1.71	Aleksey Pavlenko	63	0	0	0	0	Freestyle Skiing	Russian Fed.
+22	1991-09-17	Male	1.8	Aleksey Suvorov	80	0	0	0	0	Speed Skating	Russian Fed.
+26	1987-12-03	Male	1.81	Aleksey Yesin	80	0	0	0	0	Speed Skating	Russian Fed.
+18	1995-10-30	Male	1.76	Aleksi Patja	70	0	0	0	0	Freestyle Skiing	Finland
+29	1984-08-09	Female	1.78	Alena Prochazkova	58	0	0	0	0	Cross-Country	Slovakia
+33	1980-06-12	Female	1.71	Alena Sannikova	57	0	0	0	0	Cross-Country	Belarus
+24	1989-05-27	Female	1.75	Alena Zavarzina	60	0	0	0	0	Snowboard	Russian Fed.
+24	1989-04-24	Female	1.66	Alenka Cebasek	61	0	0	0	0	Cross-Country	Slovenia
+30	1983-08-13	Male	1.83	Ales Hemsky	84	0	0	0	0	Ice Hockey	Czech Republic
+32	1981-07-29	Male	1.83	Ales Kranjc	89	0	0	0	0	Ice Hockey	Slovenia
+31	1982-06-28	Male	1.76	Ales Music	83	0	0	0	0	Ice Hockey	Slovenia
+27	1986-08-19	Male	1.82	Ales Razym	76	0	0	0	0	Cross-Country	Czech Republic
+20	1993-07-30	Male	1.9	Alessandro Haemmerle	82	0	0	0	0	Snowboard	Austria
+23	1990-02-11	Male	1.66	Alessandro Pittin	62	0	0	0	0	Nordic Combined	Italy
+18	1995-08-01	Female	1.68	Alessia Afi Dipol	58	0	0	0	0	Alpine Skiing	Togo
+28	1985-03-09	Male	1.8	Alex Baumann	100	0	1	0	1	Bobsleigh	Switzerland
+19	1994-03-03	Male	1.83	Alex Beaulieu-marchand	68	0	0	0	0	Freestyle Skiing	Canada
+22	1991-02-08	Male	1.84	Alex Beniaidze	80	0	0	0	0	Alpine Skiing	Georgia
+26	1987-09-08	Male	1.73	Alex Bilodeau	76	1	0	0	1	Freestyle Skiing	Canada
+19	1994-04-13	Female	1.69	Alex Carpenter	68	0	0	0	0	Ice Hockey	United States
+27	1986-05-08	Male	1.85	Alex Deibold	86	0	0	1	1	Snowboard	United States
+28	1986-01-29	Male	1.88	Alex Fiva	93	0	0	0	0	Freestyle Skiing	Switzerland
+26	1987-05-12	Female	1.71	Alex Gough	70	0	0	0	0	Luge	Canada
+25	1988-09-07	Male	1.84	Alex Harvey	75	0	0	0	0	Cross-Country	Canada
+24	1990-01-18	Male	1.93	Alex Pietrangelo	93	0	0	0	0	Ice Hockey	Canada
+19	1994-03-08	Male	1.82	Alex Puente Tasias	79	0	0	0	0	Alpine Skiing	Spain
+26	1987-09-20	Male	1.85	Alex Pullin	87	0	0	0	0	Snowboard	Australia
+26	1987-05-16	Male	1.76	Alexander Bergmann	70	0	0	0	0	Snowboard	Germany
+27	1986-09-15	Male	1.82	Alexander Bessmertnykh	78	0	1	0	1	Cross-Country	Russian Fed.
+27	1987-01-24	Male	1.8	Alexander Bonsaksen	83	0	0	0	0	Ice Hockey	Norway
+22	1991-07-29	Male	1.89	Alexander Denisyev	100	0	1	0	1	Luge	Russian Fed.
+27	1986-04-21	Male	1.93	Alexander Edler	100	0	0	0	0	Ice Hockey	Sweden
+18	1995-04-03	Male	1.85	Alexander Ferlazzo	75	0	0	0	0	Luge	Australia
+30	1983-07-15	Male	1.8	Alexander Glebov	84	0	0	0	0	Alpine Skiing	Russian Fed.
+30	1983-09-30	Male	1.88	Alexander Kasjanov	100	0	0	0	0	Bobsleigh	Russian Fed.
+29	1984-02-16	Male	1.8	Alexander Khoroshilov	82	0	0	0	0	Alpine Skiing	Russian Fed.
+23	1990-03-12	Male	1.88	Alexander Kroeckel	82	0	0	0	0	Skeleton	Germany
+30	1983-06-26	Male	1.76	Alexander Lasutkin	74	0	0	0	0	Cross-Country	Belarus
+30	1983-05-07	Male	1.78	Alexander Legkov	73	0	1	0	1	Cross-Country	Russian Fed.
+22	1992-01-31	Male	1.77	Alexander Loginov	71	0	0	0	0	Biathlon	Russian Fed.
+28	1985-09-17	Male	1.88	Alexander Ovechkin	106	0	0	0	0	Ice Hockey	Russian Fed.
+33	1980-08-31	Male	1.78	Alexander Popov	77	0	0	0	0	Ice Hockey	Russian Fed.
+27	1986-07-05	Male	1.86	Alexander Radulov	91	0	0	0	0	Ice Hockey	Russian Fed.
+28	1985-05-14	Male	1.83	Alexander Roediger	95	0	0	0	0	Bobsleigh	Germany
+27	1987-01-05	Male	1.86	Alexander Salak	86	0	0	0	0	Ice Hockey	Czech Republic
+29	1984-03-01	Male	1.84	Alexander Steen	93	0	0	0	0	Ice Hockey	Sweden
+31	1982-11-03	Male	1.92	Alexander Svitov	106	0	0	0	0	Ice Hockey	Russian Fed.
+29	1984-03-03	Male	1.89	Alexander Syomin	95	0	0	0	0	Ice Hockey	Russian Fed.
+28	1985-04-19	Male	1.84	Alexander Tretiakov	77	1	0	0	1	Skeleton	Russian Fed.
+33	1980-04-10	Male	1.79	Alexander Yeryomenko	75	0	0	0	0	Ice Hockey	Russian Fed.
+39	1974-08-10	Male	1.87	Alexander Zubkov	105	1	0	0	1	Bobsleigh	Russian Fed.
+26	1987-03-16	Male	1.7	Alexandr Smyshlyaev	68	0	0	1	1	Freestyle Skiing	Russian Fed.
+27	1986-03-13	Male	1.88	Alexandr Trifonov	73	0	0	0	0	Biathlon	Kazakhstan
+25	1988-08-28	Female	1.58	Alexandra Camenscic	55	0	0	0	0	Cross-Country	Rep. of Moldova
+30	1983-08-08	Female	1.64	Alexandra Coletti	60	0	0	0	0	Alpine Skiing	Monaco
+26	1987-11-11	Female	1.58	Alexandra Duckworth	50	0	0	0	0	Snowboard	Canada
+26	1987-10-05	Female	1.67	Alexandra Jekova	63	0	0	0	0	Snowboard	Bulgaria
+29	1984-04-07	Female	1.66	Alexandra Kapustina	74	0	0	0	0	Ice Hockey	Russian Fed.
+16	1997-08-28	Female	1.62	Alexandra Orlova	55	0	0	0	0	Freestyle Skiing	Russian Fed.
+19	1994-05-04	Female	1.74	Alexandra Taylor	64	0	0	0	0	Alpine Skiing	Cyprus
+23	1990-07-28	Female	1.68	Alexandra Vafina	57	0	0	0	0	Ice Hockey	Russian Fed.
+18	1995-05-16	Male	1.84	Alexandre Mohbat	76	0	0	0	0	Alpine Skiing	Lebanon
+29	1984-12-21	Male	1.79	Alexandros Kefalas	80	0	0	0	0	Skeleton	Greece
+26	1987-03-08	Male	1.77	Alexandru Barbu	70	0	0	0	0	Alpine Skiing	Romania
+21	1992-05-27	Male	1.69	Alexandru Teodorescu	70	0	0	0	0	Luge	Romania
+23	1990-03-22	Male	1.73	Alexei Almoukov	73	0	0	0	0	Biathlon	Australia
+34	1979-06-18	Male	1.75	Alexei Grishin	74	0	0	0	0	Freestyle Skiing	Belarus
+33	1980-12-16	Male	1.8	Alexei Tereshenko	82	0	0	0	0	Ice Hockey	Russian Fed.
+27	1986-04-25	Male	1.85	Alexei Yemelin	97	0	0	0	0	Ice Hockey	Russian Fed.
+25	1988-07-13	Male	1.82	Alexej Baumgaertner	77	0	0	0	0	Speed Skating	Germany
+22	1991-04-18	Male	1.82	Alexey Pchelintsev	65	0	0	0	0	Ski Jumping	Kazakhstan
+30	1983-06-28	Male	1.78	Alexey Petukhov	75	0	0	0	0	Cross-Country	Russian Fed.
+26	1987-04-29	Male	1.86	Alexey Poltoranin	75	0	0	0	0	Cross-Country	Kazakhstan
+21	1992-04-29	Male	1.75	Alexey Romashov	64	0	0	0	0	Ski Jumping	Russian Fed.
+22	1991-09-01	Male	1.75	Alexey Sobolev	69	0	0	0	0	Snowboard	Russian Fed.
+33	1980-05-09	Male	1.95	Alexey Voevoda	105	1	0	0	1	Bobsleigh	Russian Fed.
+25	1988-04-05	Male	1.77	Alexey Volkov	69	0	0	0	0	Biathlon	Russian Fed.
+22	1991-11-27	Female	1.73	Alexia Runggaldier	59	0	0	0	0	Biathlon	Italy
+27	1986-03-04	Male	1.72	Alexis Boeuf	65	0	0	0	0	Biathlon	France
+27	1986-10-19	Male	1.82	Alexis Contin	72	0	0	0	0	Speed Skating	France
+22	1991-03-20	Male	1.79	Alexis Pinturault	78	0	0	0	0	Alpine Skiing	France
+28	1985-04-13	Male	1.92	Algo Karp	80	0	0	0	0	Cross-Country	Estonia
+22	1991-08-19	Male	1.72	Aliaksandr Darozhka	67	0	0	0	0	Biathlon	Belarus
+33	1980-05-17	Male	1.68	Aliaksei Ivanou	62	0	0	0	0	Cross-Country	Belarus
+15	1998-03-12	Female	1.62	Alina Muller	50	0	0	0	0	Ice Hockey	Switzerland
+22	1991-08-14	Female	1.68	Alina Raikova	56	0	0	0	0	Biathlon	Kazakhstan
+28	1986-01-11	Male	1.6	Alisher Qudratov	65	0	0	0	0	Alpine Skiing	Tajikistan
+21	1992-08-06	Female	1.75	Alizee Baron	64	0	0	0	0	Freestyle Skiing	France
+34	1979-04-16	Female	1.53	Alla Tsuper	53	1	0	0	1	Freestyle Skiing	Belarus
+32	1981-02-26	Female	1.68	Alyona Khomich	53	0	0	0	0	Ice Hockey	Russian Fed.
+23	1990-07-30	Female	1.67	Alyson Dudek	57	0	0	0	0	Short Track	United States
+28	1986-02-06	Female	1.57	Amanda Ammar	54	0	0	0	0	Cross-Country	Canada
+22	1991-08-28	Female	1.65	Amanda Kessel	61	0	0	0	0	Ice Hockey	United States
+27	1987-01-30	Female	1.73	Amanda Lightfoot	61	0	0	0	0	Biathlon	Great Britain
+26	1987-11-16	Female	1.68	Amelie Kober	56	0	0	0	0	Snowboard	Germany
+26	1987-11-15	Female	1.62	Ami Nakamura	62	0	0	0	0	Ice Hockey	Japan
+27	1986-10-26	Female	1.64	Amy Sheehan	59	0	0	0	0	Freestyle Skiing	Australia
+26	1987-05-15	Female	1.71	Anais Bescond	68	0	0	0	0	Biathlon	France
+23	1990-06-30	Female	1.5	Anais Caradeux	53	0	0	0	0	Freestyle Skiing	France
+20	1993-02-12	Female	1.63	Anais Chevalier	55	0	0	0	0	Biathlon	France
+24	1989-04-30	Female	1.78	Anastasia Bucsis	67	0	0	0	0	Speed Skating	Canada
+27	1986-10-14	Female	1.7	Anastasia Dotsenko	60	0	0	0	0	Cross-Country	Russian Fed.
+22	1991-06-10	Female	1.62	Anastasia Slonova	55	0	0	0	0	Cross-Country	Kazakhstan
+23	1990-02-17	Female	1.6	Anastasiia Chirtcova	60	0	0	0	0	Freestyle Skiing	Russian Fed.
+29	1984-08-28	Female	1.8	Anastasiya Kuzmina	67	1	0	0	1	Biathlon	Slovakia
+30	1983-02-17	Male	1.82	Ander Mirambell	80	0	0	0	0	Skeleton	Spain
+31	1982-08-24	Male	1.84	Anders Bardal	60	0	0	1	1	Ski Jumping	Norway
+33	1980-10-31	Male	1.9	Anders Bastiansen	93	0	0	0	0	Ice Hockey	Norway
+28	1985-02-17	Male	1.73	Anders Jacobsen	59	0	0	0	0	Ski Jumping	Norway
+24	1989-04-23	Male	1.91	Anders Johnson	75	0	0	0	0	Ski Jumping	United States
+36	1977-05-17	Male	1.82	Anders Soedergren	76	0	0	0	0	Cross-Country	Sweden
+29	1984-10-01	Male	1.81	Andi Langenhan	83	0	0	0	0	Luge	Germany
+34	1979-07-29	Male	2	Andre Lakos	107	0	0	0	0	Ice Hockey	Austria
+31	1983-01-11	Male	1.89	Andre Myhrer	95	0	0	0	0	Alpine Skiing	Sweden
+20	1993-08-27	Male	1.78	Andrea Giovannini	73	0	0	0	0	Speed Skating	Italy
+36	1977-12-10	Female	1.58	Andrea Henkel	49	0	0	0	0	Biathlon	Germany
+24	1989-07-28	Female	1.76	Andrea Keszler	62	0	0	0	0	Short Track	Hungary
+17	1996-05-04	Female	1.72	Andrea Komsic	65	0	0	0	0	Alpine Skiing	Croatia
+26	1987-10-08	Female	1.62	Andrea Lanzl	67	0	0	0	0	Ice Hockey	Germany
+24	1989-07-25	Female	1.62	Andrea Limbacher	60	0	0	0	0	Freestyle Skiing	Austria
+18	1995-04-03	Female	1.68	Andrea Voetter	73	0	0	0	0	Luge	Italy
+21	1993-01-17	Female	1.72	Andrea Zemanova	67	0	0	0	0	Freestyle Skiing	Czech Republic
+32	1981-09-11	Male	1.79	Andreas Birnbacher	73	0	0	0	0	Biathlon	Germany
+20	1994-01-29	Male	1.89	Andreas Gohl	88	0	0	0	0	Freestyle Skiing	Austria
+27	1986-07-09	Male	1.83	Andreas Haatveit	94	0	0	0	0	Freestyle Skiing	Norway
+29	1984-05-17	Male	1.8	Andreas Kofler	63	0	0	0	0	Ski Jumping	Austria
+32	1981-05-31	Male	1.84	Andreas Linger	82	0	1	0	1	Luge	Austria
+31	1982-10-19	Male	1.91	Andreas Matt	100	0	0	0	0	Freestyle Skiing	Austria
+28	1985-09-30	Male	1.81	Andreas Neagu	92	0	0	0	0	Bobsleigh	Romania
+26	1987-02-28	Male	1.87	Andreas Nodl	90	0	0	0	0	Ice Hockey	Austria
+33	1980-11-10	Male	1.8	Andreas Prommegger	80	0	0	0	0	Snowboard	Austria
+28	1986-01-18	Male	1.89	Andreas Schauer	91	0	0	0	0	Freestyle Skiing	Germany
+25	1988-02-18	Male	1.9	Andreas Wank	73	1	0	0	1	Ski Jumping	Germany
+18	1995-08-28	Male	1.83	Andreas Wellinger	65	1	0	0	1	Ski Jumping	Germany
+20	1993-08-13	Male	1.68	Andreas Zampa	70	0	0	0	0	Alpine Skiing	Slovakia
+20	1994-01-10	Female	1.76	Andreea Grecu	74	0	0	0	0	Bobsleigh	Romania
+35	1978-12-20	Male	1.83	Andrei Markov	92	0	0	0	0	Ice Hockey	Russian Fed.
+29	1984-11-21	Male	1.83	Andrej Hocevar	85	0	0	0	0	Ice Hockey	Slovenia
+28	1985-10-13	Male	1.88	Andrej Meszaros	99	0	0	0	0	Ice Hockey	Slovakia
+27	1986-06-08	Male	1.83	Andrej Sekera	90	0	0	0	0	Ice Hockey	Slovakia
+32	1981-12-01	Male	1.87	Andrej Sporn	92	0	0	0	0	Alpine Skiing	Slovenia
+29	1984-03-14	Male	1.87	Andrej Tavzelj	97	0	0	0	0	Ice Hockey	Slovenia
+25	1988-05-27	Male	1.81	Andrejs Rastorgujevs	71	0	0	0	0	Biathlon	Latvia
+30	1983-09-14	Male	1.76	Andres Ambuhl	82	0	0	0	0	Ice Hockey	Switzerland
+29	1984-10-26	Male	1.72	Andrew Matthews	83	0	0	0	0	Bobsleigh	Great Britain
+23	1990-03-06	Male	1.8	Andrew Musgrave	78	0	0	0	0	Cross-Country	Great Britain
+30	1983-11-30	Male	1.78	Andrew Newell	71	0	0	0	0	Cross-Country	United States
+27	1986-02-10	Male	1.7	Andrew Weibrecht	86	0	1	0	1	Alpine Skiing	United States
+21	1992-02-21	Male	1.94	Andrew Young	90	0	0	0	0	Cross-Country	Great Britain
+30	1983-10-04	Male	1.75	Andrey Boldykov	85	0	0	0	0	Snowboard	Russian Fed.
+25	1988-06-23	Male	1.8	Andrey Gridin	74	0	0	0	0	Cross-Country	Bulgaria
+24	1989-11-27	Male	1.84	Andrey Sobolev	73	0	0	0	0	Snowboard	Russian Fed.
+27	1986-05-22	Male	1.72	Andrey Volkov	70	0	0	0	0	Freestyle Skiing	Russian Fed.
+28	1985-05-12	Male	1.8	Andris Sics	79	0	0	2	2	Luge	Latvia
+36	1977-08-18	Male	1.88	Andriy Deryzemlya	80	0	0	0	0	Biathlon	Ukraine
+31	1982-05-27	Male	1.86	Andriy Kis	92	0	0	0	0	Luge	Ukraine
+25	1988-02-19	Male	1.88	Andriy Mandziy	95	0	0	0	0	Luge	Ukraine
+25	1988-05-25	Female	1.7	Anemone Marmottan	65	0	0	0	0	Alpine Skiing	France
+23	1990-08-29	Male	1.9	Angel Somov	98	0	0	0	0	Bobsleigh	Austria
+26	1987-06-05	Female	1.69	Angela Frautschi	73	0	0	0	0	Ice Hockey	Switzerland
+48	1965-11-25	Female	1.65	Angelica Morrone Di Silvestri	57	0	0	0	0	Cross-Country	Dominica
+22	1991-09-17	Female	1.74	Angelina Golikova	72	0	0	0	0	Speed Skating	Russian Fed.
+19	1994-05-23	Female	1.67	Angelina Goncharenko	53	0	0	0	0	Ice Hockey	Russian Fed.
+18	1995-10-24	Female	1.7	Ania Monica Caill	60	0	0	0	0	Alpine Skiing	Romania
+30	1983-05-20	Female	1.71	Anja Huber	64	0	0	0	0	Skeleton	Germany
+35	1978-04-08	Female	1.69	Anja Schneiderheinze	78	0	0	0	0	Bobsleigh	Germany
+23	1990-08-09	Female	1.6	Anja Stiefel	61	0	0	0	0	Ice Hockey	Switzerland
+22	1991-10-02	Female	1.74	Anja Weisser	74	0	0	0	0	Ice Hockey	Germany
+28	1985-10-13	Female	1.75	Anke Karstens	65	0	0	0	0	Snowboard	Germany
+36	1978-01-05	Female	1.78	Anke Wischnewski	77	0	0	0	0	Luge	Germany
+25	1988-09-04	Female	1.73	Anna Berecz	71	0	0	0	0	Alpine Skiing	Hungary
+21	1992-06-11	Female	1.64	Anna Borgqvist	64	0	0	0	0	Ice Hockey	Sweden
+21	1992-09-07	Female	1.68	Anna Chernova	57	0	0	0	0	Speed Skating	Russian Fed.
+24	1989-06-18	Female	1.65	Anna Fenninger	64	1	1	0	2	Alpine Skiing	Austria
+22	1991-08-16	Female	1.65	Anna Gasser	52	0	0	0	0	Snowboard	Austria
+27	1986-06-01	Female	1.63	Anna Haag	58	1	0	0	1	Cross-Country	Sweden
+26	1987-10-03	Female	1.84	Anna Holmlund	80	0	0	0	0	Freestyle Skiing	Sweden
+18	1995-05-16	Female	1.69	Anna Kilponen	74	0	0	0	0	Ice Hockey	Finland
+21	1992-07-14	Female	1.57	Anna Mirtova	47	0	0	0	0	Freestyle Skiing	Russian Fed.
+20	1993-11-20	Female	1.74	Anna Prugova	60	0	0	0	0	Ice Hockey	Russian Fed.
+29	1984-09-27	Female	1.63	Anna Ringsred	59	0	0	0	0	Speed Skating	United States
+28	1986-01-30	Female	1.73	Anna Rokita	63	0	0	0	0	Speed Skating	Austria
+27	1986-08-15	Female	1.64	Anna Segal	59	0	0	0	0	Freestyle Skiing	Australia
+19	1994-11-10	Female	1.62	Anna Shibanova	62	0	0	0	0	Ice Hockey	Russian Fed.
+16	1997-06-23	Female	1.63	Anna Shokhina	60	0	0	0	0	Ice Hockey	Russian Fed.
+26	1987-11-05	Female	1.71	Anna Shukina	76	0	0	0	0	Ice Hockey	Russian Fed.
+22	1991-04-06	Female	1.67	Anna Vinogradova	69	0	0	0	0	Ice Hockey	Russian Fed.
+24	1989-09-27	Female	1.76	Anna Woerner	75	0	0	0	0	Freestyle Skiing	Germany
+33	1981-01-01	Female	1.73	Anna-karin Stroemstedt	66	0	0	0	0	Biathlon	Sweden
+20	1993-05-28	Female	1.62	Annalisa Drew	51	0	0	0	0	Freestyle Skiing	United States
+23	1990-03-26	Female	1.65	Annamari Chundak	60	0	0	0	0	Snowboard	Ukraine
+26	1987-11-30	Female	1.73	Anne Kylloenen	61	0	1	0	1	Cross-Country	Finland
+24	1990-01-30	Female	1.78	Anne Schleper	77	0	0	0	0	Ice Hockey	United States
+25	1988-02-23	Female	1.7	Anne-sophie Barthet	70	0	0	0	0	Alpine Skiing	France
+29	1984-08-01	Female	1.7	Annelies Cook	56	0	0	0	0	Biathlon	United States
+24	1989-03-08	Female	1.64	Annina Rajahuhta	68	0	0	0	0	Ice Hockey	Finland
+27	1986-06-27	Female	1.72	Annouk Van Der Weijden	61	0	0	0	0	Speed Skating	Netherlands
+27	1986-02-18	Female	1.67	Anouk Faivre Picon	58	0	0	0	0	Cross-Country	France
+25	1988-07-03	Male	1.77	Anssi Koivuranta	63	0	0	0	0	Ski Jumping	Finland
+27	1986-08-30	Male	1.84	Anssi Pentsinen	83	0	0	0	0	Cross-Country	Finland
+26	1987-09-25	Male	1.72	Anthony Benna	72	0	0	0	0	Freestyle Skiing	France
+29	1984-08-15	Male	1.8	Anthony Lobello	79	0	0	0	0	Short Track	Italy
+18	1995-04-06	Female	1.73	Antoinette De Jong	68	0	0	0	0	Speed Skating	Netherlands
+27	1986-07-29	Male	1.93	Anton Belov	98	0	0	0	0	Ice Hockey	Russian Fed.
+27	1987-02-04	Male	1.75	Anton Gafarov	70	0	0	0	0	Cross-Country	Russian Fed.
+23	1990-12-27	Male	1.94	Anton Grimus	105	0	0	0	0	Freestyle Skiing	Australia
+22	1991-10-20	Male	1.72	Anton Koprivitsa	68	0	0	0	0	Snowboard	Russian Fed.
+29	1984-10-13	Male	1.76	Anton Kushnir	71	1	0	0	1	Freestyle Skiing	Belarus
+22	1991-04-22	Male	1.78	Anton Lindfors	77	0	0	0	0	Snowboard	Finland
+22	1991-03-25	Male	1.87	Anton Pantov	77	0	0	0	0	Biathlon	Kazakhstan
+26	1987-08-21	Male	1.85	Anton Shipulin	81	0	0	0	0	Biathlon	Russian Fed.
+30	1983-04-12	Male	1.86	Anton Unterkofler	85	0	0	0	0	Snowboard	Austria
+26	1987-12-14	Male	1.74	Antonin Broz	78	0	0	0	0	Luge	Czech Republic
+26	1987-02-12	Male	1.73	Antonin Hajek	58	0	0	0	0	Ski Jumping	Czech Republic
+43	1970-09-08	Male	1.77	Antonio Jose Pardo Andretta	90	0	0	0	0	Alpine Skiing	Venezuela
+24	1989-05-19	Male	1.81	Antonio Ristevski	81	0	0	0	0	Alpine Skiing	The Former Yugoslav Republic of Macedonia
+27	1986-12-07	Female	1.67	Antoniya Grigorova-burgova	58	0	0	0	0	Cross-Country	Bulgaria
+30	1983-08-29	Male	1.87	Antti Niemi	91	0	0	0	0	Ice Hockey	Finland
+19	1994-12-25	Male	1.72	Antti Ollila	71	0	0	0	0	Freestyle Skiing	Finland
+29	1984-10-22	Male	1.8	Antti Pihlstrom	82	0	0	0	0	Ice Hockey	Finland
+26	1987-08-24	Male	1.92	Anze Kopitar	100	0	0	0	0	Ice Hockey	Slovenia
+22	1991-10-31	Male	1.73	Anze Kuralt	85	0	0	0	0	Ice Hockey	Slovenia
+20	1993-06-24	Male	1.81	Apostolos Angelis	76	0	0	0	0	Cross-Country	Greece
+29	1984-10-08	Female	1.7	Ariane Lavigne	63	0	0	0	0	Snowboard	Canada
+23	1990-04-14	Female	1.61	Arianna Fontana	55	0	1	2	3	Short Track	Italy
+23	1990-09-21	Female	1.64	Arianne Jones	60	0	0	0	0	Luge	Canada
+17	1996-05-04	Female	1.65	Arielle Gold	64	0	0	0	0	Snowboard	United States
+23	1990-10-17	Female	1.51	Arisa Murata	48	0	0	0	0	Freestyle Skiing	Japan
+26	1987-04-09	Male	1.76	Arman Serebrakian	76	0	0	0	0	Alpine Skiing	Armenia
+30	1983-12-27	Male	1.92	Armands Berzins	97	0	0	0	0	Ice Hockey	Latvia
+23	1990-07-15	Male	1.74	Armin Bauer	69	0	0	0	0	Nordic Combined	Italy
+26	1987-02-28	Male	1.75	Armin Niederer	70	0	0	0	0	Freestyle Skiing	Switzerland
+40	1974-01-04	Male	1.81	Armin Zoeggeler	85	0	0	1	1	Luge	Italy
+20	1993-07-15	Male	1.85	Arnaud Alessandria	92	0	0	0	0	Alpine Skiing	Monaco
+25	1988-09-06	Male	1.7	Arnaud Bovolenta	92	0	0	0	0	Freestyle Skiing	France
+26	1987-03-18	Male	1.85	Arnd Peiffer	83	0	0	0	0	Cross-Country	Germany
+34	1979-11-16	Male	1.89	Arno Klaassen	96	0	0	0	0	Bobsleigh	Netherlands
+26	1987-05-30	Male	1.79	Artem Pryma	70	0	0	0	0	Biathlon	Ukraine
+20	1993-03-26	Male	1.85	Artem Voronov	75	0	0	0	0	Alpine Skiing	Uzbekistan
+20	1993-02-10	Male	1.8	Arthur Hanse	75	0	0	0	0	Alpine Skiing	Portugal
+25	1988-07-21	Male	1.73	Arthur Longo	66	0	0	0	0	Snowboard	France
+23	1990-04-15	Male	1.73	Arttu Kiramo	72	0	0	0	0	Freestyle Skiing	Finland
+23	1990-08-26	Male	1.74	Artur Nogal	73	0	0	0	0	Speed Skating	Poland
+27	1986-03-27	Male	1.92	Artur Was	90	0	0	0	0	Speed Skating	Poland
+23	1990-09-14	Male	1.8	Artur Yeghoyan	83	0	0	0	0	Cross-Country	Armenia
+25	1988-07-25	Male	1.88	Arturs Kulda	98	0	0	0	0	Ice Hockey	Latvia
+25	1988-05-24	Male	1.92	Artyom Anisimov	91	0	0	0	0	Ice Hockey	Russian Fed.
+26	1987-11-14	Male	1.77	Artyom Kuznetcov	78	0	0	0	0	Speed Skating	Russian Fed.
+35	1979-01-01	Male	1.8	Arvids Rekis	90	0	0	0	0	Ice Hockey	Latvia
+23	1990-03-18	Male	1.87	Arvis Liepins	76	0	0	0	0	Cross-Country	Latvia
+24	1989-04-08	Male	1.85	Arvis Vilkaste	94	0	0	0	0	Bobsleigh	Latvia
+20	1993-09-14	Female	1.7	Ashley Caldwell	66	0	0	0	0	Freestyle Skiing	United States
+31	1982-06-22	Female	1.66	Assoli Slivets	54	0	0	0	0	Freestyle Skiing	Russian Fed.
+31	1982-09-14	Female	1.68	Astrid Radjenovic	70	0	0	0	0	Bobsleigh	Australia
+22	1992-01-25	Female	1.61	Atsuko Tanaka	50	0	0	0	0	Ski Jumping	Canada
+25	1988-05-05	Female	1.55	Audrey Robichaud	59	0	0	0	0	Freestyle Skiing	Canada
+25	1988-05-26	Female	1.64	Aurelie Dabudyk	53	0	0	0	0	Cross-Country	France
+28	1985-06-25	Female	1.75	Aurore Jean	61	0	0	0	0	Cross-Country	France
+26	1987-12-23	Male	1.8	Axel Baeck	80	0	0	0	0	Alpine Skiing	Sweden
+34	1979-07-14	Male	1.86	Axel Teichmann	85	0	0	0	0	Cross-Country	Germany
+26	1987-06-28	Female	1.69	Ayaka Kikuchi	60	0	0	0	0	Speed Skating	Japan
+19	1994-08-22	Female	1.61	Ayaka Toko	59	0	0	0	0	Ice Hockey	Japan
+27	1986-09-29	Female	1.6	Ayuko Ito	54	0	0	0	0	Short Track	Japan
+15	1998-11-29	Male	1.6	Ayumu Hirano	50	0	1	0	1	Snowboard	Japan
+19	1994-04-07	Male	1.8	Ayumu Nedefuji	68	0	0	0	0	Snowboard	Japan
+28	1985-05-17	Female	1.57	Azusa Nakaoku	53	0	0	0	0	Ice Hockey	Japan
+19	1994-10-22	Male	1.7	Baglan Inkarbek	68	0	0	0	0	Freestyle Skiing	Kazakhstan
+23	1990-07-17	Male	1.78	Baptiste Gros	80	0	0	0	0	Cross-Country	France
+27	1986-10-31	Female	1.6	Barbara Jezersek	55	0	0	0	0	Cross-Country	Slovenia
+21	1992-03-03	Female	1.69	Barbara Kantorova	63	0	0	0	0	Alpine Skiing	Slovakia
+24	1989-09-16	Female	1.7	Barbara Wirth	67	0	0	0	0	Alpine Skiing	Germany
+23	1990-04-28	Female	1.78	Barbora Lukacova	75	0	0	0	0	Alpine Skiing	Slovakia
+22	1991-02-12	Male	1.79	Bart Swings	67	0	0	0	0	Speed Skating	Belgium
+26	1987-02-11	Male	1.72	Beat Feuz	79	0	0	0	0	Alpine Skiing	Switzerland
+36	1978-02-03	Male	1.83	Beat Hefti	106	0	1	0	1	Bobsleigh	Switzerland
+28	1985-03-10	Female	1.74	Beixing Wang	66	0	0	0	0	Speed Skating	China
+28	1985-04-13	Female	1.66	Bell Berghuis	63	0	0	0	0	Snowboard	Netherlands
+21	1993-01-12	Female	1.7	Belle Brockhoff	70	0	0	0	0	Snowboard	Australia
+26	1987-06-25	Male	1.78	Ben Coakwell	102	0	0	0	0	Bobsleigh	Canada
+25	1988-08-21	Male	1.8	Ben Kilner	71	0	0	0	0	Snowboard	Great Britain
+34	1979-03-12	Male	2	Ben Sandford	95	0	0	0	0	Skeleton	New Zealand
+27	1986-11-13	Male	1.86	Ben Simons	90	0	0	0	0	Bobsleigh	Great Britain
+21	1992-08-26	Male	1.79	Bence Beres	78	0	0	0	0	Short Track	Hungary
+24	1989-03-14	Male	1.8	Benedikt Mayr	80	0	0	0	0	Freestyle Skiing	Germany
+20	1994-01-01	Male	1.8	Benjamin Cavet	70	0	0	0	0	Freestyle Skiing	France
+28	1985-10-16	Male	1.86	Benjamin Karl	90	0	0	0	0	Snowboard	Austria
+24	1989-05-16	Male	1.83	Benjamin Mace	80	0	0	0	0	Speed Skating	France
+19	1994-04-19	Male	1.82	Benjamin Maier	93	0	0	0	0	Bobsleigh	Austria
+35	1978-02-28	Male	1.81	Benjamin Raich	83	0	0	0	0	Alpine Skiing	Austria
+26	1987-08-25	Male	1.7	Benjamin Thomsen	80	0	0	0	0	Alpine Skiing	Canada
+24	1989-10-05	Male	1.8	Benjamin Weger	75	0	0	0	0	Biathlon	Switzerland
+21	1992-12-08	Male	1.73	Benoit Valentin	65	0	0	0	0	Freestyle Skiing	France
+24	1989-02-21	Female	1.72	Bente Kraus	66	0	0	0	0	Speed Skating	Germany
+25	1988-05-26	Female	1.69	Bernadett Heidum	59	0	0	0	0	Short Track	Hungary
+24	1990-01-02	Female	1.65	Bernadette Schild	55	0	0	0	0	Alpine Skiing	Austria
+31	1982-08-12	Male	1.83	Bernhard Gruber	70	0	0	0	0	Nordic Combined	Austria
+27	1986-02-19	Male	1.86	Bernhard Starkbaum	93	0	0	0	0	Ice Hockey	Austria
+25	1988-04-25	Male	1.75	Bernhard Tritscher	72	0	0	0	0	Cross-Country	Austria
+32	1981-08-17	Female	1.68	Bettina Evers	71	0	0	0	0	Ice Hockey	Germany
+29	1985-01-31	Female	1.7	Bettina Gruber	59	0	0	0	0	Cross-Country	Switzerland
+24	1989-06-08	Female	1.53	Biba Sakurai	49	0	0	0	0	Short Track	Japan
+22	1991-02-27	Female	1.67	Bigna Windmueller	51	0	0	0	0	Ski Jumping	Switzerland
+33	1980-03-29	Male	1.78	Bill Demong	66	0	0	0	0	Nordic Combined	United States
+24	1989-04-02	Male	1.81	Billy Morgan	72	0	0	0	0	Snowboard	Great Britain
+21	1992-10-14	Female	1.71	Birgit Platzer	62	0	0	0	0	Luge	Austria
+35	1978-08-01	Male	1.94	Bjoern Ferry	82	0	0	0	0	Biathlon	Sweden
+30	1983-08-06	Male	1.83	Bjoern Kircheisen	63	0	0	0	0	Nordic Combined	Germany
+27	1986-08-31	Male	1.96	Blake Wheeler	102	0	0	0	0	Ice Hockey	United States
+24	1990-01-18	Male	1.9	Blaz Gregorc	95	0	0	0	0	Ice Hockey	Slovenia
+27	1986-08-16	Female	1.67	Bo Ra Lee	55	0	0	0	0	Speed Skating	Korea
+21	1993-02-06	Female	1.63	Bo Reum Kim	58	0	0	0	0	Speed Skating	Korea
+37	1976-11-13	Male	1.8	Bob De Jong	77	0	0	1	1	Speed Skating	Netherlands
+22	1991-06-05	Male	1.88	Bobby Brown	84	0	0	0	0	Freestyle Skiing	United States
+36	1977-10-12	Male	1.88	Bode Miller	91	0	0	1	1	Alpine Skiing	United States
+31	1983-01-28	Male	1.72	Bogdan Macovei	70	0	0	0	0	Luge	Rep. of Moldova
+27	1987-02-13	Male	1.81	Bogdan Otava	92	0	0	0	0	Bobsleigh	Romania
+24	1989-08-27	Female	1.7	Bogdana Matsotska	66	0	0	0	0	Alpine Skiing	Ukraine
+21	1992-05-31	Male	1.84	Bong-shik Shin	83	0	0	0	0	Snowboard	Korea
+24	1989-06-12	Male	1.83	Bostjan Golicic	89	0	0	0	0	Ice Hockey	Slovenia
+27	1986-08-12	Male	1.8	Brad Martin	81	0	0	0	0	Snowboard	Canada
+29	1984-04-19	Male	1.84	Brad Spence	91	0	0	0	0	Alpine Skiing	Canada
+21	1992-06-05	Male	1.77	Bradley Wilson	72	0	0	0	0	Freestyle Skiing	United States
+27	1986-10-16	Male	1.84	Brady Leman	91	0	0	0	0	Freestyle Skiing	Canada
+33	1980-11-24	Male	1.83	Branko Radivojevic	94	0	0	0	0	Ice Hockey	Slovakia
+27	1986-11-04	Male	1.83	Brendan Green	72	0	0	0	0	Biathlon	Canada
+29	1984-06-27	Male	1.73	Brian Gregg	69	0	0	0	0	Cross-Country	United States
+23	1990-09-03	Male	1.83	Brian Hansen	82	0	0	0	0	Speed Skating	United States
+25	1988-07-16	Male	1.92	Brian Lebler	100	0	0	0	0	Ice Hockey	Austria
+22	1991-05-13	Female	1.63	Brianna Decker	68	0	0	0	0	Ice Hockey	United States
+22	1991-05-04	Female	1.75	Brianne Jenner	70	0	0	0	0	Ice Hockey	Canada
+26	1987-06-20	Female	1.74	Brianne Mclaughlin	60	0	0	0	0	Ice Hockey	United States
+21	1992-06-09	Female	1.75	Brianne Tutt	66	0	0	0	0	Speed Skating	Canada
+23	1990-08-09	Male	1.81	Brice Roger	92	0	0	0	0	Alpine Skiing	France
+24	1990-01-17	Female	1.7	Brita Sigourney	54	0	0	0	0	Freestyle Skiing	United States
+30	1983-03-30	Female	1.7	Britta Johansson Norgren	66	0	0	0	0	Cross-Country	Sweden
+25	1988-02-24	Female	1.7	Brittany Bowe	66	0	0	0	0	Speed Skating	United States
+22	1991-09-24	Female	1.71	Brittany Phelan	62	0	0	0	0	Alpine Skiing	Canada
+28	1985-04-21	Female	1.7	Brittany Schussler	63	0	0	0	0	Speed Skating	Canada
+26	1987-06-25	Female	1.68	Brittany Webster	57	0	0	0	0	Cross-Country	Canada
+19	1994-09-29	Female	1.63	Britteny Cox	59	0	0	0	0	Freestyle Skiing	Australia
+20	1993-10-18	Male	1.83	Brodie Summers	83	0	0	0	0	Freestyle Skiing	Australia
+33	1980-09-26	Male	1.88	Brooks Orpik	100	0	0	0	0	Ice Hockey	United States
+24	1989-02-13	Male	1.89	Bror Van Der Zijde	110	0	0	0	0	Bobsleigh	Netherlands
+26	1987-09-02	Male	1.92	Bruce Tasker	90	0	0	0	0	Bobsleigh	Great Britain
+26	1987-12-04	Male	1.84	Bruno Banani	89	0	0	0	0	Luge	Tonga
+26	1987-02-10	Male	1.83	Bryan Barnett	102	0	0	0	0	Bobsleigh	Canada
+27	1986-06-27	Male	1.75	Bryan Fletcher	66	0	0	0	0	Nordic Combined	United States
+24	1989-03-10	Male	1.98	Brynjar Jokull Gudmundsson	107	0	0	0	0	Alpine Skiing	Iceland
+22	1991-04-06	Male	1.7	Byambadorj Bold	66	0	0	0	0	Cross-Country	Mongolia
+21	1992-04-03	Male	1.7	Byron Wells	68	0	0	0	0	Freestyle Skiing	New Zealand
+24	1989-03-17	Male	1.84	Calle Halfvarsson	79	0	0	0	0	Cross-Country	Sweden
+21	1992-10-12	Male	1.8	Callum Smith	74	0	0	0	0	Cross-Country	Great Britain
+24	1989-10-06	Male	1.8	Callum Watson	66	0	0	0	0	Cross-Country	Australia
+22	1991-12-05	Male	1.85	Cam Fowler	95	0	0	0	0	Ice Hockey	United States
+23	1990-11-21	Male	1.91	Cameron Bolton	82	0	0	0	0	Snowboard	Australia
+17	1996-08-28	Female	1.65	Camille Dias	55	0	0	0	0	Alpine Skiing	Portugal
+19	1994-12-02	Female	1.61	Camillia Berra	61	0	0	0	0	Freestyle Skiing	Switzerland
+26	1987-08-16	Male	1.9	Carey Price	99	0	0	0	0	Ice Hockey	Canada
+35	1978-03-12	Female	1.72	Carien Kleibeuker	58	0	0	0	0	Speed Skating	Netherlands
+22	1992-02-05	Female	1.71	Carina Vogt	62	1	0	0	1	Ski Jumping	Germany
+25	1988-08-23	Male	1.8	Carl Hagelin	80	0	0	0	0	Ice Hockey	Sweden
+35	1978-03-14	Male	1.76	Carl Johan Bergman	73	0	0	0	0	Biathlon	Sweden
+27	1986-10-15	Male	1.85	Carlo Janka	88	0	0	0	0	Alpine Skiing	Switzerland
+32	1981-10-14	Female	1.65	Carolina Ruiz Castillo	63	0	0	0	0	Alpine Skiing	Spain
+35	1978-10-01	Female	1.77	Caroline Calve	73	0	0	0	0	Snowboard	Canada
+34	1979-05-25	Female	1.8	Caroline Ouellette	77	0	0	0	0	Ice Hockey	Canada
+31	1982-05-04	Female	1.7	Caroline Spahni	68	0	0	0	0	Bobsleigh	Switzerland
+26	1987-02-27	Female	1.68	Catherine Ward	67	0	0	0	0	Ice Hockey	Canada
+31	1982-05-27	Female	1.7	Cathleen Martini	70	0	0	0	0	Bobsleigh	Germany
+29	1984-11-19	Female	1.65	Cecilia Maffei	61	0	0	0	0	Short Track	Italy
+23	1991-01-15	Female	1.66	Cecilia Ostberg	67	0	0	0	0	Ice Hockey	Sweden
+22	1991-08-05	Female	1.61	Celia Aymonier	56	0	0	0	0	Cross-Country	France
+32	1981-04-07	Female	1.53	Chae-won Lee	45	0	0	0	0	Cross-Country	Korea
+30	1983-11-19	Female	1.75	Chandra Crawford	68	0	0	0	0	Cross-Country	Canada
+26	1987-09-07	Male	1.75	Chao Wu	65	0	0	0	0	Freestyle Skiing	China
+22	1991-03-21	Female	1.7	Chaoqing Song	60	0	0	0	0	Biathlon	China
+22	1991-06-11	Male	1.73	Charle Cournoyer	68	0	0	0	0	Short Track	Canada
+26	1987-04-22	Male	1.85	Charles Guldemond	82	0	0	0	0	Snowboard	United States
+29	1984-04-14	Male	1.75	Charles Hamelin	71	1	0	0	1	Short Track	Canada
+23	1990-04-12	Male	1.75	Charles Reid	68	0	0	0	0	Snowboard	Canada
+31	1982-10-15	Female	1.75	Charline Labonte	72	0	0	0	0	Ice Hockey	Canada
+18	1995-06-10	Female	1.63	Charlotte Bankes	60	0	0	0	0	Snowboard	France
+23	1990-03-07	Female	1.63	Charlotte Gilmartin	61	0	0	0	0	Short Track	Great Britain
+26	1987-07-22	Female	1.62	Charlotte Kalla	59	1	2	0	3	Cross-Country	Sweden
+26	1987-10-11	Female	1.78	Chelsea Valois	72	0	0	0	0	Bobsleigh	Canada
+31	1982-07-10	Female	1.7	Chemmy Alcott	74	0	0	0	0	Alpine Skiing	Great Britain
+21	1992-11-29	Male	1.72	Cheol Min Kim	62	0	0	0	0	Speed Skating	Korea
+29	1984-09-28	Female	1.74	Cheryl Maas	70	0	0	0	0	Snowboard	Netherlands
+29	1984-05-06	Female	1.71	Chiara Costazza	64	0	0	0	0	Alpine Skiing	Italy
+16	1997-07-18	Female	1.52	Chiara Hoelzl	43	0	0	0	0	Ski Jumping	Austria
+21	1992-02-10	Female	1.62	Chiho Osawa	63	0	0	0	0	Ice Hockey	Japan
+29	1984-02-20	Female	1.68	Chiho Takao	54	0	0	0	0	Freestyle Skiing	Japan
+29	1984-08-08	Male	1.74	Chil-ku Kang	59	0	0	0	0	Ski Jumping	Korea
+21	1992-10-18	Male	1.68	Ching-yang Sung	66	0	0	0	0	Speed Skating	Chinese Taipei
+22	1991-12-02	Female	1.56	Chloe Dufour-lapointe	59	0	1	0	1	Freestyle Skiing	Canada
+19	1994-04-13	Female	1.76	Chloe Trespeuch	63	0	0	1	1	Snowboard	France
+34	1979-09-26	Male	1.83	Chris Kunitz	88	0	0	0	0	Ice Hockey	Canada
+29	1984-03-06	Male	1.81	Chris Spring	101	0	0	0	0	Bobsleigh	Canada
+21	1992-11-19	Male	1.74	Christiaan Bokkerink	64	0	0	0	0	Short Track	Netherlands
+32	1981-02-18	Male	1.73	Christian De Lorenzi	65	0	0	0	0	Biathlon	Italy
+24	1989-10-28	Male	1.75	Christian Haller	72	0	0	0	0	Snowboard	Switzerland
+26	1987-09-29	Male	1.81	Christian Mithassel	84	0	0	0	0	Freestyle Skiing	Norway
+36	1978-01-27	Male	1.91	Christian Niccum	86	0	0	0	0	Luge	United States
+36	1977-08-08	Male	1.77	Christian Oberstolz	81	0	0	0	0	Luge	Italy
+27	1986-08-16	Male	1.82	Christian Poser	95	0	0	0	0	Bobsleigh	Germany
+26	1987-08-31	Female	1.8	Christin Senkel	78	0	0	0	0	Bobsleigh	Germany
+24	1990-02-06	Female	1.7	Christina Geiger	67	0	0	0	0	Alpine Skiing	Germany
+28	1986-02-04	Female	1.77	Christina Hengster	73	0	0	0	0	Bobsleigh	Austria
+26	1987-02-23	Female	1.58	Christina Staudinger	60	0	0	0	0	Freestyle Skiing	Austria
+28	1985-05-17	Female	1.71	Christine Nesbitt	68	0	0	0	0	Speed Skating	Canada
+29	1984-12-17	Male	1.86	Christof Innerhofer	90	0	1	1	2	Alpine Skiing	Italy
+24	1989-02-17	Male	1.93	Christofer Eriksson	84	0	0	0	0	Biathlon	Sweden
+21	1992-12-28	Male	1.9	Christoffer Faarup	83	0	0	0	0	Alpine Skiing	Denmark
+36	1977-10-28	Male	1.8	Christoph Bieler	69	0	0	0	0	Nordic Combined	Austria
+25	1988-08-02	Male	1.87	Christoph Mick	85	0	0	0	0	Snowboard	Italy
+28	1986-01-12	Male	1.88	Christoph Stephan	86	0	0	0	0	Biathlon	Germany
+38	1976-01-19	Male	1.81	Christoph Sumann	79	0	0	0	0	Biathlon	Austria
+24	1989-10-18	Male	1.77	Christoph Wahrstoetter	81	0	0	0	0	Freestyle Skiing	Austria
+27	1986-12-29	Male	1.7	Christopher Creveling	70	0	0	0	0	Short Track	United States
+31	1982-03-30	Male	1.85	Christopher Delbosco	91	0	0	0	0	Freestyle Skiing	Canada
+30	1983-05-29	Male	1.83	Christopher Fogt	93	0	0	0	0	Bobsleigh	United States
+26	1987-03-15	Male	1.77	Christopher Lambert	69	0	0	0	0	Freestyle Skiing	Switzerland
+25	1988-06-26	Male	1.86	Christopher Mazdzer	86	0	0	0	0	Luge	United States
+24	1989-12-30	Male	1.8	Christopher Robanske	83	0	0	0	0	Snowboard	Canada
+25	1988-11-28	Female	1.61	Christy Prior	62	0	0	0	0	Snowboard	New Zealand
+25	1989-01-31	Female	1.73	Claire Hamilton	66	0	0	0	0	Curling	Great Britain
+36	1978-02-01	Female	1.68	Claudia Nystad	60	0	0	1	1	Cross-Country	Germany
+41	1972-02-22	Female	1.66	Claudia Pechstein	60	0	0	0	0	Speed Skating	Germany
+40	1973-07-07	Female	1.68	Claudia Riegler	70	0	0	0	0	Snowboard	Austria
+29	1984-06-20	Male	1.79	Claudio Boeckli	76	0	0	0	0	Biathlon	Switzerland
+19	1994-03-04	Female	1.76	Clemence Grimal	70	0	0	0	0	Snowboard	France
+22	1992-02-07	Male	1.83	Clemens Schattschneider	81	0	0	0	0	Snowboard	Austria
+27	1986-10-06	Male	1.83	Cody Sorensen	96	0	0	0	0	Bobsleigh	Canada
+18	1995-11-03	Female	1.62	Coline Mattel	57	0	0	1	1	Ski Jumping	France
+20	1993-02-24	Male	1.77	Conor Lyne	77	0	0	0	0	Alpine Skiing	Ireland
+20	1993-09-06	Male	1.65	Constantinos Papamichael	61	0	0	0	0	Alpine Skiing	Cyprus
+29	1984-03-11	Female	1.55	Coraline Hugue	53	0	0	0	0	Cross-Country	France
+28	1985-05-16	Male	1.9	Corey Perry	95	0	0	0	0	Ice Hockey	Canada
+28	1985-03-10	Female	1.73	Corinna Boccacini	83	0	0	0	0	Snowboard	Italy
+24	1989-10-27	Male	1.74	Cornel Puchianu	69	0	0	0	0	Biathlon	Romania
+21	1992-10-29	Female	1.71	Cornelia Huetter	64	0	0	0	0	Alpine Skiing	Austria
+32	1981-03-27	Male	1.88	Cory Butner	95	0	0	0	0	Bobsleigh	United States
+27	1986-10-16	Male	1.82	Craig Pickering	93	0	0	0	0	Bobsleigh	Great Britain
+34	1979-08-07	Male	1.75	Crispin Lipscomb	65	0	0	0	0	Snowboard	Canada
+29	1984-11-15	Male	1.81	Curdin Perl	77	0	0	0	0	Cross-Country	Switzerland
+33	1980-09-17	Male	1.85	Curtis Tomasevicz	102	0	0	0	0	Bobsleigh	United States
+35	1979-01-27	Male	1.77	Cyprien Richard	77	0	0	0	0	Alpine Skiing	France
+28	1986-01-20	Male	1.78	Cyril Gaillard	72	0	0	0	0	Cross-Country	France
+28	1985-03-25	Male	1.85	Cyril Miranda	80	0	0	0	0	Cross-Country	France
+26	1987-12-29	Male	1.82	Daan Breeuwsma	74	0	0	0	0	Short Track	Netherlands
+44	1969-11-03	Male	1.78	Dachhiri Sherpa	79	0	0	0	0	Cross-Country	Nepal
+23	1990-05-01	Male	1.77	Daichi Yamanaka	75	0	0	0	0	Speed Skating	Japan
+28	1985-12-27	Male	1.73	Daiki Ito	58	0	0	1	1	Ski Jumping	Japan
+29	1985-01-18	Male	1.86	Dale Begg-smith	84	0	0	0	0	Freestyle Skiing	Australia
+28	1985-12-25	Male	1.84	Dalibor Samsal	89	0	0	0	0	Alpine Skiing	Croatia
+31	1982-03-30	Male	1.93	Dallas Robinson	107	0	0	0	0	Bobsleigh	United States
+27	1986-03-09	Male	1.8	Damien Brunner	85	0	0	0	0	Ice Hockey	Switzerland
+31	1982-12-13	Male	1.86	Dan Hamhuis	94	0	0	0	0	Ice Hockey	Canada
+27	1986-05-12	Female	1.66	Dan Li	62	0	0	0	0	Speed Skating	China
+24	1989-05-05	Female	1.64	Dandan Man	53	0	0	0	0	Cross-Country	China
+41	1972-12-11	Male	1.82	Daniel Alfredsson	92	0	0	0	0	Ice Hockey	Sweden
+27	1986-06-16	Male	1.78	Daniel Boehm	72	0	0	0	0	Biathlon	Germany
+23	1990-02-21	Male	1.89	Daniel Bohnacker	84	0	0	0	0	Freestyle Skiing	Germany
+22	1991-03-13	Male	1.72	Daniel Greig	69	0	0	0	0	Speed Skating	Australia
+37	1976-05-22	Male	1.81	Daniel Mesotitsch	78	0	0	0	0	Biathlon	Austria
+25	1988-07-16	Male	1.83	Daniel Oberkofler	74	0	0	0	0	Ice Hockey	Austria
+27	1986-12-07	Male	1.83	Daniel Pfister	95	0	0	0	0	Luge	Austria
+31	1982-03-15	Male	1.92	Daniel Richardsson	85	1	0	1	2	Cross-Country	Sweden
+33	1980-09-26	Male	1.86	Daniel Sedin	84	0	0	0	0	Ice Hockey	Sweden
+23	1990-03-11	Male	1.83	Daniel Sorvik	83	0	0	0	0	Ice Hockey	Norway
+26	1987-05-24	Male	1.83	Daniel Taschler	72	0	0	0	0	Biathlon	Italy
+30	1983-02-16	Male	1.8	Daniel Welser	86	0	0	0	0	Ice Hockey	Austria
+20	1993-02-18	Male	1.81	Daniel Yule	88	0	0	0	0	Alpine Skiing	Switzerland
+22	1992-01-17	Male	1.81	Daniel Zalewski	100	0	0	0	0	Bobsleigh	Poland
+30	1983-11-21	Female	1.64	Daniela Iraschko-stolz	53	0	1	0	1	Ski Jumping	Austria
+28	1985-09-19	Female	1.74	Daniela Kotschova	60	0	0	0	0	Cross-Country	Slovakia
+32	1981-07-05	Female	1.68	Daniela Merighetti	67	0	0	0	0	Alpine Skiing	Italy
+23	1990-03-07	Female	1.67	Danielle Scott	57	0	0	0	0	Freestyle Skiing	Australia
+33	1980-04-13	Female	1.76	Danielle Wotherspoon	63	0	0	0	0	Speed Skating	Canada
+27	1986-08-13	Male	1.82	Danil Steptsenko	74	0	0	0	0	Biathlon	Estonia
+25	1988-06-22	Male	1.75	Danny Davis	73	0	0	0	0	Snowboard	United States
+22	1991-03-18	Male	1.83	Danut Moldovan	85	0	0	0	0	Bobsleigh	Romania
+19	1994-08-23	Female	1.7	Dara Howell	57	1	0	0	1	Freestyle Skiing	Canada
+30	1983-12-24	Female	1.78	Daria Gaiazova	69	0	0	0	0	Cross-Country	Canada
+21	1992-03-03	Female	1.68	Daria Yurlova	62	0	0	0	0	Biathlon	Estonia
+27	1986-03-11	Male	1.78	Dario Cologna	75	2	0	0	2	Cross-Country	Switzerland
+32	1981-07-15	Male	1.81	Darko Damjanovski	73	0	0	0	0	Cross-Country	The Former Yugoslav Republic of Macedonia
+27	1986-08-03	Female	1.68	Darya Domracheva	56	3	0	0	3	Biathlon	Belarus
+25	1988-08-19	Female	1.57	Darya Rybalova	52	0	0	0	0	Freestyle Skiing	Kazakhstan
+24	1989-09-06	Female	1.7	Darya Usanova	65	0	0	0	0	Biathlon	Kazakhstan
+29	1984-03-28	Male	1.93	Daumants Dreiskens	103	0	0	0	0	Bobsleigh	Latvia
+19	1994-02-23	Male	1.83	David Andersson	78	0	0	0	0	Speed Skating	Sweden
+29	1984-05-01	Male	1.91	David Backes	99	0	0	0	0	Ice Hockey	United States
+31	1982-08-02	Male	1.91	David Bakes	85	0	0	0	0	Snowboard	Czech Republic
+34	1979-09-26	Male	1.79	David Bissett	102	0	0	0	0	Bobsleigh	Canada
+21	1992-04-28	Male	1.78	David Bosa	76	0	0	0	0	Speed Skating	Italy
+29	1984-06-25	Male	1.8	David Chodounsky	82	0	0	0	0	Alpine Skiing	United States
+28	1986-02-14	Male	1.79	David Coleman	100	0	0	0	0	Bobsleigh	Great Britain
+31	1982-07-15	Male	1.83	David Duncan	93	0	0	0	0	Freestyle Skiing	Canada
+17	1996-04-24	Male	1.75	David Habluetzel	65	0	0	0	0	Snowboard	Switzerland
+30	1983-06-21	Male	1.8	David Hofer	72	0	0	0	0	Cross-Country	Italy
+27	1986-04-28	Male	1.83	David Krejci	80	0	0	0	0	Ice Hockey	Czech Republic
+32	1982-01-13	Male	1.88	David Moeller	85	0	0	0	0	Luge	Germany
+29	1984-08-31	Male	1.71	David Morris	67	0	1	0	1	Freestyle Skiing	Australia
+35	1978-04-17	Male	1.78	David Murdoch	84	0	0	0	0	Curling	Great Britain
+31	1982-03-31	Male	1.72	David Poisson	87	0	0	0	0	Alpine Skiing	France
+30	1983-09-10	Male	1.85	David Rodman	83	0	0	0	0	Ice Hockey	Slovenia
+27	1986-12-05	Male	1.8	David Ryding	82	0	0	0	0	Alpine Skiing	Great Britain
+23	1990-06-30	Male	1.82	David Wise	86	0	0	0	0	Freestyle Skiing	United States
+25	1988-09-10	Male	1.69	Davide Bresadola	59	0	0	0	0	Ski Jumping	Italy
+35	1979-01-30	Male	1.75	Davide Simoncelli	75	0	0	0	0	Alpine Skiing	Italy
+23	1990-12-21	Male	1.69	Davide Viscardi	69	0	0	0	0	Short Track	Italy
+28	1985-11-30	Female	1.7	Davina Williams	56	0	0	0	0	Freestyle Skiing	Australia
+23	1990-03-12	Male	1.8	Dawid Kubacki	64	0	0	0	0	Ski Jumping	Poland
+36	1977-05-10	Male	1.82	Dawid Kupczyk	98	0	0	0	0	Bobsleigh	Poland
+20	1993-03-05	Male	1.74	Dawoon Sin	61	0	0	0	0	Short Track	Korea
+18	1995-11-13	Female	1.63	Deanna Lockett	50	0	0	0	0	Short Track	Australia
+22	1991-02-25	Female	1.66	Debora Agreiter	51	0	0	0	0	Cross-Country	Italy
+35	1978-08-29	Female	1.65	Deborah Anthonioz	52	0	0	0	0	Snowboard	France
+40	1974-01-08	Female	1.7	Deborah Mccormick	74	0	0	0	0	Curling	United States
+27	1986-12-25	Female	1.7	Deborah Scanzio	65	0	0	0	0	Freestyle Skiing	Italy
+24	1989-10-15	Male	1.83	Denis Hollenstein	88	0	0	0	0	Ice Hockey	Switzerland
+27	1986-08-17	Male	1.81	Denis Kornilov	65	0	0	0	0	Ski Jumping	Russian Fed.
+22	1991-11-06	Male	1.77	Denis Koval	78	0	0	0	0	Speed Skating	Russian Fed.
+25	1988-12-04	Male	1.88	Denis Kuzin	85	0	0	0	0	Speed Skating	Kazakhstan
+18	1995-08-07	Male	1.77	Denis Nikisha	79	0	0	0	0	Short Track	Kazakhstan
+30	1983-07-17	Male	1.7	Denis Osipau	62	0	0	0	0	Freestyle Skiing	Belarus
+28	1985-10-10	Male	1.85	Denis Volotka	83	0	0	0	0	Cross-Country	Kazakhstan
+24	1989-10-11	Male	1.9	Denis Yuskov	83	0	0	0	0	Speed Skating	Russian Fed.
+24	1989-04-15	Female	1.7	Denise Feierabend	69	0	0	0	0	Alpine Skiing	Switzerland
+25	1988-12-20	Female	1.75	Denise Herrmann	61	0	0	1	1	Cross-Country	Germany
+33	1980-08-16	Female	1.6	Denise Karbon	60	0	0	0	0	Alpine Skiing	Italy
+25	1988-09-12	Female	1.64	Denise Roth	59	0	0	0	0	Speed Skating	Germany
+28	1985-09-08	Male	1.83	Denny Morrison	81	0	1	1	2	Speed Skating	Canada
+23	1991-01-05	Male	1.72	Derek Livingston	68	0	0	0	0	Snowboard	Canada
+23	1990-06-18	Male	1.83	Derek Stepan	76	0	0	0	0	Ice Hockey	United States
+21	1992-04-10	Female	1.69	Desislava Stoyanova	59	0	0	0	0	Biathlon	Bulgaria
+20	1993-02-17	Female	1.75	Devin Logan	79	0	1	0	1	Freestyle Skiing	United States
+31	1982-12-20	Male	1.78	Devon Kershaw	72	0	0	0	0	Cross-Country	Canada
+29	1984-02-25	Female	1.63	Diana Rasimoviciute	54	0	0	0	0	Biathlon	Lithuania
+28	1985-03-31	Male	1.7	Dias Keneshev	63	0	0	0	0	Biathlon	Kazakhstan
+36	1977-10-02	Male	1.84	Didier Defago	89	0	0	0	0	Alpine Skiing	Switzerland
+23	1990-02-22	Male	1.78	Didrik Bastian Juell	83	0	0	0	0	Freestyle Skiing	Norway
+25	1988-09-29	Male	1.81	Dietmar Noeckler	75	0	0	0	0	Cross-Country	Italy
+19	1994-09-01	Male	1.78	Dimi Jong De	82	0	0	0	0	Snowboard	Netherlands
+34	1979-12-26	Male	1.78	Dimitry Vasiliev	68	0	0	0	0	Ski Jumping	Russian Fed.
+36	1977-11-09	Male	1.7	Dmitri Dashinski	68	0	0	0	0	Freestyle Skiing	Belarus
+28	1985-03-22	Male	1.84	Dmitriy Babenko	76	0	0	0	0	Speed Skating	Kazakhstan
+28	1985-09-25	Male	1.78	Dmitriy Barmashov	78	0	0	0	0	Freestyle Skiing	Kazakhstan
+28	1986-01-01	Male	1.78	Dmitriy Japarov	68	0	1	0	1	Cross-Country	Russian Fed.
+27	1986-04-20	Male	1.8	Dmitriy Koshkin	80	0	0	0	0	Alpine Skiing	Kazakhstan
+21	1992-11-21	Male	1.77	Dmitriy Migunov	72	0	0	0	0	Short Track	Russian Fed.
+24	1989-08-01	Male	1.76	Dmitriy Reiherd	82	0	0	0	0	Freestyle Skiing	Kazakhstan
+33	1981-02-02	Male	1.78	Dmitry Lobkov	81	0	0	0	0	Speed Skating	Russian Fed.
+26	1987-03-19	Male	1.85	Dmitry Malyshko	79	0	0	0	0	Biathlon	Russian Fed.
+29	1984-04-19	Male	1.87	Dmitry Trunenkov	107	0	0	0	0	Bobsleigh	Russian Fed.
+18	1995-11-08	Male	1.83	Dmytro Mytsak	75	0	0	0	0	Alpine Skiing	Ukraine
+22	1991-11-05	Male	1.79	Dmytro Pidruchnyi	68	0	0	0	0	Biathlon	Ukraine
+26	1987-07-21	Male	1.87	Dolf Wal Van Der	83	0	0	0	0	Snowboard	Netherlands
+20	1993-05-19	Male	1.76	Dominic Demschar	75	0	0	0	0	Alpine Skiing	Australia
+26	1987-09-08	Male	1.85	Dominic Edward Parsons	87	0	0	0	0	Skeleton	Great Britain
+29	1984-06-04	Male	1.87	Dominic Harington	77	0	0	0	0	Snowboard	Great Britain
+21	1992-06-09	Male	1.92	Dominik Dvorak	95	0	0	0	0	Bobsleigh	Czech Republic
+20	1993-02-20	Male	1.73	Dominik Fischnaller	61	0	0	0	0	Luge	Italy
+25	1988-03-13	Male	1.88	Dominik Landertinger	80	0	1	0	1	Biathlon	Austria
+24	1989-04-14	Male	1.83	Dominik Paris	97	0	0	0	0	Alpine Skiing	Italy
+26	1987-11-13	Male	1.85	Dominik Suchy	98	0	0	0	0	Bobsleigh	Czech Republic
+24	1989-11-06	Male	1.82	Dominik Windisch	72	0	0	0	0	Biathlon	Italy
+28	1985-06-04	Female	1.72	Dominique Gisin	70	1	0	0	1	Alpine Skiing	Switzerland
+33	1980-11-09	Female	1.78	Dominique Maltais	71	0	1	0	1	Snowboard	Canada
+25	1988-06-01	Male	1.8	Dong-hyun Jung	80	0	0	0	0	Alpine Skiing	Korea
+22	1991-09-24	Male	1.81	Donghyeon Kim	90	0	0	0	0	Luge	Korea
+26	1987-11-12	Male	1.84	Donghyun Kim	100	0	0	0	0	Bobsleigh	Korea
+27	1986-11-29	Male	1.78	Dorin Velicu	80	0	0	0	0	Skeleton	Romania
+23	1990-04-03	Female	1.58	Dorothea Wierer	60	0	0	0	0	Biathlon	Italy
+26	1987-07-08	Male	1.82	Dow Travers	91	0	0	0	0	Alpine Skiing	Cayman Islands
+24	1989-12-08	Male	1.85	Drew Doughty	94	0	0	0	0	Ice Hockey	Canada
+32	1981-03-12	Male	1.83	Duncan Harvey	102	0	0	0	0	Bobsleigh	Australia
+30	1983-07-16	Male	1.85	Duncan Keith	90	0	0	0	0	Ice Hockey	Canada
+30	1983-04-25	Male	1.85	Dusan Kozisek	76	0	0	0	0	Cross-Country	Czech Republic
+29	1984-11-04	Male	1.83	Dustin Brown	95	0	0	0	0	Ice Hockey	United States
+18	1995-04-19	Male	1.77	Dusty Korek	61	0	0	0	0	Ski Jumping	Canada
+33	1980-03-31	Male	1.76	Edgars Masalskis	80	0	0	0	0	Ice Hockey	Latvia
+20	1993-12-22	Male	1.83	Edi Dadic	79	0	0	0	0	Cross-Country	Croatia
+25	1988-03-31	Female	1.66	Edit Miklos	65	0	0	0	0	Alpine Skiing	Hungary
+34	1979-03-13	Male	1.9	Edson Bindilatti	102	0	0	0	0	Bobsleigh	Brazil
+24	1989-10-04	Male	1.87	Edson Ricardo Martins	88	0	0	0	0	Bobsleigh	Brazil
+24	1990-01-30	Male	1.75	Eduardo Alvarez	79	0	0	0	0	Short Track	United States
+34	1979-06-14	Male	1.88	Edwin Van Calker	99	0	0	0	0	Bobsleigh	Netherlands
+23	1990-04-12	Male	1.73	Eetu Vaehaesoeyrinki	61	0	0	0	0	Nordic Combined	Finland
+27	1986-04-14	Male	1.81	Egor Korotkov	73	0	0	0	0	Freestyle Skiing	Russian Fed.
+20	1994-01-03	Male	1.85	Einar Kristinn Kristgeirsson	94	0	0	0	0	Alpine Skiing	Iceland
+21	1992-07-01	Female	1.68	Ekaterina Baranok	56	0	0	0	0	Short Track	Russian Fed.
+26	1987-04-22	Female	1.65	Ekaterina Glazyrina	57	0	0	0	0	Biathlon	Russian Fed.
+26	1987-06-19	Female	1.57	Ekaterina Ilyukhina	60	0	0	0	0	Snowboard	Russian Fed.
+27	1986-10-25	Female	1.73	Ekaterina Shumilova	60	0	0	0	0	Biathlon	Russian Fed.
+25	1988-04-25	Female	1.76	Ekaterina Stolyarova	55	0	0	0	0	Freestyle Skiing	Russian Fed.
+26	1987-10-30	Female	1.62	Ekaterina Tudegesheva	65	0	0	0	0	Snowboard	Russian Fed.
+29	1984-10-10	Female	1.7	Elana Meyers	82	0	0	0	0	Bobsleigh	United States
+28	1985-04-30	Female	1.61	Elena Fanchini	70	0	0	0	0	Alpine Skiing	Italy
+33	1980-09-28	Female	1.74	Elena Khrustaleva	54	0	0	0	0	Biathlon	Kazakhstan
+26	1987-09-12	Female	1.66	Elena Koenz	55	0	0	0	0	Snowboard	Switzerland
+27	1986-12-12	Female	1.62	Elena Muratova	60	0	0	0	0	Freestyle Skiing	Russian Fed.
+21	1992-11-02	Female	1.69	Elena Nikitina	57	0	0	1	1	Skeleton	Russian Fed.
+23	1990-07-10	Female	1.67	Elena Runggaldier	56	0	0	0	0	Ski Jumping	Italy
+21	1992-10-10	Female	1.63	Elena Viviani	59	0	0	1	1	Short Track	Italy
+21	1992-09-17	Female	1.7	Elena Yakovishina	65	0	0	0	0	Alpine Skiing	Russian Fed.
+29	1985-01-11	Female	1.74	Elfje Willemsen	78	0	0	0	0	Bobsleigh	Belgium
+21	1992-03-26	Male	1.82	Elias Ambuehl	82	0	0	0	0	Freestyle Skiing	Switzerland
+27	1986-10-25	Male	1.83	Eligius Tambornino	73	0	0	0	0	Cross-Country	Switzerland
+27	1986-09-21	Female	1.65	Elin Mattsson	61	0	0	0	0	Biathlon	Sweden
+29	1984-10-27	Female	1.62	Elisa Brocard	53	0	0	0	0	Cross-Country	Italy
+22	1991-12-02	Female	1.59	Elisa Gasparin	50	0	0	0	0	Biathlon	Switzerland
+32	1981-02-20	Female	1.66	Elisabeth Goergl	68	0	0	0	0	Alpine Skiing	Austria
+27	1986-11-07	Female	1.65	Elisabeth Hoegberg	56	0	0	0	0	Biathlon	Sweden
+23	1990-08-13	Female	1.6	Elise Christie	54	0	0	0	0	Short Track	Great Britain
+22	1991-05-07	Female	1.62	Elise Pellegrin	58	0	0	0	0	Alpine Skiing	Malta
+28	1985-07-18	Female	1.62	Eliza Outtrim	56	0	0	0	0	Freestyle Skiing	United States
+23	1990-08-21	Female	1.72	Eliza Tiruma	69	0	0	1	1	Luge	Latvia
+27	1987-01-12	Female	1.57	Elizabeth Stephen	48	0	0	0	0	Cross-Country	United States
+25	1988-10-31	Female	1.72	Elizabeth Yarnold	70	1	0	0	1	Skeleton	Great Britain
+17	1996-04-10	Female	1.63	Elizavetta Chesnokova	53	0	0	0	0	Freestyle Skiing	Russian Fed.
+24	1989-10-01	Female	1.63	Ella Suitiala	63	0	0	0	0	Snowboard	Finland
+24	1989-04-16	Female	1.72	Elli Terwiel	73	0	0	0	0	Alpine Skiing	Canada
+26	1987-11-04	Male	1.87	Elly Lefort	100	0	0	0	0	Bobsleigh	France
+27	1986-05-12	Male	1.79	Emanuel Perathoner	77	0	0	0	0	Snowboard	Italy
+20	1993-10-01	Male	1.79	Emanuel Rieder	82	0	0	0	0	Luge	Italy
+21	1992-10-02	Female	1.74	Emelie Wikstroem	66	0	0	0	0	Alpine Skiing	Sweden
+17	1996-06-13	Male	1.83	Emery Lehman	78	0	0	0	0	Speed Skating	United States
+28	1985-08-15	Male	1.78	Emil Joensson	79	0	0	1	1	Cross-Country	Sweden
+24	1989-04-12	Male	1.73	Emil Novak	78	0	0	0	0	Snowboard	Czech Republic
+25	1988-08-31	Female	1.74	Emilia Andersson	72	0	0	0	0	Ice Hockey	Sweden
+21	1992-03-11	Female	1.69	Emily Bamford	64	0	0	0	0	Alpine Skiing	Australia
+34	1979-07-01	Female	1.61	Emily Cook	52	0	0	0	0	Freestyle Skiing	United States
+24	1989-07-26	Female	1.63	Emily Nishikawa	61	0	0	0	0	Cross-Country	Canada
+24	1989-02-16	Female	1.6	Emily Scott	52	0	0	0	0	Short Track	United States
+21	1992-07-19	Female	1.68	Emma Dahlstrom	61	0	0	0	0	Freestyle Skiing	Sweden
+24	1989-06-12	Female	1.68	Emma Eliasson	72	0	0	0	0	Ice Hockey	Sweden
+22	1991-03-22	Female	1.68	Emma Nordin	70	0	0	0	0	Ice Hockey	Sweden
+17	1996-12-07	Female	1.76	Emma Nuutinen	73	0	0	0	0	Ice Hockey	Finland
+32	1981-12-17	Female	1.59	Emma Terho	61	0	0	0	0	Ice Hockey	Finland
+24	1989-05-01	Female	1.67	Emma Wiken	60	1	0	0	1	Cross-Country	Sweden
+28	1985-10-20	Female	1.6	Emoke Szocs	52	0	0	0	0	Biathlon	Hungary
+26	1987-06-14	Male	1.78	Emre Simsek	78	0	0	0	0	Alpine Skiing	Turkey
+23	1990-05-13	Female	1.65	Enni Rukajarvi	54	0	1	0	1	Snowboard	Finland
+23	1990-08-01	Male	1.87	Enrico Nizzi	77	0	0	0	0	Cross-Country	Italy
+25	1988-11-21	Male	1.74	Eric Frenzel	57	1	0	0	1	Nordic Combined	Germany
+33	1981-01-27	Male	1.85	Eric Neilson	87	0	0	0	0	Skeleton	Canada
+24	1989-07-20	Female	1.71	Erica Uden Johansson	72	0	0	0	0	Ice Hockey	Sweden
+22	1991-07-14	Male	1.85	Erik Bjornsen	84	0	0	0	0	Cross-Country	United States
+28	1985-03-21	Male	1.83	Erik Fisher	107	0	0	0	0	Alpine Skiing	United States
+32	1981-08-05	Male	1.81	Erik Guay	90	0	0	0	0	Alpine Skiing	Canada
+23	1990-05-31	Male	1.81	Erik Karlsson	79	0	0	0	0	Ice Hockey	Sweden
+25	1988-05-17	Male	1.7	Erik Lesser	70	0	1	0	1	Cross-Country	Germany
+23	1991-01-26	Female	1.74	Erika Grahm	70	0	0	0	0	Ice Hockey	Sweden
+27	1986-11-19	Female	1.7	Erin Hamlin	65	0	0	1	1	Luge	United States
+23	1990-05-25	Female	1.69	Erin Mielzynski	65	0	0	0	0	Alpine Skiing	Canada
+27	1986-12-15	Male	1.8	Erjon Tola	78	0	0	0	0	Alpine Skiing	Albania
+23	1991-01-09	Male	1.78	Ernest Yahin	65	0	0	0	0	Nordic Combined	Russian Fed.
+29	1984-04-07	Male	1.84	Ervins Mustukovs	80	0	0	0	0	Ice Hockey	Latvia
+30	1983-05-22	Female	1.78	Esme Kamphuis	73	0	0	0	0	Bobsleigh	Netherlands
+18	1995-03-23	Female	1.73	Ester Ledecka	68	0	0	0	0	Snowboard	Czech Republic
+30	1983-02-08	Female	1.67	Esther Bottomley	58	0	0	0	0	Cross-Country	Australia
+20	1993-09-23	Male	1.75	Eugenio Claro	71	0	0	0	0	Alpine Skiing	Chile
+21	1992-04-14	Female	1.64	Eunryung Sung	58	0	0	0	0	Luge	Korea
+22	1991-03-08	Female	1.72	Eva Logar	57	0	0	0	0	Ski Jumping	Slovenia
+23	1991-01-03	Female	1.68	Eva Puskarcikova	57	0	0	0	0	Biathlon	Czech Republic
+20	1993-04-28	Female	1.71	Eva Samkova	68	1	0	0	1	Snowboard	Czech Republic
+35	1978-12-04	Female	1.72	Eva Tofalvi	61	0	0	0	0	Biathlon	Romania
+28	1986-02-06	Female	1.62	Eva Vrabcova - Nyvltova	54	0	0	0	0	Cross-Country	Czech Republic
+23	1990-04-22	Female	1.73	Eve Muirhead	66	0	0	0	0	Curling	Great Britain
+18	1995-04-12	Female	1.73	Eveliina Suonpaa	63	0	0	0	0	Ice Hockey	Finland
+21	1992-05-03	Female	1.69	Evelina Raselli	62	0	0	0	0	Ice Hockey	Switzerland
+32	1981-04-06	Female	1.67	Eveline Bhend	60	0	0	0	0	Freestyle Skiing	Switzerland
+19	1994-02-10	Female	1.75	Evelyn Insam	59	0	0	0	0	Ski Jumping	Italy
+27	1986-06-15	Female	1.7	Evgenia Shapovalova	64	0	0	0	0	Cross-Country	Russian Fed.
+23	1990-08-07	Male	1.85	Evgeniy Belov	78	0	0	0	0	Cross-Country	Russian Fed.
+25	1988-02-13	Male	1.69	Evgeniy Garanichev	69	0	0	1	1	Biathlon	Russian Fed.
+20	1994-02-03	Male	1.86	Evgeniy Klimov	70	0	0	0	0	Nordic Combined	Russian Fed.
+26	1987-02-26	Male	1.82	Evgeny Abramenko	80	0	0	0	0	Biathlon	Belarus
+28	1985-06-04	Male	1.68	Evgeny Ustyugov	60	0	0	0	0	Biathlon	Russian Fed.
+33	1980-11-27	Female	1.62	Evi Sachenbacher-stehle	52	0	0	0	0	Cross-Country	Germany
+22	1991-09-03	Female	1.77	Ewa Kuls	63	0	0	0	0	Luge	Poland
+24	1989-02-17	Male	1.75	Ewen Fernandez	73	0	0	0	0	Speed Skating	France
+16	1997-07-06	Male	1.7	Fabian Boesch	57	0	0	0	0	Freestyle Skiing	Switzerland
+23	1990-12-18	Male	1.72	Fabian Riessle	64	0	0	1	1	Nordic Combined	Germany
+30	1983-11-03	Female	1.68	Fabiana Santos	75	0	0	0	0	Bobsleigh	Brazil
+32	1981-11-28	Female	1.68	Fabienne Meyer	70	0	0	0	0	Bobsleigh	Switzerland
+29	1985-01-05	Female	1.67	Fabienne Suter	63	0	0	0	0	Alpine Skiing	Switzerland
+33	1980-08-23	Male	1.8	Fabio Pasini	78	0	0	0	0	Cross-Country	Italy
+22	1991-05-21	Female	1.68	Fanny Rask	64	0	0	0	0	Ice Hockey	Sweden
+21	1992-05-20	Female	1.66	Fanny Smith	58	0	0	0	0	Freestyle Skiing	Switzerland
+28	1985-09-13	Female	1.57	Farzaneh Rezasoltani	53	0	0	0	0	Cross-Country	IR Iran
+21	1992-03-24	Female	1.63	Faye Gulini	57	0	0	0	0	Snowboard	United States
+23	1990-07-14	Female	1.68	Federica Brignone	57	0	0	0	0	Alpine Skiing	Italy
+17	1996-06-07	Female	1.66	Federica Selva	53	0	0	0	0	Alpine Skiing	San Marino
+23	1990-09-01	Male	1.73	Federico Pellegrino	70	0	0	0	0	Cross-Country	Italy
+24	1989-07-24	Male	1.91	Felix Loch	92	2	0	0	2	Luge	Germany
+29	1984-03-26	Male	1.84	Felix Neureuther	87	0	0	0	0	Alpine Skiing	Germany
+26	1987-03-10	Male	1.77	Ferran Terra	83	0	0	0	0	Alpine Skiing	Spain
+26	1987-09-28	Male	1.82	Filip Flisar	95	0	0	0	0	Freestyle Skiing	Slovenia
+29	1985-01-05	Male	1.94	Filip Trejbal	97	0	0	0	0	Alpine Skiing	Czech Republic
+21	1993-01-27	Male	1.8	Filip Zubcic	85	0	0	0	0	Alpine Skiing	Croatia
+17	1996-03-05	Female	1.56	Florence Bell	59	0	0	0	0	Alpine Skiing	Ireland
+24	1989-03-09	Female	1.75	Florence Schelling	68	0	0	0	0	Ice Hockey	Switzerland
+24	1989-05-20	Male	1.83	Florent Ribet	96	0	0	0	0	Bobsleigh	France
+23	1990-05-12	Male	1.78	Florian Eigler	80	0	0	0	0	Freestyle Skiing	Germany
+31	1982-12-07	Male	1.85	Florian Iberer	95	0	0	0	0	Ice Hockey	Austria
+24	1989-06-27	Male	1.86	Florin Craciun	103	0	0	0	0	Bobsleigh	Romania
+18	1995-03-07	Male	1.77	Florin Daniel Pripici	67	0	0	0	0	Cross-Country	Romania
+20	1993-09-15	Female	1.64	Forough Abbasi	58	0	0	0	0	Alpine Skiing	IR Iran
+32	1981-02-10	Female	1.72	Fraenzi Aufdenblatten	70	0	0	0	0	Alpine Skiing	Switzerland
+23	1991-02-07	Female	1.69	Francesca Lollobrigida	62	0	0	0	0	Speed Skating	Italy
+24	1990-01-27	Female	1.67	Francesca Marsaglia	61	0	0	0	0	Alpine Skiing	Italy
+28	1985-05-28	Male	1.85	Francesco Costa	90	0	0	0	0	Bobsleigh	Italy
+20	1993-04-21	Male	1.8	Francesco De Fabiani	70	0	0	0	0	Cross-Country	Italy
+23	1990-05-02	Male	1.83	Francesco Friedrich	93	0	0	0	0	Bobsleigh	Germany
+27	1986-07-27	Male	1.77	Francois Braud	65	0	0	0	0	Nordic Combined	France
+27	1986-12-18	Male	1.75	Francois Hamelin	73	0	0	0	0	Short Track	Canada
+29	1984-07-30	Male	1.81	Frank Rommel	74	0	0	0	0	Skeleton	Germany
+27	1986-10-24	Female	1.78	Franziska Bertels	72	0	0	0	0	Bobsleigh	Germany
+28	1985-10-20	Female	1.63	Franziska Busch	59	0	0	0	0	Ice Hockey	Germany
+23	1991-01-03	Female	1.82	Franziska Fritz	81	0	0	0	0	Bobsleigh	Germany
+26	1987-03-24	Female	1.62	Franziska Hildebrand	53	0	0	0	0	Biathlon	Germany
+19	1994-03-11	Female	1.73	Franziska Preuss	60	0	0	0	0	Biathlon	Germany
+24	1989-07-24	Male	1.8	Fredrik Lindstroem	74	0	0	0	0	Biathlon	Sweden
+23	1990-02-15	Male	1.8	Fredrik Lystad Jacobsen	86	0	0	0	0	Ice Hockey	Norway
+26	1988-02-01	Male	1.89	Freek Van Der Wart	80	0	0	0	0	Short Track	Netherlands
+28	1985-12-13	Female	1.73	Frida Hansdotter	67	0	0	0	0	Alpine Skiing	Sweden
+35	1978-02-22	Male	1.86	Friedrich Pinter	80	0	0	0	0	Biathlon	Austria
+26	1987-08-24	Male	1.88	Fritz Dopfer	85	0	0	0	0	Alpine Skiing	Germany
+25	1989-01-13	Female	1.62	Fuyuko Suzuki	55	0	0	0	0	Biathlon	Japan
+24	1989-11-19	Male	1.82	Fyodor Mezentsev	80	0	0	0	0	Speed Skating	Kazakhstan
+30	1983-07-19	Male	1.88	Fyodor Tyutin	98	0	0	0	0	Ice Hockey	Russian Fed.
+21	1992-11-23	Male	1.85	Gabriel Landeskog	93	0	0	0	0	Ice Hockey	Sweden
+24	1989-11-01	Female	1.7	Gabriela Soukalova	62	0	1	0	1	Biathlon	Czech Republic
+30	1983-12-26	Female	1.68	Gabriele Hirschbichler	62	0	0	0	0	Speed Skating	Germany
+35	1978-07-08	Female	1.66	Gaia Bassani Antivari	60	0	0	0	0	Alpine Skiing	Azerbaijan
+22	1991-07-04	Female	1.65	Gaia Vuerich	54	0	0	0	0	Cross-Country	Italy
+29	1984-05-09	Female	1.64	Galina Skiba	65	0	0	0	0	Ice Hockey	Russian Fed.
+19	1994-02-10	Female	1.6	Galina Vishnevskaya	55	0	0	0	0	Biathlon	Kazakhstan
+30	1983-06-17	Male	1.85	Gareth Nichols	102	0	0	0	0	Bobsleigh	Australia
+47	1967-02-03	Male	1.83	Gary Di Silvestri	82	0	0	0	0	Cross-Country	Dominica
+23	1990-08-06	Male	1.85	Gasper Berlot	74	0	0	0	0	Nordic Combined	Slovenia
+24	1989-05-05	Female	1.73	Genevieve Lacasse	64	0	0	0	0	Ice Hockey	Canada
+28	1985-07-03	Male	1.73	Georg Fischler	73	0	0	0	0	Luge	Austria
+31	1983-01-20	Male	1.75	Georg Lindner	87	0	0	0	0	Alpine Skiing	Rep. of Moldova
+32	1981-04-26	Male	1.85	Georg Streitberger	94	0	0	0	0	Alpine Skiing	Austria
+26	1987-10-20	Male	1.8	Georgi Georgiev	80	0	0	0	0	Alpine Skiing	Bulgaria
+24	1989-03-11	Female	1.72	Georgia Simmerling	67	0	0	0	0	Freestyle Skiing	Canada
+32	1981-06-11	Male	1.84	Georgijs Pujacs	98	0	0	0	0	Ice Hockey	Latvia
+37	1976-08-15	Male	1.77	Gerhard Unterluggauer	88	0	0	0	0	Ice Hockey	Austria
+28	1986-01-10	Male	1.8	Giacomo Matiz	80	0	0	0	0	Freestyle Skiing	Italy
+15	1998-12-31	Female	1.53	Gianina Ernst	44	0	0	0	0	Ski Jumping	Germany
+23	1990-05-17	Male	1.78	Gianluca Cologna	74	0	0	0	0	Cross-Country	Switzerland
+26	1987-03-07	Female	1.74	Gigi Marvin	75	0	0	0	0	Ice Hockey	United States
+30	1983-11-02	Female	1.8	Gillian Apps	80	0	0	0	0	Ice Hockey	Canada
+23	1990-08-06	Male	1.73	Gilmore Junio	68	0	0	0	0	Speed Skating	Canada
+21	1992-06-23	Male	1.73	Gino Caviezel	78	0	0	0	0	Alpine Skiing	Switzerland
+41	1972-10-07	Male	1.75	Giorgio Di Centa	68	0	0	0	0	Cross-Country	Italy
+29	1984-12-18	Male	1.82	Giuliano Razzoli	83	0	0	0	0	Alpine Skiing	Italy
+28	1985-05-23	Male	1.7	Giuseppe Michielli	68	0	0	0	0	Nordic Combined	Italy
+24	1989-06-01	Female	1.6	Gloria Kotnik	53	0	0	0	0	Snowboard	Slovenia
+24	1989-02-26	Male	1.78	Graeme Killick	70	0	0	0	0	Cross-Country	Canada
+25	1989-02-03	Male	1.71	Greg Drummond	73	0	0	0	0	Curling	Great Britain
+32	1981-02-17	Male	1.83	Gregor Bermbach	95	0	0	0	0	Bobsleigh	Germany
+22	1991-02-27	Male	1.85	Gregor Deschwanden	65	0	0	0	0	Ski Jumping	Switzerland
+24	1990-01-07	Male	1.8	Gregor Schlierenzauer	54	0	1	0	1	Ski Jumping	Austria
+23	1990-12-19	Male	1.88	Gregory Bretz	88	0	0	0	0	Snowboard	United States
+26	1987-03-08	Male	1.83	Gregory Carigiet	85	0	0	0	0	Luge	Switzerland
+21	1992-05-03	Female	1.68	Greta Laurent	61	0	0	0	0	Cross-Country	Italy
+18	1995-10-16	Female	1.71	Greta Small	70	0	0	0	0	Alpine Skiing	Australia
+20	1993-05-21	Female	1.71	Grete Gaim	58	0	0	0	0	Biathlon	Estonia
+22	1991-08-20	Male	1.83	Grzegorz Guzik	68	0	0	0	0	Biathlon	Poland
+23	1990-10-20	Male	1.73	Guangpu Qi	64	0	0	0	0	Freestyle Skiing	China
+28	1985-11-28	Male	1.83	Guillermo Fayed	93	0	0	0	0	Alpine Skiing	France
+23	1990-03-10	Male	1.88	Guojun Tian	84	0	0	0	0	Speed Skating	China
+22	1991-10-01	Male	1.78	Gus Kenworthy	75	0	1	0	1	Freestyle Skiing	United States
+24	1989-09-01	Male	1.8	Gustav Nyquist	84	0	0	0	0	Ice Hockey	Sweden
+27	1986-07-29	Female	1.66	Ha Ri Cho	54	1	0	0	1	Short Track	Korea
+35	1979-01-05	Male	1.81	Haavard Klemetsen	71	0	0	0	0	Nordic Combined	Norway
+30	1984-01-05	Male	1.93	Haavard Vad Petersson	80	0	0	0	0	Curling	Norway
+25	1988-06-06	Female	1.7	Haley Irwin	78	0	0	0	0	Ice Hockey	Canada
+20	1993-04-24	Male	1.76	Han Hendrik Piho	66	0	0	0	0	Nordic Combined	Estonia
+31	1982-12-10	Female	1.68	Hanae Kubo	63	0	0	0	0	Ice Hockey	Japan
+25	1988-09-25	Male	1.82	Hanbin Lee	77	0	0	0	0	Short Track	Korea
+31	1982-05-16	Female	1.7	Hanna Emilie Marien	74	0	0	0	0	Bobsleigh	Belgium
+23	1990-06-02	Female	1.65	Hanna Erikson	65	0	0	0	0	Cross-Country	Sweden
+24	1989-07-05	Female	1.67	Hanna Falk	65	0	0	0	0	Cross-Country	Sweden
+21	1992-08-28	Female	1.67	Hanna Huskova	57	0	0	0	0	Freestyle Skiing	Belarus
+22	1991-08-21	Female	1.74	Hanna Kolb	63	0	0	0	0	Cross-Country	Germany
+27	1986-12-02	Female	1.7	Hannah Dreissigacker	59	0	0	0	0	Biathlon	United States
+27	1986-02-26	Female	1.65	Hannah Kearney	66	0	0	1	1	Freestyle Skiing	United States
+27	1987-01-27	Female	1.7	Hannah Teter	60	0	0	0	0	Snowboard	United States
+27	1987-02-05	Female	1.67	Hannah Trigger	60	0	0	0	0	Snowboard	Australia
+23	1990-02-25	Male	1.76	Hannes Dotzler	70	0	0	0	0	Cross-Country	Germany
+24	1989-09-05	Male	1.71	Hanno Douschan	75	0	0	0	0	Snowboard	Austria
+25	1988-02-27	Male	1.77	Hansin Lee	80	0	0	0	0	Skeleton	Korea
+29	1984-09-08	Male	1.78	Harald Wurm	72	0	0	0	0	Cross-Country	Austria
+27	1986-04-07	Male	1.78	Haralds Silovs	78	0	0	0	0	Speed Skating	Latvia
+22	1991-11-07	Female	1.6	Haruna Yoneyama	55	0	0	0	0	Ice Hockey	Japan
+35	1978-08-12	Female	1.78	Hayley Wickenheiser	77	0	0	0	0	Ice Hockey	Canada
+33	1980-04-15	Male	1.8	Heath Spence	102	0	0	0	0	Bobsleigh	Australia
+29	1984-05-28	Female	1.6	Heather Mcphie	56	0	0	0	0	Freestyle Skiing	United States
+35	1978-07-23	Female	1.78	Heather Moyse	72	0	0	0	0	Bobsleigh	Canada
+24	1989-03-20	Female	1.78	Heather Richardson	73	0	0	0	0	Speed Skating	United States
+34	1979-04-12	Female	1.59	Hee-jin Park	50	0	0	0	0	Freestyle Skiing	Korea
+21	1992-09-18	Female	1.7	Heidi Kloser	59	0	0	0	0	Freestyle Skiing	United States
+22	1991-02-28	Female	1.75	Heidi Widmer	63	0	0	0	0	Cross-Country	Canada
+25	1988-03-17	Female	1.67	Heidi Zacher	57	0	0	0	0	Freestyle Skiing	Germany
+27	1987-01-14	Male	1.86	Helvijs Lusis	97	0	0	0	0	Bobsleigh	Latvia
+22	1991-08-14	Male	1.68	Henrik Harlaut	74	0	0	0	0	Freestyle Skiing	Sweden
+31	1982-03-02	Male	1.85	Henrik Lundqvist	90	0	0	0	0	Ice Hockey	Sweden
+25	1988-02-12	Male	1.8	Henrik Odegaard	86	0	0	0	0	Ice Hockey	Norway
+26	1987-04-15	Male	1.89	Henrik Solberg	93	0	0	0	0	Ice Hockey	Norway
+35	1979-01-10	Male	1.93	Henrik Tallinder	98	0	0	0	0	Ice Hockey	Sweden
+19	1994-12-15	Male	1.85	Henrik Von Appen	72	0	0	0	0	Alpine Skiing	Chile
+33	1980-10-09	Male	1.82	Henrik Zetterberg	89	0	0	0	0	Ice Hockey	Sweden
+37	1976-05-27	Male	1.81	Herberts Vasiljevs	80	0	0	0	0	Ice Hockey	Latvia
+32	1981-12-03	Male	1.74	Heung-chul Choi	63	0	0	0	0	Ski Jumping	Korea
+30	1983-09-05	Male	1.7	Hideaki Nagai	62	0	0	0	0	Nordic Combined	Japan
+23	1990-09-26	Male	1.69	Hidenari Kanayama	78	0	0	0	0	Luge	Japan
+37	1976-07-30	Male	1.7	Hidenori Isa	68	0	0	0	0	Biathlon	Japan
+24	1989-07-12	Female	1.8	Hilary Knight	78	0	0	0	0	Ice Hockey	United States
+20	1994-01-09	Male	1.67	Himanshu Thakur	54	0	0	0	0	Alpine Skiing	Independent Olymp. participant
+29	1984-04-13	Male	1.75	Hiroatsu Takahashi	86	0	0	0	0	Skeleton	Japan
+40	1973-12-13	Male	1.73	Hiroshi Suzuki	81	0	0	0	0	Bobsleigh	Japan
+22	1991-10-12	Male	1.72	Hiroyuki Miyazawa	74	0	0	0	0	Cross-Country	Japan
+32	1981-03-19	Male	1.83	Hisashi Miyazaki	81	0	0	0	0	Bobsleigh	Japan
+27	1986-06-25	Male	1.68	Ho Suk Lee	60	0	0	0	0	Short Track	Korea
+23	1990-05-01	Male	1.76	Ho-jun Kim	62	0	0	0	0	Snowboard	Korea
+31	1982-04-17	Female	1.68	Holly Brooks	61	0	0	0	0	Cross-Country	United States
+29	1984-02-10	Female	1.73	Holly Crawford	63	0	0	0	0	Snowboard	Australia
+25	1988-04-12	Female	1.74	Hong Zhang	65	1	0	0	1	Speed Skating	China
+29	1984-03-09	Female	1.6	Hongxue Li	52	0	0	0	0	Cross-Country	China
+28	1985-08-05	Male	1.83	Hossein Saveh Shemshaki	86	0	0	0	0	Alpine Skiing	IR Iran
+55	1959-02-02	Male	1.84	Hubertus Von Hohenlohe	92	0	0	0	0	Alpine Skiing	Mexico
+19	1994-07-12	Male	1.76	Hugo Buffard	64	0	0	0	0	Nordic Combined	France
+22	1991-04-22	Male	1.75	Hyong Jun Joo	73	0	0	0	0	Speed Skating	Korea
+19	1994-10-19	Female	1.67	Hyun Yung Kim	56	0	0	0	0	Speed Skating	Korea
+30	1983-02-09	Male	1.75	Hyun-ki Kim	63	0	0	0	0	Ski Jumping	Korea
+25	1988-04-26	Male	1.82	Iason Abramashvili	76	0	0	0	0	Alpine Skiing	Georgia
+28	1985-04-26	Female	1.74	Ida Ingemarsdotter	66	1	0	0	1	Cross-Country	Sweden
+26	1988-01-25	Female	1.63	Ida Sargent	55	0	0	0	0	Cross-Country	United States
+19	1994-09-22	Female	1.67	Ieva Januskeviciute	58	0	0	0	0	Alpine Skiing	Lithuania
+28	1985-05-27	Male	1.82	Igor Bogolyubsky	81	0	0	0	0	Speed Skating	Russian Fed.
+22	1991-02-27	Male	1.86	Igor Laikert	87	0	0	0	0	Alpine Skiing	Bosnia and Herzegovina
+27	1987-01-08	Male	1.88	Igor Zakurdaev	95	0	0	0	0	Alpine Skiing	Kazakhstan
+22	1992-01-12	Male	1.87	Iivo Niskanen	80	0	0	0	0	Cross-Country	Finland
+24	1989-09-17	Female	1.7	Ilaria Debertolis	57	0	0	0	0	Cross-Country	Italy
+27	1986-08-07	Male	1.75	Ilia Chernousov	72	0	0	0	0	Cross-Country	Russian Fed.
+18	1995-06-22	Male	1.72	Ilkka Herola	55	0	0	0	0	Nordic Combined	Finland
+24	1989-05-29	Male	1.79	Ilkka-eemeli Laari	72	0	0	0	0	Snowboard	Finland
+22	1991-10-28	Male	1.81	Ilmir Hazetdinov	67	0	0	0	0	Ski Jumping	Russian Fed.
+23	1990-06-14	Male	1.9	Ilvir Huzin	94	0	0	0	0	Bobsleigh	Russian Fed.
+22	1991-11-13	Male	1.74	Ilya Burov	76	0	0	0	0	Freestyle Skiing	Russian Fed.
+30	1983-04-15	Male	1.91	Ilya Kovalchuk	104	0	0	0	0	Ice Hockey	Russian Fed.
+31	1982-03-12	Male	1.91	Ilya Nikulin	101	0	0	0	0	Ice Hockey	Russian Fed.
+23	1990-11-30	Male	1.78	Imanol Rojo	70	0	0	0	0	Cross-Country	Spain
+29	1984-03-30	Male	1.73	In-bok Lee	60	0	0	0	0	Biathlon	Korea
+23	1990-09-25	Female	1.6	Ina Meschik	57	0	0	0	0	Snowboard	Austria
+27	1986-07-04	Male	1.83	Inars Kivlenieks	88	0	0	0	0	Luge	Latvia
+37	1976-04-05	Male	1.84	Indrek Tobreluts	74	0	0	0	0	Biathlon	Estonia
+33	1980-04-12	Female	1.71	Inga Daushkane	60	0	0	0	0	Cross-Country	Latvia
+21	1993-01-17	Female	1.78	Ingrida Ardisauskaite	65	0	0	0	0	Cross-Country	Lithuania
+23	1990-02-20	Female	1.66	Inna Dyubanok	63	0	0	0	0	Ice Hockey	Russian Fed.
+23	1990-09-30	Female	1.54	Inna Simonova	48	0	0	0	0	Short Track	Kazakhstan
+23	1990-08-20	Male	1.83	Ioan Valeriu Achiriloaie	87	0	0	0	0	Alpine Skiing	Romania
+25	1988-09-13	Male	1.84	Iouri Podladtchikov	76	1	0	0	1	Snowboard	Switzerland
+22	1991-10-23	Female	1.64	Irene Cadurisch	60	0	0	0	0	Biathlon	Switzerland
+27	1986-04-01	Female	1.68	Irene Wust	63	1	2	0	3	Speed Skating	Netherlands
+22	1991-09-14	Female	1.71	Irina Avvakumova	57	0	0	0	0	Ski Jumping	Russian Fed.
+29	1984-03-20	Female	1.7	Irina Khazova	61	0	0	0	0	Cross-Country	Russian Fed.
+26	1987-07-02	Female	1.63	Iris Schwabl	55	0	0	0	0	Biathlon	Austria
+37	1976-10-24	Female	1.68	Isabel Clark Ribeiro	61	0	0	0	0	Snowboard	Brazil
+26	1987-07-17	Female	1.7	Isabel Derungs	58	0	0	0	0	Snowboard	Switzerland
+27	1986-04-06	Female	1.67	Isabella Laboeck	59	0	0	0	0	Snowboard	Germany
+33	1980-07-04	Male	1.72	Ivan Babikov	69	0	0	0	0	Cross-Country	Canada
+28	1985-05-19	Male	1.89	Ivan Baranka	91	0	0	0	0	Ice Hockey	Slovakia
+30	1983-04-24	Male	1.8	Ivan Joller	72	0	0	0	0	Biathlon	Switzerland
+26	1987-07-22	Male	1.72	Ivan Panin	61	0	0	0	0	Nordic Combined	Russian Fed.
+28	1985-12-28	Male	1.72	Ivan Perrillat Boiteux	64	0	0	1	1	Cross-Country	France
+30	1983-02-08	Male	1.87	Ivan Skobrev	85	0	0	0	0	Speed Skating	Russian Fed.
+23	1990-08-01	Male	1.77	Ivan Zlatev	77	0	0	0	0	Biathlon	Bulgaria
+19	1994-10-12	Female	1.78	Ivana Bulatovic	68	0	0	0	0	Alpine Skiing	Montenegro
+19	1994-12-27	Female	1.69	Ivana Kovacevic	61	0	0	0	0	Cross-Country	Serbia
+23	1990-04-02	Female	1.61	Ivanie Blondin	56	0	0	0	0	Speed Skating	Canada
+34	1979-11-23	Male	1.82	Ivica Kostelic	93	0	1	0	1	Alpine Skiing	Croatia
+25	1988-07-25	Female	1.77	Ivonne Schroder	68	0	0	0	0	Ice Hockey	Germany
+26	1987-09-03	Female	1.73	Iya Gavrilova	61	0	0	0	0	Ice Hockey	Russian Fed.
+36	1977-02-18	Male	1.85	Izidor Sustersic	80	0	0	0	0	Snowboard	Slovenia
+23	1990-07-17	Male	1.73	J.r. Celski	63	0	0	0	0	Short Track	United States
+22	1991-08-02	Male	1.76	Jack Whelbourne	61	0	0	0	0	Short Track	Great Britain
+22	1991-10-21	Female	1.75	Jacky Chamoun	64	0	0	0	0	Alpine Skiing	Lebanon
+21	1992-12-02	Female	1.83	Jacqueline Hernandez	79	0	0	0	0	Snowboard	United States
+20	1993-11-29	Female	1.78	Jacqueline Janzen	83	0	0	0	0	Ice Hockey	Germany
+21	1992-07-13	Female	1.7	Jacqueline Wiles	70	0	0	0	0	Alpine Skiing	United States
+19	1994-02-27	Male	1.77	Jae-woo Choi	72	0	0	0	0	Freestyle Skiing	Korea
+20	1993-07-15	Male	1.78	Jaka Hvala	61	0	0	0	0	Ski Jumping	Slovenia
+26	1987-09-25	Male	1.87	Jake Holden	85	0	0	0	0	Snowboard	Canada
+23	1990-10-13	Male	1.86	Jakob Silfverberg	91	0	0	0	0	Ice Hockey	Sweden
+26	1987-08-01	Male	1.84	Jakov Fak	74	0	0	0	0	Biathlon	Slovenia
+35	1978-04-27	Male	1.79	Jakub Janda	62	0	0	0	0	Ski Jumping	Czech Republic
+25	1988-07-19	Male	1.84	Jakub Kovar	91	0	0	0	0	Ice Hockey	Czech Republic
+24	1989-08-15	Male	1.89	Jakub Voracek	96	0	0	0	0	Ice Hockey	Czech Republic
+23	1990-11-23	Male	1.76	James Machon	75	0	0	0	0	Freestyle Skiing	Great Britain
+26	1987-12-11	Male	1.83	James Mcnaughton	103	0	0	0	0	Bobsleigh	Canada
+24	1989-05-04	Male	1.91	James Van Riemsdyk	96	0	0	0	0	Ice Hockey	United States
+22	1992-01-19	Male	1.65	James Woods	74	0	0	0	0	Freestyle Skiing	Great Britain
+23	1990-09-13	Female	1.6	Jamie Anderson	54	1	0	0	1	Snowboard	United States
+24	1989-07-18	Male	1.89	Jamie Benn	94	0	0	0	0	Ice Hockey	Canada
+28	1985-03-18	Male	1.8	Jamie Gregg	80	0	0	0	0	Speed Skating	Canada
+30	1983-11-09	Female	1.75	Jamie Greubel	77	0	0	0	0	Bobsleigh	United States
+20	1993-07-21	Male	1.78	Jamie Nicholls	67	0	0	0	0	Snowboard	Great Britain
+23	1990-05-03	Male	1.79	Jan Antolec	73	0	0	0	0	Cross-Country	Poland
+24	1989-04-01	Male	1.84	Jan Blokhuijsen	80	0	1	0	1	Speed Skating	Netherlands
+32	1981-08-19	Male	1.83	Jan Hudec	93	0	0	1	1	Alpine Skiing	Canada
+18	1995-03-03	Male	1.74	Jan Kralj	69	0	0	0	0	Snowboard	Slovenia
+32	1981-12-01	Male	1.81	Jan Laco	83	0	0	0	0	Ice Hockey	Slovakia
+34	1980-01-29	Male	1.75	Jan Matura	62	0	0	0	0	Ski Jumping	Czech Republic
+26	1988-01-20	Male	1.8	Jan Mursak	85	0	0	0	0	Ice Hockey	Slovenia
+26	1987-09-21	Male	1.83	Jan Rossiter	76	0	0	0	0	Cross-Country	Ireland
+19	1994-07-11	Male	1.82	Jan Scherrer	70	0	0	0	0	Snowboard	Switzerland
+26	1987-02-11	Male	1.77	Jan Smeekens	72	0	1	0	1	Speed Skating	Netherlands
+24	1989-03-02	Male	1.8	Jan Szymanski	77	0	0	0	0	Speed Skating	Poland
+25	1989-01-26	Male	1.92	Jan Urbas	98	0	0	0	0	Ice Hockey	Slovenia
+32	1982-01-28	Male	1.86	Jan Vrba	90	0	0	0	0	Bobsleigh	Czech Republic
+22	1991-06-24	Male	1.73	Jan Ziobro	60	0	0	0	0	Ski Jumping	Poland
+24	1989-07-15	Female	1.65	Jana Gantnerova	65	0	0	0	0	Alpine Skiing	Slovakia
+29	1984-11-27	Female	1.74	Jana Gerekova	64	0	0	0	0	Biathlon	Slovakia
+31	1982-11-09	Female	1.8	Jana Pittman	82	0	0	0	0	Bobsleigh	Australia
+38	1975-08-10	Male	1.82	Janez Maric	80	0	0	0	0	Biathlon	Slovenia
+18	1995-07-05	Female	1.61	Janine Alder	53	0	0	0	0	Ice Hockey	Switzerland
+24	1989-07-25	Female	1.74	Janine Flock	64	0	0	0	0	Skeleton	Austria
+30	1983-09-28	Male	1.8	Janis Paipals	79	0	0	0	0	Cross-Country	Latvia
+32	1982-01-31	Male	1.89	Janis Sprukts	109	0	0	0	0	Ice Hockey	Latvia
+28	1986-02-05	Male	1.83	Janis Strenga	92	0	0	0	0	Bobsleigh	Latvia
+36	1977-05-11	Male	1.84	Janne Ahonen	66	0	0	0	0	Ski Jumping	Finland
+29	1984-06-18	Male	1.8	Janne Happonen	63	0	0	0	0	Ski Jumping	Finland
+28	1986-02-05	Male	1.8	Janne Korpi	74	0	0	0	0	Snowboard	Finland
+26	1988-01-01	Male	1.75	Janne Ryynaenen	58	0	0	0	0	Nordic Combined	Finland
+29	1985-01-01	Male	1.98	Jannis Baecker	108	0	0	0	0	Bobsleigh	Germany
+38	1975-12-27	Female	1.7	Jaqueline Mourao	54	0	0	0	0	Cross-Country	Brazil
+22	1991-06-17	Male	1.83	Jared Goldberg	86	0	0	0	0	Alpine Skiing	United States
+31	1982-04-19	Male	1.82	Jarkko Immonen	90	0	0	0	0	Ice Hockey	Finland
+31	1982-04-06	Male	1.79	Jarkko Kauppinen	74	0	0	0	0	Biathlon	Finland
+19	1994-12-28	Male	1.69	Jarkko Maeaettae	57	0	0	0	0	Ski Jumping	Finland
+41	1972-02-15	Male	1.89	Jaromir Jagr	109	0	0	0	0	Ice Hockey	Czech Republic
+28	1985-05-13	Male	1.79	Jaroslav Halak	84	0	0	0	0	Ice Hockey	Slovakia
+31	1982-07-12	Male	1.83	Jaroslav Soukup	66	0	0	1	1	Biathlon	Czech Republic
+18	1995-05-21	Male	1.79	Jarryd Hughes	80	0	0	0	0	Snowboard	Australia
+38	1975-04-13	Male	1.78	Jasey Jay Anderson	80	0	0	0	0	Snowboard	Canada
+27	1986-09-09	Male	1.79	Jason Lamy Chappuis	65	0	0	0	0	Nordic Combined	France
+28	1985-03-29	Male	1.77	Javier Gutierrez	65	0	0	0	0	Cross-Country	Spain
+30	1983-09-27	Male	1.93	Jay Bouwmeester	96	0	0	0	0	Ice Hockey	Canada
+36	1977-05-14	Female	1.63	Jayna Hefford	63	0	0	0	0	Ice Hockey	Canada
+25	1988-12-21	Male	1.7	Jayson Terdiman	69	0	0	0	0	Luge	United States
+28	1985-08-29	Female	1.75	Jazmine Fenlator	77	0	0	0	0	Bobsleigh	United States
+19	1994-12-30	Male	1.75	Je-yun Park	70	0	0	0	0	Alpine Skiing	Korea
+22	1991-04-12	Male	1.8	Jeahan Oh	95	0	0	0	0	Bobsleigh	Korea
+24	1989-03-02	Male	1.72	Jean Frederic Chapuis	82	0	0	0	0	Freestyle Skiing	France
+25	1988-03-24	Male	1.74	Jean Guillaume Beatrix	65	0	0	1	1	Biathlon	France
+33	1980-10-07	Male	1.8	Jean Marc Gaillard	74	0	0	1	1	Cross-Country	France
+29	1984-10-10	Male	1.8	Jean-baptiste Grange	74	0	0	0	0	Alpine Skiing	France
+28	1985-07-31	Male	1.71	Jean-philippe Le Guellec	64	0	0	0	0	Biathlon	Canada
+19	1994-04-13	Female	1.65	Jee-won Seo	50	0	0	0	0	Freestyle Skiing	Korea
+29	1985-01-01	Male	1.93	Jeff Carter	95	0	0	0	0	Ice Hockey	Canada
+28	1985-12-19	Female	1.68	Jelena Peeters	65	0	0	0	0	Speed Skating	Belgium
+20	1993-09-24	Female	1.57	Jenna Blasman	58	0	0	0	0	Snowboard	Canada
+25	1988-04-08	Female	1.71	Jenni Asserholt	72	0	0	0	0	Ice Hockey	Sweden
+26	1987-03-30	Female	1.61	Jenni Hiirikoski	55	0	0	0	0	Ice Hockey	Finland
+29	1984-12-02	Female	1.7	Jennifer Ciochetti	76	0	0	0	0	Bobsleigh	Canada
+26	1987-07-14	Female	1.75	Jennifer Harss	65	0	0	0	0	Ice Hockey	Germany
+24	1989-06-15	Female	1.75	Jennifer Wakefield	77	0	0	0	0	Ice Hockey	Canada
+33	1980-07-03	Female	1.61	Jenny Jones	61	0	0	1	1	Snowboard	Great Britain
+35	1978-05-17	Female	1.68	Jenny Owens	65	0	0	0	0	Freestyle Skiing	Australia
+35	1979-01-31	Female	1.72	Jenny Wolf	73	0	0	0	0	Speed Skating	Germany
+34	1979-03-13	Male	1.77	Jens Filbrich	72	0	0	0	0	Cross-Country	Germany
+25	1988-08-07	Male	1.75	Jeremie Boutherin	77	0	0	0	0	Bobsleigh	France
+24	1990-02-04	Male	1.87	Jeremy Baillard	106	0	0	0	0	Bobsleigh	France
+22	1991-12-26	Male	1.74	Jeremy Pancras	66	0	0	0	0	Freestyle Skiing	France
+30	1983-05-28	Male	1.71	Jernej Damjan	58	0	0	0	0	Ski Jumping	Slovenia
+19	1994-05-22	Male	1.67	Jesper Tjader	53	0	0	0	0	Freestyle Skiing	Sweden
+24	1989-07-26	Male	1.8	Jesse Cockney	76	0	0	0	0	Cross-Country	Canada
+31	1982-08-03	Male	1.88	Jesse Lumsden	103	0	0	0	0	Bobsleigh	Canada
+22	1991-08-26	Female	1.63	Jessica Diggins	58	0	0	0	0	Cross-Country	United States
+25	1988-03-16	Female	1.74	Jessica Gregg	62	0	0	0	0	Short Track	Canada
+25	1988-07-10	Female	1.61	Jessica Hammerl	61	0	0	0	0	Ice Hockey	Germany
+27	1986-10-09	Female	1.65	Jessica Hewitt	53	0	1	0	1	Short Track	Canada
+26	1987-02-08	Female	1.65	Jessica Jerome	54	0	0	0	0	Ski Jumping	United States
+30	1984-02-07	Female	1.69	Jessica Lindell-vikarby	69	0	0	0	0	Alpine Skiing	Sweden
+24	1989-05-24	Female	1.72	Jessica Lutz	65	0	0	0	0	Ice Hockey	Switzerland
+29	1985-01-02	Female	1.7	Jessica Schultz	58	0	0	0	0	Curling	United States
+30	1983-10-14	Female	1.5	Jessica Smith	53	0	0	0	0	Short Track	United States
+28	1985-12-19	Female	1.74	Jessie Vetter	71	0	0	0	0	Ice Hockey	United States
+22	1991-08-07	Female	1.65	Jessika Jenson	54	0	0	0	0	Snowboard	United States
+25	1988-06-25	Male	1.8	Jhonas Enroth	75	0	0	0	0	Ice Hockey	Sweden
+26	1988-02-02	Male	1.76	Jhonatan Longhi	78	0	0	0	0	Alpine Skiing	Brazil
+25	1988-08-02	Female	1.67	Ji-hee Mun	53	0	0	0	0	Biathlon	Korea
+22	1991-11-05	Female	1.68	Jialin Tang	55	0	0	0	0	Biathlon	China
+27	1986-08-15	Female	1.6	Jianrou Li	53	1	0	0	1	Short Track	China
+21	1992-09-17	Female	1.72	Jiayu Liu	65	0	0	0	0	Snowboard	China
+31	1983-01-09	Female	1.6	Jilleanne Rookard	59	0	0	0	0	Speed Skating	United States
+19	1994-10-03	Male	1.8	Jimi Salonen	66	0	0	0	0	Freestyle Skiing	Finland
+33	1980-02-22	Male	1.87	Jimmie Ericsson	94	0	0	0	0	Ice Hockey	Sweden
+29	1984-03-26	Male	1.85	Jimmy Howard	99	0	0	0	0	Ice Hockey	United States
+19	1994-04-07	Male	1.75	Jingnan Shi	66	0	0	0	0	Short Track	China
+20	1993-11-17	Male	1.79	Jinyong Park	90	0	0	0	0	Luge	Korea
+36	1977-04-11	Male	1.74	Jiri Magal	65	0	0	0	0	Cross-Country	Czech Republic
+30	1983-08-12	Male	1.89	Jiri Novotny	97	0	0	0	0	Ice Hockey	Czech Republic
+23	1990-07-20	Female	1.7	Jitka Landova	57	0	0	0	0	Biathlon	Czech Republic
+26	1987-09-25	Male	1.9	Joachim Puchner	97	0	0	0	0	Alpine Skiing	Austria
+18	1995-05-23	Male	1.78	Joan Verdu Sanchez	70	0	0	0	0	Alpine Skiing	Andorra
+23	1990-09-13	Female	1.65	Joanna Zajac	58	0	0	0	0	Snowboard	Poland
+24	1989-07-03	Female	1.68	Jocelyne Lamoureux	70	0	0	0	0	Ice Hockey	United States
+25	1988-05-19	Female	1.7	Jocelyne Larocque	63	0	0	0	0	Ice Hockey	Canada
+29	1984-07-11	Male	1.8	Joe Pavelski	86	0	0	0	0	Ice Hockey	United States
+19	1994-02-25	Male	1.72	Joel Gisler	70	0	0	0	0	Freestyle Skiing	Switzerland
+27	1986-10-08	Male	1.76	Joeri Kindschi	75	0	0	0	0	Cross-Country	Switzerland
+28	1986-02-07	Male	1.73	Joey Mantia	76	0	0	0	0	Speed Skating	United States
+33	1981-01-08	Male	1.91	Johan Clarey	98	0	0	0	0	Alpine Skiing	France
+33	1980-03-19	Male	1.81	Johan Olsson	68	1	1	0	2	Cross-Country	Sweden
+24	1989-05-18	Male	1.68	Johann Baisamy	67	0	0	0	0	Snowboard	France
+22	1991-07-13	Female	1.69	Johanna Olofsson	66	0	0	0	0	Ice Hockey	Sweden
+20	1993-06-27	Female	1.61	Johanna Talihaerm	60	0	0	0	0	Biathlon	Estonia
+26	1987-03-12	Male	1.77	Johannes Duerr	63	0	0	0	0	Cross-Country	Austria
+18	1995-08-12	Male	1.85	Johannes Hoepfl	80	0	0	0	0	Snowboard	Germany
+22	1991-12-09	Male	1.74	Johannes Rydzek	60	0	0	0	0	Nordic Combined	Germany
+28	1985-09-26	Male	1.89	John Baines	100	0	0	0	0	Bobsleigh	Great Britain
+24	1990-01-10	Male	1.91	John Carlson	98	0	0	0	0	Ice Hockey	United States
+28	1985-06-10	Male	1.75	John Daly	79	0	0	0	0	Skeleton	United States
+20	1993-09-21	Male	1.8	John Eklund	76	0	0	0	0	Freestyle Skiing	Sweden
+30	1983-12-28	Male	1.77	John Fairbairn	70	0	0	0	0	Skeleton	Canada
+31	1982-02-18	Male	1.88	John Farrow	85	0	0	0	0	Skeleton	Australia
+18	1995-05-28	Male	1.91	John Fennell	92	0	0	0	0	Luge	Canada
+36	1977-04-11	Male	1.83	John James Jackson	100	0	0	0	0	Bobsleigh	Great Britain
+23	1990-09-20	Male	1.83	John Tavares	91	0	0	0	0	Ice Hockey	Canada
+30	1983-03-09	Male	1.88	John Teller	91	0	0	0	0	Freestyle Skiing	United States
+32	1981-10-01	Male	1.82	Johnny Oduya	91	0	0	0	0	Ice Hockey	Sweden
+30	1983-11-06	Male	1.83	Johnny Quinn	100	0	0	0	0	Bobsleigh	United States
+29	1985-02-06	Male	1.65	Joji Kato	65	0	0	0	0	Speed Skating	Japan
+29	1984-08-19	Male	1.86	Jon Eley	79	0	0	0	0	Short Track	Great Britain
+23	1990-03-27	Male	1.75	Jonas Baumann	71	0	0	0	0	Cross-Country	Switzerland
+24	1989-10-23	Male	1.8	Jonas Devouassoux	87	0	0	0	0	Freestyle Skiing	France
+29	1984-10-24	Male	1.91	Jonas Gustavsson	87	0	0	0	0	Ice Hockey	Sweden
+31	1982-02-12	Male	1.87	Jonas Hiller	87	0	0	0	0	Ice Hockey	Switzerland
+26	1987-08-27	Male	1.8	Jonas Holos	95	0	0	0	0	Ice Hockey	Norway
+29	1984-03-02	Male	1.95	Jonathan Ericsson	102	0	0	0	0	Ice Hockey	Sweden
+27	1986-12-14	Male	1.7	Jonathan Garcia	64	0	0	0	0	Speed Skating	United States
+23	1990-03-14	Male	1.83	Jonathan Kuck	79	0	0	0	0	Speed Skating	United States
+26	1988-01-13	Male	1.85	Jonathan Midol	85	0	0	0	0	Freestyle Skiing	France
+28	1986-01-21	Male	1.85	Jonathan Quick	96	0	0	0	0	Ice Hockey	United States
+25	1988-04-29	Male	1.88	Jonathan Toews	94	0	0	0	0	Ice Hockey	Canada
+29	1984-04-20	Male	1.76	Jordan Malone	68	0	0	0	0	Short Track	United States
+26	1987-12-23	Male	1.87	Jori Lehtera	97	0	0	0	0	Ice Hockey	Finland
+24	1989-12-21	Female	1.81	Jorien Ter Mors	68	1	0	0	1	Speed Skating	Netherlands
+20	1993-10-02	Female	1.68	Jorinde Mueller	62	0	0	0	0	Freestyle Skiing	Switzerland
+28	1986-02-01	Male	1.9	Jorrit Bergsma	73	1	0	1	2	Speed Skating	Netherlands
+29	1984-12-20	Male	1.87	Josef Wenzl	85	0	0	0	0	Cross-Country	Germany
+20	1993-04-11	Female	1.73	Josefine Holmgren	68	0	0	0	0	Ice Hockey	Sweden
+29	1984-07-14	Female	1.54	Joselane Santos	50	0	0	0	0	Freestyle Skiing	Brazil
+23	1990-12-27	Female	1.74	Josephine Pucci	68	0	0	0	0	Ice Hockey	United States
+19	1994-09-11	Male	1.87	Joshua Bluhm	95	0	0	0	0	Bobsleigh	Germany
+23	1990-05-18	Male	1.68	Josiah Wells	68	0	0	0	0	Freestyle Skiing	New Zealand
+22	1991-12-20	Male	1.85	Joss Christensen	79	1	0	0	1	Freestyle Skiing	United States
+30	1983-05-11	Male	1.81	Jouni Pellinen	92	0	0	0	0	Freestyle Skiing	Finland
+23	1990-12-17	Male	1.77	Jovian Hediger	79	0	0	0	0	Cross-Country	Switzerland
+32	1981-06-28	Male	1.76	Jozef Ninis	84	0	0	0	0	Luge	Slovakia
+19	1994-08-23	Male	1.73	Jozef Petrulak	70	0	0	0	0	Luge	Slovakia
+31	1982-09-03	Female	1.58	Judith Hesse	53	0	0	0	0	Speed Skating	Germany
+33	1980-06-21	Female	1.82	Judith Vis	72	0	0	0	0	Bobsleigh	Netherlands
+32	1982-01-01	Male	1.78	Juerg Egger	98	0	0	0	0	Bobsleigh	Switzerland
+28	1985-06-04	Male	1.84	Juhamatti Aaltonen	89	0	0	0	0	Ice Hockey	Finland
+23	1990-12-28	Male	1.79	Juho Mikkonen	72	0	0	0	0	Cross-Country	Finland
+22	1991-12-13	Male	1.7	Jules Bonnaire	70	0	0	0	0	Freestyle Skiing	France
+19	1994-03-20	Female	1.63	Julia Clair	51	0	0	0	0	Ski Jumping	France
+26	1987-06-12	Female	1.68	Julia Dujmovits	60	0	0	0	0	Snowboard	Austria
+23	1990-03-30	Female	1.78	Julia Ford	74	0	0	0	0	Alpine Skiing	United States
+28	1985-09-09	Female	1.58	Julia Ivanova	56	0	0	0	0	Cross-Country	Russian Fed.
+16	1997-06-07	Female	1.8	Julia Krass	59	0	0	0	0	Freestyle Skiing	United States
+19	1994-04-17	Female	1.68	Julia Kykkaenen	55	0	0	0	0	Ski Jumping	Finland
+29	1984-03-09	Female	1.7	Julia Mancuso	64	0	0	1	1	Alpine Skiing	United States
+21	1992-04-14	Female	1.6	Julia Marino	66	0	0	0	0	Freestyle Skiing	Paraguay
+25	1988-04-16	Female	1.69	Julia Marty	69	0	0	0	0	Ice Hockey	Switzerland
+24	1990-02-06	Female	1.7	Julia Zorn	73	0	0	0	0	Ice Hockey	Germany
+27	1986-11-09	Male	1.96	Julian Eberhard	84	0	0	0	0	Biathlon	Austria
+31	1982-03-13	Female	1.73	Julie Chu	67	0	0	0	0	Ice Hockey	United States
+21	1992-10-01	Female	1.6	Julie Zogg	57	0	0	0	0	Snowboard	Switzerland
+34	1979-09-05	Male	1.73	Julien Lizeroux	80	0	0	0	0	Alpine Skiing	France
+34	1979-10-02	Male	1.84	Julien Vauclair	92	0	0	0	0	Ice Hockey	Switzerland
+23	1990-09-19	Female	1.66	Juliya Dzhyma	66	0	0	0	0	Biathlon	Ukraine
+20	1993-08-03	Male	1.81	Jun-ho Hwang	71	0	0	0	0	Cross-Country	Korea
+20	1993-12-24	Male	1.76	Jung Myung Cho	74	0	0	0	0	Luge	Korea
+23	1990-09-27	Female	1.63	Jung-hwa Seo	60	0	0	0	0	Freestyle Skiing	Korea
+25	1989-01-27	Male	1.84	Junglin Jun	100	0	0	0	0	Bobsleigh	Korea
+23	1990-12-28	Male	1.89	Juraj Mokras	87	0	0	0	0	Bobsleigh	Slovakia
+24	1989-02-14	Male	1.81	Jurij Tepes	68	0	0	0	0	Ski Jumping	Slovenia
+30	1983-04-26	Male	1.74	Juris Sics	82	0	0	2	2	Luge	Latvia
+31	1982-04-08	Male	1.91	Juris Stals	94	0	0	0	0	Ice Hockey	Latvia
+30	1983-04-01	Male	1.81	Jussi Jokinen	86	0	0	0	0	Ice Hockey	Finland
+20	1993-10-09	Male	1.81	Jussi Penttala	74	0	0	0	0	Freestyle Skiing	Finland
+20	1993-04-25	Male	1.86	Jussi Taka	85	0	0	0	0	Snowboard	Finland
+25	1988-08-17	Male	1.8	Justin Dorey	80	0	0	0	0	Freestyle Skiing	Canada
+21	1992-03-20	Male	1.8	Justin Faulk	98	0	0	0	0	Ice Hockey	United States
+27	1987-01-06	Male	1.83	Justin Kripps	100	0	0	0	0	Bobsleigh	Canada
+22	1992-01-08	Male	1.75	Justin Murisier	82	0	0	0	0	Alpine Skiing	Switzerland
+26	1987-04-16	Male	1.87	Justin Olsen	106	0	0	0	0	Bobsleigh	United States
+33	1981-02-02	Male	1.8	Justin Reiter	75	0	0	0	0	Snowboard	United States
+22	1991-12-08	Male	1.76	Justin Snith	70	0	0	0	0	Luge	Canada
+19	1994-03-25	Female	1.63	Justine Dufour-lapointe	55	1	0	0	1	Freestyle Skiing	Canada
+31	1983-01-23	Female	1.74	Justyna Kowalczyk	64	1	0	0	1	Cross-Country	Poland
+28	1985-06-14	Male	1.8	Juuso Hietanen	85	0	0	0	0	Ice Hockey	Finland
+22	1991-04-30	Male	1.83	Kaarel Nurmsalu	69	0	0	0	0	Ski Jumping	Estonia
+26	1987-04-22	Female	1.73	Kacey Bellamy	65	0	0	0	0	Ice Hockey	United States
+28	1985-05-03	Female	1.58	Kadri Lehtla	55	0	0	0	0	Biathlon	Estonia
+18	1995-09-11	Male	1.73	Kai Mahler	65	0	0	0	0	Freestyle Skiing	Switzerland
+28	1985-09-04	Female	1.7	Kaillie Humphries	73	0	0	0	0	Bobsleigh	Canada
+31	1983-01-11	Female	1.71	Kaisa Makarainen	57	0	0	0	0	Cross-Country	Finland
+24	1989-12-18	Female	1.63	Kaitlyn Farrington	57	1	0	0	1	Snowboard	United States
+25	1988-12-25	Female	1.72	Kajsa Kling	73	0	0	0	0	Alpine Skiing	Sweden
+21	1992-09-19	Male	1.81	Kalev Ermits	74	0	0	0	0	Biathlon	Estonia
+22	1991-11-09	Female	1.7	Kali Christ	65	0	0	0	0	Speed Skating	Canada
+26	1987-05-25	Male	1.73	Kamil Stoch	52	2	0	0	2	Ski Jumping	Poland
+28	1985-02-20	Female	1.65	Kanae Aoki	60	0	0	0	0	Ice Hockey	Japan
+21	1992-02-13	Male	1.7	Kanes Sucharitakul	67	0	0	0	0	Alpine Skiing	Thailand
+28	1985-02-28	Male	1.76	Kang Seok Lee	77	0	0	0	0	Speed Skating	Korea
+24	1989-05-25	Male	1.93	Karel Tammjarv	88	0	0	0	0	Cross-Country	Estonia
+30	1983-11-16	Male	1.93	Kari Lehtonen	91	0	0	0	0	Ice Hockey	Finland
+28	1985-11-17	Male	1.83	Kari Peters	78	0	0	0	0	Cross-Country	Luxembourg
+28	1985-11-03	Female	1.64	Karin Oberhofer	55	0	0	0	0	Biathlon	Italy
+24	1989-07-07	Male	1.79	Karl-august Tiirmaa	66	0	0	0	0	Nordic Combined	Estonia
+19	1994-05-18	Female	1.73	Karly Shorr	66	0	0	0	0	Snowboard	United States
+21	1992-02-26	Male	1.76	Karol Mikrut	76	0	0	0	0	Luge	Poland
+23	1990-11-13	Male	1.8	Karol Stuchlak	65	0	0	0	0	Luge	Slovakia
+35	1978-02-23	Female	1.63	Karoliina Rantamaki	65	0	0	0	0	Ice Hockey	Finland
+24	1990-01-18	Female	1.73	Karolina Chrapek	69	0	0	0	0	Alpine Skiing	Poland
+21	1992-10-27	Female	1.76	Karolina Erbanova	70	0	0	0	0	Speed Skating	Czech Republic
+23	1990-11-21	Female	1.7	Karolina Grohova	66	0	0	0	0	Cross-Country	Czech Republic
+25	1988-08-19	Female	1.76	Karolina Riemen-zerebecka	74	0	0	0	0	Freestyle Skiing	Poland
+24	1989-02-15	Female	1.59	Karolina Sztokfisz	62	0	0	0	0	Snowboard	Poland
+32	1981-10-03	Male	1.76	Karoly Gombos	69	0	0	0	0	Biathlon	Hungary
+27	1986-06-20	Male	1.72	Kaspar Fluetsch	80	0	0	0	0	Snowboard	Switzerland
+25	1988-05-18	Male	1.83	Kaspars Daugavins	95	0	0	0	0	Ice Hockey	Latvia
+25	1988-03-23	Female	1.63	Katarina Lavtar	63	0	0	0	0	Alpine Skiing	Slovenia
+34	1980-01-01	Female	1.7	Katarzyna Bachleda - Curus	62	0	0	0	0	Speed Skating	Poland
+24	1989-10-05	Female	1.73	Katarzyna Wozniak	61	0	0	0	0	Speed Skating	Poland
+21	1992-06-09	Female	1.73	Kate Hansen	73	0	0	0	0	Luge	United States
+29	1984-08-12	Female	1.61	Katerina Novotna	58	0	0	0	0	Short Track	Czech Republic
+20	1993-07-23	Female	1.71	Katerina Paulathova	65	0	0	0	0	Alpine Skiing	Czech Republic
+30	1983-06-13	Female	1.71	Katerina Smutna	60	0	0	0	0	Cross-Country	Austria
+28	1985-10-30	Female	1.66	Kateryna Grygorenko	67	0	0	0	0	Cross-Country	Ukraine
+24	1989-09-16	Female	1.73	Kateryna Serdyuk	62	0	0	0	0	Cross-Country	Ukraine
+17	1996-05-23	Female	1.57	Katharina Althaus	52	0	0	0	0	Ski Jumping	Germany
+23	1991-01-17	Female	1.66	Katharina Innerhofer	55	0	0	0	0	Biathlon	Austria
+27	1986-08-05	Female	1.67	Kathrin Zettel	63	0	0	0	0	Alpine Skiing	Austria
+33	1980-08-04	Female	1.73	Katia Griffiths	55	0	0	0	0	Freestyle Skiing	Spain
+18	1995-10-08	Female	1.71	Katie Summerhayes	60	0	0	0	0	Freestyle Skiing	Great Britain
+31	1982-03-04	Female	1.68	Katie Tsuyuki	52	0	0	0	0	Snowboard	Canada
+29	1984-07-17	Female	1.6	Katie Uhlaender	64	0	0	0	0	Skeleton	United States
+29	1984-03-21	Female	1.74	Katja Visnar	65	0	0	0	0	Cross-Country	Slovenia
+37	1976-03-15	Female	1.6	Katrien Aerts	50	0	0	0	0	Freestyle Skiing	Belgium
+24	1989-03-31	Female	1.68	Katrin Mueller	66	0	0	0	0	Freestyle Skiing	Switzerland
+27	1986-04-03	Female	1.65	Katrin Nabholz	58	0	0	0	0	Ice Hockey	Switzerland
+34	1979-03-01	Female	1.71	Katrin Zeller	60	0	0	0	0	Cross-Country	Germany
+25	1988-08-02	Female	1.74	Katya Crema	64	0	0	0	0	Freestyle Skiing	Australia
+21	1993-01-01	Female	1.63	Katya Galstyan	57	0	0	0	0	Cross-Country	Armenia
+30	1983-07-25	Male	1.88	Kauri Koiv	82	0	0	0	0	Biathlon	Estonia
+25	1988-05-03	Female	1.65	Kaya Turski	57	0	0	0	0	Freestyle Skiing	Canada
+23	1990-09-03	Female	1.7	Kaylin Irvine	67	0	0	0	0	Speed Skating	Canada
+31	1982-04-20	Male	1.72	Keiichiro Nagashima	70	0	0	0	0	Speed Skating	Japan
+27	1987-01-12	Male	1.75	Keishin Yoshida	74	0	0	0	0	Cross-Country	Japan
+31	1982-06-15	Female	1.6	Kelime Cetinkaya	54	0	0	0	0	Cross-Country	Turkey
+26	1988-01-13	Female	1.65	Kelli Stack	62	0	0	0	0	Ice Hockey	United States
+30	1983-07-26	Female	1.63	Kelly Clark	61	0	0	1	1	Snowboard	United States
+26	1987-08-14	Female	1.65	Kelly Gunther	65	0	0	0	0	Speed Skating	United States
+24	1989-09-01	Female	1.68	Kelsey Serwa	65	0	0	0	0	Freestyle Skiing	Canada
+21	1992-05-13	Female	1.6	Keltie Hansen	54	0	0	0	0	Freestyle Skiing	Canada
+25	1989-01-21	Male	1.78	Ken Andre Olimb	82	0	0	0	0	Ice Hockey	Norway
+21	1992-05-25	Female	1.57	Kendall Coyne	59	0	0	0	0	Ice Hockey	United States
+18	1995-11-09	Male	1.75	Kent Callister	72	0	0	0	0	Snowboard	Australia
+18	1996-02-06	Female	1.66	Kenza Tazi	60	0	0	0	0	Alpine Skiing	Morocco
+31	1982-08-16	Female	1.7	Keri Herman	59	0	0	0	0	Freestyle Skiing	United States
+18	1995-12-14	Female	1.69	Kerstin Spielberger	62	0	0	0	0	Ice Hockey	Germany
+25	1988-06-13	Female	1.72	Kerttu Niskanen	58	0	1	0	1	Cross-Country	Finland
+24	1989-12-27	Male	1.8	Kevin Esteve	80	0	0	0	0	Alpine Skiing	Andorra
+27	1986-06-27	Male	1.8	Kevin Hill	78	0	0	0	0	Snowboard	Canada
+35	1979-01-04	Male	1.96	Kevin Kuske	120	0	0	0	0	Bobsleigh	Germany
+24	1989-08-10	Male	1.78	Kevin Rolland	64	0	0	0	0	Freestyle Skiing	France
+29	1985-01-31	Male	1.82	Kevin Romy	86	0	0	0	0	Ice Hockey	Switzerland
+25	1989-01-29	Male	1.8	Kevin Shattenkirk	87	0	0	0	0	Ice Hockey	United States
+20	1993-09-19	Female	1.72	Kexin Fan	55	0	0	0	0	Short Track	China
+31	1982-12-31	Female	1.65	Kikkan Randall	60	0	0	0	0	Cross-Country	United States
+25	1988-05-20	Female	1.65	Kim Lamarre	54	0	0	1	1	Freestyle Skiing	Canada
+27	1986-02-28	Female	1.66	Kim Martin Hasson	68	0	0	0	0	Ice Hockey	Sweden
+21	1992-05-24	Female	1.73	Kimberley Mcrae	61	0	0	0	0	Luge	Canada
+38	1975-03-18	Male	1.77	Kimmo Timonen	84	0	0	0	0	Ice Hockey	Finland
+27	1986-10-06	Male	1.87	Kirill Antukh	89	0	0	0	0	Bobsleigh	Russian Fed.
+28	1985-08-28	Male	1.81	Kjetil Jansrud	84	1	0	1	2	Alpine Skiing	Norway
+24	1989-07-13	Female	1.78	Klara Krizova	70	0	0	0	0	Alpine Skiing	Czech Republic
+30	1983-03-19	Female	1.69	Klara Moravcova	57	0	0	0	0	Cross-Country	Czech Republic
+33	1980-04-24	Male	1.86	Klaus Kroell	95	0	0	0	0	Alpine Skiing	Austria
+28	1986-01-09	Male	1.83	Klemen Bauer	77	0	0	0	0	Biathlon	Slovenia
+27	1986-08-31	Male	1.8	Klemen Pretnar	82	0	0	0	0	Ice Hockey	Slovenia
+23	1990-05-01	Male	1.83	Koba Jass	87	0	0	0	0	Ice Hockey	Latvia
+23	1990-08-26	Male	1.82	Koen Verweij	83	0	1	0	1	Speed Skating	Netherlands
+21	1992-03-26	Male	1.87	Konrad Nagy	86	0	0	0	0	Speed Skating	Hungary
+29	1985-01-02	Male	1.8	Konrad Niedzwiedzki	80	0	0	0	0	Speed Skating	Poland
+28	1985-04-16	Male	1.74	Konstantin Glavatskikh	72	0	0	0	0	Cross-Country	Russian Fed.
+26	1987-07-25	Male	1.77	Konstantin Schad	80	0	0	0	0	Snowboard	Germany
+28	1985-08-03	Female	1.65	Kornelia Kubinska	49	0	0	0	0	Cross-Country	Poland
+29	1984-05-30	Male	1.72	Kostas Sykaras	77	0	0	0	0	Alpine Skiing	Greece
+26	1987-06-16	Male	1.74	Krasimir Anev	67	0	0	0	0	Biathlon	Bulgaria
+33	1980-10-14	Male	1.8	Kris Freeman	79	0	0	0	0	Cross-Country	United States
+33	1981-01-15	Male	1.89	Krisjanis Redlihs	93	0	0	0	0	Ice Hockey	Latvia
+23	1990-12-12	Female	1.6	Krista Lahteenmaki	56	0	1	0	1	Cross-Country	Finland
+41	1972-03-07	Male	1.78	Kristan Bromley	72	0	0	0	0	Skeleton	Great Britain
+22	1991-05-05	Male	1.92	Kristaps Maurins	92	0	0	0	0	Luge	Latvia
+27	1987-01-29	Male	1.84	Kristaps Sotnieks	87	0	0	0	0	Ice Hockey	Latvia
+21	1992-02-15	Male	1.84	Kristaps Zvejnieks	80	0	0	0	0	Alpine Skiing	Latvia
+21	1992-07-31	Male	1.93	Kristers Gudlevskis	86	0	0	0	0	Ice Hockey	Latvia
+27	1986-05-05	Male	1.85	Kristian Forsberg	92	0	0	0	0	Ice Hockey	Norway
+22	1991-05-20	Female	1.71	Kristina Saalova	70	0	0	0	0	Alpine Skiing	Slovakia
+17	1996-06-10	Male	1.79	Kristjan Ilves	63	0	0	0	0	Nordic Combined	Estonia
+27	1986-10-12	Male	1.83	Krystof Kryzl	84	0	0	0	0	Alpine Skiing	Czech Republic
+30	1983-08-16	Female	1.66	Krystyna Palka	55	0	0	0	0	Biathlon	Poland
+30	1983-02-11	Male	1.81	Krzysztof Plywaczyk	70	0	0	0	0	Biathlon	Poland
+21	1992-05-30	Female	1.65	Ksenia Alopina	62	0	0	0	0	Alpine Skiing	Russian Fed.
+26	1987-11-25	Female	1.7	Kseniya Grigoreva	65	0	0	0	0	Alpine Skiing	Uzbekistan
+18	1995-06-10	Male	1.8	Kwang-jin Kim	72	0	0	0	0	Freestyle Skiing	Korea
+20	1993-10-13	Male	1.71	Kwang-ki Lee	63	0	0	0	0	Snowboard	Korea
+27	1986-09-15	Male	1.78	Kyle Carr	79	0	0	0	0	Short Track	United States
+32	1981-05-29	Male	1.83	Kyle Tress	88	0	0	0	0	Skeleton	United States
+35	1978-03-16	Male	1.75	Kyou Hyuk Lee	75	0	0	0	0	Speed Skating	Korea
+19	1994-04-28	Male	1.79	Kyunghyun Kim	98	0	0	0	0	Bobsleigh	Korea
+27	1986-04-07	Female	1.7	Lada Zadonskaya	62	0	0	0	0	Speed Skating	Russian Fed.
+20	1993-06-10	Female	1.7	Ladina Jenny	62	0	0	0	0	Snowboard	Switzerland
+28	1986-02-01	Male	1.91	Ladislav Smid	102	0	0	0	0	Ice Hockey	Czech Republic
+32	1981-06-17	Male	1.81	Lamin Deen	100	0	0	0	0	Bobsleigh	Great Britain
+31	1982-04-26	Female	1.63	Lanny Barnes	52	0	0	0	0	Biathlon	United States
+22	1991-04-27	Female	1.6	Lara Gut	58	0	0	1	1	Alpine Skiing	Switzerland
+19	1994-05-15	Female	1.66	Lara Stalder	60	0	0	0	0	Ice Hockey	Switzerland
+21	1992-12-28	Female	1.72	Lara Van Ruijven	40	0	0	0	0	Short Track	Netherlands
+26	1987-06-21	Male	1.76	Lari Lehtonen	71	0	0	0	0	Cross-Country	Finland
+25	1988-03-30	Female	1.71	Larisa Yurkiw	70	0	0	0	0	Alpine Skiing	Canada
+24	1990-01-17	Male	1.82	Laro Herrero	64	0	0	0	0	Snowboard	Spain
+26	1987-03-19	Male	1.83	Lars Haugen	83	0	0	0	0	Ice Hockey	Norway
+28	1985-08-19	Male	1.8	Lars Nelson	77	1	0	0	1	Cross-Country	Sweden
+21	1992-07-26	Male	1.9	Lars Volden	86	0	0	0	0	Ice Hockey	Norway
+39	1974-10-12	Male	1.83	Lascelles Brown	97	0	0	0	0	Bobsleigh	Canada
+32	1981-09-18	Male	1.83	Lasse Kukkonen	85	0	0	0	0	Ice Hockey	Finland
+21	1992-08-25	Female	1.72	Laura Benz	63	0	0	0	0	Ice Hockey	Switzerland
+20	1993-08-22	Female	1.62	Laura Dahlmeier	52	0	0	0	0	Biathlon	Germany
+23	1991-01-30	Female	1.64	Laura Fortino	62	0	0	0	0	Ice Hockey	Canada
+21	1992-04-30	Female	1.62	Laura Grasemann	52	0	0	0	0	Freestyle Skiing	Germany
+27	1986-09-11	Female	1.74	Laura Orgue	54	0	0	0	0	Cross-Country	Spain
+24	1989-09-29	Female	1.74	Laura Peel	64	0	0	0	0	Freestyle Skiing	Australia
+26	1987-04-28	Female	1.6	Laure Soulie	50	0	0	0	0	Biathlon	Andorra
+25	1988-11-15	Female	1.73	Lauren Cholewinski	67	0	0	0	0	Speed Skating	United States
+25	1988-08-17	Female	1.72	Laurenne Ross	65	0	0	0	0	Alpine Skiing	United States
+17	1996-03-23	Male	1.81	Lauri Kivari	60	0	0	0	0	Freestyle Skiing	Finland
+27	1986-07-28	Male	1.85	Lauri Korpikoski	88	0	0	0	0	Ice Hockey	Finland
+23	1990-04-12	Female	1.73	Lauriane Rougeau	75	0	0	0	0	Ice Hockey	Canada
+26	1987-10-14	Female	1.67	Laurien Van Der Graaff	57	0	0	0	0	Cross-Country	Switzerland
+26	1987-08-10	Female	1.67	Laurine Van Riessen	62	0	0	0	0	Speed Skating	Netherlands
+29	1985-01-28	Male	1.91	Lauris Darzins	91	0	0	0	0	Ice Hockey	Latvia
+30	1983-09-11	Female	1.6	Lauryn Williams	67	0	0	0	0	Bobsleigh	United States
+24	1989-03-05	Female	1.68	Lavinia Chrystal	64	0	0	0	0	Alpine Skiing	Australia
+24	1989-12-21	Female	1.67	Lea Johanidesova	56	0	0	0	0	Biathlon	Czech Republic
+17	1996-06-21	Female	1.69	Lea Lemare	52	0	0	0	0	Ski Jumping	France
+33	1980-03-22	Male	1.84	Leandro Ribela	80	0	0	0	0	Cross-Country	Brazil
+26	1987-05-28	Female	1.65	Leanne Smith	72	0	0	0	0	Alpine Skiing	United States
+19	1994-04-23	Female	1.83	Lee Stecklein	77	0	0	0	0	Ice Hockey	United States
+33	1980-04-20	Male	1.72	Lee-steve Jackson	69	0	0	0	0	Biathlon	Great Britain
+26	1987-11-29	Male	1.85	Leif Kristian Haugen	90	0	0	0	0	Alpine Skiing	Norway
+24	1989-05-18	Male	1.88	Leif Nordgren	79	0	0	0	0	Biathlon	United States
+23	1990-09-17	Female	1.7	Lelde Gasuna	64	0	0	0	0	Alpine Skiing	Latvia
+20	1993-07-20	Female	1.63	Lelde Priedulena	59	0	0	0	0	Skeleton	Latvia
+25	1988-11-21	Male	1.98	Len Valjas	91	0	0	0	0	Cross-Country	Canada
+27	1987-01-23	Male	1.8	Leo Komarov	90	0	0	0	0	Ice Hockey	Finland
+19	1994-10-03	Female	1.68	Lina Backlin	67	0	0	0	0	Ice Hockey	Sweden
+21	1992-11-07	Female	1.75	Lina Wester	65	0	0	0	0	Ice Hockey	Sweden
+26	1987-10-26	Female	1.65	Lina Xia	63	0	0	0	0	Alpine Skiing	China
+23	1990-05-31	Female	1.65	Linda Valimaki	62	0	0	0	0	Ice Hockey	Finland
+28	1985-08-19	Female	1.68	Lindsey Jacobellis	64	0	0	0	0	Snowboard	United States
+29	1984-11-27	Female	1.6	Lindsey Van	57	0	0	0	0	Ski Jumping	United States
+30	1984-01-16	Female	1.64	Line Jahr	56	0	0	0	0	Ski Jumping	Norway
+22	1991-04-18	Female	1.66	Linnea Backman	65	0	0	0	0	Ice Hockey	Sweden
+26	1987-05-28	Female	1.69	Lisa Christine Schuster	70	0	0	0	0	Ice Hockey	Germany
+20	1993-12-16	Female	1.74	Lisa Theresa Hauser	65	0	0	0	0	Biathlon	Austria
+31	1982-07-23	Female	1.64	Liudmila Kalinchik	59	0	0	0	0	Biathlon	Belarus
+29	1984-10-03	Female	1.78	Liudmila Udobkina	84	0	0	0	0	Bobsleigh	Russian Fed.
+19	1994-12-13	Female	1.64	Livia Altmann	60	0	0	0	0	Ice Hockey	Switzerland
+25	1988-10-12	Male	1.85	Lluis Marin Tarroch	85	0	0	0	0	Snowboard	Andorra
+26	1987-05-09	Male	1.85	Loic Costerg	90	0	0	0	0	Bobsleigh	France
+31	1982-08-05	Female	1.75	Lolo Jones	73	0	0	0	0	Bobsleigh	United States
+25	1988-12-21	Male	1.68	Long Ren	64	0	0	0	0	Biathlon	China
+22	1991-12-09	Female	1.8	Lotte Van Beek	69	0	0	1	1	Speed Skating	Netherlands
+28	1985-07-17	Male	1.87	Loui Eriksson	87	0	0	0	0	Ice Hockey	Sweden
+32	1981-07-15	Male	1.85	Lowell Bailey	76	0	0	0	0	Biathlon	United States
+20	1993-03-27	Male	1.77	Luca Aerni	80	0	0	0	0	Alpine Skiing	Switzerland
+24	1989-07-04	Male	1.84	Luca Cunti	85	0	0	0	0	Ice Hockey	Switzerland
+23	1990-09-01	Male	1.7	Luca De Aliprandini	73	0	0	0	0	Alpine Skiing	Italy
+24	1989-10-14	Male	1.75	Luca Matteotti	59	0	0	0	0	Snowboard	Italy
+16	1998-01-17	Male	1.57	Luca Schuler	47	0	0	0	0	Freestyle Skiing	Switzerland
+17	1996-08-03	Male	1.81	Luca Tribondeau	74	0	0	0	0	Freestyle Skiing	Austria
+19	1994-02-09	Male	1.82	Lucas Eguibar	82	0	0	0	0	Snowboard	Spain
+26	1987-05-30	Male	1.84	Lucas Makowsky	78	0	0	0	0	Speed Skating	Canada
+25	1988-07-08	Male	1.78	Lucas Mata	90	0	0	0	0	Bobsleigh	Australia
+23	1991-01-26	Female	1.68	Lucia Anger	60	0	0	0	0	Cross-Country	Germany
+23	1990-11-14	Female	1.64	Lucia Peretti	54	0	0	1	1	Short Track	Italy
+18	1996-01-02	Male	1.77	Lucien Koch	66	0	0	0	0	Snowboard	Switzerland
+30	1983-10-19	Female	1.67	Lucy Chaffer	58	0	0	0	0	Skeleton	Australia
+19	1994-10-16	Female	1.57	Lucy Glanville	58	0	0	0	0	Biathlon	Australia
+22	1991-06-19	Male	1.9	Ludwig Rieder	72	0	0	0	0	Luge	Italy
+27	1986-05-25	Female	1.6	Luiza Zlotkowska	52	0	0	0	0	Speed Skating	Poland
+20	1993-10-31	Male	1.78	Luka Gracnar	83	0	0	0	0	Ice Hockey	Slovenia
+36	1977-08-18	Male	1.81	Lukas Bauer	73	0	0	0	0	Cross-Country	Czech Republic
+28	1985-10-23	Male	1.86	Lukas Broz	92	0	0	0	0	Luge	Czech Republic
+29	1984-09-10	Male	1.81	Lukas Hlava	63	0	0	0	0	Ski Jumping	Czech Republic
+24	1989-09-30	Male	1.75	Lukas Hofer	69	0	0	0	0	Biathlon	Italy
+28	1985-12-25	Male	1.82	Lukas Klapfer	70	0	0	0	0	Nordic Combined	Austria
+24	1989-06-30	Male	1.87	Lukas Kozienka	95	0	0	0	0	Bobsleigh	Slovakia
+30	1983-03-11	Male	1.88	Lukas Krajicek	94	0	0	0	0	Ice Hockey	Czech Republic
+22	1991-03-15	Male	1.71	Lukas Mathies	70	0	0	0	0	Snowboard	Austria
+26	1987-07-31	Male	1.7	Lukas Runggaldier	63	0	0	0	0	Nordic Combined	Italy
+24	1989-06-05	Male	1.83	Lukasz Slonina	68	0	0	0	0	Biathlon	Poland
+25	1988-04-01	Male	1.79	Lukasz Szczurek	68	0	0	0	0	Biathlon	Poland
+20	1993-06-07	Male	1.82	Luke Steyn	81	0	0	0	0	Alpine Skiing	Zimbabwe
+32	1982-01-17	Female	1.57	Lydia Lassila	54	0	0	1	1	Freestyle Skiing	Australia
+19	1994-08-28	Male	1.8	Lyman Currier	66	0	0	0	0	Freestyle Skiing	United States
+33	1980-11-24	Male	1.83	Lyndon Rush	103	0	0	0	0	Bobsleigh	Canada
+21	1992-10-30	Female	1.74	Lyndsey Fry	77	0	0	0	0	Ice Hockey	United States
+18	1995-03-27	Male	1.73	Mac Bohonnon	61	0	0	0	0	Freestyle Skiing	United States
+25	1988-03-11	Male	1.81	Maciej Bydlinski	86	0	0	0	0	Alpine Skiing	Poland
+31	1982-11-24	Male	1.78	Maciej Jodko	80	0	0	0	0	Snowboard	Poland
+22	1991-06-09	Male	1.78	Maciej Kot	61	0	0	0	0	Ski Jumping	Poland
+32	1981-04-04	Male	1.78	Maciej Kreczmer	73	0	0	0	0	Cross-Country	Poland
+27	1986-06-19	Male	1.85	Maciej Kurowski	94	0	0	0	0	Luge	Poland
+24	1990-01-31	Male	1.8	Maciej Starega	76	0	0	0	0	Cross-Country	Poland
+22	1991-07-13	Male	1.83	Mackenzie Boyd-clowes	69	0	0	0	0	Ski Jumping	Canada
+20	1994-01-10	Female	1.55	Maddie Bowman	57	0	0	0	0	Freestyle Skiing	United States
+35	1978-09-16	Male	1.85	Mads Hansen	88	0	0	0	0	Ice Hockey	Norway
+35	1978-12-02	Female	1.69	Maelle Ricker	63	0	0	0	0	Snowboard	Canada
+34	1979-08-04	Female	1.78	Magdalena Gwizdon	65	0	0	0	0	Biathlon	Poland
+30	1983-08-26	Male	1.89	Magnus Hovdal Moan	75	0	1	0	1	Nordic Combined	Norway
+26	1988-01-27	Female	1.67	Maja Vtic	55	0	0	0	0	Ski Jumping	Slovenia
+39	1974-11-09	Female	1.62	Maki Tabata	55	0	0	0	0	Speed Skating	Japan
+28	1985-04-27	Female	1.62	Maki Tsuji	58	0	0	0	0	Speed Skating	Japan
+22	1991-07-15	Male	1.85	Maksim Siarheyeu	75	0	0	0	0	Short Track	Belarus
+30	1984-01-16	Female	1.67	Manami Mitsuboshi	57	0	0	0	0	Freestyle Skiing	Japan
+31	1982-06-03	Male	1.79	Manfred Moelgg	75	0	0	0	0	Alpine Skiing	Italy
+20	1993-10-23	Male	1.65	Manfred Oettl Reyes	60	0	0	0	0	Alpine Skiing	Peru
+30	1984-01-23	Male	1.82	Manuel Latusa	88	0	0	0	0	Ice Hockey	Austria
+29	1984-02-08	Male	1.83	Manuel Osborne-paradis	92	0	0	0	0	Alpine Skiing	Canada
+22	1992-01-09	Female	1.64	Manuela Anwander	68	0	0	0	0	Ice Hockey	Germany
+28	1985-08-25	Male	1.7	Marat Zhaparov	75	0	0	0	0	Ski Jumping	Kazakhstan
+22	1991-12-20	Male	1.73	Marc Oliveras	75	0	0	0	0	Alpine Skiing	Andorra
+22	1991-03-06	Male	1.75	Marc-antoine Gagnon	77	0	0	0	0	Freestyle Skiing	Canada
+26	1987-03-30	Male	1.85	Marc-edouard Vlasic	93	0	0	0	0	Ice Hockey	Canada
+24	1989-03-02	Male	1.73	Marcel Hirscher	70	0	0	0	0	Alpine Skiing	Austria
+32	1981-10-12	Male	1.87	Marcel Hossa	99	0	0	0	0	Ice Hockey	Slovakia
+32	1981-09-25	Male	1.86	Marcel Rodman	85	0	0	0	0	Ice Hockey	Slovenia
+32	1981-04-02	Male	1.9	Marcin Niewiara	99	0	0	0	0	Bobsleigh	Poland
+15	1998-04-22	Male	1.75	Marco Ladner	65	0	0	0	0	Freestyle Skiing	Austria
+19	1994-03-25	Male	1.91	Marco Pfiffner	93	0	0	0	0	Alpine Skiing	Liechtenstein
+33	1980-04-27	Male	1.8	Marco Sullivan	93	0	0	0	0	Alpine Skiing	United States
+28	1985-11-25	Male	1.83	Marcus Hellner	75	1	1	0	2	Cross-Country	Sweden
+23	1990-10-06	Male	1.83	Marcus Johansson	91	0	0	0	0	Ice Hockey	Sweden
+23	1990-10-06	Male	1.83	Marcus Johansson	91	0	0	0	0	Ice Hockey	Sweden
+23	1990-05-27	Male	1.82	Marcus Kruger	81	0	0	0	0	Ice Hockey	Sweden
+26	1987-09-23	Male	1.77	Marcus Sandell	83	0	0	0	0	Alpine Skiing	Finland
+21	1992-11-18	Male	1.85	Marek Solcansky	76	0	0	0	0	Luge	Slovakia
+37	1977-02-03	Male	1.8	Marek Zidlicky	85	0	0	0	0	Ice Hockey	Czech Republic
+38	1976-01-28	Female	1.69	Margaretha Sigfridsson	60	0	0	0	0	Curling	Sweden
+28	1985-08-07	Female	1.8	Margot Boer	72	0	0	2	2	Speed Skating	Netherlands
+26	1987-11-09	Female	1.71	Mari Laukkanen	58	0	0	0	0	Cross-Country	Finland
+21	1992-03-03	Female	1.7	Maria Bedareva	70	0	0	0	0	Alpine Skiing	Russian Fed.
+22	1991-08-28	Female	1.73	Maria Constantin	78	0	0	0	0	Bobsleigh	Romania
+29	1984-11-24	Female	1.82	Maria Hoefl-riesch	78	1	1	0	2	Alpine Skiing	Germany
+28	1986-01-02	Female	1.65	Maria Kirkova	60	0	0	0	0	Alpine Skiing	Bulgaria
+23	1990-09-05	Female	1.77	Maria Komissarova	71	0	0	0	0	Freestyle Skiing	Russian Fed.
+28	1986-01-04	Female	1.68	Maria Lamb	58	0	0	0	0	Speed Skating	United States
+20	1993-09-29	Female	1.76	Maria Lindh	63	0	0	0	0	Ice Hockey	Sweden
+22	1991-04-12	Female	1.6	Maria Marinela Mazilu	58	0	0	0	0	Skeleton	Romania
+25	1988-04-14	Female	1.7	Maria Orlova	72	0	0	0	0	Skeleton	Russian Fed.
+27	1986-07-25	Female	1.7	Maria Pietilae-holmner	63	0	0	0	0	Alpine Skiing	Sweden
+27	1986-10-12	Female	1.66	Maria Ramberger	55	0	0	0	0	Snowboard	Austria
+24	1989-10-18	Female	1.76	Maria Shkanova	66	0	0	0	0	Alpine Skiing	Belarus
+35	1979-01-12	Male	1.87	Marian Hossa	95	0	0	0	0	Ice Hockey	Slovakia
+21	1993-01-12	Male	1.86	Marian Zemanik	79	0	0	0	0	Luge	Slovakia
+27	1986-04-01	Female	1.77	Marianne Kaufmann-abderhalden	77	0	0	0	0	Alpine Skiing	Switzerland
+26	1987-10-19	Female	1.73	Marianne Leeson	62	0	0	0	0	Snowboard	Canada
+23	1990-02-17	Female	1.63	Marianne St-gelais	62	0	1	0	1	Short Track	Canada
+27	1986-06-19	Female	1.68	Marie Dorin Habert	56	0	0	0	0	Biathlon	France
+25	1988-11-20	Female	1.65	Marie Laure Brunet	56	0	0	0	0	Biathlon	France
+28	1985-04-08	Female	1.64	Marie Marchand-arvier	65	0	0	0	0	Alpine Skiing	France
+29	1984-07-20	Female	1.58	Marie Martinod	48	0	0	0	0	Freestyle Skiing	France
+32	1982-02-03	Female	1.67	Marie-eve Drolet	60	0	1	0	1	Short Track	Canada
+24	1989-04-25	Female	1.77	Marie-michele Gagnon	66	0	0	0	0	Alpine Skiing	Canada
+22	1991-03-28	Female	1.69	Marie-philip Poulin	72	0	0	0	0	Ice Hockey	Canada
+25	1988-10-18	Female	1.62	Marie-pier Prefontaine	66	0	0	0	0	Alpine Skiing	Canada
+24	1990-01-29	Female	1.61	Marielle Berger Sabbatel	63	0	0	0	0	Freestyle Skiing	France
+21	1992-06-15	Female	1.8	Marielle Thompson	72	0	0	0	0	Freestyle Skiing	Canada
+16	1997-09-21	Female	1.64	Marija Kolaroska	50	0	0	0	0	Cross-Country	The Former Yugoslav Republic of Macedonia
+26	1987-03-04	Female	1.65	Marina Gilardoni	65	0	0	0	0	Skeleton	Switzerland
+28	1985-05-29	Female	1.62	Marina Lebedeva	52	0	0	0	0	Biathlon	Kazakhstan
+30	1983-05-11	Female	1.75	Marina Lisogor	64	0	0	0	0	Cross-Country	Ukraine
+29	1984-04-24	Female	1.67	Marina Nigg	61	0	0	0	0	Alpine Skiing	Liechtenstein
+29	1984-11-17	Female	1.63	Marina Piller	53	0	0	0	0	Cross-Country	Italy
+26	1988-01-14	Female	1.65	Marine Bolliet	54	0	0	0	0	Biathlon	France
+22	1991-02-13	Male	1.73	Marinus Kraus	59	1	0	0	1	Ski Jumping	Germany
+27	1986-11-04	Male	1.94	Mario Altmann	98	0	0	0	0	Ice Hockey	Austria
+34	1979-04-09	Male	1.9	Mario Matt	90	0	0	0	0	Alpine Skiing	Austria
+36	1977-07-17	Male	1.77	Mario Stecher	62	0	0	0	0	Nordic Combined	Austria
+29	1984-11-02	Female	1.63	Marion Bertrand	58	0	0	0	0	Alpine Skiing	France
+23	1990-08-16	Female	1.7	Marion Buillet	56	0	0	0	0	Cross-Country	France
+27	1986-10-06	Female	1.63	Marion Josserand	57	0	0	0	0	Freestyle Skiing	France
+32	1981-05-04	Female	1.7	Marion Kreiner	61	0	0	0	0	Snowboard	Austria
+29	1984-07-05	Female	1.68	Marion Thees	62	0	0	0	0	Skeleton	Germany
+32	1981-03-11	Female	1.68	Maritta Becker	64	0	0	0	0	Ice Hockey	Germany
+26	1987-10-11	Female	1.7	Mariya Panfilova	56	0	0	0	0	Biathlon	Ukraine
+22	1991-07-22	Male	1.75	Marjan Jelenko	68	0	0	0	0	Nordic Combined	Slovenia
+20	1993-12-09	Male	1.78	Mark Mcmorris	72	0	0	1	1	Snowboard	Canada
+23	1990-12-23	Male	1.75	Mark Starostin	75	0	0	0	0	Cross-Country	Kazakhstan
+36	1977-12-11	Male	1.81	Mark Streit	93	0	0	0	0	Ice Hockey	Switzerland
+33	1980-04-04	Male	1.8	Mark Tuitert	84	0	0	0	0	Speed Skating	Netherlands
+24	1990-01-17	Male	1.87	Marko Rudic	81	0	0	0	0	Alpine Skiing	Bosnia and Herzegovina
+21	1992-10-27	Male	1.85	Marko Vukicevic	91	0	0	0	0	Alpine Skiing	Serbia
+23	1990-11-30	Male	1.85	Markus Eder	83	0	0	0	0	Freestyle Skiing	Italy
+35	1979-01-09	Male	1.83	Markus Larsson	82	0	0	0	0	Alpine Skiing	Sweden
+26	1987-05-28	Male	1.76	Markus Malin	70	0	0	0	0	Snowboard	Finland
+25	1988-05-20	Male	1.88	Markus Sammer	95	0	0	0	0	Bobsleigh	Austria
+26	1987-07-04	Male	1.77	Markus Schairer	83	0	0	0	0	Snowboard	Austria
+29	1984-05-12	Male	1.85	Markus Windisch	80	0	0	0	0	Biathlon	Italy
+32	1981-05-31	Female	1.72	Marlies Schild	65	0	0	0	0	Alpine Skiing	Austria
+24	1989-05-10	Female	1.7	Marrit Leenstra	59	0	0	0	0	Speed Skating	Netherlands
+23	1990-08-03	Female	1.57	Marsha Hudey	59	0	0	0	0	Speed Skating	Canada
+24	1989-03-06	Female	1.69	Marte Hoeie Gjefsen	75	0	0	0	0	Freestyle Skiing	Norway
+37	1976-06-12	Male	1.69	Martin Bajcicak	69	0	0	0	0	Cross-Country	Slovakia
+20	1993-04-27	Male	1.87	Martin Bendik	95	0	0	0	0	Alpine Skiing	Slovakia
+32	1981-08-29	Male	1.83	Martin Erat	89	0	0	0	0	Ice Hockey	Czech Republic
+25	1988-09-14	Male	1.85	Martin Fourcade	75	2	1	0	3	Biathlon	France
+26	1987-02-20	Male	1.96	Martin Hanzal	99	0	0	0	0	Ice Hockey	Czech Republic
+26	1987-12-20	Male	1.8	Martin Jaeger	79	0	0	0	0	Cross-Country	Switzerland
+27	1986-09-06	Male	1.85	Martin Jaks	74	0	0	0	0	Cross-Country	Czech Republic
+22	1992-01-23	Male	1.8	Martin Khuber	85	0	0	0	0	Alpine Skiing	Kazakhstan
+21	1992-02-18	Male	1.92	Martin Marincin	82	0	0	0	0	Ice Hockey	Slovakia
+33	1980-05-18	Male	1.86	Martin Moeller	80	0	0	0	0	Cross-Country	Denmark
+26	1987-08-25	Male	1.8	Martin Otcenas	71	0	0	0	0	Biathlon	Slovakia
+36	1977-04-05	Male	1.75	Martin Pluss	85	0	0	0	0	Ice Hockey	Switzerland
+29	1985-01-14	Male	1.81	Martin Putze	99	0	0	0	0	Bobsleigh	Germany
+27	1986-11-10	Male	1.84	Martin Roymark	86	0	0	0	0	Ice Hockey	Norway
+38	1975-06-18	Male	1.83	Martin St-louis	87	0	0	0	0	Ice Hockey	Canada
+39	1974-10-26	Male	1.83	Martin Tesovic	105	0	0	0	0	Bobsleigh	Slovakia
+31	1982-07-04	Male	1.75	Martin Vrablik	80	0	0	0	0	Alpine Skiing	Czech Republic
+24	1989-12-14	Female	1.65	Martina Chrapanova	55	0	0	0	0	Biathlon	Slovakia
+21	1992-02-27	Female	1.74	Martina Dubovska	72	0	0	0	0	Alpine Skiing	Czech Republic
+28	1985-03-14	Female	1.71	Martina Kocher	60	0	0	0	0	Luge	Switzerland
+26	1987-05-27	Female	1.71	Martina Sablikova	53	0	1	0	1	Speed Skating	Czech Republic
+21	1992-06-04	Female	1.68	Martina Valcepina	58	0	0	1	1	Short Track	Italy
+33	1980-11-29	Male	1.81	Martins Cipulis	85	0	0	0	0	Ice Hockey	Latvia
+29	1984-03-31	Male	1.78	Martins Dukurs	66	0	1	0	1	Skeleton	Latvia
+27	1986-02-26	Male	1.78	Martins Karsums	90	0	0	0	0	Ice Hockey	Latvia
+19	1994-06-18	Male	1.7	Martins Onskulis	70	0	0	0	0	Alpine Skiing	Latvia
+35	1978-09-26	Male	1.82	Martins Rubenis	82	0	0	1	1	Luge	Latvia
+26	1987-06-03	Male	1.84	Martti Jylhae	76	0	0	0	0	Cross-Country	Finland
+25	1988-09-27	Female	1.67	Marusa Ferk	65	0	0	0	0	Alpine Skiing	Slovenia
+30	1983-09-09	Male	1.75	Marvin Dixon	93	0	0	0	0	Bobsleigh	Jamaica
+24	1989-10-27	Male	1.71	Marvin James	69	0	0	0	0	Snowboard	Switzerland
+26	1987-10-10	Female	1.61	Maryna Antsybor	54	0	0	0	0	Cross-Country	Ukraine
+19	1994-02-19	Female	1.6	Maryna Gasienica-daniel	54	0	0	0	0	Alpine Skiing	Poland
+27	1986-09-11	Female	1.62	Masako Hozumi	57	0	0	0	0	Speed Skating	Japan
+33	1980-11-05	Female	1.62	Masako Ishida	54	0	0	0	0	Cross-Country	Japan
+18	1995-02-12	Male	1.83	Massimiliano Valcareggi	83	0	0	0	0	Alpine Skiing	Greece
+20	1993-02-08	Male	1.85	Matej Falat	83	0	0	0	0	Alpine Skiing	Slovakia
+30	1983-05-10	Male	1.87	Matej Kazar	77	0	0	0	0	Biathlon	Slovakia
+20	1993-04-14	Male	1.93	Matej Vidovic	92	0	0	0	0	Alpine Skiing	Croatia
+24	1990-01-15	Male	1.75	Mateusz Garniewicz	77	0	0	0	0	Alpine Skiing	Poland
+31	1982-06-18	Male	1.71	Mateusz Ligocki	78	0	0	0	0	Snowboard	Poland
+28	1985-04-13	Male	1.78	Mathias Lange	82	0	0	0	0	Ice Hockey	Austria
+36	1977-12-17	Male	1.81	Mathias Seger	86	0	0	0	0	Ice Hockey	Switzerland
+22	1992-02-03	Male	1.73	Mathias Weissenbacher	73	0	0	0	0	Snowboard	Austria
+22	1992-01-18	Male	1.75	Mathieu Faivre	78	0	0	0	0	Alpine Skiing	France
+28	1986-02-03	Male	1.77	Mathieu Giroux	80	0	0	0	0	Speed Skating	Canada
+19	1994-02-19	Female	1.63	Mathilde Amivi Petitjean	60	0	0	0	0	Cross-Country	Togo
+28	1986-02-01	Male	1.79	Mathis Olimb	83	0	0	0	0	Ice Hockey	Norway
+21	1992-08-09	Male	1.81	Matic Podlipnik	85	0	0	0	0	Ice Hockey	Slovenia
+22	1991-04-29	Male	1.8	Mats Rosseli Olsen	83	0	0	0	0	Ice Hockey	Norway
+37	1976-06-01	Male	1.79	Mats Trygg	85	0	0	0	0	Ice Hockey	Norway
+26	1987-09-01	Male	1.71	Mats Zuccarello	74	0	0	0	0	Ice Hockey	Norway
+23	1991-01-16	Male	1.8	Matt Duchene	91	0	0	0	0	Ice Hockey	Canada
+19	1994-10-23	Male	1.71	Matt Graham	71	0	0	0	0	Freestyle Skiing	Australia
+26	1988-01-15	Male	1.75	Matt Margetts	74	0	0	0	0	Freestyle Skiing	Canada
+29	1984-08-16	Male	1.85	Matteo Anesi	81	0	0	0	0	Speed Skating	Italy
+28	1985-04-02	Male	1.91	Matthew Antoine	84	0	0	1	1	Skeleton	United States
+26	1987-04-09	Male	1.8	Matthew Morison	76	0	0	0	0	Snowboard	Canada
+28	1985-12-11	Male	1.83	Matthew Mortensen	76	0	0	0	0	Luge	United States
+20	1993-06-04	Male	1.83	Matthew Rowley	67	0	0	0	0	Ski Jumping	Canada
+27	1986-03-14	Male	1.81	Matthias Bieber	87	0	0	0	0	Ice Hockey	Switzerland
+29	1984-09-24	Male	1.8	Matthias Guggenberger	80	0	0	0	0	Skeleton	Austria
+28	1985-04-29	Male	1.88	Matthias Iberer	100	0	0	0	0	Ice Hockey	Austria
+34	1979-04-22	Male	1.85	Matthias Trattnig	96	0	0	0	0	Ice Hockey	Austria
+30	1983-12-19	Male	1.74	Matti Heikkinen	61	0	0	0	0	Cross-Country	Finland
+24	1989-06-08	Male	1.8	Mattia Pellegrin	71	0	0	0	0	Cross-Country	Italy
+28	1985-10-07	Male	1.8	Mattias Hargin	79	0	0	0	0	Alpine Skiing	Sweden
+25	1988-12-01	Male	1.79	Matts Olsson	85	0	0	0	0	Alpine Skiing	Sweden
+27	1986-04-04	Male	1.85	Maurice Manificat	73	0	0	1	1	Cross-Country	France
+32	1981-07-09	Male	1.84	Maurizio Oioli	82	0	0	0	0	Skeleton	Italy
+25	1988-08-18	Male	1.81	Mauro Caviezel	87	0	0	0	0	Alpine Skiing	Switzerland
+21	1992-08-29	Male	1.81	Max Hauke	74	0	0	0	0	Cross-Country	Austria
+25	1988-11-20	Male	1.88	Max Pacioretty	100	0	0	0	0	Ice Hockey	United States
+19	1994-06-06	Male	1.8	Maxence Parrot	70	0	0	0	0	Snowboard	Canada
+28	1985-03-05	Male	1.96	Maxim Belugin	114	0	0	0	0	Bobsleigh	Russian Fed.
+30	1983-10-04	Male	1.83	Maxim Mokrousov	88	0	0	0	0	Bobsleigh	Russian Fed.
+31	1982-10-18	Male	1.73	Maxim Vylegzhanin	68	0	1	0	1	Cross-Country	Russian Fed.
+25	1988-09-15	Male	1.65	Maxime Chataignier	69	0	0	0	0	Short Track	France
+24	1989-02-09	Female	1.67	Maxime Dufour-lapointe	63	0	0	0	0	Freestyle Skiing	Canada
+28	1985-05-20	Male	1.73	Maxime Laheurte	60	0	0	0	0	Nordic Combined	France
+26	1987-07-23	Male	1.8	Maximilian Arndt	93	0	0	0	0	Bobsleigh	Germany
+21	1992-03-03	Female	1.6	Maya Harrisson	54	0	0	0	0	Alpine Skiing	Brazil
+29	1985-01-04	Female	1.75	Meaghan Mikkelson	67	0	0	0	0	Ice Hockey	Canada
+24	1989-12-02	Female	1.7	Meeri Raisanen	60	0	0	0	0	Ice Hockey	Finland
+22	1991-03-27	Female	1.73	Megan Bozek	80	0	0	0	0	Ice Hockey	United States
+25	1988-09-10	Female	1.7	Megan Heinicke	57	0	0	0	0	Biathlon	Canada
+27	1986-02-14	Female	1.67	Megan Imrie	56	0	0	0	0	Biathlon	Canada
+26	1987-09-24	Female	1.68	Megan Mcjames	61	0	0	0	0	Alpine Skiing	United States
+26	1987-02-12	Female	1.68	Meghan Agosta-marciano	67	0	0	0	0	Ice Hockey	Canada
+26	1987-09-03	Female	1.73	Meghan Duggan	74	0	0	0	0	Ice Hockey	United States
+31	1982-07-15	Male	1.8	Meinhard Erlacher	83	0	0	0	0	Snowboard	Italy
+33	1980-10-04	Female	1.72	Mellisa Hollingsworth	55	0	0	0	0	Skeleton	Canada
+22	1992-01-07	Female	1.63	Melodie Daoust	71	0	0	0	0	Ice Hockey	Canada
+30	1983-12-05	Female	1.63	Mercedes Nicoll	58	0	0	0	0	Snowboard	Canada
+21	1992-06-24	Female	1.69	Merika Enne	62	0	0	0	0	Snowboard	Finland
+27	1986-07-22	Male	1.83	Michael Forslund	88	0	0	0	0	Freestyle Skiing	Sweden
+25	1988-02-17	Male	1.86	Michael Frolik	89	0	0	0	0	Ice Hockey	Czech Republic
+27	1987-01-05	Male	1.75	Michael Gilday	73	0	0	0	0	Short Track	Canada
+25	1988-10-08	Male	1.84	Michael Goodfellow	88	0	0	0	0	Curling	Great Britain
+26	1987-10-05	Male	1.86	Michael Grabner	85	0	0	0	0	Ice Hockey	Austria
+22	1991-03-05	Male	1.82	Michael Hayboeck	65	0	1	0	1	Ski Jumping	Austria
+31	1982-03-22	Male	1.81	Michael Janyk	85	0	0	0	0	Alpine Skiing	Canada
+27	1986-06-25	Male	1.78	Michael Lambert	76	0	0	0	0	Snowboard	Canada
+25	1988-12-01	Male	1.85	Michael Raffl	87	0	0	0	0	Ice Hockey	Austria
+29	1984-03-18	Male	1.95	Michael Schmid	100	0	0	0	0	Freestyle Skiing	Switzerland
+28	1985-03-18	Female	1.69	Michaela Kirchgasser	64	0	0	0	0	Alpine Skiing	Austria
+31	1982-12-03	Male	1.63	Michail Kletcherov	58	0	0	0	0	Biathlon	Bulgaria
+28	1986-02-06	Male	1.68	Michail Semenov	66	0	0	0	0	Cross-Country	Belarus
+29	1984-06-12	Male	1.92	Michal Barinka	102	0	0	0	0	Ice Hockey	Czech Republic
+36	1977-03-11	Male	1.96	Michal Handzus	98	0	0	0	0	Ice Hockey	Slovakia
+19	1994-03-13	Male	1.83	Michal Jasiczek	74	0	0	0	0	Alpine Skiing	Poland
+23	1991-01-23	Male	1.76	Michal Krcmar	69	0	0	0	0	Biathlon	Czech Republic
+28	1985-10-31	Male	1.77	Michal Ligocki	71	0	0	0	0	Snowboard	Poland
+35	1978-09-03	Male	1.88	Michal Rozsival	95	0	0	0	0	Ice Hockey	Czech Republic
+31	1983-02-03	Male	1.8	Michal Slesingr	76	0	0	0	0	Biathlon	Czech Republic
+26	1987-03-10	Male	1.9	Michal Vacek	96	0	0	0	0	Bobsleigh	Czech Republic
+31	1982-07-31	Male	1.84	Michel Miklik	91	0	0	0	0	Ice Hockey	Slovakia
+27	1986-02-27	Male	1.84	Michel Mulder	82	1	0	1	2	Speed Skating	Netherlands
+18	1995-07-17	Female	1.73	Michela Moioli	65	0	0	0	0	Snowboard	Italy
+34	1979-02-12	Female	1.64	Michela Ponza	53	0	0	0	0	Biathlon	Italy
+17	1996-03-18	Female	1.65	Michelle Dekker	66	0	0	0	0	Snowboard	Netherlands
+20	1993-12-05	Female	1.74	Michelle Gisin	70	0	0	0	0	Alpine Skiing	Switzerland
+23	1990-03-27	Female	1.66	Michelle Karvinen	69	0	0	0	0	Ice Hockey	Finland
+18	1995-03-22	Female	1.72	Michelle Lowenhielm	66	0	0	0	0	Ice Hockey	Sweden
+20	1993-05-27	Female	1.67	Michelle Picard	68	0	0	0	0	Ice Hockey	United States
+27	1986-03-08	Female	1.64	Michelle Steele	55	0	0	0	0	Skeleton	Australia
+22	1991-08-21	Male	1.94	Miha Verlic	85	0	0	0	0	Ice Hockey	Slovenia
+21	1992-08-21	Female	1.64	Miho Shishiuchi	62	0	0	0	0	Ice Hockey	Japan
+19	1994-05-03	Female	1.66	Mihwa Shin	64	0	0	0	0	Bobsleigh	Korea
+21	1992-02-17	Female	1.63	Mika Hori	54	0	0	0	0	Ice Hockey	Japan
+30	1983-06-20	Male	1.77	Mika Poutala	77	0	0	0	0	Speed Skating	Finland
+21	1992-02-26	Male	1.79	Mikael Granlund	83	0	0	0	0	Ice Hockey	Finland
+21	1992-07-24	Male	1.75	Mikael Kingsbury	68	0	1	0	1	Freestyle Skiing	Canada
+18	1995-03-13	Female	1.7	Mikaela Shiffrin	66	0	0	0	0	Alpine Skiing	United States
+27	1986-06-17	Male	1.83	Mike Riddle	84	0	0	0	0	Freestyle Skiing	Canada
+31	1982-03-22	Male	1.91	Mike Smith	98	0	0	0	0	Ice Hockey	Canada
+29	1984-07-01	Male	1.8	Mikelis Redlihs	83	0	0	0	0	Ice Hockey	Latvia
+20	1993-08-29	Male	1.79	Mikhail Maksimochkin	68	0	0	0	0	Ski Jumping	Russian Fed.
+26	1987-07-20	Female	1.62	Miki Ito	51	0	0	0	0	Freestyle Skiing	Japan
+26	1987-11-10	Female	1.52	Miki Kobayashi	51	0	0	0	0	Biathlon	Japan
+22	1992-01-14	Male	1.8	Mikke Leinonen	68	0	0	0	0	Nordic Combined	Finland
+28	1985-03-10	Male	1.86	Mikko Kokslien	71	0	0	0	0	Nordic Combined	Norway
+23	1990-09-30	Male	1.9	Miks Indrasis	85	0	0	0	0	Ice Hockey	Latvia
+32	1981-04-09	Male	1.82	Milan Bartovic	88	0	0	0	0	Ice Hockey	Slovakia
+44	1969-08-29	Male	1.79	Milan Jagnesak	93	0	0	0	0	Bobsleigh	Slovakia
+30	1983-06-07	Male	1.93	Milan Jurcina	114	0	0	0	0	Ice Hockey	Slovakia
+29	1984-12-07	Male	1.88	Milan Michalek	103	0	0	0	0	Ice Hockey	Czech Republic
+23	1990-12-28	Male	1.83	Milan Szabo	78	0	0	0	0	Cross-Country	Hungary
+25	1988-09-21	Male	1.87	Milanko Petrovic	83	0	0	0	0	Cross-Country	Serbia
+23	1990-06-26	Female	1.65	Minttu Tuominen	70	0	0	0	0	Ice Hockey	Finland
+25	1989-02-03	Female	1.84	Mira Jalosuo	84	0	0	0	0	Ice Hockey	Finland
+22	1991-08-24	Female	1.67	Mirabelle Thovex	60	0	0	0	0	Snowboard	France
+25	1988-10-09	Female	1.65	Mireia Gutierrez	60	0	0	0	0	Alpine Skiing	Andorra
+20	1994-02-02	Female	1.69	Miriam Kastlunger	67	0	0	0	0	Luge	Austria
+31	1982-11-09	Female	1.73	Mirjam Jaeger	64	0	0	0	0	Freestyle Skiing	Switzerland
+24	1989-11-14	Male	1.75	Mirko Nenzi	75	0	0	0	0	Speed Skating	Italy
+26	1987-03-03	Male	1.79	Miroslav Dvorak	65	0	0	0	0	Nordic Combined	Czech Republic
+25	1988-04-20	Male	1.82	Miroslav Kenanov	71	0	0	0	0	Biathlon	Bulgaria
+31	1982-07-14	Male	1.82	Miroslav Matiasko	71	0	0	0	0	Biathlon	Slovakia
+21	1992-09-29	Female	1.67	Misaki Oshigiri	60	0	0	0	0	Speed Skating	Japan
+22	1991-11-02	Male	1.69	Mischa Gasser	61	0	0	0	0	Freestyle Skiing	Switzerland
+18	1995-10-07	Male	1.84	Mitchel Malyk	86	0	0	0	0	Luge	Canada
+24	1989-12-18	Male	1.75	Mitchell Whitmore	76	0	0	0	0	Speed Skating	United States
+27	1986-04-03	Male	1.72	Mitja Oranic	70	0	0	0	0	Nordic Combined	Slovenia
+31	1983-01-04	Male	1.77	Mitja Robar	87	0	0	0	0	Ice Hockey	Slovenia
+36	1978-02-01	Male	1.78	Mitja Valencic	83	0	0	0	0	Alpine Skiing	Slovenia
+26	1987-03-19	Female	1.62	Miyako Sumiyoshi	56	0	0	0	0	Speed Skating	Japan
+22	1991-09-25	Male	1.85	Mladen Plakalovic	85	0	0	0	0	Cross-Country	Bosnia and Herzegovina
+21	1992-08-05	Female	1.55	Moeko Fujimoto	53	0	0	0	0	Ice Hockey	Japan
+21	1992-04-06	Female	1.58	Moemi Kikuchi	54	0	0	0	0	Short Track	Japan
+24	1989-10-09	Male	1.79	Mohammad Kiyadarbandsari	78	0	0	0	0	Alpine Skiing	IR Iran
+25	1988-07-29	Female	1.74	Molly Schaus	71	0	0	0	0	Ice Hockey	United States
+30	1983-07-20	Female	1.74	Mona-lisa Malvalehto	60	0	0	0	0	Cross-Country	Finland
+22	1991-08-27	Female	1.7	Monika Hojnisz	51	0	0	0	0	Biathlon	Poland
+30	1984-01-27	Female	1.75	Monique Angermueller	65	0	0	0	0	Speed Skating	Germany
+24	1989-07-03	Female	1.68	Monique Lamoureux	71	0	0	0	0	Ice Hockey	United States
+29	1985-01-22	Female	1.58	Morena Makar	49	0	0	0	0	Snowboard	Croatia
+23	1990-10-09	Male	1.73	Morgan Pridy	78	0	0	0	0	Alpine Skiing	Canada
+23	1990-09-18	Female	1.64	Morgane Bonnefoy	68	0	0	0	0	Luge	France
+26	1987-12-30	Male	2	Moritz Geisreiter	98	0	0	0	0	Speed Skating	Germany
+29	1984-07-15	Male	1.83	Morris Trachsler	90	0	0	0	0	Ice Hockey	Switzerland
+33	1980-05-14	Male	1.85	Morten Ask	91	0	0	0	0	Ice Hockey	Norway
+18	1995-05-01	Male	1.63	Muhammad Karim	64	0	0	0	0	Alpine Skiing	Pakistan
+27	1986-04-17	Male	1.82	Muncef Ouardi	81	0	0	0	0	Speed Skating	Canada
+22	1991-12-02	Male	1.63	Murray Buchan	64	0	0	0	0	Freestyle Skiing	Great Britain
+23	1990-06-13	Male	1.76	Mykola Puzderko	76	0	0	0	0	Freestyle Skiing	Ukraine
+18	1995-08-30	Female	1.66	Na Song	57	0	0	0	0	Biathlon	China
+30	1983-04-03	Male	1.73	Nadeem Iqbal	65	0	0	0	0	Cross-Country	Independent Olymp. participant
+28	1985-09-24	Female	1.74	Nadezhda Paleeva	65	0	0	0	0	Bobsleigh	Russian Fed.
+26	1987-06-13	Female	1.78	Nadezhda Sergeeva	70	0	0	0	0	Bobsleigh	Russian Fed.
+28	1985-03-27	Female	1.6	Nadezhda Skardino	50	0	0	1	1	Biathlon	Belarus
+27	1986-06-25	Female	1.63	Nadia Fanchini	64	0	0	0	0	Alpine Skiing	Italy
+27	1986-03-07	Female	1.69	Nadiya Didenko	64	0	0	0	0	Freestyle Skiing	Ukraine
+27	1986-07-23	Female	1.81	Nadja Jnglin-kamer	79	0	0	0	0	Alpine Skiing	Switzerland
+24	1989-09-03	Female	1.64	Nadja Purtschert	52	0	0	0	0	Snowboard	Switzerland
+20	1993-03-14	Female	1.72	Nadya Ochner	60	0	0	0	0	Snowboard	Italy
+25	1988-07-05	Female	1.68	Nadzeya Pisareva	57	0	0	0	0	Biathlon	Belarus
+24	1989-03-03	Female	1.63	Nana Fujimoto	54	0	0	0	0	Ice Hockey	Japan
+21	1992-07-02	Female	1.55	Nana Takagi	47	0	0	0	0	Speed Skating	Japan
+27	1986-05-26	Female	1.65	Nao Kodaira	61	0	0	0	0	Speed Skating	Japan
+30	1983-04-24	Male	1.77	Naoki Yuasa	70	0	0	0	0	Alpine Skiing	Japan
+25	1988-09-12	Female	1.78	Nastasia Noens	67	0	0	0	0	Alpine Skiing	France
+28	1985-03-14	Female	1.7	Nastassia Dubarezava	63	0	0	0	0	Biathlon	Belarus
+25	1988-10-20	Female	1.77	Natalia Czerwonka	70	0	0	0	0	Speed Skating	Poland
+27	1986-05-23	Female	1.68	Natalia Matveeva	56	0	0	0	0	Cross-Country	Russian Fed.
+18	1995-12-11	Female	1.7	Natalia Soboleva	54	0	0	0	0	Snowboard	Russian Fed.
+21	1993-02-02	Female	1.65	Natalia Wojtusciszyn	63	0	0	0	0	Luge	Poland
+21	1992-07-19	Female	1.68	Natalia Zhukova	55	0	0	0	0	Cross-Country	Russian Fed.
+26	1988-02-05	Female	1.83	Natalie Geisenberger	77	2	0	0	2	Luge	Germany
+23	1990-10-17	Female	1.78	Natalie Spooner	80	0	0	0	0	Ice Hockey	Canada
+27	1986-05-28	Female	1.68	Natalja Khoreva	68	0	0	0	0	Luge	Russian Fed.
+30	1983-10-26	Female	1.67	Natalya Burdyga	58	0	0	0	0	Biathlon	Ukraine
+21	1992-02-15	Female	1.75	Natalya Makagonova	58	0	0	0	0	Freestyle Skiing	Russian Fed.
+35	1978-11-08	Male	1.78	Nate Holland	91	0	0	0	0	Snowboard	United States
+20	1993-07-29	Female	1.61	Nathalie Schwarz	54	0	0	0	0	Cross-Country	Austria
+23	1990-02-09	Male	1.73	Nathan Johnstone	65	0	0	0	0	Snowboard	Australia
+28	1985-12-25	Male	1.76	Nathan Smith	74	0	0	0	0	Biathlon	Canada
+27	1986-03-07	Male	1.77	Natko Zrncic-dim	88	0	0	0	0	Alpine Skiing	Croatia
+23	1990-04-09	Female	1.66	Nelly Moenne Loccoz	58	0	0	0	0	Snowboard	France
+23	1990-12-28	Female	1.75	Nevena Ignjatovic	70	0	0	0	0	Alpine Skiing	Serbia
+33	1980-12-21	Male	1.83	Neville Wright	100	0	0	0	0	Bobsleigh	Canada
+27	1986-12-04	Male	1.72	Nevin Galmarini	74	0	0	0	0	Snowboard	Switzerland
+25	1988-08-24	Male	1.8	Nicholas Alexander	64	0	0	0	0	Ski Jumping	United States
+24	1989-07-06	Male	1.8	Nicholas Fairall	68	0	0	0	0	Ski Jumping	United States
+19	1994-03-14	Male	1.83	Nicholas Goepper	75	0	0	1	1	Freestyle Skiing	United States
+32	1981-12-17	Male	1.83	Nick Baumgartner	91	0	0	0	0	Snowboard	United States
+28	1985-05-08	Male	1.81	Nick Cunningham	94	0	0	0	0	Bobsleigh	United States
+26	1987-11-23	Male	1.84	Nicklas Backstrom	97	0	0	0	0	Ice Hockey	Sweden
+28	1985-12-02	Male	1.87	Nico Ihle	85	0	0	0	0	Speed Skating	Germany
+24	1989-11-08	Male	1.84	Nico Polychronidis	68	0	0	0	0	Ski Jumping	Greece
+32	1981-11-07	Male	1.71	Nicola Rodigari	71	0	0	0	0	Short Track	Italy
+31	1982-10-24	Male	1.83	Nicolae Istrate	88	0	0	0	0	Bobsleigh	Romania
+26	1987-07-18	Female	1.6	Nicole Bullo	53	0	0	0	0	Ice Hockey	Switzerland
+30	1983-03-19	Female	1.7	Nicole Fessel	57	0	0	1	1	Cross-Country	Germany
+22	1991-11-17	Female	1.64	Nicole Gontier	57	0	0	0	0	Biathlon	Italy
+30	1983-11-06	Female	1.74	Nicole Hosp	70	0	1	1	2	Alpine Skiing	Austria
+21	1992-07-11	Female	1.68	Nicole Parks	58	0	0	0	0	Freestyle Skiing	Australia
+24	1989-03-15	Female	1.57	Nicole Schmidhofer	59	0	0	0	0	Alpine Skiing	Austria
+34	1979-07-31	Female	1.63	Nicolien Sauerbreij	60	0	0	0	0	Snowboard	Netherlands
+30	1983-04-02	Male	1.8	Niels Kerstholt	76	0	0	0	0	Short Track	Netherlands
+20	1993-10-05	Female	1.63	Nika Razinger	58	0	0	0	0	Cross-Country	Slovenia
+18	1995-09-03	Male	1.83	Nikita Avtaneev	73	0	0	0	0	Snowboard	Russian Fed.
+28	1985-05-30	Male	1.84	Nikita Kriukov	74	0	0	0	0	Cross-Country	Russian Fed.
+27	1986-06-16	Male	1.93	Nikita Nikitin	89	0	0	0	0	Ice Hockey	Russian Fed.
+18	1995-02-14	Male	1.88	Nikita Tregybov	85	0	0	0	0	Skeleton	Russian Fed.
+26	1987-06-14	Male	1.86	Nikita Zakharov	86	0	0	0	0	Bobsleigh	Russian Fed.
+26	1987-06-06	Male	1.87	Niklas Hjalmarsson	93	0	0	0	0	Ice Hockey	Sweden
+33	1981-01-12	Male	1.82	Niklas Kronwall	86	0	0	0	0	Ice Hockey	Sweden
+21	1992-03-16	Male	1.88	Niklas Mattsson	77	0	0	0	0	Snowboard	Sweden
+27	1986-08-03	Male	1.74	Niklas Roest	80	0	0	0	0	Ice Hockey	Norway
+24	1989-06-23	Female	1.64	Nikol Kucerova	63	0	0	0	0	Freestyle Skiing	Czech Republic
+24	1989-09-20	Male	1.73	Nikola Chongarov	64	0	0	0	0	Alpine Skiing	Bulgaria
+31	1982-03-17	Female	1.62	Nikola Sudova	55	0	0	0	0	Freestyle Skiing	Czech Republic
+27	1986-07-14	Male	1.85	Nikolai Kulyomin	100	0	0	0	0	Ice Hockey	Russian Fed.
+31	1982-10-29	Male	1.78	Nikolay Chebotko	73	0	0	0	0	Cross-Country	Kazakhstan
+29	1984-07-15	Male	1.85	Nikolay Khrenkov	95	0	0	0	0	Bobsleigh	Russian Fed.
+22	1991-10-23	Male	1.8	Nikolay Olyunin	84	0	1	0	1	Snowboard	Russian Fed.
+31	1982-10-12	Male	1.6	Nils Lauper	65	0	0	0	0	Freestyle Skiing	Switzerland
+28	1985-04-27	Female	1.6	Nina Kamenik	54	0	0	0	0	Ice Hockey	Germany
+31	1983-01-10	Female	1.61	Nina Li	48	0	0	0	0	Freestyle Skiing	China
+23	1991-01-30	Female	1.7	Nina Micic	54	0	0	0	0	Snowboard	Serbia
+29	1984-06-08	Female	1.7	Nina Reithmayer	69	0	0	0	0	Luge	Austria
+27	1987-02-06	Female	1.7	Nina Tikkinen	66	0	0	0	0	Ice Hockey	Finland
+21	1992-08-23	Female	1.7	Nina Waidacher	65	0	0	0	0	Ice Hockey	Switzerland
+21	1992-09-08	Male	1.88	Nino Niederreiter	95	0	0	0	0	Ice Hockey	Switzerland
+20	1993-07-01	Female	1.67	Nino Tsiklauri	56	0	0	0	0	Alpine Skiing	Georgia
+24	1989-03-31	Male	1.82	Niyaz Nabeev	67	0	0	0	0	Nordic Combined	Russian Fed.
+21	1992-05-08	Male	1.77	Noah Bowman	68	0	0	0	0	Freestyle Skiing	Canada
+24	1989-08-01	Male	1.75	Noah Hoffman	71	0	0	0	0	Cross-Country	United States
+29	1984-07-08	Male	1.67	Nobu Naruse	62	0	0	0	0	Cross-Country	Japan
+28	1985-07-13	Male	1.64	Nobuyuki Nishi	68	0	0	0	0	Freestyle Skiing	Japan
+23	1990-11-30	Female	1.72	Noelle Barahona	70	0	0	0	0	Alpine Skiing	Chile
+31	1982-12-08	Female	1.78	Noelle Pikus-pace	72	0	1	0	1	Skeleton	United States
+24	1989-03-27	Male	1.73	Nolan Kasper	77	0	0	0	0	Alpine Skiing	United States
+24	1989-05-29	Female	1.65	Noora Raty	70	0	0	0	0	Ice Hockey	Finland
+21	1992-04-07	Male	1.78	Norbert Farkas	70	0	0	0	0	Alpine Skiing	Hungary
+41	1972-06-06	Male	1.77	Noriaki Kasai	62	0	1	1	2	Ski Jumping	Japan
+28	1985-05-29	Female	1.62	Nozomi Komuro	63	0	0	0	0	Skeleton	Japan
+23	1990-11-29	Male	1.72	Nurbergen Zhumagaziyev	64	0	0	0	0	Short Track	Kazakhstan
+31	1982-07-01	Male	1.82	Odirlei Pessoni	93	0	0	0	0	Bobsleigh	Brazil
+29	1984-03-29	Male	1.88	Ole-kristian Tollefsen	95	0	0	0	0	Ice Hockey	Norway
+25	1988-05-04	Male	1.75	Oleksandr Abramenko	65	0	0	0	0	Freestyle Skiing	Ukraine
+22	1992-01-17	Male	1.92	Oleksandr Obolonchyk	83	0	0	0	0	Luge	Ukraine
+19	1994-03-30	Male	1.77	Oleksii Krasovskyi	68	0	0	0	0	Cross-Country	Ukraine
+27	1987-01-09	Female	1.76	Olena Pidhrushna	67	0	0	0	0	Biathlon	Ukraine
+20	1993-11-24	Female	1.78	Olena Shkhumova	87	0	0	0	0	Luge	Ukraine
+19	1994-06-15	Female	1.73	Olena Stetskiv	75	0	0	0	0	Luge	Ukraine
+25	1988-09-26	Female	1.75	Olga Belyakova	59	0	0	0	0	Short Track	Russian Fed.
+24	1990-01-23	Female	1.72	Olga Fatkulina	62	0	1	0	1	Speed Skating	Russian Fed.
+30	1983-07-15	Female	1.6	Olga Graf	56	0	0	1	1	Speed Skating	Russian Fed.
+28	1985-09-27	Female	1.7	Olga Kuziukova	62	0	0	0	0	Cross-Country	Russian Fed.
+21	1992-08-05	Female	1.63	Olga Podchufarova	63	0	0	0	0	Biathlon	Russian Fed.
+26	1987-09-15	Female	1.6	Olga Polyuk	56	0	0	0	0	Freestyle Skiing	Ukraine
+24	1989-09-17	Female	1.68	Olga Potylitsina	62	0	0	0	0	Skeleton	Russian Fed.
+21	1992-07-27	Female	1.6	Olga Sosina	66	0	0	0	0	Ice Hockey	Russian Fed.
+30	1983-07-14	Female	1.72	Olga Stulneva	75	0	0	0	0	Bobsleigh	Russian Fed.
+25	1988-03-22	Female	1.72	Olga Vilukhina	65	0	1	0	1	Biathlon	Russian Fed.
+35	1978-05-16	Female	1.69	Olga Zaitseva	64	0	0	0	0	Biathlon	Russian Fed.
+22	1991-07-17	Male	1.88	Oliver Ekman-larsson	86	0	0	0	0	Ice Hockey	Sweden
+30	1983-07-11	Male	1.84	Oliver Setzinger	95	0	0	0	0	Ice Hockey	Austria
+29	1984-03-15	Male	1.88	Olivier Jean	83	0	0	0	0	Short Track	Canada
+25	1988-02-28	Male	1.75	Olivier Jenot	75	0	0	0	0	Alpine Skiing	Monaco
+23	1991-02-02	Male	1.84	Olli Hiidensalo	82	0	0	0	0	Biathlon	Finland
+35	1978-12-05	Male	1.87	Olli Jokinen	91	0	0	0	0	Ice Hockey	Finland
+19	1994-08-22	Male	1.87	Olli Maatta	89	0	0	0	0	Ice Hockey	Finland
+25	1988-07-14	Male	1.79	Olli Muotka	61	0	0	0	0	Ski Jumping	Finland
+24	1989-10-22	Male	1.82	Omar Visintin	78	0	0	0	0	Snowboard	Italy
+33	1980-10-27	Male	1.76	Ondrej Bank	82	0	0	0	0	Alpine Skiing	Czech Republic
+27	1986-02-25	Male	1.89	Ondrej Hyman	85	0	0	0	0	Luge	Czech Republic
+29	1984-06-09	Male	1.81	Ondrej Moravec	72	0	1	1	2	Biathlon	Czech Republic
+22	1991-03-28	Male	1.81	Ondrej Palat	79	0	0	0	0	Ice Hockey	Czech Republic
+26	1987-08-31	Male	1.89	Ondrej Pavelec	100	0	0	0	0	Ice Hockey	Czech Republic
+37	1976-07-06	Female	1.72	Ophelie David	63	0	0	0	0	Freestyle Skiing	France
+22	1991-12-14	Female	1.68	Ornella Oettl Reyes	60	0	0	0	0	Alpine Skiing	Peru
+27	1987-01-21	Male	1.9	Oskars Bartulis	90	0	0	0	0	Ice Hockey	Latvia
+25	1988-07-04	Male	1.74	Oskars Gudramovics	71	0	0	0	0	Luge	Latvia
+20	1993-04-04	Male	1.86	Oskars Kibermanis	95	0	0	0	0	Bobsleigh	Latvia
+25	1988-02-16	Male	1.89	Oskars Melbardis	106	0	0	0	0	Bobsleigh	Latvia
+33	1980-08-18	Male	1.91	Ossi Vaananen	99	0	0	0	0	Ice Hockey	Finland
+22	1991-04-30	Female	1.63	Otgontsetseg Chinbat	56	0	0	0	0	Cross-Country	Mongolia
+22	1991-04-14	Male	1.84	Otmar Striedinger	91	0	0	0	0	Alpine Skiing	Austria
+19	1994-10-01	Male	1.75	Otso Raisanen	67	0	0	0	0	Freestyle Skiing	Finland
+18	1995-07-21	Male	1.79	Oystein Braaten	70	0	0	0	0	Freestyle Skiing	Norway
+24	1989-05-13	Male	1.83	P.k. Subban	98	0	0	0	0	Ice Hockey	Canada
+23	1990-05-12	Female	1.7	Panagiota Tsakiri	58	0	0	0	0	Cross-Country	Greece
+28	1985-07-24	Male	1.88	Patrice Bergeron	86	0	0	0	0	Ice Hockey	Canada
+39	1974-07-20	Male	1.83	Patrice Servelle	90	0	0	0	0	Bobsleigh	Monaco
+23	1990-04-17	Male	1.83	Patrick Beckert	74	0	0	0	0	Speed Skating	Germany
+22	1992-01-07	Male	1.84	Patrick Brachner	82	0	0	0	0	Alpine Skiing	Azerbaijan
+29	1984-06-01	Male	1.85	Patrick Bussler	84	0	0	0	0	Snowboard	Germany
+26	1987-12-25	Male	1.7	Patrick Deneen	80	0	0	0	0	Freestyle Skiing	United States
+36	1978-01-31	Male	1.7	Patrick Gruber	77	0	0	0	0	Luge	Italy
+25	1988-11-19	Male	1.79	Patrick Kane	82	0	0	0	0	Ice Hockey	United States
+30	1983-10-16	Male	1.92	Patrick Koller	98	0	0	0	0	Freestyle Skiing	Austria
+30	1984-01-11	Male	1.81	Patrick Kueng	85	0	0	0	0	Alpine Skiing	Switzerland
+34	1979-09-15	Male	1.89	Patrick Marleau	100	0	0	0	0	Ice Hockey	Canada
+28	1985-11-10	Male	1.75	Patrick Meek	71	0	0	0	0	Speed Skating	United States
+20	1993-06-30	Male	1.7	Patrick Rastner	63	0	0	0	0	Luge	Italy
+32	1981-12-27	Male	1.85	Patrick Sharp	90	0	0	0	0	Ice Hockey	Canada
+35	1978-03-23	Male	1.77	Patrick Thaler	80	0	0	0	0	Alpine Skiing	Italy
+30	1983-11-07	Male	1.8	Patrick Thoresen	84	0	0	0	0	Ice Hockey	Norway
+29	1985-02-10	Male	1.8	Patrick Von Gunten	83	0	0	0	0	Ice Hockey	Switzerland
+25	1988-06-02	Male	1.92	Patrik Berglund	100	0	0	0	0	Ice Hockey	Sweden
+37	1976-04-13	Male	1.85	Patrik Elias	88	0	0	0	0	Ice Hockey	Czech Republic
+26	1987-10-16	Female	1.72	Patrizia Kummer	70	0	0	0	0	Snowboard	Switzerland
+25	1988-03-12	Female	1.72	Patrycja Maliszewska	62	0	0	0	0	Short Track	Poland
+21	1992-04-25	Male	1.82	Patryk Poreba	80	0	0	0	0	Luge	Poland
+22	1991-09-26	Male	1.8	Paul Berg	79	0	0	0	0	Snowboard	Germany
+25	1988-05-21	Male	1.73	Paul Constantin Pepene	70	0	0	0	0	Cross-Country	Romania
+32	1981-03-05	Male	1.85	Paul Martin	91	0	0	0	0	Ice Hockey	United States
+29	1984-10-04	Male	1.8	Paul Muntean	105	0	0	0	0	Bobsleigh	Romania
+28	1985-12-27	Male	1.83	Paul Stastny	93	0	0	0	0	Ice Hockey	United States
+29	1984-04-17	Male	1.76	Paul-henri De Le Rue	82	0	0	0	0	Snowboard	France
+27	1986-04-23	Female	1.81	Paula Walker	92	0	0	0	0	Bobsleigh	Great Britain
+29	1984-10-01	Female	1.66	Paulina Bobak	57	0	0	0	0	Biathlon	Poland
+21	1992-10-25	Female	1.64	Paulina Fialkova	55	0	0	0	0	Biathlon	Slovakia
+28	1985-09-02	Female	1.7	Paulina Maciuszek	56	0	0	0	0	Cross-Country	Poland
+36	1977-04-22	Male	1.79	Pavel Churavy	69	0	0	0	0	Nordic Combined	Czech Republic
+35	1978-07-20	Male	1.8	Pavel Datsyuk	90	0	0	0	0	Ice Hockey	Russian Fed.
+24	1989-07-25	Male	1.78	Pavel Kharitonov	77	0	0	0	0	Snowboard	Russian Fed.
+17	1996-08-14	Male	1.78	Pavel Kolmakov	78	0	0	0	0	Freestyle Skiing	Kazakhstan
+28	1986-01-12	Male	1.7	Pavel Korpachev	65	0	0	0	0	Freestyle Skiing	Russian Fed.
+21	1992-04-24	Male	1.68	Pavel Krotov	70	0	0	0	0	Freestyle Skiing	Russian Fed.
+24	1989-07-13	Male	1.78	Pavel Nabokikh	70	0	0	0	0	Freestyle Skiing	Russian Fed.
+21	1992-11-07	Male	1.83	Pavel Trikhichev	85	0	0	0	0	Alpine Skiing	Russian Fed.
+36	1978-02-04	Male	1.72	Pavol Hurajt	68	0	0	0	0	Biathlon	Slovakia
+21	1992-08-04	Male	1.76	Pawel Klisz	72	0	0	0	0	Cross-Country	Poland
+29	1984-06-14	Male	1.86	Pawel Mroz	95	0	0	0	0	Bobsleigh	Poland
+31	1982-04-11	Male	1.92	Peeter Kummel	86	0	0	0	0	Cross-Country	Estonia
+25	1988-02-15	Male	1.66	Peetu Piiroinen	67	0	0	0	0	Snowboard	Finland
+31	1982-11-29	Male	1.87	Pekka Koskela	87	0	0	0	0	Speed Skating	Finland
+24	1989-04-28	Male	1.79	Per Kristian Hunder	85	0	0	0	0	Freestyle Skiing	Norway
+28	1985-08-24	Male	1.68	Per Spett	65	0	0	0	0	Freestyle Skiing	Sweden
+35	1978-08-04	Male	1.8	Per-age Skroder	92	0	0	0	0	Ice Hockey	Norway
+28	1985-02-18	Female	1.67	Perianne Jones	55	0	0	0	0	Cross-Country	Canada
+24	1989-02-24	Female	1.65	Pernilla Winberg	63	0	0	0	0	Ice Hockey	Sweden
+15	1998-10-28	Female	1.62	Perrine Laffont	50	0	0	0	0	Freestyle Skiing	France
+31	1982-09-18	Male	1.83	Peter Budaj	90	0	0	0	0	Ice Hockey	Slovakia
+29	1985-01-11	Male	1.78	Peter Dokl	70	0	0	0	0	Biathlon	Slovenia
+31	1982-11-12	Male	1.75	Peter Fill	85	0	0	0	0	Alpine Skiing	Italy
+21	1992-02-24	Male	1.83	Peter Frenette	66	0	0	0	0	Ski Jumping	United States
+25	1988-03-01	Male	1.85	Peter Mlynar	80	0	0	0	0	Cross-Country	Slovakia
+28	1985-10-11	Male	1.88	Peter Olvecky	97	0	0	0	0	Ice Hockey	Slovakia
+29	1984-04-05	Male	1.86	Peter Penz	95	0	0	0	0	Luge	Austria
+21	1992-09-20	Male	1.77	Peter Prevc	62	0	1	1	2	Ski Jumping	Slovenia
+25	1988-12-15	Male	1.72	Peteris Kalnins	72	0	0	0	0	Luge	Latvia
+27	1986-03-07	Male	1.87	Petr Moiseev	93	0	0	0	0	Bobsleigh	Russian Fed.
+42	1971-12-09	Male	1.92	Petr Nedved	93	0	0	0	0	Ice Hockey	Czech Republic
+31	1982-06-18	Male	1.79	Petr Novak	72	0	0	0	0	Cross-Country	Czech Republic
+20	1993-08-17	Female	1.64	Petra Novakova	56	0	0	0	0	Cross-Country	Czech Republic
+18	1995-06-13	Female	1.8	Petra Vlhova	73	0	0	0	0	Alpine Skiing	Slovakia
+29	1984-10-04	Male	1.82	Petri Kontiola	93	0	0	0	0	Ice Hockey	Finland
+26	1987-10-02	Male	1.83	Phil Kessel	92	0	0	0	0	Ice Hockey	United States
+22	1991-11-09	Male	1.82	Philip Brown	87	0	0	0	0	Alpine Skiing	Canada
+22	1991-11-03	Male	1.86	Philipp Haelg	78	0	0	0	0	Cross-Country	Liechtenstein
+34	1979-10-12	Male	1.83	Philipp Schoch	95	0	0	0	0	Snowboard	Switzerland
+31	1983-01-20	Male	1.77	Philipp Schoerghofer	77	0	0	0	0	Alpine Skiing	Austria
+24	1989-05-09	Male	1.68	Philippe Marquis	70	0	0	0	0	Freestyle Skiing	Canada
+22	1991-02-24	Male	1.85	Phillip Bellingham	84	0	0	0	0	Cross-Country	Australia
+17	1996-02-24	Female	1.7	Philomena Bair	62	0	0	0	0	Freestyle Skiing	Austria
+20	1994-01-07	Female	1.63	Phoebe Stanz	62	0	0	0	0	Ice Hockey	Switzerland
+20	1993-07-15	Male	1.91	Pierre Boda	79	0	0	0	0	Short Track	Australia
+26	1987-06-24	Male	1.86	Pierre Vaultier	77	1	0	0	1	Snowboard	France
+27	1987-01-16	Male	1.76	Piotr Zyla	59	0	0	0	0	Ski Jumping	Poland
+24	1990-01-17	Male	1.66	Pol Carreras	70	0	0	0	0	Alpine Skiing	Spain
+29	1984-06-06	Male	1.77	Preston Griffall	70	0	0	0	0	Luge	United States
+22	1992-01-07	Female	1.62	Qin Ning	60	0	0	0	0	Freestyle Skiing	China
+26	1988-01-18	Male	1.88	Qinghai Sun	80	0	0	0	0	Cross-Country	China
+20	1993-08-16	Female	1.75	Qishi Li	68	0	0	0	0	Speed Skating	China
+25	1988-11-26	Female	1.65	Qiuhong Liu	55	0	0	0	0	Short Track	China
+19	1994-08-30	Male	1.73	Qiuming Bai	70	0	0	0	0	Speed Skating	China
+21	1992-08-16	Male	1.77	Quentin Fillon Maillet	70	0	0	0	0	Biathlon	France
+24	1989-06-17	Female	1.56	Queralt Castellet	53	0	0	0	0	Snowboard	Spain
+23	1990-06-05	Male	1.83	Radko Gudas	92	0	0	0	0	Ice Hockey	Czech Republic
+24	1990-01-26	Male	1.9	Radoslav Yankov	85	0	0	0	0	Snowboard	Bulgaria-
+21	1992-06-06	Male	1.87	Radu Sovaiala	80	0	0	0	0	Luge	Romania
+23	1990-02-13	Male	1.73	Rafal Lepel	65	0	0	0	0	Biathlon	Poland
+26	1988-01-10	Female	1.69	Raffaella Brutto	63	0	0	0	0	Snowboard	Italy
+24	1990-01-13	Male	1.86	Raido Rankel	76	0	0	0	0	Cross-Country	Estonia
+29	1984-02-20	Male	1.92	Raivis Broks	102	0	0	0	0	Bobsleigh	Latvia
+22	1991-05-17	Male	1.8	Ralfs Freibergs	86	0	0	0	0	Ice Hockey	Latvia
+28	1985-11-22	Female	1.74	Raluca Stramaturaru	74	0	0	0	0	Luge	Romania
+21	1992-05-04	Male	2	Ramon Zenhaeusern	95	0	0	0	0	Alpine Skiing	Switzerland
+23	1991-01-05	Female	1.63	Rana Okada	50	0	0	0	0	Snowboard	Japan
+28	1986-01-09	Male	1.81	Raphael Diaz	90	0	0	0	0	Ice Hockey	Switzerland
+25	1989-01-02	Male	1.78	Raphael Herburger	72	0	0	0	0	Ice Hockey	Austria
+21	1992-08-09	Male	1.73	Raphael Maier	70	0	0	0	0	Skeleton	Austria
+24	1989-09-24	Female	1.7	Rebecca Johnston	67	0	0	0	0	Ice Hockey	Canada
+22	1991-09-11	Female	1.65	Rebecca Sinclair	62	0	0	0	0	Snowboard	New Zealand
+23	1990-03-15	Female	1.73	Rebecca Torr	65	0	0	0	0	Snowboard	New Zealand
+22	1991-03-17	Female	1.6	Rebekah Wilson	67	0	0	0	0	Bobsleigh	Great Britain
+24	1989-09-22	Female	1.6	Regina Rakhimova	55	0	0	0	0	Freestyle Skiing	Russian Fed.
+28	1985-03-23	Female	1.68	Regina Sterz	63	0	0	0	0	Alpine Skiing	Austria
+22	1991-07-25	Male	1.87	Regino Hernandez	87	0	0	0	0	Snowboard	Spain
+35	1978-10-11	Male	1.81	Reinfried Herbst	80	0	0	0	0	Alpine Skiing	Austria
+24	1989-09-11	Male	1.91	Reinhard Egger	96	0	0	0	0	Luge	Austria
+22	1991-12-18	Male	1.82	Rejhan Smrkovic	74	0	0	0	0	Cross-Country	Serbia
+32	1981-08-13	Male	1.73	Remo Fischer	68	0	0	0	0	Cross-Country	Switzerland
+30	1983-12-14	Male	1.78	Renato Ulrich	72	0	0	0	0	Freestyle Skiing	Switzerland
+22	1991-08-12	Male	1.74	Renaud Jay	72	0	0	0	0	Cross-Country	France
+25	1988-08-21	Male	1.83	Rene Swette	82	0	0	0	0	Ice Hockey	Austria
+32	1981-05-06	Male	1.85	Rene Vydareny	97	0	0	0	0	Ice Hockey	Slovakia
+20	1993-12-04	Male	1.72	Reruhi Shimizu	59	0	0	1	1	Ski Jumping	Japan
+28	1985-11-14	Female	1.73	Resi Stiegler	61	0	0	0	0	Alpine Skiing	United States
+27	1987-01-03	Male	1.94	Reto Berra	89	0	0	0	0	Ice Hockey	Switzerland
+24	1989-03-25	Male	1.83	Reto Suri	84	0	0	0	0	Ice Hockey	Switzerland
+22	1991-08-14	Male	1.71	Richard Freitag	60	0	0	0	0	Ski Jumping	Germany
+23	1991-02-07	Male	1.87	Richard Panik	94	0	0	0	0	Ice Hockey	Slovakia
+29	1984-06-16	Male	1.93	Rick Nash	100	0	0	0	0	Ice Hockey	Canada
+30	1983-09-13	Male	1.85	Rico Peter	95	0	0	0	0	Bobsleigh	Switzerland
+31	1982-02-23	Female	1.64	Riikka Sarasoja-lilja	55	0	0	0	0	Cross-Country	Finland
+40	1973-06-12	Female	1.6	Riikka Valila	63	0	0	0	0	Ice Hockey	Finland
+35	1978-05-06	Female	1.61	Riitta-liisa Roponen	54	0	0	0	0	Cross-Country	Finland
+23	1990-04-02	Female	1.6	Rina Suzuki	55	0	0	0	0	Biathlon	Japan
+37	1976-07-29	Male	1.85	Robert Fagan	88	0	0	0	0	Snowboard	Canada
+32	1981-07-16	Male	1.74	Robert Kranjec	60	0	0	0	0	Ski Jumping	Slovenia
+30	1983-04-04	Male	1.82	Robert Kristan	85	0	0	0	0	Ice Hockey	Slovenia
+30	1984-01-09	Male	1.81	Robert Lehmann	77	0	0	0	0	Speed Skating	Germany
+35	1978-08-29	Male	1.77	Robert Lukas	84	0	0	0	0	Ice Hockey	Austria
+25	1988-09-18	Male	1.83	Robert Sabolic	90	0	0	0	0	Ice Hockey	Slovenia
+26	1988-01-31	Male	1.8	Robert Seifert	78	0	0	0	0	Short Track	Germany
+43	1970-09-08	Male	1.74	Roberto Carcelen	64	0	0	0	0	Cross-Country	Peru
+23	1990-06-15	Male	1.81	Roberto Dellasega	68	0	0	0	0	Ski Jumping	Italy
+34	1979-04-04	Male	1.9	Roberto Luongo	93	0	0	0	0	Ice Hockey	Canada
+25	1988-12-14	Male	1.72	Roberto Nani	75	0	0	0	0	Alpine Skiing	Italy
+19	1994-12-16	Male	1.71	Roberto Pukitis	71	0	0	0	0	Short Track	Latvia
+26	1987-05-29	Male	1.82	Roberts Rode	83	0	0	0	0	Alpine Skiing	Latvia
+26	1988-01-29	Male	1.83	Robin Dahlstrom	101	0	0	0	0	Ice Hockey	Norway
+30	1983-12-22	Male	1.78	Robin Duvillard	71	0	0	1	1	Cross-Country	France
+34	1979-06-26	Male	1.8	Rok Flander	78	0	0	0	0	Snowboard	Slovenia
+27	1986-05-25	Male	1.8	Rok Marguc	82	0	0	0	0	Snowboard	Slovenia
+28	1985-06-10	Male	1.86	Rok Perko	94	0	0	0	0	Alpine Skiing	Slovenia
+24	1989-05-03	Male	1.8	Rok Ticar	82	0	0	0	0	Ice Hockey	Slovenia
+17	1996-04-15	Male	1.79	Rokas Zaveckas	78	0	0	0	0	Alpine Skiing	Lithuania
+31	1982-03-08	Male	1.74	Roland Clara	65	0	0	0	0	Cross-Country	Italy
+33	1980-09-19	Male	1.86	Roland Fischnaller	83	0	0	0	0	Snowboard	Italy
+35	1978-04-14	Male	1.82	Roland Lessing	79	0	0	0	0	Biathlon	Estonia
+24	1990-01-30	Male	1.88	Romain Heinrich	105	0	0	0	0	Bobsleigh	France
+28	1985-12-10	Male	1.81	Roman Cervenka	86	0	0	0	0	Ice Hockey	Czech Republic
+23	1990-06-01	Male	1.88	Roman Josi	90	0	0	0	0	Ice Hockey	Switzerland
+24	1989-07-09	Male	1.7	Roman Koudelka	55	0	0	0	0	Ski Jumping	Czech Republic
+24	1989-07-14	Male	1.83	Roman Krech	75	0	0	0	0	Speed Skating	Kazakhstan
+21	1993-01-04	Male	1.75	Roman Ragozin	69	0	0	0	0	Cross-Country	Kazakhstan
+20	1993-07-30	Male	1.87	Roman Schaad	78	0	0	0	0	Cross-Country	Switzerland
+28	1985-12-30	Male	1.88	Roman Wick	94	0	0	0	0	Ice Hockey	Switzerland
+23	1991-01-24	Male	1.74	Roman Zakharkiv	70	0	0	0	0	Luge	Ukraine
+28	1986-01-14	Male	1.84	Romed Baumann	91	0	0	0	0	Alpine Skiing	Austria
+18	1995-09-29	Female	1.57	Romy Eggimann	54	0	0	0	0	Ice Hockey	Switzerland
+27	1986-02-27	Male	1.86	Ronald Mulder	84	0	0	1	1	Speed Skating	Netherlands
+22	1991-02-28	Male	1.82	Ronalds Kenins	91	0	0	0	0	Ice Hockey	Latvia
+20	1993-09-10	Male	1.8	Ronan Lamy Chappuis	62	0	0	0	0	Ski Jumping	France
+21	1992-03-18	Male	1.69	Roope Tonteri	68	0	0	0	0	Snowboard	Finland
+26	1988-01-24	Female	1.86	Rosa Lindstedt	78	0	0	0	0	Ice Hockey	Finland
+24	1989-12-10	Female	1.78	Rosalind Groenewoud	61	0	0	0	0	Freestyle Skiing	Canada
+27	1986-10-28	Female	1.64	Rosamund Musgrave	64	0	0	0	0	Cross-Country	Great Britain
+25	1988-05-23	Female	1.8	Rosanna Crawford	67	0	0	0	0	Biathlon	Canada
+21	1992-11-07	Male	1.85	Ross Peraudo	76	0	0	0	0	Alpine Skiing	Australia
+26	1987-11-03	Female	1.8	Rozsa Darazs	64	0	0	0	0	Short Track	Hungary
+17	1996-06-06	Female	1.68	Rui Ukita	71	0	0	0	0	Ice Hockey	Japan
+26	1987-07-18	Male	1.82	Ruslan Perekhoda	75	0	0	0	0	Cross-Country	Ukraine
+26	1987-03-24	Male	1.7	Ruslan Zakharov	72	0	0	0	0	Short Track	Russian Fed.
+26	1987-06-26	Male	1.68	Russell Currier	67	0	0	0	0	Biathlon	United States
+23	1990-06-07	Male	1.88	Russell Henshaw	85	0	0	0	0	Freestyle Skiing	Australia
+28	1985-03-21	Male	1.78	Ryan Callahan	85	0	0	0	0	Ice Hockey	United States
+35	1978-04-18	Male	1.98	Ryan Gardner	103	0	0	0	0	Ice Hockey	Switzerland
+28	1985-05-10	Male	1.93	Ryan Getzlaf	100	0	0	0	0	Ice Hockey	Canada
+29	1984-08-31	Male	1.88	Ryan Kesler	93	0	0	0	0	Ice Hockey	United States
+24	1989-06-13	Male	1.85	Ryan Mcdonagh	97	0	0	0	0	Ice Hockey	United States
+33	1980-07-17	Male	1.88	Ryan Miller	79	0	0	0	0	Ice Hockey	United States
+21	1992-10-23	Male	1.8	Ryan Stassel	77	0	0	0	0	Snowboard	United States
+29	1985-01-21	Male	1.85	Ryan Suter	88	0	0	0	0	Ice Hockey	United States
+23	1990-05-15	Male	1.66	Ryo Aono	60	0	0	0	0	Snowboard	Japan
+23	1990-03-21	Male	1.81	Ryosuke Sakazume	72	0	0	0	0	Short Track	Japan
+29	1984-06-25	Male	1.74	Sabahattin Oglago	64	0	0	0	0	Cross-Country	Turkey
+27	1986-02-26	Male	1.9	Sabahudin Kovacevic	95	0	0	0	0	Ice Hockey	Slovenia
+19	1994-11-25	Female	1.65	Sabrina Cakmakli	60	0	0	0	0	Freestyle Skiing	Germany
+24	1989-11-21	Female	1.75	Sadie Bjornsen	66	0	0	0	0	Cross-Country	United States
+20	1993-07-27	Male	1.78	Sage Kotsenburg	75	1	0	0	1	Snowboard	United States
+31	1982-12-29	Female	1.72	Saija Tarkki	60	0	0	0	0	Ice Hockey	Finland
+25	1988-05-31	Male	1.77	Sakari Salminen	75	0	0	0	0	Ice Hockey	Finland
+26	1987-03-04	Female	1.69	Sally Mayara Da Silva	74	0	0	0	0	Bobsleigh	Brazil
+25	1988-12-28	Male	1.8	Sam Hall	72	0	0	0	0	Freestyle Skiing	Australia
+24	1989-08-02	Female	1.65	Samantha Wells	63	0	0	0	0	Freestyle Skiing	Australia
+32	1981-05-05	Male	1.74	Sami Jauhojaervi	69	0	0	0	0	Cross-Country	Finland
+25	1988-05-26	Female	1.69	Sami Kennedy-sim	70	0	0	0	0	Freestyle Skiing	Australia
+29	1984-10-17	Male	1.85	Sami Lepisto	88	0	0	0	0	Ice Hockey	Finland
+39	1974-09-02	Male	1.9	Sami Salo	93	0	0	0	0	Ice Hockey	Finland
+22	1991-06-03	Male	1.77	Sami Vatanen	79	0	0	0	0	Ice Hockey	Finland
+22	1991-09-05	Male	1.85	Samu Torsti	84	0	0	0	0	Alpine Skiing	Finland
+21	1992-11-30	Male	1.84	Samuel Costa	74	0	0	0	0	Nordic Combined	Italy
+29	1984-06-24	Male	1.88	Samuel Edney	95	0	0	0	0	Luge	Canada
+30	1983-08-22	Male	1.84	Samuel Schwarz	83	0	0	0	0	Speed Skating	Germany
+41	1972-08-03	Male	1.9	Sandis Ozolins	95	0	0	0	0	Ice Hockey	Latvia
+18	1995-11-20	Male	1.82	Sandor Liu Shaolin	75	0	0	0	0	Short Track	Hungary
+28	1985-06-13	Female	1.73	Sandra Daniela Gerber	75	0	0	0	0	Snowboard	Switzerland
+23	1990-11-28	Female	1.73	Sandra Gasparini	62	0	0	0	0	Luge	Italy
+39	1975-01-04	Female	1.82	Sandra Kiriasis	82	0	0	0	0	Bobsleigh	Germany
+18	1995-12-13	Female	1.71	Sandra Robatscher	64	0	0	0	0	Luge	Italy
+21	1992-12-18	Female	1.62	Sandra Thalmann	75	0	0	0	0	Ice Hockey	Switzerland
+28	1986-01-23	Male	1.78	Sandro Viletta	80	1	0	0	1	Alpine Skiing	Switzerland
+24	1989-02-25	Female	1.65	Sang Hwa Lee	62	1	0	0	1	Speed Skating	Korea
+25	1989-01-30	Male	1.82	Sang-kyum Kim	88	0	0	0	0	Snowboard	Korea
+17	1996-06-22	Female	1.61	Sangjeong Kong	50	1	0	0	1	Short Track	Korea
+27	1986-02-17	Female	1.73	Sanna Luedi	65	0	0	0	0	Freestyle Skiing	Switzerland
+26	1987-03-27	Female	1.63	Sanne Van Kerkhof	54	0	0	0	0	Short Track	Netherlands
+20	1993-11-08	Male	1.81	Santeri Paloniemi	78	0	0	0	0	Alpine Skiing	Finland
+21	1992-08-25	Female	1.63	Sara Benz	55	0	0	0	0	Ice Hockey	Switzerland
+25	1988-09-25	Female	1.7	Sara Grahn	71	0	0	0	0	Ice Hockey	Sweden
+30	1983-11-30	Female	1.72	Sara Lindborg	64	0	0	0	0	Cross-Country	Sweden
+31	1983-01-25	Female	1.69	Sara Seiler	62	0	0	0	0	Ice Hockey	Germany
+29	1984-10-07	Female	1.68	Sara Studebaker	59	0	0	0	0	Biathlon	United States
+20	1993-05-19	Female	1.68	Sarah Forster	69	0	0	0	0	Ice Hockey	Switzerland
+19	1994-08-01	Female	1.63	Sarah Hendrickson	45	0	0	0	0	Ski Jumping	United States
+26	1987-06-02	Female	1.57	Sarah Reid	57	0	0	0	0	Skeleton	Canada
+23	1990-11-01	Female	1.59	Sarka Pancochova	55	0	0	0	0	Snowboard	Czech Republic
+28	1985-02-11	Female	1.76	Sarka Strachova	70	0	0	0	0	Alpine Skiing	Czech Republic
+23	1990-02-14	Male	1.78	Sascha Benecken	74	0	0	0	0	Luge	Germany
+24	1989-12-20	Male	1.78	Satoshi Sakashita	74	0	0	0	0	Short Track	Japan
+25	1989-01-14	Female	1.67	Sayuri Shimizu	54	0	0	0	0	Short Track	Japan
+24	1989-06-14	Male	1.75	Scott Andrews	85	0	0	0	0	Curling	Great Britain
+24	1989-05-19	Male	1.81	Scott Kneller	90	0	0	0	0	Freestyle Skiing	Australia
+30	1983-10-25	Male	1.79	Scott Perras	75	0	0	0	0	Biathlon	Canada
+19	1994-07-06	Male	1.85	Scotty James	78	0	0	0	0	Snowboard	Australia
+16	1997-10-04	Male	1.65	Seamus O Connor	71	0	0	0	0	Snowboard	Ireland
+18	1995-06-08	Male	1.8	Sean Doherty	75	0	0	0	0	Biathlon	United States
+26	1987-07-30	Male	1.83	Sean Greenwood	90	0	0	0	0	Skeleton	Ireland
+21	1992-04-20	Male	1.81	Sebastian Brigovic	81	0	0	0	0	Alpine Skiing	Croatia
+26	1987-09-09	Male	1.77	Sebastian Colloredo	65	0	0	0	0	Ski Jumping	Italy
+27	1986-06-14	Male	1.78	Sebastian Druszkiewicz	71	0	0	0	0	Speed Skating	Poland
+23	1990-03-13	Male	1.81	Sebastian Eisenlauer	72	0	0	0	0	Cross-Country	Germany
+23	1990-06-18	Male	1.76	Sebastian Gazurek	72	0	0	0	0	Cross-Country	Poland
+42	1971-06-28	Male	1.8	Sebastien Gattuso	97	0	0	0	0	Bobsleigh	Monaco
+30	1983-04-20	Male	1.9	Sebastien Lacroix	79	0	0	0	0	Nordic Combined	France
+22	1991-07-04	Male	1.88	Sebastien Lepape	83	0	0	0	0	Short Track	France
+21	1992-11-09	Male	1.7	Sebastien Toutant	70	0	0	0	0	Snowboard	Canada
+29	1984-04-03	Female	1.63	Selina Gasparin	52	0	1	0	1	Biathlon	Switzerland
+26	1988-01-24	Female	1.74	Selina Joerg	63	0	0	0	0	Snowboard	Germany
+22	1991-05-11	Male	1.8	Semen Pavlichenko	76	0	0	0	0	Luge	Russian Fed.
+23	1990-05-03	Male	1.75	Semyon Elistratov	70	0	0	0	0	Short Track	Russian Fed.
+25	1988-04-27	Male	1.88	Semyon Varlamov	95	0	0	0	0	Ice Hockey	Russian Fed.
+22	1991-08-04	Female	1.66	Sena Suzuki	57	0	0	0	0	Ice Hockey	Japan
+24	1989-10-19	Female	1.72	Seon Yeong Noh	66	0	0	0	0	Speed Skating	Korea
+31	1982-12-03	Male	1.62	Seou Choi	54	0	0	0	0	Ski Jumping	Korea
+22	1991-07-13	Male	1.8	Seppe Smits	72	0	0	0	0	Snowboard	Belgium
+23	1990-07-20	Male	1.85	Serafin Wiestner	80	0	0	0	0	Biathlon	Switzerland
+31	1982-04-11	Female	1.68	Seraina Boner	54	0	0	0	0	Cross-Country	Switzerland
+28	1986-01-01	Male	1.78	Sergei Berestovskiy	76	0	0	0	0	Freestyle Skiing	Kazakhstan
+25	1988-09-20	Male	1.88	Sergei Bobrovski	86	0	0	0	0	Ice Hockey	Russian Fed.
+30	1983-06-08	Male	1.84	Sergei Chudinov	80	0	0	0	0	Skeleton	Russian Fed.
+40	1973-05-18	Male	1.78	Sergei Dolidovich	74	0	0	0	0	Cross-Country	Belarus
+24	1990-01-07	Male	1.84	Sergei Maytakov	84	0	0	0	0	Alpine Skiing	Russian Fed.
+28	1986-01-25	Male	1.84	Sergey Cherepanov	73	0	0	0	0	Cross-Country	Kazakhstan
+21	1992-04-27	Male	1.84	Sergey Mikayelyan	73	0	0	0	0	Cross-Country	Armenia
+25	1988-02-22	Male	1.8	Sergey Mozhaev	86	0	0	0	0	Freestyle Skiing	Russian Fed.
+28	1985-10-08	Male	1.81	Sergey Naumik	74	0	0	0	0	Biathlon	Kazakhstan
+34	1979-04-27	Male	1.84	Sergey Novikov	78	0	0	0	0	Biathlon	Belarus
+25	1988-09-05	Male	1.69	Sergey Tarasov	58	0	0	0	0	Snowboard	Russian Fed.
+21	1992-04-08	Male	1.84	Sergey Ustiugov	80	0	0	0	0	Cross-Country	Russian Fed.
+26	1987-12-06	Male	1.78	Sergey Volkov	83	0	0	0	0	Freestyle Skiing	Russian Fed.
+30	1983-12-19	Male	1.79	Serguei Sednev	74	0	0	0	0	Biathlon	Ukraine
+25	1988-07-28	Male	1.79	Serhiy Semenov	69	0	0	0	0	Biathlon	Ukraine
+25	1988-03-06	Male	1.78	Seung Hoon Lee	70	0	0	0	0	Speed Skating	Korea
+23	1990-09-15	Female	1.6	Seung Ju Park	51	0	0	0	0	Speed Skating	Korea
+21	1992-03-28	Female	1.67	Seunghi Park	57	1	0	1	2	Short Track	Korea
+30	1983-03-15	Male	1.8	Severin Blindenbacher	88	0	0	0	0	Ice Hockey	Switzerland
+25	1988-05-11	Male	1.85	Severin Freund	68	1	0	0	1	Ski Jumping	Germany
+26	1987-11-26	Male	1.76	Seyed Sattar Seyd	68	0	0	0	0	Cross-Country	IR Iran
+20	1993-07-26	Male	1.72	Seyeong Park	60	0	0	0	0	Short Track	Korea
+34	1980-01-22	Male	1.83	Shane Dobbin	72	0	0	0	0	Speed Skating	New Zealand
+18	1995-04-28	Male	1.76	Shane Williamson	67	0	0	0	0	Speed Skating	Japan
+31	1982-08-13	Male	1.88	Shani Davis	86	0	0	0	0	Speed Skating	United States
+27	1986-08-06	Female	1.75	Shannon Szabados	65	0	0	0	0	Ice Hockey	Canada
+27	1986-09-03	Male	1.75	Shaun White	70	0	0	0	0	Snowboard	United States
+28	1985-08-14	Male	1.93	Shea Weber	106	0	0	0	0	Ice Hockey	Canada
+32	1981-03-23	Female	1.67	Shelley Rudman	55	0	0	0	0	Skeleton	Great Britain
+33	1980-07-28	Female	1.74	Shelly Gotlieb	64	0	0	0	0	Snowboard	New Zealand
+27	1986-10-23	Female	1.67	Shiho Ishizawa	67	0	0	0	0	Speed Skating	Japan
+23	1990-11-08	Female	1.68	Shin Young Yang	58	0	0	0	0	Speed Skating	Korea
+33	1980-08-20	Male	1.83	Shintaro Sato	85	0	0	0	0	Bobsleigh	Japan
+20	1993-03-21	Female	1.58	Shiori Koike	51	0	0	0	0	Ice Hockey	Japan
+32	1981-08-25	Male	1.83	Shiva Keshavan	85	0	0	0	0	Luge	Independent Olymp. participant
+23	1990-07-04	Male	1.78	Sho Endo	72	0	0	0	0	Freestyle Skiing	Japan
+26	1987-04-26	Female	1.54	Shoko Fujimura	50	0	0	0	0	Speed Skating	Japan
+25	1988-02-13	Female	1.71	Shuai Qi	61	0	0	0	0	Speed Skating	China
+26	1987-02-11	Female	1.62	Shuang Cheng	46	0	0	0	0	Freestyle Skiing	China
+21	1992-06-27	Female	1.69	Shuang Li	63	0	0	0	0	Snowboard	China
+27	1986-09-10	Female	1.72	Shuang Zhang	70	0	0	0	0	Speed Skating	China
+26	1987-08-07	Male	1.8	Sidney Crosby	91	0	0	0	0	Ice Hockey	Canada
+26	1987-05-05	Male	1.88	Siim Sellis	86	0	0	0	0	Cross-Country	Estonia
+20	1993-05-18	Male	1.81	Siim-tanel Sammelselg	64	0	0	0	0	Ski Jumping	Estonia
+28	1985-11-17	Male	1.84	Sik Kim	100	0	0	0	0	Bobsleigh	Korea
+32	1981-08-15	Male	1.85	Silvan Zurbriggen	93	0	0	0	0	Alpine Skiing	Switzerland
+27	1986-11-30	Female	1.7	Silvia Bertagna	50	0	0	0	0	Freestyle Skiing	Italy
+26	1987-05-14	Male	1.8	Simeon Hamilton	78	0	0	0	0	Cross-Country	United States
+32	1981-06-25	Male	1.72	Simon Ammann	60	0	0	0	0	Ski Jumping	Switzerland
+25	1988-03-02	Male	1.78	Simon Bodenmann	83	0	0	0	0	Ice Hockey	Switzerland
+22	1991-12-03	Male	1.76	Simon Desthieux	69	0	0	0	0	Biathlon	France
+30	1983-02-23	Male	1.86	Simon Eder	79	0	0	0	0	Biathlon	Austria
+29	1984-04-25	Male	1.74	Simon Fourcade	67	0	0	0	0	Biathlon	France
+34	1979-03-05	Male	1.93	Simon Hallenbarter	90	0	0	0	0	Biathlon	Switzerland
+23	1990-12-21	Male	1.8	Simon Kocevar	73	0	0	0	0	Biathlon	Slovenia
+24	1989-03-10	Male	1.88	Simon Moser	97	0	0	0	0	Ice Hockey	Switzerland
+22	1991-08-31	Male	1.84	Simon Persson	80	0	0	0	0	Cross-Country	Sweden
+25	1988-11-14	Male	1.79	Simon Schempp	72	0	0	0	0	Biathlon	Germany
+35	1978-10-07	Male	1.84	Simon Schoch	85	0	0	0	0	Snowboard	Switzerland
+24	1989-09-13	Female	1.65	Simona Meiler	56	0	0	0	0	Snowboard	Switzerland
+31	1982-08-19	Male	1.84	Simone Bertazzo	98	0	0	0	0	Bobsleigh	Italy
+22	1991-05-07	Male	1.83	Simone Fontana	97	0	0	0	0	Bobsleigh	Italy
+25	1988-11-21	Female	1.63	Sina Candrian	53	0	0	0	0	Snowboard	Switzerland
+24	1989-07-05	Male	1.74	Sjinkie Knegt	70	0	0	1	1	Short Track	Netherlands
+17	1996-08-19	Female	1.65	So-hui Gim	65	0	0	0	0	Alpine Skiing	Korea
+29	1984-07-03	Female	1.64	Sofia Bleckur	60	0	0	0	0	Cross-Country	Sweden
+25	1988-07-03	Female	1.63	Sofia Engstrom	63	0	0	0	0	Ice Hockey	Sweden
+22	1991-10-10	Female	1.7	Sofiia Vlasova	57	0	0	0	0	Short Track	Ukraine
+24	1990-01-18	Female	1.66	Sofija Novoselic	70	0	0	0	0	Alpine Skiing	Croatia
+21	1992-08-29	Male	1.94	Sondre Olden	84	0	0	0	0	Ice Hockey	Norway
+23	1990-06-07	Female	1.71	Sophia Griebel	62	0	0	0	0	Skeleton	Germany
+25	1988-03-04	Female	1.6	Sophia Ralli	60	0	0	0	0	Alpine Skiing	Greece
+22	1991-07-26	Female	1.69	Sophie Anthamatten	72	0	0	0	0	Ice Hockey	Switzerland
+24	1989-12-18	Female	1.65	Sophie Boilley	57	0	0	0	0	Biathlon	France
+23	1990-03-22	Female	1.7	Sophie Caldwell	59	0	0	0	0	Cross-Country	United States
+24	1989-04-20	Female	1.71	Sophie Kratzer	72	0	0	0	0	Ice Hockey	Germany
+25	1988-07-07	Female	1.68	Sophie Rodriguez	57	0	0	0	0	Snowboard	France
+16	1997-07-09	Male	1.74	Sorin Iulian Pitea	61	0	0	0	0	Ski Jumping	Romania
+19	1994-11-08	Female	1.63	Spela Rogelj	55	0	0	0	0	Ski Jumping	Slovenia
+26	1988-02-02	Female	1.72	Spencer O Brien	68	0	0	0	0	Snowboard	Canada
+29	1984-07-03	Female	1.65	Stacey Cook	65	0	0	0	0	Alpine Skiing	United States
+22	1991-04-19	Male	1.89	Stanislav Benyov	90	0	0	0	0	Luge	Bulgaria
+33	1980-09-16	Male	1.65	Stanislav Detkov	72	0	0	0	0	Snowboard	Russian Fed.
+28	1985-10-28	Male	1.85	Stanislav Volzhentsev	77	0	0	0	0	Cross-Country	Russian Fed.
+20	1993-04-18	Male	1.73	Stefan Baumeister	72	0	0	0	0	Snowboard	Germany
+32	1981-11-23	Male	1.82	Stefan Groothuis	81	1	0	0	1	Speed Skating	Netherlands
+21	1992-03-26	Male	1.85	Stefan Luitz	84	0	0	0	0	Alpine Skiing	Germany
+23	1990-10-13	Male	1.8	Stefan Prisadov	80	0	0	0	0	Alpine Skiing	Bulgaria
+23	1990-12-01	Male	1.75	Stefan Ulmer	80	0	0	0	0	Ice Hockey	Austria
+30	1983-03-29	Male	1.81	Stefan Withalm	100	0	0	0	0	Bobsleigh	Austria
+32	1981-02-27	Female	1.7	Stefanie Boehler	54	0	0	1	1	Cross-Country	Germany
+25	1988-04-16	Female	1.67	Stefanie Marty	70	0	0	0	0	Ice Hockey	Switzerland
+21	1992-06-05	Female	1.58	Stefanie Mueller	56	0	0	0	0	Snowboard	Switzerland
+27	1986-09-04	Male	1.8	Stefano Gross	80	0	0	0	0	Alpine Skiing	Italy
+20	1993-08-06	Male	1.8	Steffen Soberg	80	0	0	0	0	Ice Hockey	Norway
+22	1991-09-29	Female	1.67	Stefi Luxton	53	0	0	0	0	Snowboard	New Zealand
+25	1988-10-31	Male	1.89	Stepan Zuev	88	0	0	0	0	Alpine Skiing	Russian Fed.
+25	1988-05-30	Female	1.72	Stephanie Beckert	68	0	0	0	0	Speed Skating	Germany
+22	1991-09-12	Female	1.73	Stephanie Joffroy	73	0	0	0	0	Freestyle Skiing	Chile
+22	1991-05-05	Female	1.5	Stephanie Magiros	50	0	0	0	0	Snowboard	Australia
+23	1990-09-25	Female	1.72	Stephanie Schneider	75	0	0	0	0	Bobsleigh	Germany
+29	1984-12-12	Male	1.86	Steve Missillier	80	0	0	0	0	Alpine Skiing	France
+33	1980-04-14	Male	1.78	Steven Holcomb	100	0	0	1	1	Bobsleigh	United States
+30	1983-04-15	Male	1.88	Steven Langton	103	0	0	1	1	Bobsleigh	United States
+31	1982-02-12	Male	1.93	Steven Nyman	100	0	0	0	0	Alpine Skiing	United States
+20	1993-06-24	Female	1.74	Stina Nilsson	68	0	0	0	0	Cross-Country	Sweden
+20	1994-01-28	Female	1.63	Suela Mehilli	56	0	0	0	0	Alpine Skiing	Albania
+23	1990-07-19	Female	1.63	Sugar Todd	64	0	0	0	0	Speed Skating	United States
+17	1997-01-30	Female	1.75	Sukhee Shim	56	1	1	0	2	Short Track	Korea
+19	1994-03-21	Female	1.8	Summer Britcher	71	0	0	0	0	Luge	United States
+23	1990-06-10	Male	1.76	Sung Hyun Kyung	83	0	0	0	0	Alpine Skiing	Korea
+19	1994-05-23	Male	1.78	Sungbin Yun	85	0	0	0	0	Skeleton	Korea
+33	1980-09-04	Female	1.66	Sunok Kim	62	0	0	0	0	Bobsleigh	Korea
+27	1986-02-13	Female	1.7	Susan Dunklee	63	0	0	0	0	Biathlon	United States
+31	1982-12-14	Female	1.64	Susann Gotz	65	0	0	0	0	Ice Hockey	Germany
+20	1993-03-02	Female	1.76	Susanna Tapani	63	0	0	0	0	Ice Hockey	Finland
+28	1985-02-26	Female	1.59	Susanne Fellner	55	0	0	0	0	Ice Hockey	Germany
+26	1987-07-27	Female	1.69	Susanne Moll	58	0	0	0	0	Snowboard	Austria
+27	1986-04-23	Male	1.87	Sven Kramer	83	1	1	0	2	Speed Skating	Netherlands
+19	1994-10-04	Male	1.72	Sven Thorgren	70	0	0	0	0	Snowboard	Sweden
+29	1984-11-03	Female	1.69	Svetlana Tkachyova	60	0	0	0	0	Ice Hockey	Russian Fed.
+32	1982-02-03	Male	1.99	Sybren Jansma	107	0	0	0	0	Bobsleigh	Netherlands
+31	1982-11-19	Male	1.78	Sylvain Dufour	82	0	0	0	0	Snowboard	France
+27	1986-03-01	Female	1.61	Sylwia Jaskowiec	55	0	0	0	0	Cross-Country	Poland
+27	1986-07-22	Female	1.7	Szandra Lajtos	64	0	0	0	0	Short Track	Hungary
+27	1986-12-23	Male	1.8	T.j. Oshie	86	0	0	0	0	Ice Hockey	United States
+24	1989-02-15	Male	1.77	Tae Bum Mo	80	0	0	0	0	Speed Skating	Korea
+19	1994-09-28	Male	1.78	Taeyun Kim	75	0	0	0	0	Speed Skating	Korea
+29	1984-07-30	Male	1.68	Taihei Kato	60	0	0	0	0	Nordic Combined	Japan
+18	1995-10-29	Male	1.71	Taku Hiraoka	63	0	0	1	1	Snowboard	Japan
+26	1987-05-20	Male	1.75	Taku Takeuchi	60	0	0	1	1	Ski Jumping	Japan
+20	1993-04-20	Female	1.7	Tanja Eisenschmid	67	0	0	0	0	Ice Hockey	Germany
+22	1991-07-23	Female	1.69	Tanja Karisik	53	0	0	0	0	Cross-Country	Bosnia and Herzegovina
+20	1993-07-02	Female	1.8	Tanja Mayer	73	0	0	0	0	Bobsleigh	Switzerland
+33	1980-04-06	Female	1.7	Tanja Poutiainen	67	0	0	0	0	Alpine Skiing	Finland
+24	1989-06-17	Female	1.67	Tanja Schaerer	55	0	0	0	0	Freestyle Skiing	Switzerland
+23	1990-05-30	Female	1.78	Tara Watchorn	76	0	0	0	0	Ice Hockey	Canada
+19	1994-03-17	Male	1.8	Tarik Hadzic	75	0	0	0	0	Alpine Skiing	Montenegro
+19	1994-09-08	Male	1.75	Taro Kondo	77	0	0	0	0	Speed Skating	Japan
+22	1991-05-08	Female	1.67	Tatiana Bodova	61	0	0	0	0	Short Track	Slovakia
+29	1984-12-22	Female	1.56	Tatiana Borodulina	51	0	0	0	0	Short Track	Russian Fed.
+30	1983-04-30	Female	1.78	Tatjana Huefner	77	0	1	0	1	Luge	Germany
+33	1980-03-20	Female	1.63	Tatyana Burina	70	0	0	0	0	Ice Hockey	Russian Fed.
+22	1991-02-16	Female	1.74	Tatyana Ivanova	65	0	1	0	1	Luge	Russian Fed.
+26	1987-09-23	Female	1.68	Tatyana Ossipova	57	0	0	0	0	Cross-Country	Kazakhstan
+19	1994-11-11	Female	1.59	Taylah Oneill	57	0	0	0	0	Freestyle Skiing	Australia
+23	1990-05-11	Male	1.82	Taylor Fletcher	70	0	0	0	0	Nordic Combined	United States
+20	1993-11-17	Male	1.75	Taylor Gold	68	0	0	0	0	Snowboard	United States
+18	1995-11-01	Female	1.66	Taylor Henrich	54	0	0	0	0	Ski Jumping	Canada
+19	1994-10-29	Male	1.77	Te-an Lien	70	0	0	0	0	Luge	Chinese Taipei
+22	1991-04-16	Female	1.68	Tea Villila	63	0	0	0	0	Ice Hockey	Finland
+29	1984-08-31	Male	1.8	Ted Ligety	81	0	0	0	0	Alpine Skiing	United States
+43	1970-07-03	Male	1.82	Teemu Selanne	91	0	0	0	0	Ice Hockey	Finland
+33	1980-06-29	Female	1.71	Teja Gregorin	57	0	0	1	1	Biathlon	Slovenia
+25	1988-05-01	Male	1.87	Teodor Peterson	83	0	1	0	1	Cross-Country	Sweden
+31	1983-01-25	Female	1.61	Teodora Malcheva	55	0	0	0	0	Cross-Country	Bulgaria
+21	1993-02-01	Female	1.68	Teresa Stadlober	52	0	0	0	0	Cross-Country	Austria
+21	1992-10-30	Female	1.63	Tereza Vaculikova	58	0	0	0	0	Freestyle Skiing	Czech Republic
+24	1989-04-02	Female	1.7	Terezia Poliakova	53	0	0	0	0	Biathlon	Slovakia
+32	1981-09-24	Female	1.58	Tetyana Antypenko	55	0	0	0	0	Cross-Country	Ukraine
+28	1985-02-28	Male	1.85	Thibault Alexis Godefroy	98	0	0	0	0	Bobsleigh	France
+23	1990-04-03	Male	1.77	Thomas Bing	70	0	0	0	0	Cross-Country	Germany
+28	1985-02-25	Male	1.82	Thomas Borge Lie	91	0	0	0	0	Freestyle Skiing	Norway
+21	1992-02-25	Male	1.72	Thomas Diethart	60	0	1	0	1	Ski Jumping	Austria
+32	1981-04-24	Male	1.7	Thomas Fanara	68	0	0	0	0	Alpine Skiing	France
+35	1978-02-20	Male	1.84	Thomas Florschuetz	97	0	0	0	0	Bobsleigh	Germany
+24	1989-12-14	Male	1.9	Thomas Hundertpfund	95	0	0	0	0	Ice Hockey	Austria
+30	1983-08-17	Male	1.73	Thomas Koch	77	0	0	0	0	Ice Hockey	Austria
+20	1993-06-05	Male	1.83	Thomas Krief	70	0	0	0	0	Freestyle Skiing	France
+29	1984-05-31	Male	1.83	Thomas Lambert	75	0	0	0	0	Freestyle Skiing	Switzerland
+35	1978-06-09	Male	1.83	Thomas Lamparter	100	0	0	0	0	Bobsleigh	Switzerland
+30	1984-01-03	Male	1.76	Thomas Mermillod Blondin	80	0	0	0	0	Alpine Skiing	France
+27	1986-10-30	Male	1.84	Thomas Morgenstern	66	0	1	0	1	Ski Jumping	Austria
+32	1981-12-02	Male	1.86	Thomas Pock	93	0	0	0	0	Ice Hockey	Austria
+27	1986-06-19	Male	1.93	Thomas Raffl	103	0	0	0	0	Ice Hockey	Austria
+42	1971-10-21	Male	1.83	Thomas Ulsrud	80	0	0	0	0	Curling	Norway
+30	1984-01-19	Male	1.88	Thomas Vanek	94	0	0	0	0	Ice Hockey	Austria
+30	1983-06-10	Male	1.81	Thomas Zangerl	81	0	0	0	0	Freestyle Skiing	Austria
+25	1988-12-29	Male	1.75	Thor Haug Noerbech	75	0	0	0	0	Luge	Norway
+24	1989-08-14	Male	1.92	Thorsten Margis	99	0	0	0	0	Bobsleigh	Germany
+17	1996-06-03	Male	1.75	Tianyu Han	64	0	1	0	1	Short Track	China
+32	1982-02-03	Male	1.8	Tim Burke	73	0	0	0	0	Biathlon	United States
+26	1987-08-11	Male	1.85	Tim Hug	72	0	0	0	0	Nordic Combined	Switzerland
+29	1985-01-11	Male	1.8	Tim Jitloff	87	0	0	0	0	Alpine Skiing	United States
+24	1989-12-13	Male	1.83	Tim Tscharnke	76	0	0	0	0	Cross-Country	Germany
+22	1991-12-27	Male	1.72	Tim Watter	72	0	0	0	0	Snowboard	Switzerland
+17	1996-11-05	Male	1.72	Tim-kevin Ravnjak	66	0	0	0	0	Snowboard	Slovenia
+21	1992-04-21	Female	1.77	Timea Sara	67	0	0	0	0	Cross-Country	Romania
+29	1984-10-22	Male	1.84	Timofei Slivets	80	0	0	0	0	Freestyle Skiing	Russian Fed.
+27	1986-06-19	Male	1.79	Timothy Randall	105	0	0	0	0	Bobsleigh	Canada
+30	1983-05-02	Female	1.72	Tina Maze	67	2	0	0	2	Alpine Skiing	Slovenia
+24	1989-05-24	Female	1.62	Tina Weirather	61	0	0	0	0	Alpine Skiing	Liechtenstein
+28	1985-04-13	Male	1.85	Tino Edelmann	72	0	0	0	0	Nordic Combined	Germany
+36	1977-04-12	Male	1.78	Tobias Angerer	72	0	0	0	0	Cross-Country	Germany
+26	1987-06-02	Male	1.77	Tobias Arlt	75	2	0	0	2	Luge	Germany
+25	1988-06-07	Male	1.7	Tobias Arwidson	74	0	0	0	0	Biathlon	Sweden
+30	1984-01-21	Male	1.92	Tobias Stephan	85	0	0	0	0	Ice Hockey	Switzerland
+26	1987-06-16	Male	1.83	Tobias Wendl	89	2	0	0	2	Luge	Germany
+37	1976-11-21	Male	1.8	Todd Lodwick	68	0	0	0	0	Nordic Combined	United States
+39	1974-04-10	Male	1.8	Tom Jr Brewster	71	0	0	0	0	Curling	Great Britain
+23	1990-08-23	Male	1.8	Tomas Hasilla	74	0	0	0	0	Biathlon	Slovakia
+21	1992-12-28	Male	1.88	Tomas Jurco	85	0	0	0	0	Ice Hockey	Slovakia
+35	1978-03-02	Male	1.85	Tomas Kaberle	97	0	0	0	0	Ice Hockey	Czech Republic
+23	1990-05-01	Male	1.77	Tomas Kaukenas	66	0	0	0	0	Biathlon	Lithuania
+32	1982-02-05	Male	1.9	Tomas Kopecky	91	0	0	0	0	Ice Hockey	Slovakia
+39	1974-03-03	Male	1.83	Tomas Kraus	93	0	0	0	0	Freestyle Skiing	Czech Republic
+26	1988-01-08	Male	1.86	Tomas Krupcik	71	0	0	0	0	Biathlon	Czech Republic
+25	1988-04-11	Male	1.93	Tomas Marcinko	94	0	0	0	0	Ice Hockey	Slovakia
+31	1982-10-31	Male	1.79	Tomas Plekanec	89	0	0	0	0	Ice Hockey	Czech Republic
+17	1996-04-06	Male	1.78	Tomas Portyk	67	0	0	0	0	Nordic Combined	Czech Republic
+32	1981-04-29	Male	1.79	Tomas Slavik	68	0	0	0	0	Nordic Combined	Czech Republic
+32	1981-05-20	Male	1.83	Tomas Starosta	89	0	0	0	0	Ice Hockey	Slovakia
+32	1981-09-24	Male	1.86	Tomas Surovy	98	0	0	0	0	Ice Hockey	Slovakia
+23	1990-12-01	Male	1.78	Tomas Tatar	84	0	0	0	0	Ice Hockey	Slovakia
+26	1987-11-14	Male	1.81	Tomas Zaborsky	91	0	0	0	0	Ice Hockey	Slovakia
+32	1981-07-02	Male	1.86	Tomass Dukurs	83	0	0	0	0	Skeleton	Latvia
+34	1979-04-25	Male	1.86	Tomaz Razingar	98	0	0	0	0	Ice Hockey	Slovenia
+20	1993-07-11	Male	1.86	Tommaso Dotti	80	0	0	0	0	Short Track	Italy
+22	1991-12-14	Male	1.8	Tommaso Leoni	75	0	0	0	0	Snowboard	Italy
+21	1992-07-18	Male	1.83	Tommi Pulli	70	0	0	0	0	Speed Skating	Finland
+27	1986-03-24	Female	1.68	Tomoe Yamane	70	0	0	0	0	Ice Hockey	Japan
+30	1983-12-21	Female	1.65	Tomoka Takeuchi	61	0	0	0	0	Snowboard	Japan
+30	1983-10-18	Female	1.63	Tomoko Sakagami	58	0	0	0	0	Ice Hockey	Japan
+25	1988-05-12	Male	1.91	Toni Eggert	85	0	0	0	0	Luge	Germany
+30	1983-06-02	Male	1.82	Toni Livers	74	0	0	0	0	Cross-Country	Switzerland
+25	1988-12-23	Male	1.83	Tony Ramoin	74	0	0	0	0	Snowboard	France
+27	1986-12-27	Female	1.61	Torah Bright	57	0	1	0	1	Snowboard	Australia
+39	1974-12-12	Male	1.8	Torger Nergaard	85	0	0	0	0	Curling	Norway
+33	1980-07-19	Male	1.88	Torin Koos	85	0	0	0	0	Cross-Country	United States
+18	1995-12-02	Male	1.57	Torin Yater-wallace	58	0	0	0	0	Freestyle Skiing	United States
+20	1993-08-31	Male	1.72	Toshiki Kuroiwa	78	0	0	0	0	Bobsleigh	Japan
+25	1988-07-14	Male	1.8	Travis Ganong	77	0	0	0	0	Alpine Skiing	United States
+22	1991-10-19	Male	1.73	Travis Gerrits	68	0	0	0	0	Freestyle Skiing	Canada
+20	1993-08-06	Male	1.8	Trevor Jacob	88	0	0	0	0	Snowboard	United States
+22	1991-09-23	Male	1.86	Trevor Morrice	70	0	0	0	0	Ski Jumping	Canada
+21	1992-05-01	Male	1.81	Trevor Philp	80	0	0	0	0	Alpine Skiing	Canada
+23	1990-03-14	Female	1.65	Triin Ojaste	59	0	0	0	0	Cross-Country	Estonia
+18	1995-06-03	Female	1.6	Triin Tobi	64	0	0	0	0	Alpine Skiing	Estonia
+22	1991-05-16	Male	1.85	Tristan Walker	85	0	0	0	0	Luge	Canada
+29	1984-04-16	Male	1.7	Tucker Fredricks	66	0	0	0	0	Speed Skating	United States
+32	1981-10-21	Male	1.93	Tucker Murphy	83	0	0	0	0	Cross-Country	Bermuda
+18	1995-06-15	Male	1.85	Tucker West	82	0	0	0	0	Luge	United States
+30	1983-02-16	Male	1.82	Tuomo Ruutu	89	0	0	0	0	Ice Hockey	Finland
+26	1987-03-10	Male	1.87	Tuukka Rask	80	0	0	0	0	Ice Hockey	Finland
+16	1997-03-03	Female	1.57	Ty Walker	61	0	0	0	0	Snowboard	United States
+18	1995-08-06	Female	1.72	Ulla Zirne	67	0	0	0	0	Luge	Latvia
+26	1987-05-17	Female	1.75	Ulrike Graessler	60	0	0	0	0	Ski Jumping	Germany
+28	1985-12-29	Female	1.72	Ursina Haller	62	0	0	0	0	Snowboard	Switzerland
+22	1991-08-18	Male	1.85	Vairis Leiboms	94	0	0	0	0	Bobsleigh	Latvia
+24	1989-09-09	Male	1.8	Valentin Cretu	88	0	0	0	0	Luge	Romania
+38	1975-10-02	Female	1.65	Valentina Shevchenko	51	0	0	0	0	Cross-Country	Ukraine
+23	1990-03-30	Female	1.7	Valentina Wallner	65	0	0	0	0	Ice Hockey	Sweden
+18	1995-03-04	Male	1.9	Valeri Nichushkin	80	0	0	0	0	Ice Hockey	Russian Fed.
+24	1989-07-04	Female	1.65	Valerie Maltais	59	0	1	0	1	Short Track	Canada
+28	1985-06-15	Female	1.63	Valeriya Reznik	50	0	0	0	0	Short Track	Russian Fed.
+25	1988-07-08	Female	1.66	Valeriya Tsoy	72	0	0	0	0	Snowboard	Kazakhstan
+18	1995-11-29	Male	1.7	Valery Kolegov	75	0	0	0	0	Snowboard	Russian Fed.
+26	1987-09-05	Female	1.65	Valiantsina Kaminskaya	52	0	0	0	0	Cross-Country	Belarus
+28	1986-01-18	Female	1.61	Valj Semerenko	54	0	0	0	0	Biathlon	Ukraine
+18	1995-07-04	Female	1.75	Vanessa Bittner	70	0	0	0	0	Speed Skating	Austria
+21	1992-03-24	Female	1.76	Vanessa Hinz	61	0	0	0	0	Biathlon	Germany
+35	1978-10-27	Female	1.58	Vanessa Vanakorn	55	0	0	0	0	Alpine Skiing	Thailand
+23	1990-03-24	Female	1.71	Vedrana Malec	61	0	0	0	0	Cross-Country	Croatia
+19	1994-11-06	Female	1.68	Vendula Kotenova	65	0	0	0	0	Luge	Czech Republic
+26	1987-10-28	Female	1.69	Venla Hovi	63	0	0	0	0	Ice Hockey	Finland
+17	1996-04-08	Female	1.69	Verena Rohrer	57	0	0	0	0	Snowboard	Switzerland
+29	1984-06-23	Female	1.68	Verena Stuffer	65	0	0	0	0	Alpine Skiing	Italy
+21	1992-07-10	Female	1.76	Veronika Mayerhofer	60	0	0	0	0	Cross-Country	Austria
+25	1988-12-09	Female	1.66	Veronika Vitkova	56	0	0	0	0	Biathlon	Czech Republic
+31	1982-04-09	Female	1.62	Veronika Windisch	55	0	0	0	0	Short Track	Austria
+24	1989-07-22	Female	1.72	Veronique Pierron	62	0	0	0	0	Short Track	France
+27	1986-07-29	Male	1.7	Veselin Tsinzov	67	0	0	0	0	Cross-Country	Bulgaria
+28	1985-03-13	Female	1.7	Vesna Fabjan	62	0	0	1	1	Cross-Country	Slovenia
+27	1986-08-23	Male	1.79	Vic Wild	82	0	0	0	0	Snowboard	Russian Fed.
+24	1989-11-16	Female	1.64	Vicki Adams	69	0	0	0	0	Curling	Great Britain
+28	1985-11-23	Male	1.72	Victor An	63	1	0	1	2	Short Track	Russian Fed.
+34	1979-11-19	Male	1.7	Victor Lobo Escolar	65	0	0	0	0	Biathlon	Spain
+21	1992-02-11	Male	1.86	Victor Pinzaru	84	0	0	0	0	Cross-Country	Rep. of Moldova
+25	1988-08-10	Female	1.65	Victoria Padial Hernandez	53	0	0	0	0	Biathlon	Spain
+22	1991-09-25	Female	1.7	Viera Gburova	70	0	0	0	0	Luge	Slovakia
+24	1989-12-12	Male	1.8	Viktor Knoch	75	0	0	0	0	Short Track	Hungary
+21	1992-12-02	Male	1.84	Viktor Pasichnyk	72	0	0	0	0	Nordic Combined	Ukraine
+25	1988-05-12	Male	1.88	Viktor Tikhonov	83	0	0	0	0	Ice Hockey	Russian Fed.
+24	1989-10-04	Female	1.7	Viktoria Rebensburg	67	0	0	1	1	Alpine Skiing	Germany
+28	1985-06-02	Female	1.64	Viktoriya Filyushkina	63	0	0	0	0	Speed Skating	Russian Fed.
+21	1992-10-31	Male	1.77	Ville Miettunen	64	0	0	0	0	Freestyle Skiing	Finland
+30	1983-12-05	Male	1.85	Ville Nousiainen	71	0	0	0	0	Cross-Country	Finland
+22	1991-03-16	Male	1.72	Ville Paumola	68	0	0	0	0	Snowboard	Finland
+18	1995-04-14	Female	1.75	Vilma Tanskanen	66	0	0	0	0	Ice Hockey	Finland
+28	1985-07-02	Male	1.89	Vincent Daniel Jean-paul Ricard	95	0	0	0	0	Bobsleigh	France
+19	1994-06-16	Male	1.82	Vincent De Haitre	86	0	0	0	0	Speed Skating	Canada
+17	1996-11-13	Male	1.71	Vincenzo Romano Michelotti	58	0	0	0	0	Alpine Skiing	San Marino
+23	1990-11-13	Female	1.78	Viola Kleiser	72	0	0	0	0	Bobsleigh	Austria
+27	1986-11-05	Female	1.68	Viona Harrer	55	0	0	0	0	Ice Hockey	Germany
+19	1994-09-06	Male	1.85	Virgile Vandeput	79	0	0	0	0	Alpine Skiing	Israel
+26	1987-08-20	Female	1.64	Virginia De Martin Topranin	54	0	0	0	0	Cross-Country	Italy
+31	1982-09-06	Female	1.55	Virginie Faivre	45	0	0	0	0	Freestyle Skiing	Switzerland
+28	1986-01-18	Female	1.62	Vita Semerenko	57	0	0	1	1	Biathlon	Ukraine
+24	1989-06-17	Male	1.95	Vitalijs Pavlovs	98	0	0	0	0	Ice Hockey	Latvia
+25	1988-07-15	Male	1.71	Vladimir Chepelin	74	0	0	0	0	Biathlon	Belarus
+31	1982-08-08	Male	1.79	Vladimir Grigorev	75	0	1	0	1	Short Track	Russian Fed.
+26	1987-03-17	Male	1.82	Vladimir Iliev	72	0	0	0	0	Biathlon	Bulgaria
+26	1987-10-28	Male	1.75	Vladimir Makhnutin	69	0	0	0	0	Luge	Russian Fed.
+22	1991-12-13	Male	1.84	Vladimir Tarasenko	95	0	0	0	0	Ice Hockey	Russian Fed.
+20	1993-07-14	Male	1.65	Vladimir Zografski	57	0	0	0	0	Ski Jumping	Bulgaria
+22	1991-09-21	Male	1.79	Vladislav Antonov	80	0	1	0	1	Luge	Russian Fed.
+24	1989-11-19	Male	1.87	Vladislav Bykanov	85	0	0	0	0	Short Track	Israel
+20	1993-11-10	Male	1.7	Vladislav Novikov	78	0	0	0	0	Alpine Skiing	Russian Fed.
+28	1986-01-25	Male	1.83	Vladislav Yuzhakov	76	0	0	0	0	Luge	Russian Fed.
+23	1990-11-11	Male	1.86	Vojtech Loudin	75	0	0	0	0	Short Track	Czech Republic
+30	1983-06-07	Male	1.87	Vuk Radenovic	106	0	0	0	0	Bobsleigh	Serbia
+24	1990-01-15	Male	1.8	Vyacheslav Voinov	83	0	0	0	0	Ice Hockey	Russian Fed.
+21	1992-11-28	Male	1.94	Vytautas Strolia	83	0	0	0	0	Cross-Country	Lithuania
+23	1990-08-13	Male	1.79	Wancheng Shi	78	0	0	0	0	Snowboard	China
+21	1992-06-21	Male	1.88	Warren Cummings Smith	91	0	0	0	0	Alpine Skiing	Estonia
+44	1969-07-28	Male	1.75	Wayne Blackwood	95	0	0	0	0	Bobsleigh	Jamaica
+20	1993-05-12	Female	1.67	Wendy Holdener	60	0	0	0	0	Alpine Skiing	Switzerland
+21	1992-07-06	Male	1.65	Wenhao Liang	62	0	0	0	0	Short Track	China
+26	1987-02-27	Male	1.72	Wenlong Xu	67	0	0	0	0	Cross-Country	China
+31	1982-03-23	Male	1.84	Werner Heel	85	0	0	0	0	Alpine Skiing	Italy
+27	1986-07-07	Female	1.59	Weronika Nowakowska-ziemniak	53	0	0	0	0	Biathlon	Poland
+33	1980-11-10	Male	1.78	Wilhelm Denifl	69	0	0	0	0	Nordic Combined	Austria
+24	1989-11-28	Male	1.83	William Dutton	85	0	0	0	0	Speed Skating	Canada
+34	1979-09-21	Male	1.91	William Frullani	101	0	0	0	0	Bobsleigh	Italy
+46	1967-12-08	Male	1.82	Winston Watts	107	0	0	0	0	Bobsleigh	Jamaica
+25	1988-04-18	Male	1.66	Wolfgang Kindl	78	0	0	0	0	Luge	Austria
+31	1982-11-04	Male	1.77	Wolfgang Linger	75	0	1	0	1	Luge	Austria
+25	1988-05-04	Male	1.75	Xavier Bertoni	72	0	0	0	0	Freestyle Skiing	France
+28	1985-08-04	Female	1.65	Xin Zhang	56	0	0	0	0	Freestyle Skiing	China
+21	1992-12-31	Female	1.75	Xin Zhao	70	0	0	0	0	Speed Skating	China
+22	1991-08-26	Female	1.7	Xue Kong	59	0	0	0	0	Short Track	China
+20	1993-09-26	Female	1.62	Xuetong Cai	60	0	0	0	0	Snowboard	China
+26	1987-04-29	Male	1.78	Yan Savitskiy	70	0	0	0	0	Biathlon	Kazakhstan
+21	1992-05-10	Female	1.63	Yan Zhang	48	0	0	0	0	Biathlon	China
+30	1983-05-11	Female	1.66	Yana Romanova	57	0	0	0	0	Biathlon	Russian Fed.
+22	1991-06-09	Female	1.65	Yang Zhou	62	1	0	0	1	Short Track	China
+25	1988-09-23	Male	1.8	Yannick Weber	90	0	0	0	0	Ice Hockey	Switzerland
+23	1990-05-31	Female	1.63	Yara Van Kerkhof	53	0	0	0	0	Short Track	Netherlands
+22	1991-07-30	Female	1.7	Yekaterina Aydova	62	0	0	0	0	Speed Skating	Kazakhstan
+24	1989-09-14	Female	1.65	Yekaterina Lebedeva	66	0	0	0	0	Ice Hockey	Russian Fed.
+28	1985-03-13	Female	1.78	Yekaterina Lobysheva	69	0	0	0	0	Speed Skating	Russian Fed.
+27	1987-01-28	Female	1.69	Yekaterina Malysheva	57	0	0	0	0	Speed Skating	Russian Fed.
+41	1972-12-19	Female	1.8	Yekaterina Pashkevich	76	0	0	0	0	Ice Hockey	Russian Fed.
+28	1985-06-25	Female	1.72	Yekaterina Shikhova	63	0	0	0	0	Speed Skating	Russian Fed.
+32	1981-09-15	Female	1.76	Yekaterina Smolentseva	65	0	0	0	0	Ice Hockey	Russian Fed.
+25	1988-10-08	Female	1.64	Yekaterina Smolina	54	0	0	0	0	Ice Hockey	Russian Fed.
+18	1995-11-08	Female	1.59	Yelena Dergachyova	55	0	0	0	0	Ice Hockey	Russian Fed.
+33	1981-01-24	Female	1.69	Yelena Kolomina	58	0	0	0	0	Cross-Country	Kazakhstan
+18	1995-09-11	Female	1.68	Yelizaveta Axenova	60	0	0	0	0	Luge	Kazakhstan
+28	1985-03-06	Male	1.8	Yerdos Akhmadiyev	72	0	0	0	0	Cross-Country	Kazakhstan
+27	1986-07-31	Male	1.92	Yevgeni Malkin	86	0	0	0	0	Ice Hockey	Russian Fed.
+31	1982-08-27	Male	1.9	Yevgeni Medvedev	85	0	0	0	0	Ice Hockey	Russian Fed.
+26	1987-04-02	Male	1.78	Yevgeniy Velichko	72	0	0	0	0	Cross-Country	Kazakhstan
+25	1988-12-11	Male	1.82	Yevgeny Seryayev	80	0	0	0	0	Speed Skating	Russian Fed.
+21	1992-10-03	Male	1.72	Yiwei Zhang	68	0	0	0	0	Snowboard	China
+19	1994-12-20	Male	1.81	Yohan Goncalves Goutt	78	0	0	0	0	Alpine Skiing	Timor-Leste
+34	1979-02-13	Female	1.65	Yoko Kondo	60	0	0	0	0	Ice Hockey	Japan
+27	1986-04-14	Male	1.9	Yonathan Jesus Fernandez	86	0	0	0	0	Cross-Country	Chile
+22	1991-10-04	Male	1.7	Yoshito Watabe	58	0	0	0	0	Nordic Combined	Japan
+29	1984-05-31	Male	1.78	Yosyf Penyak	83	0	0	0	0	Snowboard	Ukraine
+16	1997-07-19	Female	1.68	Young-seo Kang	60	0	0	0	0	Alpine Skiing	Korea
+23	1990-08-30	Male	1.76	Youngjin Suk	98	0	0	0	0	Bobsleigh	Korea
+22	1991-10-27	Male	1.8	Youngwoo Seo	97	0	0	0	0	Bobsleigh	Korea
+26	1987-12-07	Female	1.61	Yui Sakai	55	0	0	0	0	Short Track	Japan
+33	1980-06-24	Male	1.8	Yuichi Onda	78	0	0	0	0	Cross-Country	Japan
+27	1986-04-07	Male	1.66	Yuji Kamijo	72	0	0	0	0	Speed Skating	Japan
+27	1986-06-11	Female	1.6	Yuka Fujimori	55	0	0	0	0	Snowboard	Japan
+27	1987-01-26	Female	1.57	Yuka Hirano	52	0	0	0	0	Ice Hockey	Japan
+19	1994-05-10	Female	1.61	Yuki Ito	48	0	0	0	0	Ski Jumping	Japan
+17	1996-05-18	Male	1.73	Yuki Kadono	64	0	0	0	0	Snowboard	Japan
+23	1990-05-21	Female	1.54	Yuki Nakajima	47	0	0	0	0	Biathlon	Japan
+29	1984-04-11	Male	1.76	Yuki Sasahara	78	0	0	0	0	Skeleton	Japan
+20	1994-02-03	Female	1.6	Yuki Tsubota	65	0	0	0	0	Freestyle Skiing	Canada
+21	1992-10-23	Female	1.67	Yulia Galysheva	60	0	0	0	0	Freestyle Skiing	Kazakhstan
+23	1990-07-31	Female	1.63	Yulia Livinskaya	53	0	0	0	0	Freestyle Skiing	Russian Fed.
+30	1984-02-06	Female	1.65	Yulia Tchekaleva	60	0	0	0	0	Cross-Country	Russian Fed.
+41	1972-05-03	Female	1.74	Yulia Timofeeva	71	0	0	0	0	Bobsleigh	Russian Fed.
+31	1982-12-01	Female	1.75	Yuliya Skokova	71	0	0	0	0	Speed Skating	Russian Fed.
+23	1990-05-14	Male	1.68	Yunjae Kim	61	0	0	0	0	Short Track	Korea
+28	1985-06-17	Male	1.82	Yunjong Won	107	0	0	0	0	Bobsleigh	Korea
+27	1986-04-24	Male	1.68	Yuri Confortola	69	0	0	0	0	Short Track	Italy
+28	1985-04-26	Female	1.56	Yurie Adachi	51	0	0	0	0	Ice Hockey	Japan
+17	1996-07-12	Female	1.58	Yurina Yamada	50	0	0	0	0	Ski Jumping	Japan
+26	1987-12-03	Male	1.74	Yuryi Liadov	73	0	0	0	0	Biathlon	Belarus
+28	1985-03-15	Male	1.83	Yusuke Minato	75	0	0	0	0	Nordic Combined	Japan
+31	1982-08-08	Male	1.78	Yuta Watase	63	0	0	0	0	Ski Jumping	Japan
+24	1989-02-20	Male	1.82	Yuxin Zhang	71	0	0	0	0	Alpine Skiing	China
+33	1981-01-16	Male	1.72	Yuya Oikawa	71	0	0	0	0	Speed Skating	Japan
+26	1988-01-11	Male	1.69	Yuzo Takamido	64	0	0	0	0	Short Track	Japan
+22	1992-01-26	Female	1.64	Yvonne Daldossi	64	0	0	0	0	Speed Skating	Italy
+22	1991-02-21	Female	1.74	Yvonne Nauta	64	0	0	0	0	Speed Skating	Netherlands
+29	1984-07-28	Male	1.8	Zach Parise	88	0	0	0	0	Ice Hockey	United States
+29	1984-04-11	Male	1.84	Zan Kosir	77	0	0	0	0	Snowboard	Slovenia
+21	1992-11-15	Male	1.76	Zan Kranjec	77	0	0	0	0	Alpine Skiing	Slovenia
+28	1985-06-24	Female	1.64	Zana Novakovic	58	0	0	0	0	Alpine Skiing	Bosnia and Herzegovina
+24	1989-10-05	Female	1.57	Zanna Juskane	53	0	0	0	0	Biathlon	Latvia
+29	1984-10-08	Male	1.83	Zbigniew Brodka	85	1	0	0	1	Speed Skating	Poland
+31	1982-12-23	Male	1.89	Zbynek Michalek	95	0	0	0	0	Ice Hockey	Czech Republic
+36	1977-03-18	Male	2.06	Zdeno Chara	117	0	0	0	0	Ice Hockey	Slovakia
+20	1994-01-05	Male	1.88	Zemgus Girgensons	88	0	0	0	0	Ice Hockey	Latvia
+22	1991-12-08	Female	1.57	Zhibek Arapbayeva	46	0	0	0	0	Freestyle Skiing	Kazakhstan
+22	1991-07-17	Female	1.58	Zhifeng Sun	58	0	0	0	0	Snowboard	China
+28	1985-11-10	Male	1.74	Zhongqing Liu	73	0	0	0	0	Freestyle Skiing	China
+22	1991-07-26	Male	1.93	Zhongsheng Mu	83	0	0	0	0	Speed Skating	China
+25	1988-02-24	Male	1.85	Ziga Jeglic	76	0	0	0	0	Ice Hockey	Slovenia
+25	1989-01-01	Male	1.85	Ziga Pance	89	0	0	0	0	Ice Hockey	Slovenia
+28	1985-04-30	Male	1.93	Ziga Pavlin	98	0	0	0	0	Ice Hockey	Slovenia
+31	1982-12-05	Female	1.7	Zina Kocher	60	0	0	0	0	Biathlon	Canada
+28	1985-06-14	Female	1.68	Zoe Gillings	65	0	0	0	0	Snowboard	Great Britain
+22	1991-03-01	Male	1.76	Zongyang Jia	68	0	0	1	1	Freestyle Skiing	China
+19	1995-02-06	Female	1.58	Zsofia Konya	54	0	0	0	0	Short Track	Hungary
