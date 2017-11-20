@@ -1,4 +1,4 @@
-\documentclass[9pt]{report}
+\documentclass[10pt]{book}
 
 \input{glava.tex}
 
@@ -22,8 +22,8 @@
 % Delovno okolje
 \setcounter{secnumdepth}{-1}
 \input{00-1_namestitev.ipynb.tex}
-
 \setcounter{secnumdepth}{4}
+
 % Priprava podatkov
 \input{01-1_podatki_numpy.ipynb.tex}
 \input{01-2_podatki_temperatura.ipynb.tex}
@@ -38,7 +38,10 @@
 \input{03-1_porazdelitve.ipynb.tex}
 \input{03-2_osamelci.ipynb.tex}
 
-%\input{n1.ipynb.tex}
+% Naloga 1
+\setcounter{secnumdepth}{-1}
+\input{n1_priprava_pregled.ipynb.tex}
+\setcounter{secnumdepth}{4}
 
 
 % Odkrivanje skupin
@@ -46,20 +49,29 @@
 \input{04-2_gručenje_hierarhično.ipynb.tex}
 \input{04-3_gručenje_genomski.ipynb.tex}
 
-%\input{n2.ipynb.tex}
+% Naloga 2
+\setcounter{secnumdepth}{-1}
+\input{n2_struktura_podatkov.ipynb.tex}
+\setcounter{secnumdepth}{4}
 
 
 % Nadzorovano učenje
 \input{05-1_nadzorovano_linreg.ipynb.tex}
 \input{05-2_nadzorovano_naivniBayes.ipynb.tex}
 
-%\input{n3.ipynb.tex}
+% Naloga 3
+\setcounter{secnumdepth}{-1}
+\input{n3_nadzorovano_učenje.ipynb.tex}
+\setcounter{secnumdepth}{4}
 
 
 % Nenegativna matrična faktorizacija in zlivanje podatkov
 \input{06-1_NMF.ipynb.tex}
 
-%\input{n4.ipynb.tex}
+% Naloga 4
+\setcounter{secnumdepth}{-1}
+\input{n4_matrična_faktorizacija.ipynb.tex}
+\setcounter{secnumdepth}{4}
 
 
 % Omrežja
@@ -72,9 +84,10 @@
 \input{08-2_zaporedja_časovne.ipynb.tex}
 \input{08-3_zaporedja_trendi.ipynb.tex}
 
-
-% Priporočilni sistemi
-%\input{nP.ipynb.tex}
+% Naloga 5
+\setcounter{secnumdepth}{-1}
+\input{n5_aplikacija.ipynb.tex}
+\setcounter{secnumdepth}{4}
 
 
 % Rešitve
@@ -135,7 +148,7 @@
 \phantomsection
 \addcontentsline{toc}{chapter}{Literatura}
 \bibliographystyle{plainnat}
-\bibliography{literatura}
+\bibliography{../biblio}
 
 \end{document}
 
