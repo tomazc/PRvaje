@@ -4,7 +4,8 @@
 
 \usepackage[slovene]{babel}
 \usepackage{fontspec}
-\setcounter{secnumdepth}{4}
+\usepackage{parskip}
+\setcounter{secnumdepth}{3}
 \setcounter{tocdepth}{4}
 
 \title{Zbirka vaj in nalog za predmet Podatkovno rudarjenje}
@@ -22,7 +23,7 @@
 % Delovno okolje
 \setcounter{secnumdepth}{-1}
 \input{00-1_namestitev.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 % Priprava podatkov
 \input{01-1_podatki_numpy.ipynb.tex}
@@ -41,7 +42,7 @@
 % Naloga 1
 \setcounter{secnumdepth}{-1}
 \input{n1_priprava_pregled.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 
 % Odkrivanje skupin
@@ -52,7 +53,7 @@
 % Naloga 2
 \setcounter{secnumdepth}{-1}
 \input{n2_struktura_podatkov.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 
 % Nadzorovano učenje
@@ -62,7 +63,7 @@
 % Naloga 3
 \setcounter{secnumdepth}{-1}
 \input{n3_nadzorovano_učenje.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 
 % Nenegativna matrična faktorizacija in zlivanje podatkov
@@ -71,7 +72,7 @@
 % Naloga 4
 \setcounter{secnumdepth}{-1}
 \input{n4_matrična_faktorizacija.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 
 % Omrežja
@@ -87,12 +88,12 @@
 % Naloga 5
 \setcounter{secnumdepth}{-1}
 \input{n5_aplikacija.ipynb.tex}
-\setcounter{secnumdepth}{4}
+\setcounter{secnumdepth}{3}
 
 
-% Rešitve
+% Odgovori 
 \setcounter{secnumdepth}{-1}
-\chapter{Rešitve}
+\chapter{Odgovori}
 \input{rešitve_01-1_podatki_numpy.ipynb}
 
 \newpage
@@ -147,7 +148,7 @@
 \cleardoublepage
 \phantomsection
 \addcontentsline{toc}{chapter}{Literatura}
-\bibliographystyle{plainnat}
+\bibliographystyle{unsrt}
 \bibliography{../biblio}
 
 \end{document}

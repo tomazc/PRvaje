@@ -15,6 +15,13 @@ tex/%.ipynb.tex: %.ipynb
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=180 --allow-errors --to notebook $^ --inplace
 	@echo "Pretvarjam v latex $^"
 	jupyter nbconvert --to latex_with_lenvs --template mystyle.tplx --LenvsLatexExporter.removeHeaders=True $^ --output-dir tex --output $(notdir $^)
+	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > tex/tmp.tex
+	mv tex/tmp.tex "$@"
+
+# sed is used to convert links:
+# from: \href{rešitve_01-1_podatki_numpy.ipynb\#odgovor-1-1-1}{Odgovor}
+# into: \hyperref[odgovor-1-1-1]{Odgovor}
+
 
 tex/%.ipynb.tex: naloge/%.ipynb
 	mkdir -p $(@D)
@@ -22,17 +29,37 @@ tex/%.ipynb.tex: naloge/%.ipynb
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=180 --allow-errors --to notebook $^ --inplace
 	@echo "Pretvarjam v latex $^"
 	jupyter nbconvert --to latex_with_lenvs --template mystyle.tplx --LenvsLatexExporter.removeHeaders=True $^ --output-dir tex --output $(notdir $^)
+	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > tex/tmp.tex
+	mv tex/tmp.tex "$@"
 
-PR.pdf: tex/PR.tex tex/glava.tex $(NOTEBOOKS_tex) $(NOTEBOOKS_res_tex) $(NOTEBOOKS_nal_tex)
+
+all: PR.pdf
+
+
+09-1_literatura.ipynb: biblio.bib
+	jupyter nbconvert --execute --ExecutePreprocessor.timeout=180 --allow-errors --to notebook 09-1_literatura.ipynb --inplace
+
+
+biblio.html: biblio.md biblio.bib 09-1_literatura.ipynb
+	pandoc --filter=pandoc-citeproc --standalone biblio.md -o biblio.html
+
+
+PR.pdf: biblio.bib tex/PR.tex tex/glava.tex $(NOTEBOOKS_tex) $(NOTEBOOKS_res_tex) $(NOTEBOOKS_nal_tex)
+	rm -f PR.pdf && \
+	rm -f tex/PR.pdf && \
 	cd tex && \
+	xelatex PR && \
 	xelatex PR && \
 	bibtex PR && \
 	xelatex PR && \
+	xelatex PR && \
 	mv PR.pdf ..
 
+
 clean:
-	rm tex/*.ipynb.tex
+	rm -f tex/*.ipynb.tex
 	rm -Rf tex/*.ipynb_files
-	rm tex/PR.pdf
-	rm PR.pdf
+	rm -f tex/PR.pdf
+	rm -f PR.pdf
 # xelatex -interaction=nonstopmode PR &> /dev/null | cat && \
+
