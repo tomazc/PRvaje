@@ -1,0 +1,58 @@
+# adapted from ggplot.mplstyle
+
+patch.linewidth: 0.5
+patch.facecolor: 348ABD  # blue
+patch.edgecolor: EEEEEE
+patch.antialiased: True
+
+#axes.facecolor: E5E5E5
+axes.facecolor: F0F0F0
+#axes.edgecolor: white
+axes.edgecolor: F5F5F5
+axes.linewidth: 1
+axes.grid: True
+axes.labelcolor: 555555
+axes.axisbelow: True       # grid/ticks are below elements (e.g., lines, text)
+
+axes.prop_cycle: cycler('color', ['E24A33', '348ABD', '8EBA42', '988ED5', '777777', 'FBC15E', 'FFB5B8'])
+                   # E24A33 : red
+                   # 348ABD : blue
+                   # 8EBA42 : green
+                   # 988ED5 : purple
+                   # 777777 : gray
+                   # FBC15E : yellow
+                   # FFB5B8 : pink
+
+xtick.color: 555555
+xtick.direction: out
+
+ytick.color: 555555
+ytick.direction: out
+
+grid.color: white
+grid.linestyle: -    # solid line
+
+figure.facecolor: white
+figure.edgecolor: 0.50
+
+
+#
+savefig.dpi : 100
+
+figure.dpi : 100
+figure.autolayout : False
+figure.figsize : 4.5, 3.0
+
+axes.labelsize : 9
+axes.titlesize : 9
+
+font.size : 7
+
+lines.linewidth : 1.0
+lines.markersize : 7
+
+legend.fontsize : 7
+
+xtick.labelsize : 7
+ytick.labelsize : 7
+

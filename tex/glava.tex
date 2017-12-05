@@ -13,8 +13,13 @@
     \else\Gin@nat@width\fi}
     \makeatother
     \let\Oldincludegraphics\includegraphics
-    % Set max figure width to be 80% of text width, for now hardcoded.
-    \renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=.8\maxwidth]{#1}}
+%    % Set max figure width to be 80% of text width, for now hardcoded.
+    \renewcommand{\includegraphics}[1]{
+        \maxsizebox{0.95\textwidth}{0.25\paperheight}{
+        \Oldincludegraphics{#1}
+        }
+    }
+
     % Ensure that by default, figures have no caption (until we provide a
     % proper Figure object with a Caption API and a way to capture that
     % in the conversion process - todo).
@@ -81,7 +86,7 @@
     % extracted from the output of `pandoc -s`
     \providecommand{\tightlist}{%
       \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+    \DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\},fontsize=\small}
     % Add ',fontsize=\small' for more characters per line
     \newenvironment{Shaded}{}{}
     \newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.00,0.44,0.13}{\textbf{{#1}}}}
@@ -235,8 +240,6 @@
     \definecolor{outcolor}{rgb}{0.545, 0.0, 0.0}
 
 
-
-    
     % Prevent overflowing lines due to hard-to-break entities
     \sloppy 
     % Setup hyperref package

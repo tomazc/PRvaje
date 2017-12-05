@@ -44,7 +44,7 @@ biblio.html: biblio.md biblio.bib 09-1_literatura.ipynb
 	pandoc --filter=pandoc-citeproc --standalone biblio.md -o biblio.html
 
 
-PR.pdf: biblio.bib tex/PR.tex tex/glava.tex $(NOTEBOOKS_tex) $(NOTEBOOKS_res_tex) $(NOTEBOOKS_nal_tex)
+PR.pdf: biblio.bib tex/PR.tex tex/glava.tex $(NOTEBOOKS_res_tex) $(NOTEBOOKS_tex) $(NOTEBOOKS_nal_tex)
 	rm -f PR.pdf && \
 	rm -f tex/PR.pdf && \
 	cd tex && \

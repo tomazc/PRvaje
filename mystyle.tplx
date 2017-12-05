@@ -67,3 +67,17 @@
 ((( text | add_prompts(first='{\color{' ~ prompt_color ~ '}' ~ prompt ~ '[{\\color{' ~ prompt_color ~ '}' ~ execution_count ~ '}]:} ', cont=indention) )))
 \end{Verbatim}
 ((*- endmacro *))
+
+
+% Draw a figure using the graphicx package.
+((* macro draw_figure(filename) -*))
+((* set filename = filename | posix_path *))
+((*- block figure scoped -*))
+    \begin{center}
+    \maxsizebox{0.95\textwidth}{0.25\paperheight}{
+        \includegraphics{((( filename )))}
+    }
+    \end{center}
+((*- endblock figure -*))
+((*- endmacro *))
+
