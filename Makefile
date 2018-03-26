@@ -13,6 +13,8 @@ tex/%.ipynb.tex: %.ipynb
 	mkdir -p $(@D)
 	@echo "Izvajam zvezek $^"
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=180 --allow-errors --to notebook $^ --inplace
+    # razdeli na sl in en verzijo
+    # jupyter nbconvert --to selectLanguage --NotebookLangExporter.language=en 01-1_podatki_numpy.ipynb 
 	@echo "Pretvarjam v latex $^"
 	jupyter nbconvert --to latex_with_lenvs --template mystyle.tplx --LenvsLatexExporter.removeHeaders=True $^ --output-dir tex --output $(notdir $^)
 	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > tex/tmp.tex
@@ -36,11 +38,11 @@ tex/%.ipynb.tex: naloge/%.ipynb
 all: PR.pdf
 
 
-09-1_literatura.ipynb: biblio.bib
+09-1_literatura.ipynb: biblio.html
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=180 --allow-errors --to notebook 09-1_literatura.ipynb --inplace
 
 
-biblio.html: biblio.md biblio.bib 09-1_literatura.ipynb
+biblio.html: biblio.md biblio.bib
 	pandoc --filter=pandoc-citeproc --standalone biblio.md -o biblio.html
 
 
