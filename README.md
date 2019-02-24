@@ -1,13 +1,19 @@
+# Podatkovno rudarjenje
 
-Should follow this template w
-Vprašanja in odgovori 
+Martin Stražar, Rok Gomišček, Tomaž Curk
 
-##### Vprašanje X-Y-N
+Univerza v Ljubljani, Fakulteta za računalništvo in informatiko
 
-Besedilo
-
-[Odgovor](rešitve_XX-Y_*.ipynb#odgovor-X-Y-N)
+Poženite zbirko vaj preko spleta:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomazc/PRvaje/master?filepath=web-sl)
 
 
-##### Odgovor X-Y-N
+# Data mining
+
+Rok Gomišček, Martin Stražar, Tomaž Curk
+
+University of Ljubljana, Faculty of Computer and Information Science
+
+You can run this collection in binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tomazc/PRvaje/master?filepath=web-sl)
 
