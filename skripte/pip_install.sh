@@ -3,12 +3,12 @@
 # Essentials
 pip install --upgrade numpy
 pip install --upgrade scipy
+pip install --upgrade Pillow
 pip install --upgrade matplotlib
-pip install --upgrade GPy`
+pip install --upgrade GPy
 
 # Orange and requirements
-pip install --upgrade chardet
-pip install --upgrade Orange
+pip install --upgrade Orange3
 
 # Scikit-learn
 pip install --upgrade sklearn
@@ -17,6 +17,7 @@ pip install --upgrade sklearn
 pip install --upgrade terminado
 pip install --upgrade functools32
 pip install --upgrade jupyter
+pip install --upgrade jupyter_contrib_nbextensions
 
 # Test installations
 python -c "import Orange"

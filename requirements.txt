@@ -1,0 +1,10 @@
+numpy
+scipy
+Pillow
+matplotlib
+GPy
+sklearn
+Orange3
+jupyter
+jupyter_contrib_nbextensions
+jupyter_latex_envs
