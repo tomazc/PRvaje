@@ -23,4 +23,17 @@ Besedilo
 * [8 - Zaporedja](08-1_zaporedja_HMM.ipynb)
 
 
+## Uporabne povezave
+[Jupyter in binder](https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84)
+
+
+%config InlineBackend.figure_formats = ['jpeg']
+get_ipython().display_formatter.formatters.pop('text/plain', None)
+
+
+%config InlineBackend.figure_formats = ['jpeg']
+import matplotlib
+matplotlib.figure.Figure.__repr__ = lambda self: (
+    f"<{self.__class__.__name__} size {self.bbox.size[0]:g}"
+    f"x{self.bbox.size[1]:g} with {len(self.axes)} Axes>")
 

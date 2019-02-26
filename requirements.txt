@@ -5,6 +5,7 @@ matplotlib
 GPy
 sklearn
 Orange3
+Orange3-Associate
 jupyter
 jupyter_contrib_nbextensions
 jupyter_latex_envs
