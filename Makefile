@@ -18,6 +18,8 @@ NOTEBOOKS_nal_web-en = $(foreach I,$(NOTEBOOKS_nal),web-en/$(notdir $I))
 NOTEBOOKS_nal_tex-sl = $(foreach I,$(NOTEBOOKS_nal),tex-sl/$(notdir $I).tex)
 NOTEBOOKS_nal_tex-en = $(foreach I,$(NOTEBOOKS_nal),tex-en/$(notdir $I).tex)
 
+all: pdf/PR.pdf pdf/DM.pdf
+
 tex-sl/%.ipynb.tex: web-sl/%.ipynb
 	mkdir -p $(@D)
 	@echo "Izvajam zvezek $^"
@@ -59,6 +61,11 @@ web-en: $(NOTEBOOKS_web-en) $(NOTEBOOKS_res_web-en) $(NOTEBOOKS_nal_web-en)
 tex-sl: $(NOTEBOOKS_tex-sl) $(NOTEBOOKS_res_tex-sl) $(NOTEBOOKS_nal_tex-sl)
 tex-en: $(NOTEBOOKS_tex-en) $(NOTEBOOKS_res_tex-en) $(NOTEBOOKS_nal_tex-en)
 
+fixlangs:
+	for n in *.ipynb; do \
+		python fix_metadata.py $$n; \
+	done
+
 rerun:
 	for n in *.ipynb; do \
 		jupyter nbconvert --execute --ExecutePreprocessor.timeout=360 --allow-errors --to notebook $$n --inplace; \
@@ -93,8 +100,6 @@ pdf/DM.pdf: biblio.bib tex-en/DM.tex tex-en/heading.tex web-en tex-en
 	mv DM.pdf ../pdf/
 
 pdfs: pdf/PR.pdf pdf/DM.pdf
-
-all: rerun pdf/PR.pdf pdf/DM.pdf
 
 clean:
 	rm -f pdf/PR.pdf
