@@ -1,11 +1,9 @@
 .idea
 .DS_Store
 .ipynb_checkpoints
+tex-sl/*.ipynb
 tex-sl/*.ipynb.tex
 tex-sl/*.ipynb_files
-tex-en/*.ipynb.tex
-tex-en/*.ipynb_files
-
 tex-sl/PR.aux
 tex-sl/PR.bbl
 tex-sl/PR.blg
@@ -13,6 +11,9 @@ tex-sl/PR.log
 tex-sl/PR.out
 tex-sl/PR.toc
 
+tex-en/*.ipynb
+tex-en/*.ipynb.tex
+tex-en/*.ipynb_files
 tex-en/DM.aux
 tex-en/DM.bbl
 tex-en/DM.blg

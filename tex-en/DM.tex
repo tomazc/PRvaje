@@ -6,10 +6,9 @@
 \usepackage{fontspec}
 \usepackage{parskip}
 \setcounter{secnumdepth}{3}
-\setcounter{tocdepth}{4}
 
-\title{Exercises in Data Mining}
-\author{Rok Gomišček, Martin Stražar in Tomaž Curk}
+\title{Data Mining Exercises}
+\author{Rok Gomišček, Martin Stražar, Tomaž Curk}
 
 \begin{document}
 \maketitle
@@ -18,138 +17,134 @@
 \newpage
 
 \tableofcontents
+\addtocontents{toc}{\setcounter{tocdepth}{4}}
 \newpage
 
 % Delovno okolje
 \setcounter{secnumdepth}{-1}
-\input{00-1_namestitev.ipynb.tex}
+\input{001-namestitev.ipynb.tex}
+\input{002-git_in_github.ipynb.tex}
 \setcounter{secnumdepth}{3}
 
 % Priprava podatkov
-\input{01-1_podatki_numpy.ipynb.tex}
-\input{01-2_podatki_temperatura.ipynb.tex}
-
+\input{101-1_podatki_numpy.ipynb.tex}
+\input{101-2_podatki_temperatura.ipynb.tex}
 
 % Prikazovanje podatkov
-\input{02-1_prikaz_matplotlib.ipynb.tex}
-\input{02-2_prikaz_olimpijske.ipynb.tex}
-
+\input{102-1_prikaz_matplotlib.ipynb.tex}
+\input{102-2_prikaz_olimpijske.ipynb.tex}
 
 % Porazdelitve in osamelci
-\input{03-1_porazdelitve.ipynb.tex}
-\input{03-2_osamelci.ipynb.tex}
-
-% Naloga 1
-\setcounter{secnumdepth}{-1}
-\input{n1_priprava_pregled.ipynb.tex}
-\setcounter{secnumdepth}{3}
-
+\input{103-1_porazdelitve.ipynb.tex}
+\input{103-2_osamelci.ipynb.tex}
 
 % Odkrivanje skupin
-\input{04-1_gručenje_voditelji.ipynb.tex}
-\input{04-2_gručenje_hierarhično.ipynb.tex}
-\input{04-3_gručenje_genomski.ipynb.tex}
-
-% Naloga 2
-\setcounter{secnumdepth}{-1}
-\input{n2_struktura_podatkov.ipynb.tex}
-\setcounter{secnumdepth}{3}
-
+\input{104-1_grucenje_voditelji.ipynb.tex}
+\input{104-2_grucenje_hierarhicno.ipynb.tex}
+\input{104-3_grucenje_genomski.ipynb.tex}
 
 % Nadzorovano učenje
-\input{05-1_nadzorovano_linreg.ipynb.tex}
-\input{05-2_nadzorovano_naivniBayes.ipynb.tex}
-
-% Naloga 3
-\setcounter{secnumdepth}{-1}
-\input{n3_nadzorovano_ucenje.ipynb.tex}
-\setcounter{secnumdepth}{3}
-
+\input{105-1_nadzorovano_linreg.ipynb.tex}
+\input{105-2_nadzorovano_naivniBayes.ipynb.tex}
 
 % Nenegativna matrična faktorizacija in zlivanje podatkov
-\input{06-1_NMF.ipynb.tex}
-
-% Naloga 4
-\setcounter{secnumdepth}{-1}
-\input{n4_matrična_faktorizacija.ipynb.tex}
-\setcounter{secnumdepth}{3}
-
+\input{106-1_NMF.ipynb.tex}
 
 % Omrežja
-\input{07-1_omrežja_networkx.ipynb.tex}
-\input{07-2_omrežja_email.ipynb.tex}
-
+\input{107-1_omrezja_networkx.ipynb.tex}
+\input{107-2_omrezja_email.ipynb.tex}
 
 % Zaporedja
-\input{08-1_zaporedja_HMM.ipynb.tex}
-\input{08-2_zaporedja_časovne.ipynb.tex}
-\input{08-3_zaporedja_trendi.ipynb.tex}
-
-% Naloga 5
-\setcounter{secnumdepth}{-1}
-\input{n5_aplikacija.ipynb.tex}
-\setcounter{secnumdepth}{3}
+\input{108-1_zaporedja_HMM.ipynb.tex}
+\input{108-2_zaporedja_casovne.ipynb.tex}
+\input{108-3_zaporedja_trendi.ipynb.tex}
 
 
 % Odgovori 
 \setcounter{secnumdepth}{-1}
 \chapter{Odgovori}
-\input{resitve_01-1_podatki_numpy.ipynb}
+\input{201-1.ipynb.tex}
 
 \newpage
-\input{resitve_01-2_podatki_temperatura.ipynb}
+\input{201-2.ipynb.tex}
 
 \newpage
-\input{resitve_02-1_prikaz_matplotlib.ipynb}
+\input{202-1.ipynb.tex}
 
 \newpage
-\input{resitve_02-2_prikaz_olimpijske.ipynb}
+\input{202-2.ipynb.tex}
 
 \newpage
-\input{resitve_03-1_porazdelitve.ipynb}
+\input{203-1.ipynb.tex}
 
 \newpage
-\input{resitve_03-2_osamelci.ipynb}
+\input{203-2.ipynb.tex}
 
 \newpage
-\input{resitve_04-1_grucenje_voditelji.ipynb}
+\input{204-1.ipynb.tex}
 
 \newpage
-\input{resitve_04-2_grucenje_hierarhicno.ipynb}
+\input{204-2.ipynb.tex}
 
 \newpage
-\input{resitve_04-3_grucenje_genomski.ipynb}
+\input{204-3.ipynb.tex}
 
 \newpage
-\input{resitve_05-1_nadzorovano_linreg.ipynb}
+\input{205-1.ipynb.tex}
 
 \newpage
-\input{resitve_05-2_nadzorovano_naivniBayes.ipynb}
+\input{205-2.ipynb.tex}
 
 \newpage
-\input{resitve_06-1_NMF.ipynb}
+\input{206-1.ipynb.tex}
 
 \newpage
-\input{resitve_07-1_omrezja_networkx.ipynb}
+\input{207-1.ipynb.tex}
  
 \newpage
-\input{resitve_07-2_omrezja_email.ipynb}
+\input{207-2.ipynb.tex}
  
 \newpage
-\input{resitve_08-1_zaporedja_HMM.ipynb}
+\input{208-1.ipynb.tex}
  
 \newpage
-\input{resitve_08-2_zaporedja_casovne.ipynb}
+\input{208-2.ipynb.tex}
  
 \newpage
-\input{resitve_08-3_zaporedja_trendi.ipynb}
+\input{208-3.ipynb.tex}
+\setcounter{secnumdepth}{3}
+
+
+\setcounter{secnumdepth}{-1}
+\addtocontents{toc}{\setcounter{tocdepth}{1}}
+\chapter{Assignments}
+
+% Naloga 1
+\newpage
+\input{301-priprava_pregled.ipynb.tex}
+
+% Naloga 2
+\newpage
+\input{302-struktura_podatkov.ipynb.tex}
+
+% Naloga 3
+\newpage
+\input{303-nadzorovano_ucenje.ipynb.tex}
+
+% Naloga 4
+\newpage
+\input{304-matricna_faktorizacija.ipynb.tex}
+
+% Naloga 5
+\newpage
+\input{305-aplikacija.ipynb.tex}
+\setcounter{secnumdepth}{3}
 
 
 \cleardoublepage
 \phantomsection
 \addcontentsline{toc}{chapter}{Literatura}
 \bibliographystyle{unsrt}
-\bibliography{../biblio}
+\bibliography{biblio}
 
 \end{document}
-
