@@ -35,9 +35,9 @@ tex-en/%.ipynb.tex: notebooks/%.ipynb
 tex-sl: $(NOTEBOOKS_tex-sl)
 tex-en: $(NOTEBOOKS_tex-en)
 
-fixlangs:
+fixcellmeta:
 	for n in notebooks/*.ipynb; do \
-		python fix_metadata.py $$n; \
+		python notebooks/fix_metadata.py $$n; \
 	done
 
 rerun:
