@@ -24,8 +24,8 @@ tex-sl/%.ipynb.tex: web-sl/%.ipynb
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=360 --allow-errors --to notebook $^ --inplace
 	@echo "Pretvarjam v latex $^"
 	jupyter nbconvert --to latex_with_lenvs --template mystyle.tplx --LenvsLatexExporter.removeHeaders=True $^ --output-dir tex-sl --output $(notdir $^)
-	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > tex-sl/tmp.tex
-	mv tex-sl/tmp.tex "$@"
+	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > "tex-sl/tmp.$(notdir $^).tex"
+	mv "tex-sl/tmp.$(notdir $^).tex" "$@"
 
 tex-en/%.ipynb.tex: web-en/%.ipynb
 	mkdir -p $(@D)
@@ -33,8 +33,8 @@ tex-en/%.ipynb.tex: web-en/%.ipynb
 	jupyter nbconvert --execute --ExecutePreprocessor.timeout=360 --allow-errors --to notebook $^ --inplace
 	@echo "Pretvarjam v latex $^"
 	jupyter nbconvert --to latex_with_lenvs --template mystyle.tplx --LenvsLatexExporter.removeHeaders=True $^ --output-dir tex-en --output $(notdir $^)
-	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > tex-en/tmp.tex
-	mv tex-en/tmp.tex "$@"
+	sed -E 's/\\href{.+\.ipynb\\#(.+)}{/\\hyperref[\1]{/' "$@" > "tex-en/tmp.$(notdir $^).tex"
+	mv "tex-en/tmp.$(notdir $^).tex" "$@"
 
 # sed is used to convert links:
 # from: \href{rešitve_01-1_podatki_numpy.ipynb\#odgovor-1-1-1}{Odgovor}
