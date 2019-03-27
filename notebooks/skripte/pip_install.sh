@@ -5,7 +5,7 @@ pip install --upgrade numpy
 pip install --upgrade scipy
 pip install --upgrade Pillow
 pip install --upgrade matplotlib
-pip install --upgrade GPy
+#pip install --upgrade GPy
 
 # Orange and requirements
 pip install --upgrade Orange3
@@ -25,6 +25,6 @@ python -c "import sklearn"
 python -c "import numpy"
 python -c "import scipy"
 python -c "import matplotlib"
-python -c "import GPy"
+#python -c "import GPy"
 python -c "import jupyter"
 
