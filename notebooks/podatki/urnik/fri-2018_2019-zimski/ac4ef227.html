@@ -1,0 +1,289 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, zimski semester</span>
+        
+            <span class="subtitle">ac4ef227</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-zimski/allocations_ical?student=ac4ef227" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 5; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63749B" >IPIRI(63749)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 08:00 - 13:00<br/>
+                                        P21
+                                        <!-- (57 / 50) --> <br/>
+                                        Izbrana poglavja iz računalništva in informatike(63749B)_P<br/>
+                                        Špetič, Aleš<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Izbrana poglavja iz računalništva in informatike<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Izbrana poglavja iz računalništva in informatike<br/>63749B padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=138">P21</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=341">Aleš Špetič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37939">2_BVS-RI_IPIRI(63749B)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37940">3_BVS-RI_IPIRI(63749B)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37941">63749B_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 11 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=FA0001" >OKP</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 17:00 - 19:00<br/>
+                                        PR17
+                                        <!-- (0 / 18) --> <br/>
+                                        Osnove kreativnega programiranja<br/>
+                                        Žabkar, Jure<br/>
+                                        
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=123">PR17</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=199">Jure Žabkar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63205" >F_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 14:00 - 17:00<br/>
+                                        Velika fizikalna predavalnica
+                                        <!-- (199 / 250) --> <br/>
+                                        Fizika(63205)_P<br/>
+                                        Kerševan, Borut Paul<br/>
+                                        1. letnik, Računalništvo in informatika, prva stopnja: univerzitetni<br/>63205 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=97">VFP</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=487">Borut Paul Kerševan</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37854">1_BUN-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37993">63205_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 12 / span 3; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=90066" >RPOI(_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 18:00 - 21:00<br/>
+                                        PR09
+                                        <!-- (18 / 30) --> <br/>
+                                        Računalniška podpora oblikovanju I (ALUO)(90066)_LV<br/>
+                                        Marolt, Matija<br/>
+                                        
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=82">Matija Marolt</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 10 / span 3; background-color: hsla(31.74193548387097, 77.02%, 68.55%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63001" >UIZŠZ_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 16:00 - 19:00<br/>
+                                        PR09
+                                        <!-- (0 / 30) --> <br/>
+                                        Uporaba IT za študijske zadeve (63001)_LV<br/>
+                                        Jaklič, Aleš<br/>Šajn, Luka<br/>
+                                        
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=196">Aleš Jaklič</a></div>
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=137">Luka Šajn</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=90067" >RII(_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 11:00 - 14:00<br/>
+                                        PA
+                                        <!-- (0 / 300) --> <br/>
+                                        Osnove programiranja (FKKT)(90067)_P<br/>
+                                        Trebar, Mira<br/>
+                                        
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=143">PA</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=128">Mira Trebar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=37854">1_BUN-RI</a><br>
+    
+        <a class="group" href="?group=37939">2_BVS-RI_IPIRI(63749B)</a><br>
+    
+        <a class="group" href="?group=37940">3_BVS-RI_IPIRI(63749B)</a><br>
+    
+        <a class="group" href="?group=37993">63205_PAD</a><br>
+    
+        <a class="group" href="?group=37941">63749B_PAD</a><br>
+    
+</div>
+</body>
+</html>

@@ -1,0 +1,99 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, letni semester-1-13</span>
+        
+            <span class="subtitle">ea907a79</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-letni-1-13/allocations_ical?student=ea907a79" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+</div>
+</body>
+</html>

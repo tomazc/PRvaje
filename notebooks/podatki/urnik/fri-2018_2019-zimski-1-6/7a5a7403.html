@@ -1,0 +1,657 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, zimski semester-1-6</span>
+        
+            <span class="subtitle">7a5a7403</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-zimski-1-6/allocations_ical?student=7a5a7403" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 11 / span 2; background-color: hsla(6.131386861313867, 74.56%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63732" >TPO(63732)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 17:00 - 19:00<br/>
+                                        PR06
+                                        <!-- (18 / 18) --> <br/>
+                                        Tehnologija programske opreme(63732)_LV<br/>
+                                        Kavcic, Alenka<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, LV, skupina 2<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, LV, skupina 8<br/>99 - Skupina za menjave - TPO(63732)_LV_MON_17:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=121">PR06</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=119">Alenka Kavcic</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38760">3_BVS-RI_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39116">3_BVS-RI_LV_08</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39279">EX_TPO(63732)_LV_MON_17:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 2; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 09:00 - 11:00<br/>
+                                        PR09
+                                        <!-- (33 / 30) --> <br/>
+                                        Umetna inteligenca(63720)_LV<br/>
+                                        Vračar, Petar<br/>Pirš, Gregor<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca, LV, skupina 4<br/>63720 padalci, LV, skupina 7<br/>99 - Skupina za menjave - UI(63720)_LV_MON_09:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=185">Petar Vračar</a></div>
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=521">Gregor Pirš</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38864">2_BVS-RI_UI(63720)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38865">2_BVS-RI_UI(63720)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38879">63720_PAD_LV_07</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39181">EX_UI(63720)_LV_MON_09:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(82.05128205128206, 50.59%, 63.87%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63735" >VPSA_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 15:00 - 17:00<br/>
+                                        PR07
+                                        <!-- (18 / 18) --> <br/>
+                                        Vzporedni in porazdeljeni sistemi in algoritmi(63735)_LV<br/>
+                                        Sluga, Davor<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vzporedni in porazdeljeni sistemi in algoritmi, LV, skupina 1<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vzporedni in porazdeljeni sistemi in algoritmi, LV, skupina 2<br/>99 - Skupina za menjave - VPSA_LV_MON_15:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=133">PR07</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=174">Davor Sluga</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38539">3_BVS-RI_VPSA(63735)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38540">3_BVS-RI_VPSA(63735)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39486">EX_VPSA_LV_MON_15:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63741" >OS(63741)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 15:00 - 17:00<br/>
+                                        PR06
+                                        <!-- (25 / 18) --> <br/>
+                                        Odločitveni sistemi(63741)_LV<br/>
+                                        Možina, Martin<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Odločitveni sistemi, LV, skupina 1<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Odločitveni sistemi, LV, skupina 2<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Odločitveni sistemi, LV, skupina 3<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Odločitveni sistemi, LV, skupina 4<br/>63741 padalci, LV, skupina 1<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=121">PR06</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=133">Martin Možina</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38667">3_BVS-RI_OS(63741)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38668">3_BVS-RI_OS(63741)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38669">3_BVS-RI_OS(63741)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38670">3_BVS-RI_OS(63741)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38671">63741_PAD_LV_01</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63739" >RRZ_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 11:00 - 13:00<br/>
+                                        PR11
+                                        <!-- (18 / 18) --> <br/>
+                                        Robotika in računalniško zaznavanje(63739)_LV<br/>
+                                        Čehovin Zajc, Luka<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Robotika in računalniško zaznavanje, LV, skupina 2<br/>99 - Skupina za menjave - RRZ_LV_TUE_11:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=129">PR11</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=189">Luka Čehovin Zajc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38607">3_BVS-RI_RRZ(63739)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39179">EX_RRZ_LV_TUE_11:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63739" >RRZ_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 08:00 - 11:00<br/>
+                                        P02
+                                        <!-- (43 / 30) --> <br/>
+                                        Robotika in računalniško zaznavanje(63739)_P<br/>
+                                        Skočaj, Danijel<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Robotika in računalniško zaznavanje<br/>63739 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=135">P02</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=123">Danijel Skočaj</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37981">3_BVS-RI_RRZ(63739)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37982">63739_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(204.57831325301203, 67.17%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 08:00 - 11:00<br/>
+                                        P22
+                                        <!-- (106 / 100) --> <br/>
+                                        Umetna inteligenca(63720)_P<br/>
+                                        Kononenko, Igor<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca<br/>63720 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=80">Igor Kononenko</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38067">2_BVS-RI_UI(63720)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38066">3_BVS-RI_UI(63720)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38068">63720_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63737" >PA(63737)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 07:00 - 09:00<br/>
+                                        PR17
+                                        <!-- (18 / 18) --> <br/>
+                                        Procesna avtomatika(63737)_LV<br/>
+                                        Ilc, Nejc<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Procesna avtomatika, LV, skupina 1<br/>99 - Skupina za menjave - PA(63737)_LV_WED_07:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=123">PR17</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=170">Nejc Ilc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38613">2_BUN-RI_PA(63737)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39173">EX_PA(63737)_LV_WED_07:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63732" >TPO(63732)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 14:00 - 17:00<br/>
+                                        P22
+                                        <!-- (111 / 100) --> <br/>
+                                        Tehnologija programske opreme(63732)_P<br/>
+                                        Rožanc, Igor<br/>
+                                        2. letnik, Upravna informatika, prva stopnja: univerzitetni, Tehnologija programske opreme<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni<br/>63732 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=114">Igor Rožanc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38046">2_BUN-UI_TPO(63732)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37827">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38047">63732_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 3; background-color: hsla(82.05128205128206, 88.54%, 63.87%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63735" >VPSA_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 09:00 - 12:00<br/>
+                                        P04
+                                        <!-- (38 / 50) --> <br/>
+                                        Vzporedni in porazdeljeni sistemi in algoritmi(63735)_P<br/>
+                                        Bulić, Patricio<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vzporedni in porazdeljeni sistemi in algoritmi<br/>63735 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=140">P04</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=120">Patricio Bulić</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37959">3_BVS-RI_VPSA(63735)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37960">63735_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63741" >OS(63741)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        četrtek 08:00 - 11:00<br/>
+                                        P21
+                                        <!-- (25 / 50) --> <br/>
+                                        Odločitveni sistemi(63741)_P<br/>
+                                        Sadikov, Aleksander<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Odločitveni sistemi<br/>63741 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=138">P21</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=125">Aleksander Sadikov</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38010">3_BVS-RI_OS(63741)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38011">63741_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 2; background-color: hsla(31.74193548387097, 77.02%, 68.55%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63738" >VS(63738)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 11:00 - 13:00<br/>
+                                        PR15
+                                        <!-- (18 / 16) --> <br/>
+                                        Vgrajeni sistemi(63738)_LV<br/>
+                                        Češnovar, Rok<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vgrajeni sistemi, LV, skupina 1<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vgrajeni sistemi, LV, skupina 2<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vgrajeni sistemi, LV, skupina 3<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vgrajeni sistemi, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=125">PR15</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=149">Rok Češnovar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38739">3_BVS-RI_VS(63738)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38740">3_BVS-RI_VS(63738)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38741">3_BVS-RI_VS(63738)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38742">3_BVS-RI_VS(63738)_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63737" >PA(63737)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 08:00 - 11:00<br/>
+                                        P02
+                                        <!-- (38 / 30) --> <br/>
+                                        Procesna avtomatika(63737)_P<br/>
+                                        Lotrič, Uroš<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Procesna avtomatika<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Procesna avtomatika<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Procesna avtomatika<br/>63737 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=135">P02</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=225">Uroš Lotrič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37986">2_BUN-RI_PA(63737)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37985">3_BUN-RI_PA(63737)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37987">3_BVS-RI_PA(63737)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37988">63737_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(31.74193548387097, 134.78%, 68.55%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63738" >VS(63738)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 12:00 - 15:00<br/>
+                                        P02
+                                        <!-- (14 / 30) --> <br/>
+                                        Vgrajeni sistemi(63738)_P<br/>
+                                        Bulić, Patricio<br/>
+                                        3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Vgrajeni sistemi<br/>63738 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=135">P02</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=120">Patricio Bulić</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38040">3_BVS-RI_VS(63738)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38041">63738_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=37986">2_BUN-RI_PA(63737)</a><br>
+    
+        <a class="group" href="?group=38613">2_BUN-RI_PA(63737)_LV_01</a><br>
+    
+        <a class="group" href="?group=38046">2_BUN-UI_TPO(63732)</a><br>
+    
+        <a class="group" href="?group=38067">2_BVS-RI_UI(63720)</a><br>
+    
+        <a class="group" href="?group=38864">2_BVS-RI_UI(63720)_LV_03</a><br>
+    
+        <a class="group" href="?group=38865">2_BVS-RI_UI(63720)_LV_04</a><br>
+    
+        <a class="group" href="?group=37985">3_BUN-RI_PA(63737)</a><br>
+    
+        <a class="group" href="?group=37827">3_BVS-RI</a><br>
+    
+        <a class="group" href="?group=38760">3_BVS-RI_LV_02</a><br>
+    
+        <a class="group" href="?group=39116">3_BVS-RI_LV_08</a><br>
+    
+        <a class="group" href="?group=38010">3_BVS-RI_OS(63741)</a><br>
+    
+        <a class="group" href="?group=38667">3_BVS-RI_OS(63741)_LV_01</a><br>
+    
+        <a class="group" href="?group=38668">3_BVS-RI_OS(63741)_LV_02</a><br>
+    
+        <a class="group" href="?group=38669">3_BVS-RI_OS(63741)_LV_03</a><br>
+    
+        <a class="group" href="?group=38670">3_BVS-RI_OS(63741)_LV_04</a><br>
+    
+        <a class="group" href="?group=37987">3_BVS-RI_PA(63737)</a><br>
+    
+        <a class="group" href="?group=37981">3_BVS-RI_RRZ(63739)</a><br>
+    
+        <a class="group" href="?group=38607">3_BVS-RI_RRZ(63739)_LV_02</a><br>
+    
+        <a class="group" href="?group=38066">3_BVS-RI_UI(63720)</a><br>
+    
+        <a class="group" href="?group=37959">3_BVS-RI_VPSA(63735)</a><br>
+    
+        <a class="group" href="?group=38539">3_BVS-RI_VPSA(63735)_LV_01</a><br>
+    
+        <a class="group" href="?group=38540">3_BVS-RI_VPSA(63735)_LV_02</a><br>
+    
+        <a class="group" href="?group=38040">3_BVS-RI_VS(63738)</a><br>
+    
+        <a class="group" href="?group=38739">3_BVS-RI_VS(63738)_LV_01</a><br>
+    
+        <a class="group" href="?group=38740">3_BVS-RI_VS(63738)_LV_02</a><br>
+    
+        <a class="group" href="?group=38741">3_BVS-RI_VS(63738)_LV_03</a><br>
+    
+        <a class="group" href="?group=38742">3_BVS-RI_VS(63738)_LV_04</a><br>
+    
+        <a class="group" href="?group=38068">63720_PAD</a><br>
+    
+        <a class="group" href="?group=38879">63720_PAD_LV_07</a><br>
+    
+        <a class="group" href="?group=38047">63732_PAD</a><br>
+    
+        <a class="group" href="?group=37960">63735_PAD</a><br>
+    
+        <a class="group" href="?group=37988">63737_PAD</a><br>
+    
+        <a class="group" href="?group=38041">63738_PAD</a><br>
+    
+        <a class="group" href="?group=37982">63739_PAD</a><br>
+    
+        <a class="group" href="?group=38011">63741_PAD</a><br>
+    
+        <a class="group" href="?group=38671">63741_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=39173">EX_PA(63737)_LV_WED_07:00</a><br>
+    
+        <a class="group" href="?group=39179">EX_RRZ_LV_TUE_11:00</a><br>
+    
+        <a class="group" href="?group=39279">EX_TPO(63732)_LV_MON_17:00</a><br>
+    
+        <a class="group" href="?group=39181">EX_UI(63720)_LV_MON_09:00</a><br>
+    
+        <a class="group" href="?group=39486">EX_VPSA_LV_MON_15:00</a><br>
+    
+</div>
+</body>
+</html>

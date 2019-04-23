@@ -1,0 +1,323 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, zimski semester-1-6</span>
+        
+            <span class="subtitle">c7aee39d</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-zimski-1-6/allocations_ical?student=c7aee39d" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 5; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63749B" >IPIRI(63749)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 08:00 - 13:00<br/>
+                                        P21
+                                        <!-- (57 / 50) --> <br/>
+                                        Izbrana poglavja iz računalništva in informatike(63749B)_P<br/>
+                                        Špetič, Aleš<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Izbrana poglavja iz računalništva in informatike<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Izbrana poglavja iz računalništva in informatike<br/>63749B padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=138">P21</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=341">Aleš Špetič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37939">2_BVS-RI_IPIRI(63749B)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37940">3_BVS-RI_IPIRI(63749B)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37941">63749B_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 07:00 - 09:00<br/>
+                                        PR09
+                                        <!-- (18 / 30) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_LV<br/>
+                                        Rožanc, Igor<br/>
+                                        63711 padalci, LV, skupina 1<br/>63711 padalci, LV, skupina 14<br/>63711 padalci, LV, skupina 2<br/>63711 padalci, LV, skupina 3<br/>63711 padalci, LV, skupina 4<br/>63711 padalci, LV, skupina 5<br/>63711 padalci, LV, skupina 6<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=114">Igor Rožanc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38210">63711_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38223">63711_PAD_LV_14</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38211">63711_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38212">63711_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38213">63711_PAD_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38214">63711_PAD_LV_05</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38215">63711_PAD_LV_06</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63717" >OR_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 13:00 - 15:00<br/>
+                                        PR17
+                                        <!-- (18 / 18) --> <br/>
+                                        Organizacija računalnikov(63717)_LV<br/>
+                                        Rozman, Robert<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Organizacija računalnikov, LV, skupina 3<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Organizacija računalnikov, LV, skupina 1<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Organizacija računalnikov, LV, skupina 2<br/>63717 padalci, LV, skupina 1<br/>63717 padalci, LV, skupina 2<br/>99 - Skupina za menjave - OR_LV_TUE_13:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=123">PR17</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=191">Robert Rozman</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38660">2_BVS-RI_OR(63717)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38661">3_BVS-RI_OR(63717)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38662">3_BVS-RI_OR(63717)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38663">63717_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38664">63717_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39479">EX_OR_LV_TUE_13:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63717" >OR_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 11:00 - 14:00<br/>
+                                        P20
+                                        <!-- (31 / 50) --> <br/>
+                                        Organizacija računalnikov(63717)_P<br/>
+                                        Rozman, Robert<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Organizacija računalnikov<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Organizacija računalnikov<br/>63717 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=137">P20</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=191">Robert Rozman</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38008">2_BVS-RI_OR(63717)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38007">3_BVS-RI_OR(63717)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38009">63717_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        četrtek 09:00 - 12:00<br/>
+                                        P22
+                                        <!-- (142 / 100) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_P<br/>
+                                        Mihelič, Jurij<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni<br/>63711 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=147">Jurij Mihelič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37839">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37850">63711_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=37839">2_BVS-RI</a><br>
+    
+        <a class="group" href="?group=37939">2_BVS-RI_IPIRI(63749B)</a><br>
+    
+        <a class="group" href="?group=38008">2_BVS-RI_OR(63717)</a><br>
+    
+        <a class="group" href="?group=38660">2_BVS-RI_OR(63717)_LV_03</a><br>
+    
+        <a class="group" href="?group=37940">3_BVS-RI_IPIRI(63749B)</a><br>
+    
+        <a class="group" href="?group=38007">3_BVS-RI_OR(63717)</a><br>
+    
+        <a class="group" href="?group=38661">3_BVS-RI_OR(63717)_LV_01</a><br>
+    
+        <a class="group" href="?group=38662">3_BVS-RI_OR(63717)_LV_02</a><br>
+    
+        <a class="group" href="?group=37850">63711_PAD</a><br>
+    
+        <a class="group" href="?group=38210">63711_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=38211">63711_PAD_LV_02</a><br>
+    
+        <a class="group" href="?group=38212">63711_PAD_LV_03</a><br>
+    
+        <a class="group" href="?group=38213">63711_PAD_LV_04</a><br>
+    
+        <a class="group" href="?group=38214">63711_PAD_LV_05</a><br>
+    
+        <a class="group" href="?group=38215">63711_PAD_LV_06</a><br>
+    
+        <a class="group" href="?group=38223">63711_PAD_LV_14</a><br>
+    
+        <a class="group" href="?group=38009">63717_PAD</a><br>
+    
+        <a class="group" href="?group=38663">63717_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=38664">63717_PAD_LV_02</a><br>
+    
+        <a class="group" href="?group=37941">63749B_PAD</a><br>
+    
+        <a class="group" href="?group=39479">EX_OR_LV_TUE_13:00</a><br>
+    
+</div>
+</body>
+</html>
