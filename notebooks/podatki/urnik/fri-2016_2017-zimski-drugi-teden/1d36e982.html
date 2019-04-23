@@ -1,0 +1,467 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2016/2017, zimski semester, drugi teden</span>
+        
+            <span class="subtitle">1d36e982</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2016_2017-zimski-drugi-teden/allocations_ical?student=1d36e982" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63713" >PB2_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 14:00 - 17:00<br/>
+                                        P22
+                                        <!-- (0 / 100) --> <br/>
+                                        Podatkovne baze 2(63713)_P&#39;<br/>
+                                        Vavpotič, Damjan<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18706_11407919<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=109">Damjan Vavpotič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29030">g_18706</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(6.131386861313867, 74.56%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63719" >RG_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 07:00 - 09:00<br/>
+                                        PR08
+                                        <!-- (0 / 18) --> <br/>
+                                        Ra\u010dunalni\u0161ka grafika(63719)_LV&#39;<br/>
+                                        Bohak, Ciril<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18783_11407954<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=132">PR08</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=141">Ciril Bohak</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29065">g_18783</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63719" >RG_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 11:00 - 14:00<br/>
+                                        P22
+                                        <!-- (0 / 100) --> <br/>
+                                        Ra\u010dunalni\u0161ka grafika(63719)_P&#39;<br/>
+                                        Lebar Bajec, Iztok<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18787_11407952<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=110">Iztok Lebar Bajec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29063">g_18787</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63716" >KPOV_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 09:00 - 11:00<br/>
+                                        PR16
+                                        <!-- (0 / 18) --> <br/>
+                                        Komunikacijski protokoli in omre\u017ena varnost(63716)_LV&#39;<br/>
+                                        Fele Žorž, Gašper<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>2. letnik, Upravna informatika UN 1. st.<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18587_11407941<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=124">PR16</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=198">Gašper Fele Žorž</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28284">2_BUN-UI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29052">g_18587</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63716" >KPOV_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 11:00 - 14:00<br/>
+                                        P22
+                                        <!-- (0 / 100) --> <br/>
+                                        Komunikacijski protokoli in omre\u017ena varnost(63716)_P&#39;<br/>
+                                        Brodnik, Andrej<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>2. letnik, Upravna informatika UN 1. st.<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18592_11407939<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=112">Andrej Brodnik</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28284">2_BUN-UI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29050">g_18592</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 2; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 14:00 - 16:00<br/>
+                                        PR17
+                                        <!-- (0 / 18) --> <br/>
+                                        Umetna inteligenca(63720)_LV&#39;<br/>
+                                        Vračar, Petar<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18846_11407962<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=123">PR17</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=185">Petar Vračar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29073">g_18846</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 11:00 - 14:00<br/>
+                                        P01
+                                        <!-- (0 / 200) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_P&#39;<br/>
+                                        Mihelič, Jurij<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18491_11407903<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=147">Jurij Mihelič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29014">g_18491</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 13:00 - 15:00<br/>
+                                        PR07
+                                        <!-- (0 / 18) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_LV&#39;<br/>
+                                        Rožanc, Igor<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18487_11407908<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=133">PR07</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=114">Igor Rožanc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29019">g_18487</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63713" >PB2_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        petek 08:00 - 10:00<br/>
+                                        PR10
+                                        <!-- (0 / 18) --> <br/>
+                                        Podatkovne baze 2(63713)_LV&#39;<br/>
+                                        Zrnec, Aljaž<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18700_11407920<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=130">PR10</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=108">Aljaž Zrnec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29031">g_18700</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(204.57831325301203, 67.17%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 11:00 - 14:00<br/>
+                                        P22
+                                        <!-- (0 / 100) --> <br/>
+                                        Umetna inteligenca(63720)_P&#39;<br/>
+                                        Kononenko, Igor<br/>Robnik Šikonja, Marko<br/>
+                                        2. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>3. letnik, RAČUNALN. IN INFORM. VS- I.ST<br/>g_18848_11407958<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=80">Igor Kononenko</a></div>
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=78">Marko Robnik Šikonja</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=28296">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=28285">3_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=29069">g_18848</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=28284">2_BUN-UI</a><br>
+    
+        <a class="group" href="?group=28296">2_BVS-RI</a><br>
+    
+        <a class="group" href="?group=28285">3_BVS-RI</a><br>
+    
+        <a class="group" href="?group=29019">g_18487</a><br>
+    
+        <a class="group" href="?group=29014">g_18491</a><br>
+    
+        <a class="group" href="?group=29052">g_18587</a><br>
+    
+        <a class="group" href="?group=29050">g_18592</a><br>
+    
+        <a class="group" href="?group=29031">g_18700</a><br>
+    
+        <a class="group" href="?group=29030">g_18706</a><br>
+    
+        <a class="group" href="?group=29065">g_18783</a><br>
+    
+        <a class="group" href="?group=29063">g_18787</a><br>
+    
+        <a class="group" href="?group=29073">g_18846</a><br>
+    
+        <a class="group" href="?group=29069">g_18848</a><br>
+    
+</div>
+</body>
+</html>

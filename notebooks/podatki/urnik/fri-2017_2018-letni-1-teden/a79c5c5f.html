@@ -1,0 +1,359 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2017/2018, letni semester, 1. teden</span>
+        
+            <span class="subtitle">a79c5c5f</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2017_2018-letni-1-teden/allocations_ical?student=a79c5c5f" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63209" >RK_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 09:00 - 12:00<br/>
+                                        P01
+                                        <!-- (272 / 200) --> <br/>
+                                        Računalniške komunikacije(63209)_P<br/>
+                                        Bosnić, Zoran<br/>
+                                        1. letnik, Računalništvo in informatika, prva stopnja: univerzitetni<br/>1. letnik, Upravna informatika, prva stopnja: univerzitetni<br/>2. letnik, Računalništvo in matematika, prva stopnja: univerzitetni<br/>63209 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=73">Zoran Bosnić</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=36029">1_BUN-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=36063">1_BUN-UI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=36062">2_BUN-RM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37250">63209_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63220" >PPJ_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 15:00 - 17:00<br/>
+                                        PR08
+                                        <!-- (20 / 18) --> <br/>
+                                        Principi programskih jezikov(63220)_LV<br/>
+                                        Lazar, Timotej<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Principi programskih jezikov, LV, skupina 1<br/>63220 padalci, LV, skupina 1<br/>63220 padalci, LV, skupina 12<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=132">PR08</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=328">Timotej Lazar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=36307">2_BUN-RI_PPJ(63220)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37493">63220_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37504">63220_PAD_LV_12</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63209" >RK_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 11:00 - 13:00<br/>
+                                        PR10
+                                        <!-- (20 / 18) --> <br/>
+                                        Računalniške komunikacije(63209)_LV<br/>
+                                        Tuta, Jure<br/>
+                                        1. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, LV, skupina 5<br/>63209 padalci, LV, skupina 17<br/>63209 padalci, LV, skupina 3<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=130">PR10</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=460">Jure Tuta</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=36183">1_BUN-RI_LV_05</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37422">63209_PAD_LV_17</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37408">63209_PAD_LV_03</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63280" >APS2(63280)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 11:00 - 14:00<br/>
+                                        PA
+                                        <!-- (235 / 300) --> <br/>
+                                        Algoritmi in podatkovne strukture 2(63280)_P<br/>
+                                        Robič, Borut<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: univerzitetni<br/>2. letnik, Računalništvo in matematika, prva stopnja: univerzitetni<br/>63280 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=143">PA</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=86">Borut Robič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=36045">2_BUN-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=36062">2_BUN-RM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37294">63280_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63220" >PPJ_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        sreda 08:00 - 11:00<br/>
+                                        PA
+                                        <!-- (152 / 300) --> <br/>
+                                        Principi programskih jezikov(63220)_P<br/>
+                                        Bauer, Andrej<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Principi programskih jezikov<br/>2. letnik, Računalništvo in matematika, prva stopnja: univerzitetni<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Principi programskih jezikov<br/>63220 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=143">PA</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=390">Andrej Bauer</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=36074">2_BUN-RI_PPJ(63220)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=36062">2_BUN-RM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=36073">3_BUN-RI_PPJ(63220)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37287">63220_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 4 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63280" >APS2(63280)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 10:00 - 12:00<br/>
+                                        PR15
+                                        <!-- (21 / 16) --> <br/>
+                                        Algoritmi in podatkovne strukture 2(63280)_LV<br/>
+                                        POVŠIČ, Rok<br/>
+                                        63280 padalci, LV, skupina 21<br/>63280 padalci, LV, skupina 22<br/>63280 padalci, LV, skupina 23<br/>63280 padalci, LV, skupina 24<br/>63280 padalci, LV, skupina 25<br/>63280 padalci, LV, skupina 26<br/>63280 padalci, LV, skupina 27<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=125">PR15</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=546">Rok POVŠIČ</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37564">63280_PAD_LV_21</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37565">63280_PAD_LV_22</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37566">63280_PAD_LV_23</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37567">63280_PAD_LV_24</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37568">63280_PAD_LV_25</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37569">63280_PAD_LV_26</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37570">63280_PAD_LV_27</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=36029">1_BUN-RI</a><br>
+    
+        <a class="group" href="?group=36183">1_BUN-RI_LV_05</a><br>
+    
+        <a class="group" href="?group=36063">1_BUN-UI</a><br>
+    
+        <a class="group" href="?group=36045">2_BUN-RI</a><br>
+    
+        <a class="group" href="?group=36074">2_BUN-RI_PPJ(63220)</a><br>
+    
+        <a class="group" href="?group=36307">2_BUN-RI_PPJ(63220)_LV_01</a><br>
+    
+        <a class="group" href="?group=36062">2_BUN-RM</a><br>
+    
+        <a class="group" href="?group=36073">3_BUN-RI_PPJ(63220)</a><br>
+    
+        <a class="group" href="?group=37250">63209_PAD</a><br>
+    
+        <a class="group" href="?group=37408">63209_PAD_LV_03</a><br>
+    
+        <a class="group" href="?group=37422">63209_PAD_LV_17</a><br>
+    
+        <a class="group" href="?group=37287">63220_PAD</a><br>
+    
+        <a class="group" href="?group=37493">63220_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=37504">63220_PAD_LV_12</a><br>
+    
+        <a class="group" href="?group=37294">63280_PAD</a><br>
+    
+        <a class="group" href="?group=37564">63280_PAD_LV_21</a><br>
+    
+        <a class="group" href="?group=37565">63280_PAD_LV_22</a><br>
+    
+        <a class="group" href="?group=37566">63280_PAD_LV_23</a><br>
+    
+        <a class="group" href="?group=37567">63280_PAD_LV_24</a><br>
+    
+        <a class="group" href="?group=37568">63280_PAD_LV_25</a><br>
+    
+        <a class="group" href="?group=37569">63280_PAD_LV_26</a><br>
+    
+        <a class="group" href="?group=37570">63280_PAD_LV_27</a><br>
+    
+</div>
+</body>
+</html>

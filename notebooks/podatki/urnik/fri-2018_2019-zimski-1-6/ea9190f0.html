@@ -1,0 +1,571 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, zimski semester-1-6</span>
+        
+            <span class="subtitle">ea9190f0</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-zimski-1-6/allocations_ical?student=ea9190f0" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63506" >MI_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 11:00 - 13:00<br/>
+                                        P19
+                                        <!-- (36 / 50) --> <br/>
+                                        Matematika II(63506)_LV<br/>
+                                        Kink, Peter Marijan<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 2<br/>63506 padalci, LV, skupina 12<br/>63506 padalci, LV, skupina 3<br/>63506 padalci, LV, skupina 6<br/>63506 padalci, LV, skupina 9<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=136">P19</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=98">Peter Marijan Kink</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38959">1_BMA-RI_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38960">1_BMA-RI_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38979">63506_PAD_LV_12</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38970">63506_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38973">63506_PAD_LV_06</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38976">63506_PAD_LV_09</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63523" >RZP_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 08:00 - 11:00<br/>
+                                        P04
+                                        <!-- (22 / 50) --> <br/>
+                                        Računalniška zvočna produkcija(63523)_P<br/>
+                                        Trček, Denis<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Računalniška zvočna produkcija<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Računalniška zvočna produkcija<br/>63523 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=140">P04</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=67">Denis Trček</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38938">1_BMA-RI_RZP(63523)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38941">1_BMA-RM_RZP(63523)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38940">2_BMA-RI_RZP(63523)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38942">2_BMA-RM_RZP(63523)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38943">63523_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 3; background-color: hsla(204.57831325301203, 67.17%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63267" >UZ_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 15:00 - 18:00<br/>
+                                        P21
+                                        <!-- (62 / 50) --> <br/>
+                                        Umetno zaznavanje(63267)_P<br/>
+                                        Kristan, Matej<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetno zaznavanje<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetno zaznavanje<br/>3. letnik, Multimedija, prva stopnja: univerzitetni, Umetno zaznavanje<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Umetno zaznavanje<br/>3. letnik, Računalništvo in matematika, prva stopnja: univerzitetni, Umetno zaznavanje<br/>63267 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=138">P21</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=145">Matej Kristan</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37932">1_BMA-RI_UZ(63267)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37931">2_BMA-RI_UZ(63267)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37933">3_BUN-ML_UZ(63267)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37930">3_BUN-RI_UZ(63267)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37929">3_BUN-RM_UZ(63267)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37934">63267_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63507" >P_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 07:00 - 09:00<br/>
+                                        PR06
+                                        <!-- (18 / 18) --> <br/>
+                                        Funkcijsko programiranje(63507)_LV<br/>
+                                        Lesar, Žiga<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 7<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=121">PR06</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=557">Žiga Lesar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38960">1_BMA-RI_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38965">1_BMA-RI_LV_07</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63527" >IOI_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 12:00 - 15:00<br/>
+                                        P20
+                                        <!-- (89 / 50) --> <br/>
+                                        Interaktivnost in oblikovanje informacij(63527)_P<br/>
+                                        Solina, Franc<br/>
+                                        1. letnik, Multimedija, druga stopnja: magistrski<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij<br/>63527 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=137">P20</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=66">Franc Solina</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37983">1_BMA-MM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38916">1_BMA-RI_IOI(63527)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38918">1_BMA-RM_IOI(63527)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38917">2_BMA-RI_IOI(63527)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38915">2_BMA-RM_IOI(63527)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38919">63527_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(6.131386861313867, 74.56%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63523" >RZP_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 13:00 - 15:00<br/>
+                                        PR05
+                                        <!-- (18 / 30) --> <br/>
+                                        Računalniška zvočna produkcija(63523)_LV<br/>
+                                        Huč, Aleks<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Računalniška zvočna produkcija, LV, skupina 3<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=122">PR05</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=452">Aleks Huč</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38944">1_BMA-RI_RZP(63523)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38945">1_BMA-RI_RZP(63523)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38946">1_BMA-RI_RZP(63523)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38947">1_BMA-RI_RZP(63523)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38948">2_BMA-RI_RZP(63523)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38949">2_BMA-RI_RZP(63523)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38950">2_BMA-RI_RZP(63523)_LV_03</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63527" >IOI_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 15:00 - 17:00<br/>
+                                        PR14
+                                        <!-- (18 / 18) --> <br/>
+                                        Interaktivnost in oblikovanje informacij(63527)_LV<br/>
+                                        Batagelj, Borut<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Interaktivnost in oblikovanje informacij, LV, skupina 2<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=126">PR14</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=118">Borut Batagelj</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38921">1_BMA-RI_IOI(63527)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38922">1_BMA-RI_IOI(63527)_LV_02</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63506" >MI_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        četrtek 12:00 - 15:00<br/>
+                                        P22
+                                        <!-- (107 / 100) --> <br/>
+                                        Matematika II(63506)_P<br/>
+                                        Oblak, Polona<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski<br/>63506 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=83">Polona Oblak</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37815">1_BMA-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38957">63506_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63267" >UZ_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 07:00 - 09:00<br/>
+                                        PR07
+                                        <!-- (29 / 18) --> <br/>
+                                        Umetno zaznavanje(63267)_LV<br/>
+                                        Čehovin Zajc, Luka<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetno zaznavanje, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetno zaznavanje, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetno zaznavanje, LV, skupina 1<br/>3. letnik, Multimedija, prva stopnja: univerzitetni, Umetno zaznavanje, LV, skupina 2<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Umetno zaznavanje, LV, skupina 2<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Umetno zaznavanje, LV, skupina 3<br/>3. letnik, Računalništvo in informatika, prva stopnja: univerzitetni, Umetno zaznavanje, LV, skupina 4<br/>63267 padalci, LV, skupina 2<br/>63267 padalci, LV, skupina 3<br/>63267 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=133">PR07</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=189">Luka Čehovin Zajc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38473">1_BMA-RI_UZ(63267)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38474">1_BMA-RI_UZ(63267)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38475">2_BMA-RI_UZ(63267)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39365">3_BUN-ML_UZ(63267)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38478">3_BUN-RI_UZ(63267)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38479">3_BUN-RI_UZ(63267)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38480">3_BUN-RI_UZ(63267)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38483">63267_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38484">63267_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38485">63267_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63507" >P_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 12:00 - 15:00<br/>
+                                        P01
+                                        <!-- (114 / 200) --> <br/>
+                                        Funkcijsko programiranje(63507)_P<br/>
+                                        Bosnić, Zoran<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski<br/>63507 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=73">Zoran Bosnić</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37815">1_BMA-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37833">1_BMA-RM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39005">63507_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=37983">1_BMA-MM</a><br>
+    
+        <a class="group" href="?group=37815">1_BMA-RI</a><br>
+    
+        <a class="group" href="?group=38916">1_BMA-RI_IOI(63527)</a><br>
+    
+        <a class="group" href="?group=38921">1_BMA-RI_IOI(63527)_LV_01</a><br>
+    
+        <a class="group" href="?group=38922">1_BMA-RI_IOI(63527)_LV_02</a><br>
+    
+        <a class="group" href="?group=38959">1_BMA-RI_LV_01</a><br>
+    
+        <a class="group" href="?group=38960">1_BMA-RI_LV_02</a><br>
+    
+        <a class="group" href="?group=38965">1_BMA-RI_LV_07</a><br>
+    
+        <a class="group" href="?group=38938">1_BMA-RI_RZP(63523)</a><br>
+    
+        <a class="group" href="?group=38944">1_BMA-RI_RZP(63523)_LV_01</a><br>
+    
+        <a class="group" href="?group=38945">1_BMA-RI_RZP(63523)_LV_02</a><br>
+    
+        <a class="group" href="?group=38946">1_BMA-RI_RZP(63523)_LV_03</a><br>
+    
+        <a class="group" href="?group=38947">1_BMA-RI_RZP(63523)_LV_04</a><br>
+    
+        <a class="group" href="?group=37932">1_BMA-RI_UZ(63267)</a><br>
+    
+        <a class="group" href="?group=38473">1_BMA-RI_UZ(63267)_LV_01</a><br>
+    
+        <a class="group" href="?group=38474">1_BMA-RI_UZ(63267)_LV_02</a><br>
+    
+        <a class="group" href="?group=37833">1_BMA-RM</a><br>
+    
+        <a class="group" href="?group=38918">1_BMA-RM_IOI(63527)</a><br>
+    
+        <a class="group" href="?group=38941">1_BMA-RM_RZP(63523)</a><br>
+    
+        <a class="group" href="?group=38917">2_BMA-RI_IOI(63527)</a><br>
+    
+        <a class="group" href="?group=38940">2_BMA-RI_RZP(63523)</a><br>
+    
+        <a class="group" href="?group=38948">2_BMA-RI_RZP(63523)_LV_01</a><br>
+    
+        <a class="group" href="?group=38949">2_BMA-RI_RZP(63523)_LV_02</a><br>
+    
+        <a class="group" href="?group=38950">2_BMA-RI_RZP(63523)_LV_03</a><br>
+    
+        <a class="group" href="?group=37931">2_BMA-RI_UZ(63267)</a><br>
+    
+        <a class="group" href="?group=38475">2_BMA-RI_UZ(63267)_LV_01</a><br>
+    
+        <a class="group" href="?group=38915">2_BMA-RM_IOI(63527)</a><br>
+    
+        <a class="group" href="?group=38942">2_BMA-RM_RZP(63523)</a><br>
+    
+        <a class="group" href="?group=37933">3_BUN-ML_UZ(63267)</a><br>
+    
+        <a class="group" href="?group=39365">3_BUN-ML_UZ(63267)_LV_02</a><br>
+    
+        <a class="group" href="?group=37930">3_BUN-RI_UZ(63267)</a><br>
+    
+        <a class="group" href="?group=38478">3_BUN-RI_UZ(63267)_LV_02</a><br>
+    
+        <a class="group" href="?group=38479">3_BUN-RI_UZ(63267)_LV_03</a><br>
+    
+        <a class="group" href="?group=38480">3_BUN-RI_UZ(63267)_LV_04</a><br>
+    
+        <a class="group" href="?group=37929">3_BUN-RM_UZ(63267)</a><br>
+    
+        <a class="group" href="?group=37934">63267_PAD</a><br>
+    
+        <a class="group" href="?group=38483">63267_PAD_LV_02</a><br>
+    
+        <a class="group" href="?group=38484">63267_PAD_LV_03</a><br>
+    
+        <a class="group" href="?group=38485">63267_PAD_LV_04</a><br>
+    
+        <a class="group" href="?group=38957">63506_PAD</a><br>
+    
+        <a class="group" href="?group=38970">63506_PAD_LV_03</a><br>
+    
+        <a class="group" href="?group=38973">63506_PAD_LV_06</a><br>
+    
+        <a class="group" href="?group=38976">63506_PAD_LV_09</a><br>
+    
+        <a class="group" href="?group=38979">63506_PAD_LV_12</a><br>
+    
+        <a class="group" href="?group=39005">63507_PAD</a><br>
+    
+        <a class="group" href="?group=38943">63523_PAD</a><br>
+    
+        <a class="group" href="?group=38919">63527_PAD</a><br>
+    
+</div>
+</body>
+</html>

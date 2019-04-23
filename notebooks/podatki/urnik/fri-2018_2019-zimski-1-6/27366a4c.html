@@ -1,0 +1,505 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, zimski semester-1-6</span>
+        
+            <span class="subtitle">27366a4c</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-zimski-1-6/allocations_ical?student=27366a4c" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63715" >GO_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 13:00 - 16:00<br/>
+                                        P22
+                                        <!-- (96 / 100) --> <br/>
+                                        Grafično oblikovanje(63715)_P<br/>
+                                        Bovcon, Narvika<br/>Lebar Bajec, Iztok<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Grafično oblikovanje<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Grafično oblikovanje<br/>63715 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=111">Narvika Bovcon</a></div>
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=110">Iztok Lebar Bajec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37857">2_BVS-RI_GO(63715)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37856">3_BVS-RI_GO(63715)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37858">63715_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63719" >RG_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 11:00 - 14:00<br/>
+                                        P01
+                                        <!-- (100 / 200) --> <br/>
+                                        Računalniška grafika(63719)_P<br/>
+                                        Lebar Bajec, Iztok<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Računalniška grafika<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Računalniška grafika<br/>63719 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=110">Iztok Lebar Bajec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38074">2_BVS-RI_RG(63719)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38075">3_BVS-RI_RG(63719)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38076">63719_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 15:00 - 17:00<br/>
+                                        PR11
+                                        <!-- (21 / 18) --> <br/>
+                                        Umetna inteligenca(63720)_LV<br/>
+                                        Vračar, Petar<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca, LV, skupina 6<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca, LV, skupina 4<br/>99 - Skupina za menjave - UI(63720)_LV_TUE_15:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=129">PR11</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=185">Petar Vračar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38863">2_BVS-RI_UI(63720)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38867">2_BVS-RI_UI(63720)_LV_06</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39144">3_BVS-RI_UI(63720)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39201">EX_UI(63720)_LV_TUE_15:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(204.57831325301203, 67.17%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63720" >UI(63720)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 08:00 - 11:00<br/>
+                                        P22
+                                        <!-- (106 / 100) --> <br/>
+                                        Umetna inteligenca(63720)_P<br/>
+                                        Kononenko, Igor<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Umetna inteligenca<br/>63720 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=80">Igor Kononenko</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38067">2_BVS-RI_UI(63720)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38066">3_BVS-RI_UI(63720)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38068">63720_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63715" >GO_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 09:00 - 11:00<br/>
+                                        PR14
+                                        <!-- (18 / 18) --> <br/>
+                                        Grafično oblikovanje(63715)_LV<br/>
+                                        Lebar Bajec, Iztok<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Grafično oblikovanje, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Grafično oblikovanje, LV, skupina 5<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=126">PR14</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=110">Iztok Lebar Bajec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38265">2_BVS-RI_GO(63715)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38268">2_BVS-RI_GO(63715)_LV_05</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63716" >KPOV_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 13:00 - 15:00<br/>
+                                        P11-FKKT
+                                        <!-- (18 / 36) --> <br/>
+                                        Komunikacijski protokoli in omrežna varnost(63716)_LV<br/>
+                                        Lazar, Timotej<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Komunikacijski protokoli in omrežna varnost, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Komunikacijski protokoli in omrežna varnost, LV, skupina 7<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=127">p11-fkkt</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=328">Timotej Lazar</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38428">2_BVS-RI_KPOV(63716)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38433">2_BVS-RI_KPOV(63716)_LV_07</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(6.131386861313867, 74.56%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63719" >RG_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 13:00 - 15:00<br/>
+                                        PR10
+                                        <!-- (18 / 18) --> <br/>
+                                        Računalniška grafika(63719)_LV<br/>
+                                        Bohak, Ciril<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Računalniška grafika, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Računalniška grafika, LV, skupina 6<br/>99 - Skupina za menjave - RG_LV_WED_13:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=130">PR10</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=141">Ciril Bohak</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38887">2_BVS-RI_RG(63719)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38891">2_BVS-RI_RG(63719)_LV_06</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39212">EX_RG_LV_WED_13:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        četrtek 09:00 - 12:00<br/>
+                                        P22
+                                        <!-- (142 / 100) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_P<br/>
+                                        Mihelič, Jurij<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni<br/>63711 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=147">Jurij Mihelič</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37839">2_BVS-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37850">63711_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 1 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63711" >AiPS1_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        petek 07:00 - 09:00<br/>
+                                        PR09
+                                        <!-- (18 / 30) --> <br/>
+                                        Algoritmi in podatkovne strukture 1(63711)_LV<br/>
+                                        Rožanc, Igor<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, LV, skupina 10<br/>2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, LV, skupina 3<br/>63711 padalci, LV, skupina 9<br/>99 - Skupina za menjave - AiPS1_LV_FRI_07:00<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=114">Igor Rožanc</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=38209">2_BVS-RI_LV_10</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38202">2_BVS-RI_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=38218">63711_PAD_LV_09</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39477">EX_AiPS1_LV_FRI_07:00</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63716" >KPOV_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 12:00 - 15:00<br/>
+                                        P22
+                                        <!-- (81 / 100) --> <br/>
+                                        Komunikacijski protokoli in omrežna varnost(63716)_P<br/>
+                                        Brodnik, Andrej<br/>
+                                        2. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Komunikacijski protokoli in omrežna varnost<br/>2. letnik, Upravna informatika, prva stopnja: univerzitetni, Komunikacijski protokoli in omrežna varnost<br/>3. letnik, Računalništvo in informatika, prva stopnja: visokošolski strokovni, Komunikacijski protokoli in omrežna varnost<br/>3. letnik, Upravna informatika, prva stopnja: univerzitetni, Komunikacijski protokoli in omrežna varnost<br/>63716 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=112">Andrej Brodnik</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=37912">2_BVS-RI_KPOV(63716)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37914">2_BUN-UI_KPOV(63716)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37911">3_BVS-RI_KPOV(63716)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37913">3_BUN-UI_KPOV(63716)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=37915">63716_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=37914">2_BUN-UI_KPOV(63716)</a><br>
+    
+        <a class="group" href="?group=37839">2_BVS-RI</a><br>
+    
+        <a class="group" href="?group=37857">2_BVS-RI_GO(63715)</a><br>
+    
+        <a class="group" href="?group=38265">2_BVS-RI_GO(63715)_LV_02</a><br>
+    
+        <a class="group" href="?group=38268">2_BVS-RI_GO(63715)_LV_05</a><br>
+    
+        <a class="group" href="?group=37912">2_BVS-RI_KPOV(63716)</a><br>
+    
+        <a class="group" href="?group=38428">2_BVS-RI_KPOV(63716)_LV_02</a><br>
+    
+        <a class="group" href="?group=38433">2_BVS-RI_KPOV(63716)_LV_07</a><br>
+    
+        <a class="group" href="?group=38202">2_BVS-RI_LV_03</a><br>
+    
+        <a class="group" href="?group=38209">2_BVS-RI_LV_10</a><br>
+    
+        <a class="group" href="?group=38074">2_BVS-RI_RG(63719)</a><br>
+    
+        <a class="group" href="?group=38887">2_BVS-RI_RG(63719)_LV_02</a><br>
+    
+        <a class="group" href="?group=38891">2_BVS-RI_RG(63719)_LV_06</a><br>
+    
+        <a class="group" href="?group=38067">2_BVS-RI_UI(63720)</a><br>
+    
+        <a class="group" href="?group=38863">2_BVS-RI_UI(63720)_LV_02</a><br>
+    
+        <a class="group" href="?group=38867">2_BVS-RI_UI(63720)_LV_06</a><br>
+    
+        <a class="group" href="?group=37913">3_BUN-UI_KPOV(63716)</a><br>
+    
+        <a class="group" href="?group=37856">3_BVS-RI_GO(63715)</a><br>
+    
+        <a class="group" href="?group=37911">3_BVS-RI_KPOV(63716)</a><br>
+    
+        <a class="group" href="?group=38075">3_BVS-RI_RG(63719)</a><br>
+    
+        <a class="group" href="?group=38066">3_BVS-RI_UI(63720)</a><br>
+    
+        <a class="group" href="?group=39144">3_BVS-RI_UI(63720)_LV_04</a><br>
+    
+        <a class="group" href="?group=37850">63711_PAD</a><br>
+    
+        <a class="group" href="?group=38218">63711_PAD_LV_09</a><br>
+    
+        <a class="group" href="?group=37858">63715_PAD</a><br>
+    
+        <a class="group" href="?group=37915">63716_PAD</a><br>
+    
+        <a class="group" href="?group=38076">63719_PAD</a><br>
+    
+        <a class="group" href="?group=38068">63720_PAD</a><br>
+    
+        <a class="group" href="?group=39477">EX_AiPS1_LV_FRI_07:00</a><br>
+    
+        <a class="group" href="?group=39212">EX_RG_LV_WED_13:00</a><br>
+    
+        <a class="group" href="?group=39201">EX_UI(63720)_LV_TUE_15:00</a><br>
+    
+</div>
+</body>
+</html>

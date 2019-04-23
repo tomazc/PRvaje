@@ -1,0 +1,1061 @@
+<html>
+<!-- Velika zahvala https://urnik.fmf.uni-lj.si/ za odlične ideje glede oblikovanja. -->
+<head>
+    <title>Urnik</title>
+    <meta name="generator" content="Urnik">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/static/css/allocations.css">
+    <style type="text/css"> 
+        .grid-outer {
+            display: grid;
+            /* an initial smaller column, then 5 equally-sized cols */
+            grid-template-columns: [hour-column-start] 50px [hour-column-end] repeat(5, 1fr);
+            /* the first row is smaller, then 15 equally sized */
+            grid-template-rows: [day-row-start] 20px [day-row-end] repeat(15, 1fr);
+            
+            grid-template-areas: ". d  d  d  d  d "
+             "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI" "h dayMON dayTUE dayWED dayTHU dayFRI";
+        }
+
+        .grid-day-column {
+            grid-row: day-row-end / span 15;
+
+            /* this is a nested grid, but has the same number of cells with the same proportions, */
+            /* so it aligns with the outer grid cells */
+            display: grid;
+            grid-template-rows: repeat(15, 1fr);
+            /* because the ordering doesn't matter, use the dense algorithm */
+            grid-auto-flow: row dense;
+            grid-gap: 2px;
+
+            /* pass through hover events to the .grid-complete-row elements below */
+            pointer-events: none;
+
+            /* make vertical border lines play nicely */
+            padding-left: 2px;
+            padding-right: 2px;
+            border-left: thin solid rgb(237, 237, 237);
+        }
+    </style>
+</head>
+<body>
+
+
+<div class="header">
+    <div class="titles">
+        <span class="title">FRI 2018/2019, letni semester-1-13</span>
+        
+            <span class="subtitle">98c228be</span>
+        
+    </div>
+    <div class="aside">
+        <a href="?type=P">Show only lectures</a><br/>
+        <a href="?type=LV&type=AV&type=LAB">Show only lab work</a><br/>
+        <a href="?">Show lectures and lab work</a><br/>
+        <a href="/timetable/fri-2018_2019-letni-1-13/allocations_ical?student=98c228be" style="font-weight: bold;">Export to calendar</a><br/>
+    </div>
+</div>
+
+<div class="grid-container">
+    <div class="grid-outer">
+        
+        <div class="grid-day" style="grid-column: 2;">ponedeljek</div><div class="grid-day" style="grid-column: 3;">torek</div><div class="grid-day" style="grid-column: 4;">sreda</div><div class="grid-day" style="grid-column: 5;">četrtek</div><div class="grid-day" style="grid-column: 6;">petek</div>
+        <div class="grid-hour" style="grid-row: 2;">07:00</div><div class="grid-hour" style="grid-row: 3;">08:00</div><div class="grid-hour" style="grid-row: 4;">09:00</div><div class="grid-hour" style="grid-row: 5;">10:00</div><div class="grid-hour" style="grid-row: 6;">11:00</div><div class="grid-hour" style="grid-row: 7;">12:00</div><div class="grid-hour" style="grid-row: 8;">13:00</div><div class="grid-hour" style="grid-row: 9;">14:00</div><div class="grid-hour" style="grid-row: 10;">15:00</div><div class="grid-hour" style="grid-row: 11;">16:00</div><div class="grid-hour" style="grid-row: 12;">17:00</div><div class="grid-hour" style="grid-row: 13;">18:00</div><div class="grid-hour" style="grid-row: 14;">19:00</div><div class="grid-hour" style="grid-row: 15;">20:00</div><div class="grid-hour" style="grid-row: 16;">21:00</div>
+
+        
+        
+        
+        <div class="grid-complete-row" style="grid-row: 2 / span 1;"></div><div class="grid-complete-row" style="grid-row: 3 / span 1;"></div><div class="grid-complete-row" style="grid-row: 4 / span 1;"></div><div class="grid-complete-row" style="grid-row: 5 / span 1;"></div><div class="grid-complete-row" style="grid-row: 6 / span 1;"></div><div class="grid-complete-row" style="grid-row: 7 / span 1;"></div><div class="grid-complete-row" style="grid-row: 8 / span 1;"></div><div class="grid-complete-row" style="grid-row: 9 / span 1;"></div><div class="grid-complete-row" style="grid-row: 10 / span 1;"></div><div class="grid-complete-row" style="grid-row: 11 / span 1;"></div><div class="grid-complete-row" style="grid-row: 12 / span 1;"></div><div class="grid-complete-row" style="grid-row: 13 / span 1;"></div><div class="grid-complete-row" style="grid-row: 14 / span 1;"></div><div class="grid-complete-row" style="grid-row: 15 / span 1;"></div><div class="grid-complete-row" style="grid-row: 16 / span 1;"></div>
+
+        
+            <div class="grid-day-column" style="grid-area: dayMON">
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 2; background-color: hsla(247.5, 23.70%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63550" >KČR_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 14:00 - 16:00<br/>
+                                        PR06
+                                        <!-- (18 / 18) --> <br/>
+                                        Komunikacija človek računalnik(63550)_LV<br/>
+                                        Pesek, Matevž<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik, LV, skupina 4<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik, LV, skupina 5<br/>63550 padalci, LV, skupina 1<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=121">PR06</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=249">Matevž Pesek</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39758">1_BMA-RI_KČR(63550)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39759">1_BMA-RI_KČR(63550)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39760">1_BMA-RI_KČR(63550)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39761">1_BMA-RI_KČR(63550)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39762">1_BMA-RI_KČR(63550)_LV_05</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40090">63550_PAD_LV_01</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(247.5, 41.48%, 78.91%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63550" >KČR_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        ponedeljek 11:00 - 14:00<br/>
+                                        P19
+                                        <!-- (33 / 50) --> <br/>
+                                        Komunikacija človek računalnik(63550)_P<br/>
+                                        Jager, Franc<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Komunikacija človek računalnik<br/>63550 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=136">P19</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=93">Franc Jager</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39530">1_BMA-RI_KČR(63550)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39529">2_BMA-RI_KČR(63550)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39531">63550_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTUE">
+                
+                    <div class="grid-entry" style="grid-row: 8 / span 3; background-color: hsla(169.71428571428572, 61.25%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63508" >A_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 14:00 - 17:00<br/>
+                                        P01
+                                        <!-- (136 / 200) --> <br/>
+                                        Algoritmi(63508)_P<br/>
+                                        Dobravec, Tomaž<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski<br/>63508 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=79">Tomaž Dobravec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39501">1_BMA-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39518">1_BMA-RM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39701">63508_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 11 / span 2; background-color: hsla(6.131386861313867, 74.56%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63509" >RS(63509)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        torek 17:00 - 19:00<br/>
+                                        PR09
+                                        <!-- (30 / 30) --> <br/>
+                                        Računalniški sistemi(63509)_LV<br/>
+                                        Faganeli, Jana<br/>Rezelj, Anže<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 5<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 6<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 7<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 8<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 9<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Računalniški sistemi, LV, skupina 1<br/>63509 padalci, LV, skupina 1<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=207">Jana Faganeli</a></div>
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=543">Anže Rezelj</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39867">1_BMA-RI_LV_05</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39868">1_BMA-RI_LV_06</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39869">1_BMA-RI_LV_07</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39870">1_BMA-RI_LV_08</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39871">1_BMA-RI_LV_09</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39992">1_BMA-RM_RS(63509)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40260">63509_PAD_LV_01</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 3; background-color: hsla(204.57831325301203, 67.17%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63510" >UI(63510)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        torek 08:00 - 11:00<br/>
+                                        P22
+                                        <!-- (64 / 100) --> <br/>
+                                        Umetna inteligenca(63510)_P<br/>
+                                        Bratko, Ivan<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetna inteligenca<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Umetna inteligenca<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetna inteligenca<br/>63510 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=89">Ivan Bratko</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39541">1_BMA-RI_UI(63510)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39543">1_BMA-RM_UI(63510)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39544">2_BMA-RI_UI(63510)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39545">63510_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayWED">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 2; background-color: hsla(169.71428571428572, 35.00%, 68.75%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63508" >A_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 09:00 - 11:00<br/>
+                                        PR06
+                                        <!-- (18 / 18) --> <br/>
+                                        Algoritmi(63508)_LV<br/>
+                                        Pičulin, Matej<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, LV, skupina 6<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=121">PR06</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=260">Matej Pičulin</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39863">1_BMA-RI_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39868">1_BMA-RI_LV_06</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 2 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 08:00 - 10:00<br/>
+                                        PR09
+                                        <!-- (137 / 30) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=131">PR09</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 4 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 10:00 - 12:00<br/>
+                                        PR07
+                                        <!-- (137 / 18) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=133">PR07</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 7 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 13:00 - 15:00<br/>
+                                        R2.42
+                                        <!-- (137 / 30) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=153">R2.42</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 15:00 - 17:00<br/>
+                                        R2.42
+                                        <!-- (137 / 30) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=153">R2.42</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 11 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 17:00 - 19:00<br/>
+                                        R2.42
+                                        <!-- (137 / 30) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=153">R2.42</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 2; background-color: hsla(204.57831325301203, 38.38%, 66.21%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63510" >UI(63510)_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        sreda 11:00 - 13:00<br/>
+                                        PR16
+                                        <!-- (18 / 18) --> <br/>
+                                        Umetna inteligenca(63510)_LV<br/>
+                                        Sadikov, Aleksander<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetna inteligenca, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Umetna inteligenca, LV, skupina 3<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=124">PR16</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=125">Aleksander Sadikov</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39774">1_BMA-RI_UI(63510)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39776">1_BMA-RI_UI(63510)_LV_03</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayTHU">
+                
+                    <div class="grid-entry" style="grid-row: 3 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 09:00 - 11:00<br/>
+                                        PR17
+                                        <!-- (137 / 18) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=123">PR17</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 9 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 15:00 - 17:00<br/>
+                                        P04
+                                        <!-- (137 / 50) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=140">P04</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 11 / span 2; background-color: hsla(60.0, 77.95%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_LV</a>
+                                    <span class="entry-type">| LV</span>
+                                    <div class="entry-hover">
+                                        četrtek 17:00 - 19:00<br/>
+                                        R2.42
+                                        <!-- (137 / 30) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_LV<br/>
+                                        
+                                        1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 1<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 2<br/>1. letnik, Multimedija, druga stopnja: magistrski, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 2<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 3<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 4<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta, LV, skupina 1<br/>63551 padalci, LV, skupina 1<br/>63551 padalci, LV, skupina 2<br/>63551 padalci, LV, skupina 3<br/>63551 padalci, LV, skupina 4<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=153">R2.42</a></div>
+
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39750">1_BMA-MM_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39751">1_BMA-MM_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39752">1_BMA-MM_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40127">63551_PAD_LV_01</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40128">63551_PAD_LV_02</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40129">63551_PAD_LV_03</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=40130">63551_PAD_LV_04</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div class="grid-entry" style="grid-row: 6 / span 3; background-color: hsla(60.0, 136.41%, 84.77%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63551" >IEPS_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        četrtek 12:00 - 15:00<br/>
+                                        P01
+                                        <!-- (137 / 200) --> <br/>
+                                        Iskanje in ekstrakcija podatkov s spleta(63551)_P<br/>
+                                        Bajec, Marko<br/>
+                                        1. letnik, Multimedija, druga stopnja: magistrski<br/>1. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta<br/>2. letnik, Računalništvo in informatika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta<br/>2. letnik, Računalništvo in matematika, druga stopnja: magistrski, Iskanje in ekstrakcija podatkov s spleta<br/>63551 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=142">P01</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=71">Marko Bajec</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39521">1_BMA-MM</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39572">1_BMA-RI_IEPS(63551)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39571">1_BMA-RM_IEPS(63551)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39573">2_BMA-RI_IEPS(63551)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39574">2_BMA-RM_IEPS(63551)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39575">63551_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+            <div class="grid-day-column" style="grid-area: dayFRI">
+                
+                    <div class="grid-entry" style="grid-row: 5 / span 3; background-color: hsla(6.131386861313867, 130.48%, 71.29%, 0.7)">
+                        <div class="description">
+                            <div class="top-aligned">
+                                <div class="row">
+                                    <a class="link-subject" href="?subject=63509" >RS(63509)_P</a>
+                                    <span class="entry-type">| P</span>
+                                    <div class="entry-hover">
+                                        petek 11:00 - 14:00<br/>
+                                        P22
+                                        <!-- (97 / 100) --> <br/>
+                                        Računalniški sistemi(63509)_P<br/>
+                                        Šter, Branko<br/>
+                                        1. letnik, Računalništvo in informatika, druga stopnja: magistrski<br/>1. letnik, Računalništvo in matematika, druga stopnja: magistrski, Računalniški sistemi<br/>63509 padalci<br/>
+                                     </div>
+                                </div>
+                                <div class="row"><a class="link-classroom" href="?classroom=141">P22</a></div>
+
+                                
+                                    <div class="row"><a class="link-teacher" href="?teacher=113">Branko Šter</a></div>
+                                
+                            </div>
+                            <div class="bottom-aligned">
+                                
+                                    <div class="row"><a class="link-group" href="?group=39501">1_BMA-RI</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39646">1_BMA-RM_RS(63509)</a></div>
+                                
+                                    <div class="row"><a class="link-group" href="?group=39647">63509_PAD</a></div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                
+            </div>
+        
+    </div>
+</div>
+
+<div class="group-list">
+    
+        <a class="group" href="?group=39521">1_BMA-MM</a><br>
+    
+        <a class="group" href="?group=39750">1_BMA-MM_LV_01</a><br>
+    
+        <a class="group" href="?group=39751">1_BMA-MM_LV_02</a><br>
+    
+        <a class="group" href="?group=39752">1_BMA-MM_LV_03</a><br>
+    
+        <a class="group" href="?group=39501">1_BMA-RI</a><br>
+    
+        <a class="group" href="?group=39572">1_BMA-RI_IEPS(63551)</a><br>
+    
+        <a class="group" href="?group=39834">1_BMA-RI_IEPS(63551)_LV_01</a><br>
+    
+        <a class="group" href="?group=39835">1_BMA-RI_IEPS(63551)_LV_02</a><br>
+    
+        <a class="group" href="?group=39836">1_BMA-RI_IEPS(63551)_LV_03</a><br>
+    
+        <a class="group" href="?group=39837">1_BMA-RI_IEPS(63551)_LV_04</a><br>
+    
+        <a class="group" href="?group=39530">1_BMA-RI_KČR(63550)</a><br>
+    
+        <a class="group" href="?group=39758">1_BMA-RI_KČR(63550)_LV_01</a><br>
+    
+        <a class="group" href="?group=39759">1_BMA-RI_KČR(63550)_LV_02</a><br>
+    
+        <a class="group" href="?group=39760">1_BMA-RI_KČR(63550)_LV_03</a><br>
+    
+        <a class="group" href="?group=39761">1_BMA-RI_KČR(63550)_LV_04</a><br>
+    
+        <a class="group" href="?group=39762">1_BMA-RI_KČR(63550)_LV_05</a><br>
+    
+        <a class="group" href="?group=39863">1_BMA-RI_LV_01</a><br>
+    
+        <a class="group" href="?group=39867">1_BMA-RI_LV_05</a><br>
+    
+        <a class="group" href="?group=39868">1_BMA-RI_LV_06</a><br>
+    
+        <a class="group" href="?group=39869">1_BMA-RI_LV_07</a><br>
+    
+        <a class="group" href="?group=39870">1_BMA-RI_LV_08</a><br>
+    
+        <a class="group" href="?group=39871">1_BMA-RI_LV_09</a><br>
+    
+        <a class="group" href="?group=39541">1_BMA-RI_UI(63510)</a><br>
+    
+        <a class="group" href="?group=39774">1_BMA-RI_UI(63510)_LV_01</a><br>
+    
+        <a class="group" href="?group=39776">1_BMA-RI_UI(63510)_LV_03</a><br>
+    
+        <a class="group" href="?group=39518">1_BMA-RM</a><br>
+    
+        <a class="group" href="?group=39571">1_BMA-RM_IEPS(63551)</a><br>
+    
+        <a class="group" href="?group=39838">1_BMA-RM_IEPS(63551)_LV_01</a><br>
+    
+        <a class="group" href="?group=39839">1_BMA-RM_IEPS(63551)_LV_02</a><br>
+    
+        <a class="group" href="?group=39840">1_BMA-RM_IEPS(63551)_LV_03</a><br>
+    
+        <a class="group" href="?group=39841">1_BMA-RM_IEPS(63551)_LV_04</a><br>
+    
+        <a class="group" href="?group=39646">1_BMA-RM_RS(63509)</a><br>
+    
+        <a class="group" href="?group=39992">1_BMA-RM_RS(63509)_LV_01</a><br>
+    
+        <a class="group" href="?group=39543">1_BMA-RM_UI(63510)</a><br>
+    
+        <a class="group" href="?group=39573">2_BMA-RI_IEPS(63551)</a><br>
+    
+        <a class="group" href="?group=39842">2_BMA-RI_IEPS(63551)_LV_01</a><br>
+    
+        <a class="group" href="?group=39843">2_BMA-RI_IEPS(63551)_LV_02</a><br>
+    
+        <a class="group" href="?group=39844">2_BMA-RI_IEPS(63551)_LV_03</a><br>
+    
+        <a class="group" href="?group=39845">2_BMA-RI_IEPS(63551)_LV_04</a><br>
+    
+        <a class="group" href="?group=39529">2_BMA-RI_KČR(63550)</a><br>
+    
+        <a class="group" href="?group=39544">2_BMA-RI_UI(63510)</a><br>
+    
+        <a class="group" href="?group=39574">2_BMA-RM_IEPS(63551)</a><br>
+    
+        <a class="group" href="?group=39846">2_BMA-RM_IEPS(63551)_LV_01</a><br>
+    
+        <a class="group" href="?group=39701">63508_PAD</a><br>
+    
+        <a class="group" href="?group=39647">63509_PAD</a><br>
+    
+        <a class="group" href="?group=40260">63509_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=39545">63510_PAD</a><br>
+    
+        <a class="group" href="?group=39531">63550_PAD</a><br>
+    
+        <a class="group" href="?group=40090">63550_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=39575">63551_PAD</a><br>
+    
+        <a class="group" href="?group=40127">63551_PAD_LV_01</a><br>
+    
+        <a class="group" href="?group=40128">63551_PAD_LV_02</a><br>
+    
+        <a class="group" href="?group=40129">63551_PAD_LV_03</a><br>
+    
+        <a class="group" href="?group=40130">63551_PAD_LV_04</a><br>
+    
+</div>
+</body>
+</html>
