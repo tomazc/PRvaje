@@ -9,5 +9,5 @@ jupyter
 jupyter_contrib_nbextensions
 jupyter_latex_envs
 beautifulsoup4
-dtw
+dtw-python
 GPy
