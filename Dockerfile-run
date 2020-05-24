@@ -1,0 +1,17 @@
+# Start from a core stack version
+FROM jupyter/scipy-notebook
+
+# Install from requirements.txt file
+COPY requirements.txt /tmp/
+RUN pip install --requirement /tmp/requirements.txt && \
+    fix-permissions $CONDA_DIR && \
+    fix-permissions /home/$NB_USER
+
+RUN conda install -c conda-forge jupyter_contrib_nbextensions
+RUN conda install -c conda-forge jupyter_nbextensions_configurator
+
+RUN jupyter nbextension install https://rawgit.com/jfbercher/jupyter_nbTranslate/master/nbTranslate.zip --user
+RUN jupyter nbextension enable nbTranslate/main
+
+RUN conda install -c conda-forge jupyter_latex_envs
+RUN jupyter nbextension enable --py latex_envs

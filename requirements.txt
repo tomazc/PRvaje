@@ -9,5 +9,7 @@ jupyter
 jupyter_contrib_nbextensions
 jupyter_latex_envs
 beautifulsoup4
+Cython
 dtw-python
 GPy
+RISE

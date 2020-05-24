@@ -1,0 +1,26 @@
+name: prvaje
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - jupyter_latex_envs
+  - pip
+  - numpy
+  - cython
+  - pip:
+    - numpy
+    - scipy
+    - Pillow
+    - matplotlib
+    - sklearn
+    - Orange3
+    - Orange3-Associate
+    - jupyter
+    - jupyter_contrib_nbextensions
+    - jupyter_latex_envs
+    - beautifulsoup4
+    - dtw-python
+    - GPy
+    - RISE
