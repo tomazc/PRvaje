@@ -1,6 +1,12 @@
 # Start from a core stack version
 FROM jupyter/scipy-notebook
 
+USER root
+
+RUN apt-get install libgl1
+
+USER $NB_USER
+
 # Install from requirements.txt file
 COPY requirements.txt /tmp/
 RUN pip install --requirement /tmp/requirements.txt && \
