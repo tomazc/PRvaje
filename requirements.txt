@@ -2,7 +2,7 @@ numpy
 scipy
 Pillow
 matplotlib
-sklearn
+scikit-learn
 Orange3
 Orange3-Associate
 jupyter

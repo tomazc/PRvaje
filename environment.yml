@@ -2,7 +2,7 @@ name: prvaje
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python=3.8
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
   - jupyter_latex_envs
@@ -14,7 +14,7 @@ dependencies:
     - scipy
     - Pillow
     - matplotlib
-    - sklearn
+    - scikit-learn
     - Orange3
     - Orange3-Associate
     - jupyter
