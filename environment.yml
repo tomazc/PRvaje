@@ -22,5 +22,4 @@ dependencies:
     - jupyter_latex_envs
     - beautifulsoup4
     - dtw-python
-    - GPy
     - RISE
