@@ -1,9 +1,9 @@
-jupyter contrib nbextension install --user
-jupyter nbextensions_configurator enable --user
+#jupyter contrib nbextension install --user
+#jupyter nbextensions_configurator enable --user
 
-jupyter nbextension install --py latex_envs
-jupyter nbextension enable --py latex_envs
+#jupyter nbextension install --py latex_envs
+#jupyter nbextension enable --py latex_envs
 
-jupyter nbextension install https://rawgit.com/jfbercher/jupyter_nbTranslate/master/nbTranslate.zip --user
-jupyter nbextension enable nbTranslate/main
+#jupyter nbextension install https://rawgit.com/jfbercher/jupyter_nbTranslate/master/nbTranslate.zip --user
+#jupyter nbextension enable nbTranslate/main
 
