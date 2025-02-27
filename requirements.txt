@@ -1,4 +1,6 @@
 notebook==6.*
+jupyter-server==1.*
+jupyterlab==3.*
 numpy
 scipy
 Pillow
