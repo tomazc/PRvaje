@@ -1,6 +1,6 @@
 name: Split notebooks by language
 on: 
-    pull_request:
+    pull_request_target:
         paths:
         - 'notebooks/src/**.ipynb'
         types:
