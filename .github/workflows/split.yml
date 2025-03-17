@@ -21,6 +21,7 @@ jobs:
           run: |
             git rm -r ../notebooks/en
             git rm -r ../notebooks/sl
+          continue-on-error: true
         - name: Install jupyter and run nbconvert
           run: |
             python -m pip install jupyter
