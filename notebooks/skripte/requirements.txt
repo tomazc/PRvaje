@@ -1,0 +1,15 @@
+jupyter
+pandas
+matplotlib
+scikit-learn
+mlxtend
+networkx
+
+#Huggingface
+transformers
+datasets
+evaluate
+torch
+torchvision
+
+streamlit
