@@ -1,6 +1,9 @@
 jupyter
 pandas
 matplotlib
+plotly
+seaborn
+altair
 scikit-learn
 mlxtend
 networkx
