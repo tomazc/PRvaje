@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - notebook=6.*
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
   - jupyter_latex_envs
