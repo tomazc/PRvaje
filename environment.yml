@@ -10,14 +10,14 @@ dependencies:
   - pip
   - numpy
   - cython
+  - Orange3
+  - Orange3-Associate
   - pip:
     - numpy
     - scipy
     - Pillow
     - matplotlib
     - scikit-learn
-    - Orange3
-    - Orange3-Associate
     - jupyter
     - jupyter_contrib_nbextensions
     - jupyter_latex_envs
