@@ -1,6 +1,7 @@
 name: prvaje
 channels:
   - conda-forge
+  - orange3
 dependencies:
   - python=3.13
   - notebook=6.*
